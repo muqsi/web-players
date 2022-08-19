@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>HTML PLAYER INTRO</title>
+</head>
+<body>
+  
+<video width="80%" controls>
+  <source src="./video.mp4" type="video/mp4">
+</video>
+<button onclick="onPlayClick()" >Play</button> 
+<button onclick="onPauseClick()">Pause</button> 
+<p id="time" ></p>
+
+<script>
+ const videoPlayer = document.querySelector('video');
+ const onPauseClick = () => {
+  videoPlayer.pause
+ }
+ const onPlayClick = () => {
+  videoPlayer.play()
+ }
+
+ videoPlayer.ontimeupdate = function(t) { 
+  console.log(videoPlayer.currentTime)
+  document.getElementById("time").innerHTML = Math.round(videoPlayer.currentTime);
+  };
+
+</script>
+
+</body>
+</html>
+
+
+<!-- https://viewbox-media.s3.amazonaws.com/media/video1.mp4 -->

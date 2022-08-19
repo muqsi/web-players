@@ -1,0 +1,54 @@
+<!DOCTYPE html> 
+<html> 
+<body> 
+
+<video width="300px" id="video">
+  <source src="https://viewbox-media.s3.amazonaws.com/media/video1.mp4" type="video/mp4">
+  Your browser does not support HTML video.
+</video>
+
+<button onclick="playbutton()" >Play</button>
+<button onclick="pausebutton()" >Pause</button>
+<button onclick="getTime()" >time</button>
+<p id="time" style="font-size: 60px;" >  <p>
+
+
+<script>
+  const player = document.getElementById('video')
+  console.log("Player", player)
+  
+ const playbutton = () => {
+  console.log("play button")
+  document.querySelector('video').play()
+ }
+
+ const pausebutton = () => {
+  console.log("pause button")
+  document.querySelector('video').pause()
+ }
+
+ const getTime = (x) => {
+  console.log("current time",  document.querySelector('video').currentTime)
+  document.getElementById('time').innerHTML =  Math.round(document.querySelector('video').currentTime)
+ }
+
+ 
+ const playEvent = () => {
+  console.log("I am started playing...")
+ }
+ const pauseEvent = () => {
+  console.log("I am pauseing...........")
+ }
+ const timeupdateEvent = () => {
+  getTime();
+  console.log("I am updating time...........", )
+ }
+
+ player.addEventListener('play',  () => { console.log("hi am playing") } )
+ player.addEventListener('pause', pauseEvent)
+ player.addEventListener('timeupdate', timeupdateEvent)
+
+</script>
+
+</body> 
+</html>
