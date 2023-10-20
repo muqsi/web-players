@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MPD xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:mpeg:dash:schema:mpd:2011" xsi:schemaLocation="urn:mpeg:dash:schema:mpd:2011 http://standards.iso.org/ittf/PubliclyAvailableStandards/MPEG-DASH_schema_files/DASH-MPD.xsd" xmlns:cenc="urn:mpeg:cenc:2013" xmlns:mspr="urn:microsoft:playready" xmlns:mas="urn:marlin:mas:1-0:services:schemas:mpd" type="static" mediaPresentationDuration="PT1H50M2.942404S" minBufferTime="PT10S" profiles="urn:mpeg:dash:profile:isoff-on-demand:2011">
+  <Period duration="PT1H50M2.942404S">
+    <AdaptationSet id="1" group="1" contentType="audio" lang="fr" segmentAlignment="true" subsegmentAlignment="true" subsegmentStartsWithSAP="1" audioSamplingRate="44100" mimeType="audio/mp4" codecs="mp4a.40.2" startWithSAP="1">
+      <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2">
+      </AudioChannelConfiguration>
+      <!-- Common Encryption -->
+      <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" cenc:default_KID="D6FF6AFF-24D4-5B3C-B102-2C6AD7F6D321">
+      </ContentProtection>
+      <!-- PlayReady -->
+      <ContentProtection schemeIdUri="urn:uuid:9A04F079-9840-4286-AB92-E65BE0885F95" value="MSPR 2.0">
+        <cenc:pssh>AAAC5nBzc2gAAAAAmgTweZhAQoarkuZb4IhflQAAAsbGAgAAAQABALwCPABXAFIATQBIAEUAQQBEAEUAUgAgAHgAbQBsAG4AcwA9ACIAaAB0AHQAcAA6AC8ALwBzAGMAaABlAG0AYQBzAC4AbQBpAGMAcgBvAHMAbwBmAHQALgBjAG8AbQAvAEQAUgBNAC8AMgAwADAANwAvADAAMwAvAFAAbABhAHkAUgBlAGEAZAB5AEgAZQBhAGQAZQByACIAIAB2AGUAcgBzAGkAbwBuAD0AIgA0AC4AMAAuADAALgAwACIAPgA8AEQAQQBUAEEAPgA8AFAAUgBPAFQARQBDAFQASQBOAEYATwA+ADwASwBFAFkATABFAE4APgAxADYAPAAvAEsARQBZAEwARQBOAD4APABBAEwARwBJAEQAPgBBAEUAUwBDAFQAUgA8AC8AQQBMAEcASQBEAD4APAAvAFAAUgBPAFQARQBDAFQASQBOAEYATwA+ADwASwBJAEQAPgAvADIAcgAvADEAdABRAGsAUABGAHUAeABBAGkAeABxADEALwBiAFQASQBRAD0APQA8AC8ASwBJAEQAPgA8AEMASABFAEMASwBTAFUATQA+AGYAeQBsADEAWABFAGMAVABCAGEAawA9ADwALwBDAEgARQBDAEsAUwBVAE0APgA8AEwAQQBfAFUAUgBMAD4AaAB0AHQAcABzADoALwAvAHAAbABhAHkAcgBlAGEAZAB5AC4AZQBuAHQAaQB0AGwAZQBtAGUAbgB0AC4AbgBlAHgAdAAuAHQAaABlAHAAbABhAHQAZgBvAHIAbQAuAGMAbwBtAC8AcABsAGEAeQByAGUAYQBkAHkALwByAGkAZwBoAHQAcwBtAGEAbgBhAGcAZQByAC4AYQBzAG0AeAA8AC8ATABBAF8AVQBSAEwAPgA8AC8ARABBAFQAQQA+ADwALwBXAFIATQBIAEUAQQBEAEUAUgA+AA==</cenc:pssh>
+        <mspr:IsEncrypted>1</mspr:IsEncrypted>
+        <mspr:IV_Size>8</mspr:IV_Size>
+        <mspr:kid>/2r/1tQkPFuxAixq1/bTIQ==</mspr:kid>
+        <mspr:pro>xgIAAAEAAQC8AjwAVwBSAE0ASABFAEEARABFAFIAIAB4AG0AbABuAHMAPQAiAGgAdAB0AHAAOgAvAC8AcwBjAGgAZQBtAGEAcwAuAG0AaQBjAHIAbwBzAG8AZgB0AC4AYwBvAG0ALwBEAFIATQAvADIAMAAwADcALwAwADMALwBQAGwAYQB5AFIAZQBhAGQAeQBIAGUAYQBkAGUAcgAiACAAdgBlAHIAcwBpAG8AbgA9ACIANAAuADAALgAwAC4AMAAiAD4APABEAEEAVABBAD4APABQAFIATwBUAEUAQwBUAEkATgBGAE8APgA8AEsARQBZAEwARQBOAD4AMQA2ADwALwBLAEUAWQBMAEUATgA+ADwAQQBMAEcASQBEAD4AQQBFAFMAQwBUAFIAPAAvAEEATABHAEkARAA+ADwALwBQAFIATwBUAEUAQwBUAEkATgBGAE8APgA8AEsASQBEAD4ALwAyAHIALwAxAHQAUQBrAFAARgB1AHgAQQBpAHgAcQAxAC8AYgBUAEkAUQA9AD0APAAvAEsASQBEAD4APABDAEgARQBDAEsAUwBVAE0APgBmAHkAbAAxAFgARQBjAFQAQgBhAGsAPQA8AC8AQwBIAEUAQwBLAFMAVQBNAD4APABMAEEAXwBVAFIATAA+AGgAdAB0AHAAcwA6AC8ALwBwAGwAYQB5AHIAZQBhAGQAeQAuAGUAbgB0AGkAdABsAGUAbQBlAG4AdAAuAG4AZQB4AHQALgB0AGgAZQBwAGwAYQB0AGYAbwByAG0ALgBjAG8AbQAvAHAAbABhAHkAcgBlAGEAZAB5AC8AcgBpAGcAaAB0AHMAbQBhAG4AYQBnAGUAcgAuAGEAcwBtAHgAPAAvAEwAQQBfAFUAUgBMAD4APAAvAEQAQQBUAEEAPgA8AC8AVwBSAE0ASABFAEEARABFAFIAPgA=</mspr:pro>
+      </ContentProtection>
+      <!-- Widevine -->
+      <ContentProtection schemeIdUri="urn:uuid:EDEF8BA9-79D6-4ACE-A3C8-27DCD51D21ED">
+        <cenc:pssh>AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgiEJuryPN3QO1InI3YgfK2h3RI49yVmwY=</cenc:pssh>
+      </ContentProtection>
+      <!-- Marlin -->
+      <ContentProtection schemeIdUri="urn:uuid:5E629AF5-38DA-4063-8977-97FFBD9902D4">
+        <mas:MarlinContentIds>
+          <mas:MarlinContentId>urn:marlin:kid:d6ff6aff24d45b3cb1022c6ad7f6d321</mas:MarlinContentId>
+        </mas:MarlinContentIds>
+      </ContentProtection>
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main" />
+      <Representation id="audio_fra=128000" bandwidth="128000">
+        <BaseURL>vsda_21_jump_street_hd_vf_89497669818_vtt_und_7_0_2_b58e56d0b31b4ceb84fbaa0fd416ad82_.mp4</BaseURL>
+        <SegmentBase timescale="44100" indexRangeExact="true" indexRange="1579-41234">
+          <Initialization range="0-1578" />
+        </SegmentBase>
+      </Representation>
+    </AdaptationSet>
+    <AdaptationSet id="2" group="3" contentType="text" lang="un" mimeType="text/vtt" startWithSAP="1">
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main" />
+      <Representation id="textstream_un=0" bandwidth="0">
+        <BaseURL>vsda_21_jump_street_hd_vf_89497669818_vtt_und_7_d68f5b265cda42f498b4d09e3b560874_.vtt</BaseURL>
+      </Representation>
+    </AdaptationSet>
+    <AdaptationSet id="3" group="2" contentType="video" par="16:9" minBandwidth="299922" maxBandwidth="3509420" maxWidth="1280" maxHeight="720" segmentAlignment="true" subsegmentAlignment="true" subsegmentStartsWithSAP="1" sar="1:1" frameRate="30000/1001" mimeType="video/mp4" startWithSAP="1">
+      <!-- Common Encryption -->
+      <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" cenc:default_KID="D6FF6AFF-24D4-5B3C-B102-2C6AD7F6D321">
+      </ContentProtection>
+      <!-- PlayReady -->
+      <ContentProtection schemeIdUri="urn:uuid:9A04F079-9840-4286-AB92-E65BE0885F95" value="MSPR 2.0">
+        <cenc:pssh>AAAC5nBzc2gAAAAAmgTweZhAQoarkuZb4IhflQAAAsbGAgAAAQABALwCPABXAFIATQBIAEUAQQBEAEUAUgAgAHgAbQBsAG4AcwA9ACIAaAB0AHQAcAA6AC8ALwBzAGMAaABlAG0AYQBzAC4AbQBpAGMAcgBvAHMAbwBmAHQALgBjAG8AbQAvAEQAUgBNAC8AMgAwADAANwAvADAAMwAvAFAAbABhAHkAUgBlAGEAZAB5AEgAZQBhAGQAZQByACIAIAB2AGUAcgBzAGkAbwBuAD0AIgA0AC4AMAAuADAALgAwACIAPgA8AEQAQQBUAEEAPgA8AFAAUgBPAFQARQBDAFQASQBOAEYATwA+ADwASwBFAFkATABFAE4APgAxADYAPAAvAEsARQBZAEwARQBOAD4APABBAEwARwBJAEQAPgBBAEUAUwBDAFQAUgA8AC8AQQBMAEcASQBEAD4APAAvAFAAUgBPAFQARQBDAFQASQBOAEYATwA+ADwASwBJAEQAPgAvADIAcgAvADEAdABRAGsAUABGAHUAeABBAGkAeABxADEALwBiAFQASQBRAD0APQA8AC8ASwBJAEQAPgA8AEMASABFAEMASwBTAFUATQA+AGYAeQBsADEAWABFAGMAVABCAGEAawA9ADwALwBDAEgARQBDAEsAUwBVAE0APgA8AEwAQQBfAFUAUgBMAD4AaAB0AHQAcABzADoALwAvAHAAbABhAHkAcgBlAGEAZAB5AC4AZQBuAHQAaQB0AGwAZQBtAGUAbgB0AC4AbgBlAHgAdAAuAHQAaABlAHAAbABhAHQAZgBvAHIAbQAuAGMAbwBtAC8AcABsAGEAeQByAGUAYQBkAHkALwByAGkAZwBoAHQAcwBtAGEAbgBhAGcAZQByAC4AYQBzAG0AeAA8AC8ATABBAF8AVQBSAEwAPgA8AC8ARABBAFQAQQA+ADwALwBXAFIATQBIAEUAQQBEAEUAUgA+AA==</cenc:pssh>
+        <mspr:IsEncrypted>1</mspr:IsEncrypted>
+        <mspr:IV_Size>8</mspr:IV_Size>
+        <mspr:kid>/2r/1tQkPFuxAixq1/bTIQ==</mspr:kid>
+        <mspr:pro>xgIAAAEAAQC8AjwAVwBSAE0ASABFAEEARABFAFIAIAB4AG0AbABuAHMAPQAiAGgAdAB0AHAAOgAvAC8AcwBjAGgAZQBtAGEAcwAuAG0AaQBjAHIAbwBzAG8AZgB0AC4AYwBvAG0ALwBEAFIATQAvADIAMAAwADcALwAwADMALwBQAGwAYQB5AFIAZQBhAGQAeQBIAGUAYQBkAGUAcgAiACAAdgBlAHIAcwBpAG8AbgA9ACIANAAuADAALgAwAC4AMAAiAD4APABEAEEAVABBAD4APABQAFIATwBUAEUAQwBUAEkATgBGAE8APgA8AEsARQBZAEwARQBOAD4AMQA2ADwALwBLAEUAWQBMAEUATgA+ADwAQQBMAEcASQBEAD4AQQBFAFMAQwBUAFIAPAAvAEEATABHAEkARAA+ADwALwBQAFIATwBUAEUAQwBUAEkATgBGAE8APgA8AEsASQBEAD4ALwAyAHIALwAxAHQAUQBrAFAARgB1AHgAQQBpAHgAcQAxAC8AYgBUAEkAUQA9AD0APAAvAEsASQBEAD4APABDAEgARQBDAEsAUwBVAE0APgBmAHkAbAAxAFgARQBjAFQAQgBhAGsAPQA8AC8AQwBIAEUAQwBLAFMAVQBNAD4APABMAEEAXwBVAFIATAA+AGgAdAB0AHAAcwA6AC8ALwBwAGwAYQB5AHIAZQBhAGQAeQAuAGUAbgB0AGkAdABsAGUAbQBlAG4AdAAuAG4AZQB4AHQALgB0AGgAZQBwAGwAYQB0AGYAbwByAG0ALgBjAG8AbQAvAHAAbABhAHkAcgBlAGEAZAB5AC8AcgBpAGcAaAB0AHMAbQBhAG4AYQBnAGUAcgAuAGEAcwBtAHgAPAAvAEwAQQBfAFUAUgBMAD4APAAvAEQAQQBUAEEAPgA8AC8AVwBSAE0ASABFAEEARABFAFIAPgA=</mspr:pro>
+      </ContentProtection>
+      <!-- Widevine -->
+      <ContentProtection schemeIdUri="urn:uuid:EDEF8BA9-79D6-4ACE-A3C8-27DCD51D21ED">
+        <cenc:pssh>AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgiEJuryPN3QO1InI3YgfK2h3RI49yVmwY=</cenc:pssh>
+      </ContentProtection>
+      <!-- Marlin -->
+      <ContentProtection schemeIdUri="urn:uuid:5E629AF5-38DA-4063-8977-97FFBD9902D4">
+        <mas:MarlinContentIds>
+          <mas:MarlinContentId>urn:marlin:kid:d6ff6aff24d45b3cb1022c6ad7f6d321</mas:MarlinContentId>
+        </mas:MarlinContentIds>
+      </ContentProtection>
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main" />
+      <Representation id="video=299922" bandwidth="299922" width="320" height="180" codecs="avc1.42C01E" scanType="progressive">
+        <BaseURL>vsda_21_jump_street_hd_vf_89497669818_vtt_und_7_5_1_87668e6252ac4aa28d95f6e834032583_.mp4</BaseURL>
+        <SegmentBase timescale="30000" indexRangeExact="true" indexRange="1627-41246">
+          <Initialization range="0-1626" />
+        </SegmentBase>
+      </Representation>
+      <Representation id="video=499892" bandwidth="499892" width="512" height="288" codecs="avc1.42C01E" scanType="progressive">
+        <BaseURL>vsda_21_jump_street_hd_vf_89497669818_vtt_und_7_4_1_a514d5d3b1da42c7881d5e397afb5cd1_.mp4</BaseURL>
+        <SegmentBase timescale="30000" indexRangeExact="true" indexRange="1626-41245">
+          <Initialization range="0-1625" />
+        </SegmentBase>
+      </Representation>
+      <Representation id="video=749838" bandwidth="749838" width="640" height="360" codecs="avc1.42C01E" scanType="progressive">
+        <BaseURL>vsda_21_jump_street_hd_vf_89497669818_vtt_und_7_3_1_3b97bc3948a54d7ab96f9bcb1f0e5c22_.mp4</BaseURL>
+        <SegmentBase timescale="30000" indexRangeExact="true" indexRange="1628-41247">
+          <Initialization range="0-1627" />
+        </SegmentBase>
+      </Representation>
+      <Representation id="video=1199818" bandwidth="1199818" width="768" height="432" codecs="avc1.42C01F" scanType="progressive">
+        <BaseURL>vsda_21_jump_street_hd_vf_89497669818_vtt_und_7_2_1_39d2dbdeaaa2452aa1768bbd74e6dbd3_.mp4</BaseURL>
+        <SegmentBase timescale="30000" indexRangeExact="true" indexRange="1627-41246">
+          <Initialization range="0-1626" />
+        </SegmentBase>
+      </Representation>
+      <Representation id="video=1994641" bandwidth="1994641" width="1280" height="720" codecs="avc1.4D401F" scanType="progressive">
+        <BaseURL>vsda_21_jump_street_hd_vf_89497669818_vtt_und_7_1_1_dd32aa41785c4ed2baba7c0f34ede896_.mp4</BaseURL>
+        <SegmentBase timescale="30000" indexRangeExact="true" indexRange="1629-41248">
+          <Initialization range="0-1628" />
+        </SegmentBase>
+      </Representation>
+      <Representation id="video=3509420" bandwidth="3509420" width="1280" height="720" codecs="avc1.4D401F" scanType="progressive">
+        <BaseURL>vsda_21_jump_street_hd_vf_89497669818_vtt_und_7_0_1_139db583ff924e17a38f0bd2a5a9a523_.mp4</BaseURL>
+        <SegmentBase timescale="30000" indexRangeExact="true" indexRange="1629-41248">
+          <Initialization range="0-1628" />
+        </SegmentBase>
+      </Representation>
+    </AdaptationSet>
+  </Period>
+</MPD>
+<!-- Created with Unified Streaming Platform(version=1.8.4) -->

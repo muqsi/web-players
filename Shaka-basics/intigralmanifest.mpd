@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created with Broadpeak BkS350 Origin Packager  (version=1.11.2-24244) -->
+<MPD xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:mpeg:dash:schema:mpd:2011" xmlns:cenc="urn:mpeg:cenc:2013" xsi:schemaLocation="urn:mpeg:dash:schema:mpd:2011 http://standards.iso.org/ittf/PubliclyAvailableStandards/MPEG-DASH_schema_files/DASH-MPD.xsd" type="static" mediaPresentationDuration="PT1H13M8.040S" maxSegmentDuration="PT5S" minBufferTime="PT12S" profiles="urn:mpeg:dash:profile:isoff-live:2011">
+  <Period id="1" duration="PT1H13M8.040S">
+    <BaseURL>dash/</BaseURL>
+    <AdaptationSet id="1" group="1" contentType="audio" lang="en" segmentAlignment="true" audioSamplingRate="48000" mimeType="audio/mp4" codecs="mp4a.40.2" startWithSAP="1">
+      <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2"/>
+      <!-- Common Encryption -->
+      <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" cenc:default_KID="EDB6A4A7-92E6-4356-8621-CEE31368F55F">
+      </ContentProtection>
+      <!-- PlayReady -->
+      <ContentProtection schemeIdUri="urn:uuid:9A04F079-9840-4286-AB92-E65BE0885F95" value="MSPR 2.0">
+      </ContentProtection>
+      <!-- Widevine -->
+      <ContentProtection schemeIdUri="urn:uuid:EDEF8BA9-79D6-4ACE-A3C8-27DCD51D21ED">
+      </ContentProtection>
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main"/>
+      <SegmentTemplate timescale="48000" duration="192000" endNumber="1097" initialization="M0020130-$RepresentationID$.dash" media="M0020130-$RepresentationID$-$Number$.m4s">
+      </SegmentTemplate>
+      <Representation id="audio_eng=96000" bandwidth="96000">
+      </Representation>
+    </AdaptationSet>
+    <AdaptationSet id="2" group="3" contentType="text" lang="ar" mimeType="application/mp4" codecs="stpp" startWithSAP="1">
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="subtitle"/>
+      <SegmentTemplate timescale="1000" duration="4000" endNumber="1075" initialization="M0020130-$RepresentationID$.dash" media="M0020130-$RepresentationID$-$Number$.m4s">
+      </SegmentTemplate>
+      <Representation id="textstream_ara=1000" bandwidth="1000">
+      </Representation>
+    </AdaptationSet>
+    <AdaptationSet id="3" group="3" contentType="text" lang="en" mimeType="application/mp4" codecs="stpp" startWithSAP="1">
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="subtitle"/>
+      <SegmentTemplate timescale="1000" duration="4000" endNumber="1079" initialization="M0020130-$RepresentationID$.dash" media="M0020130-$RepresentationID$-$Number$.m4s">
+      </SegmentTemplate>
+      <Representation id="textstream_eng=1000" bandwidth="1000">
+      </Representation>
+    </AdaptationSet>
+    <AdaptationSet id="4" group="2" contentType="video" par="16:9" minBandwidth="380299" maxBandwidth="2998205" maxWidth="1280" maxHeight="720" segmentAlignment="true" sar="1:1" mimeType="video/mp4" startWithSAP="1">
+      <!-- Common Encryption -->
+      <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" cenc:default_KID="EDB6A4A7-92E6-4356-8621-CEE31368F55F">
+      </ContentProtection>
+      <!-- PlayReady -->
+      <ContentProtection schemeIdUri="urn:uuid:9A04F079-9840-4286-AB92-E65BE0885F95" value="MSPR 2.0">
+      </ContentProtection>
+      <!-- Widevine -->
+      <ContentProtection schemeIdUri="urn:uuid:EDEF8BA9-79D6-4ACE-A3C8-27DCD51D21ED">
+      </ContentProtection>
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main"/>
+      <SegmentTemplate timescale="12800" duration="51200" endNumber="1097" initialization="M0020130-$RepresentationID$.dash" media="M0020130-$RepresentationID$-$Number$.m4s">
+      </SegmentTemplate>
+      <Representation id="video=380299" bandwidth="380299" width="384" height="216" codecs="avc1.640014" scanType="progressive">
+      </Representation>
+      <Representation id="video=600209" bandwidth="600209" width="512" height="288" codecs="avc1.640015" scanType="progressive">
+      </Representation>
+      <Representation id="video=1299865" bandwidth="1299865" width="768" height="432" codecs="avc1.64001E" scanType="progressive">
+      </Representation>
+      <Representation id="video=1799483" bandwidth="1799483" width="960" height="540" codecs="avc1.64001F" scanType="progressive">
+      </Representation>
+      <Representation id="video=2998205" bandwidth="2998205" width="1280" height="720" codecs="avc1.64001F" scanType="progressive">
+      </Representation>
+    </AdaptationSet>
+  </Period>
+</MPD>
