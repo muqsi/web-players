@@ -1,0 +1,64 @@
+body{
+  background-color: black;
+  margin: 20px;
+  color: #d4d4d4;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+}
+
+.app-wrapper{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.header{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 94%;
+}
+
+input{
+  border: none;
+  width: 240px;
+  height: 30px;
+  background-color: #303030;
+  margin: 10px;
+  padding-left: 10px;
+  border-radius: 4px;
+  color: #d4d4d4;
+  border: 1px solid #303030;
+}
+
+input:focus {
+  border: 1px solid #ffe400;
+  outline: none 
+}
+img{
+  margin-bottom: 10px;
+}
+
+button {
+  border: none;
+  padding: 8px 20px;
+  background-color: #ffe400;
+  margin: 10px;
+  border-radius: 4px;
+  color: #303030;
+  cursor: pointer;
+}
+
+button:hover{
+  opacity: .7;
+}
+
+select{
+  padding: 8px 20px;
+  background-color: #ffe400;
+  margin: 10px;
+  border-radius: 4px;
+  color: #303030;
+  cursor: pointer;
+}
+

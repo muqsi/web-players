@@ -1,0 +1,1707 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:timeBase="media" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+  <head>
+    <metadata>
+      <ttm:title></ttm:title>
+    </metadata>
+    <styling>
+      <style xml:id="s0" tts:backgroundColor="black" tts:fontStyle="normal" tts:fontSize="16px" tts:fontFamily="sansSerif" tts:color="white" />
+    </styling>
+    <layout>
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="start" xml:id="topLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="start" xml:id="centerLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="start" xml:id="bottomLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="center" xml:id="topCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="center" xml:id="centerСenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="center" xml:id="bottomCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="end" xml:id="topRight" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="end" xml:id="centerRight" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="end" xml:id="bottomRight" />
+    </layout>
+  </head>
+  <body style="s0">
+    <div>
+      <p begin="-0.1s" xml:id="p0" end="0.234s" region="centerLeft">Title: Iron Ball EP03<br />story: TGPGTGX007054<br />lang: GBR<br />SOM: 10:00:00:00</p>
+      <p begin="0.0s" xml:id="p1" end="2.375s">It's a fierce battle to become</p>
+      <p begin="2.317s" xml:id="p2" end="3.192s">the national dodgeball team.</p>
+      <p begin="3.233s" xml:id="p3" end="5.442s">Iron Ball, Dodgeball Battle.</p>
+      <p begin="5.484s" xml:id="p4" end="6.9s">Us?</p>
+      <p begin="6.941s" xml:id="p5" end="8.484s">Is that even possible?</p>
+      <p begin="9.108s" xml:id="p6" end="10.108s">Ready.</p>
+      <p begin="10.15s" xml:id="p7" end="11.442s">"The Strongest Player Contest"</p>
+      <p begin="11.484s" xml:id="p8" end="12.484s">"The two teams that were chosen"</p>
+      <p begin="12.525s" xml:id="p9" end="14.025s">"Through fiery matches"</p>
+      <p begin="14.442s" xml:id="p10" end="17.692s">"Team Red is led by Kim Seung-min"</p>
+      <p begin="17.734s" xml:id="p11" end="19.4s">-Salute.<br />-Iron.</p>
+      <p begin="19.442s" xml:id="p12" end="20.983s">"Versus Team Blue led<br />by Jeong Hae-chul"</p>
+      <p begin="21.275s" xml:id="p13" end="24.857s">It's the Ten-person Elimination</p>
+      <p begin="24.9s" xml:id="p14" end="26.941s">that will produce<br />the first elimination.</p>
+      <p begin="26.983s" xml:id="p15" end="28.65s">"Ten-person Elimination"</p>
+      <p begin="28.692s" xml:id="p16" end="30.025s">Ten?</p>
+      <p begin="30.067s" xml:id="p17" end="34.9s">The losing team in round one<br />will eliminate three players.</p>
+      <p begin="35.192s" xml:id="p18" end="36.567s">The three players<br />from the losing team</p>
+      <p begin="36.609s" xml:id="p19" end="40.567s">will be selected after a discussion<br />between the managers and coaches.</p>
+      <p begin="40.817s" xml:id="p20" end="43.233s">All right,<br />we will now begin the first round.</p>
+      <p begin="44.776s" xml:id="p21" end="45.983s">Jump. Good.</p>
+      <p begin="46.025s" xml:id="p22" end="47.734s">-Come in.<br />-Nice.</p>
+      <p begin="47.776s" xml:id="p23" end="50.358s">"A dodgeball battle<br />with their survival on the line"</p>
+      <p begin="51.317s" xml:id="p24" end="52.317s">Okay.</p>
+      <p begin="53.4s" xml:id="p25" end="54.275s">"However"</p>
+      <p begin="54.525s" xml:id="p26" end="57.65s">"Due to lack of passing skills<br />and organizational skills"</p>
+      <p begin="59.692s" xml:id="p27" end="63.108s">Team Red lost in the first round<br />of the Ten-person Elimination"</p>
+      <p begin="63.192s" xml:id="p28" end="66.025s">The players eliminated<br />in the first round is</p>
+      <p begin="66.067s" xml:id="p29" end="69.734s">Jang Tae-pung, Jeong Seong-hoon,<br />and Jeong Jong-hyun.</p>
+      <p begin="69.776s" xml:id="p30" end="70.857s">"Players eliminated<br />in the first round"</p>
+      <p begin="70.9s" xml:id="p31" end="71.857s">"of the Ten-person Elimination"</p>
+      <p begin="71.858s" xml:id="p32" end="74.067s">"Jang Tae-pung,<br />Jeong Seong-hun, Jeong Jong-hyun"</p>
+      <p begin="74.317s" xml:id="p33" end="77.233s">"It's raining cats and dogs"</p>
+      <p begin="78.275s" xml:id="p34" end="81.65s">We will now begin round two<br />of the elimination.</p>
+      <p begin="81.857s" xml:id="p35" end="86.233s">The second round<br />will be a ten-on-ten match.</p>
+      <p begin="86.567s" xml:id="p36" end="90.067s">Since the players from Team Red<br />have been eliminated,</p>
+      <p begin="90.108s" xml:id="p37" end="92.776s">the number of members<br />has been reduced to ten.</p>
+      <p begin="92.9s" xml:id="p38" end="95.692s">As we will have a ten-on-ten match</p>
+      <p begin="95.817s" xml:id="p39" end="97.941s">to even out the number<br />of members from Team Blue</p>
+      <p begin="97.983s" xml:id="p40" end="101.858s">who won the first round,</p>
+      <p begin="102.025s" xml:id="p41" end="107.567s">three outstanding players<br />will sit out from the match.</p>
+      <p begin="108.15s" xml:id="p42" end="109.484s">Outstanding players?</p>
+      <p begin="109.941s" xml:id="p43" end="111.567s">It means we'll play fair.</p>
+      <p begin="112.858s" xml:id="p44" end="114.484s">I never expected that.</p>
+      <p begin="115.358s" xml:id="p45" end="116.9s">I will announce it now.</p>
+      <p begin="117.567s" xml:id="p46" end="121.776s">The first person<br />of the top three players is...</p>
+      <p begin="122.9s" xml:id="p47" end="124.525s">The first player is</p>
+      <p begin="125.484s" xml:id="p48" end="129.567s">"The first player is"</p>
+      <p begin="130.275s" xml:id="p49" end="131.567s">Oh Jong-hyuk.</p>
+      <p begin="132.358s" xml:id="p50" end="133.983s">Oh Jong-hyuk.</p>
+      <p begin="134.776s" xml:id="p51" end="137.442s">-Okay.<br />-Nice.</p>
+      <p begin="137.484s" xml:id="p52" end="139.275s">"Accuracy"</p>
+      <p begin="139.317s" xml:id="p53" end="143.317s">"Agility"</p>
+      <p begin="143.567s" xml:id="p54" end="145.192s">Look at the ball.</p>
+      <p begin="145.233s" xml:id="p55" end="146.358s">"A certified ace, Oh Jong-hyuk"</p>
+      <p begin="150.067s" xml:id="p56" end="152.9s">The second outstanding player<br />is Kim Geon.</p>
+      <p begin="152.941s" xml:id="p57" end="154.358s">-Kim Geon did well.<br />-Kim Geon.</p>
+      <p begin="155.233s" xml:id="p58" end="156.275s">"An active inside attacker,<br />Kim Geon"</p>
+      <p begin="156.317s" xml:id="p59" end="157.442s">Good.</p>
+      <p begin="158.275s" xml:id="p60" end="161.567s">"He has high-level explosiveness<br />and ball control"</p>
+      <p begin="162.067s" xml:id="p61" end="165.525s">He's outstanding as an attacker.</p>
+      <p begin="166.858s" xml:id="p62" end="168.692s">The third outstanding player is</p>
+      <p begin="170.4s" xml:id="p63" end="176.108s">"Who is the last<br />outstanding player?"</p>
+      <p begin="176.65s" xml:id="p64" end="177.65s">Song Bo-geun.</p>
+      <p begin="177.692s" xml:id="p65" end="178.983s">Song Bo-geun!</p>
+      <p begin="179.192s" xml:id="p66" end="180.983s">It's Song Bo-geun.</p>
+      <p begin="183.317s" xml:id="p67" end="185.317s">"There's no ball I can't avoid"</p>
+      <p begin="185.734s" xml:id="p68" end="188.734s">"Crazy reflexes"</p>
+      <p begin="188.983s" xml:id="p69" end="191.192s">-Bo-geun is good at dodging.<br />-Yes.</p>
+      <p begin="191.275s" xml:id="p70" end="194.317s">"Song Bo-geun, the agile body"</p>
+      <p begin="195.734s" xml:id="p71" end="198.067s">You've been chosen based<br />on your competitiveness.</p>
+      <p begin="198.65s" xml:id="p72" end="201.358s">The three of you<br />will not compete in round two.</p>
+      <p begin="201.4s" xml:id="p73" end="203.275s">Except for these three,</p>
+      <p begin="203.4s" xml:id="p74" end="204.983s">the ten players from Team Blue</p>
+      <p begin="205.025s" xml:id="p75" end="208.734s">and the ten remaining members<br />of Team Red</p>
+      <p begin="208.776s" xml:id="p76" end="211.067s">will compete against each other.</p>
+      <p begin="211.233s" xml:id="p77" end="213.192s">Players will be eliminated<br />in this round.</p>
+      <p begin="213.233s" xml:id="p78" end="214.817s">How will the match be played?</p>
+      <p begin="214.857s" xml:id="p79" end="216.692s">There will be<br />no winning or losing teams.</p>
+      <p begin="216.776s" xml:id="p80" end="218.9s">Three players will be eliminated.</p>
+      <p begin="219.442s" xml:id="p81" end="220.941s">"Individual skill<br />is an absolute factor in scoring"</p>
+      <p begin="220.983s" xml:id="p82" end="223.609s">Players from both teams<br />will be eliminated.</p>
+      <p begin="223.65s" xml:id="p83" end="225.108s">Then there's no point in winning.</p>
+      <p begin="225.65s" xml:id="p84" end="227.941s">The player eliminated<br />will depend on the match.</p>
+      <p begin="228.067s" xml:id="p85" end="231.525s">You can show your skills<br />however you want.</p>
+      <p begin="231.567s" xml:id="p86" end="233.275s">You just have to do your best.</p>
+      <p begin="233.692s" xml:id="p87" end="235.65s">"The players are in deep thought"</p>
+      <p begin="235.692s" xml:id="p88" end="240.317s">"Because of round two's elimination"</p>
+      <p begin="241.192s" xml:id="p89" end="244.857s">Since it's all up<br />to the head coach and coach,</p>
+      <p begin="244.858s" xml:id="p90" end="247.442s">we can only do our best.</p>
+      <p begin="248.525s" xml:id="p91" end="251.734s">They haven't seen my true worth yet.</p>
+      <p begin="251.983s" xml:id="p92" end="253.358s">So I'm gritting my teeth a bit.</p>
+      <p begin="254.4s" xml:id="p93" end="257.317s">The second round will determine<br />the three eliminated players.</p>
+      <p begin="257.358s" xml:id="p94" end="259.734s">Okay, both teams,<br />please take your positions.</p>
+      <p begin="259.983s" xml:id="p95" end="262.525s">"Prepare to attack"</p>
+      <p begin="262.567s" xml:id="p96" end="263.65s">-Come on!<br />-Come on!</p>
+      <p begin="265.108s" xml:id="p97" end="266.983s">Like I said, be confident.</p>
+      <p begin="267.025s" xml:id="p98" end="270.108s">Pass freely,<br />but be ready to coordinate.</p>
+      <p begin="270.15s" xml:id="p99" end="271.734s">That's how you can stop<br />Chung-won's passes.</p>
+      <p begin="271.776s" xml:id="p100" end="276.65s">We're at the beach.<br />Block it like a catcher.</p>
+      <p begin="276.692s" xml:id="p101" end="278.067s">Like this. A catcher's pose.</p>
+      <p begin="278.108s" xml:id="p102" end="279.857s">Winning or losing isn't important.</p>
+      <p begin="280.358s" xml:id="p103" end="281.858s">I think the quality<br />of the match is more important.</p>
+      <p begin="281.9s" xml:id="p104" end="284.358s">We just need to play well.</p>
+      <p begin="284.65s" xml:id="p105" end="287.4s">-Go! Fight!<br />-Woo!</p>
+      <p begin="288.442s" xml:id="p106" end="289.941s">Is Seung-min serving again?</p>
+      <p begin="289.983s" xml:id="p107" end="291.609s">Yes, Seung-min should go.</p>
+      <p begin="291.65s" xml:id="p108" end="292.776s">Don't force yourself.</p>
+      <p begin="293.233s" xml:id="p109" end="295.4s">Play just like earlier.</p>
+      <p begin="295.858s" xml:id="p110" end="297.525s">-Team Blue.<br />-Woo!</p>
+      <p begin="298.65s" xml:id="p111" end="299.65s">Go!</p>
+      <p begin="299.817s" xml:id="p112" end="301.192s">Show some spirit!</p>
+      <p begin="301.233s" xml:id="p113" end="302.858s">Dodgeball is all about spirit.</p>
+      <p begin="303.192s" xml:id="p114" end="305.734s">Both teams, please switch positions.</p>
+      <p begin="305.857s" xml:id="p115" end="309.817s">"Before the match,<br />both teams switch positions"</p>
+      <p begin="310.15s" xml:id="p116" end="313.567s">We can do it.</p>
+      <p begin="313.609s" xml:id="p117" end="315.15s">We played a lot of games.</p>
+      <p begin="315.358s" xml:id="p118" end="318.192s">It doesn't matter if we win or lose.<br />Just do our best.</p>
+      <p begin="318.233s" xml:id="p119" end="319.442s">We just have to do our best.</p>
+      <p begin="319.484s" xml:id="p120" end="321.941s">"Team Blue's high-speed outfielder,<br />Kim Seung-min"</p>
+      <p begin="323.776s" xml:id="p121" end="327.192s">No matter who wins,<br />three players will be eliminated.</p>
+      <p begin="327.233s" xml:id="p122" end="328.192s">Focus.</p>
+      <p begin="328.233s" xml:id="p123" end="331.857s">Stay calm.</p>
+      <p begin="332.442s" xml:id="p124" end="334.108s">We have to play well.</p>
+      <p begin="334.525s" xml:id="p125" end="339.983s">"Arena of clouds"</p>
+      <p begin="340.317s" xml:id="p126" end="341.817s">Okay, the game is about to start.</p>
+      <p begin="341.857s" xml:id="p127" end="344.025s">"Kim Sang-wook from Team Red"</p>
+      <p begin="344.067s" xml:id="p128" end="346.233s">"Lee Dong-gyu from Team Blue"</p>
+      <p begin="347.317s" xml:id="p129" end="348.858s">"Which team will attack first?"</p>
+      <p begin="349.275s" xml:id="p130" end="350.692s">"The ball is thrown"</p>
+      <p begin="352.233s" xml:id="p131" end="353.358s">-It's okay.<br />-Defend!</p>
+      <p begin="353.4s" xml:id="p132" end="354.857s">"Team Blue attacks quickly<br />as soon as they get the jump ball"</p>
+      <p begin="356.067s" xml:id="p133" end="359.817s">"Lee Ju-yong's powerful shot"</p>
+      <p begin="359.857s" xml:id="p134" end="361.025s">Defend.</p>
+      <p begin="362.817s" xml:id="p135" end="364.609s">That's it.</p>
+      <p begin="364.817s" xml:id="p136" end="366.4s">Ju-yong is doing well now.</p>
+      <p begin="367.15s" xml:id="p137" end="370.067s">"Lee Ju-yong is showing off<br />his offensive power from the start"</p>
+      <p begin="370.442s" xml:id="p138" end="373.025s">Offensive formation.</p>
+      <p begin="373.067s" xml:id="p139" end="374.983s">Hwang Chung-won<br />is now an outfielder.</p>
+      <p begin="376.776s" xml:id="p140" end="378.692s">"Park Do-hyeon passes"</p>
+      <p begin="380.567s" xml:id="p141" end="381.858s">"Team Red advances<br />with a low and fast pass"</p>
+      <p begin="381.9s" xml:id="p142" end="383.15s">Nice.</p>
+      <p begin="383.65s" xml:id="p143" end="387.858s">"He dodges it low"</p>
+      <p begin="387.9s" xml:id="p144" end="390.067s">"Lee Ju-yong ducks even lower"</p>
+      <p begin="390.609s" xml:id="p145" end="391.858s">"Lee Ju-yong, good boy"</p>
+      <p begin="392.776s" xml:id="p146" end="394.4s">"Rapid play tactic"</p>
+      <p begin="394.442s" xml:id="p147" end="395.609s">Nice.</p>
+      <p begin="395.734s" xml:id="p148" end="396.609s">"He missed"</p>
+      <p begin="396.65s" xml:id="p149" end="398.983s">Nice!</p>
+      <p begin="399.025s" xml:id="p150" end="399.9s">It's okay.</p>
+      <p begin="399.941s" xml:id="p151" end="401.609s">Chung-won often<br />makes mistakes like that.</p>
+      <p begin="401.65s" xml:id="p152" end="402.776s">Chung-won!</p>
+      <p begin="402.9s" xml:id="p153" end="406.317s">Block the ball from below<br />with your body.</p>
+      <p begin="406.358s" xml:id="p154" end="408.442s">"Sorry"</p>
+      <p begin="409.275s" xml:id="p155" end="411.525s">It's okay. Defence formation!</p>
+      <p begin="411.734s" xml:id="p156" end="413.776s">-Defence formation!<br />-Defence.</p>
+      <p begin="413.941s" xml:id="p157" end="416.567s">"Lee Dong-gyu attacks"</p>
+      <p begin="419.233s" xml:id="p158" end="420.108s">"The ball goes out of bounds"</p>
+      <p begin="420.15s" xml:id="p159" end="421.692s">Nice...</p>
+      <p begin="421.734s" xml:id="p160" end="423.9s">You have to be careful<br />when you attack here.</p>
+      <p begin="423.941s" xml:id="p161" end="425.025s">In the infield.</p>
+      <p begin="425.067s" xml:id="p162" end="429.025s">We can't do that. That won't work.</p>
+      <p begin="429.067s" xml:id="p163" end="430.275s">"Team Red attacks"</p>
+      <p begin="431.067s" xml:id="p164" end="432.442s">It's Hwang Chung-won again.</p>
+      <p begin="432.484s" xml:id="p165" end="434.525s">"Intercepts a long-range pass<br />from Team Red"</p>
+      <p begin="436.567s" xml:id="p166" end="438.4s">Nice catch by Gu Seong-hwi.</p>
+      <p begin="439.358s" xml:id="p167" end="443.776s">"Team Blue begins to counterattack"</p>
+      <p begin="445.15s" xml:id="p168" end="446.858s">"Lee Jin-bong tries to intercept"</p>
+      <p begin="448.108s" xml:id="p169" end="449.484s">Lee Jin-bong is very powerful.</p>
+      <p begin="449.525s" xml:id="p170" end="451.983s">Because he even tries<br />to catch a ball from the outside.</p>
+      <p begin="452.025s" xml:id="p171" end="453.484s">Others just avoid it.</p>
+      <p begin="453.817s" xml:id="p172" end="457.484s">"Team Blue's infield attack<br />fails again"</p>
+      <p begin="458.233s" xml:id="p173" end="460.4s">"Lee Min-gon's powerful shot"</p>
+      <p begin="460.442s" xml:id="p174" end="462.609s">"Goes out of bounds"</p>
+      <p begin="463.15s" xml:id="p175" end="465.857s">"Team Blue can't connect<br />to the offence"</p>
+      <p begin="466.275s" xml:id="p176" end="467.692s">-Stay calm.<br />-Stay calm. You're doing well.</p>
+      <p begin="467.734s" xml:id="p177" end="468.65s">Very good.</p>
+      <p begin="468.9s" xml:id="p178" end="470.275s">Let's eliminate one of them first.</p>
+      <p begin="470.857s" xml:id="p179" end="473.067s">Let's focus on eliminating<br />one of them first.</p>
+      <p begin="473.442s" xml:id="p180" end="474.776s">We can try.</p>
+      <p begin="475.442s" xml:id="p181" end="476.442s">-Catch the ball.<br />-Okay.</p>
+      <p begin="477.4s" xml:id="p182" end="479.525s">Hwang Chung-won's ball<br />is really fast.</p>
+      <p begin="481.15s" xml:id="p183" end="482.067s">"Team Red's stable passing tactic"</p>
+      <p begin="482.108s" xml:id="p184" end="483.484s">Catch the ball.</p>
+      <p begin="485.609s" xml:id="p185" end="486.65s">Come on, Lee Jin-bong.</p>
+      <p begin="486.692s" xml:id="p186" end="488.65s">"Bong-ki's fire shot"</p>
+      <p begin="489.9s" xml:id="p187" end="491.067s">"Hit!</p>
+      <p begin="491.692s" xml:id="p188" end="493.65s">"Replay"</p>
+      <p begin="493.692s" xml:id="p189" end="494.567s">"Kim Min-jun from Team Blue is out"</p>
+      <p begin="494.609s" xml:id="p190" end="497.233s">Kim Min-jun is out.</p>
+      <p begin="497.275s" xml:id="p191" end="498.609s">"Shakes his head"</p>
+      <p begin="501.525s" xml:id="p192" end="504.4s">"Team Red Hwang Chung-won's<br />strong attack continues"</p>
+      <p begin="505.609s" xml:id="p193" end="507.525s">"General Hwang's powerful shot"</p>
+      <p begin="507.65s" xml:id="p194" end="509.233s">Catch it!</p>
+      <p begin="509.275s" xml:id="p195" end="510.484s">"A powerful shot that even<br />his teammates can't handle"</p>
+      <p begin="510.525s" xml:id="p196" end="511.609s">Slowly.</p>
+      <p begin="512.275s" xml:id="p197" end="513.4s">Slowly.</p>
+      <p begin="513.442s" xml:id="p198" end="516.609s">"Hwang Chung-won, Choi Seong-hyeon"</p>
+      <p begin="516.65s" xml:id="p199" end="518.15s">-Nice.<br />-It rolled over.</p>
+      <p begin="518.192s" xml:id="p200" end="519.609s">"Miss"</p>
+      <p begin="519.65s" xml:id="p201" end="520.857s">Very good.</p>
+      <p begin="521.067s" xml:id="p202" end="522.025s">Very good.</p>
+      <p begin="522.192s" xml:id="p203" end="523.4s">Take your time.</p>
+      <p begin="524.15s" xml:id="p204" end="525.525s">Take your time.</p>
+      <p begin="526.65s" xml:id="p205" end="528.442s">What a shame.<br />He should have caught it.</p>
+      <p begin="529.484s" xml:id="p206" end="534.525s">"Lee Dong-gyu's impatient attack"</p>
+      <p begin="535.358s" xml:id="p207" end="539.067s">"causes Team Blue to lose<br />the right to attack"</p>
+      <p begin="539.567s" xml:id="p208" end="541.776s">I'm sorry. I was too impatient.</p>
+      <p begin="541.817s" xml:id="p209" end="543.776s">Dong-gyu, don't get too worked up.</p>
+      <p begin="543.857s" xml:id="p210" end="544.857s">Look at him.</p>
+      <p begin="545.858s" xml:id="p211" end="550.692s">"Team Red is on the attack again"</p>
+      <p begin="552.941s" xml:id="p212" end="554.275s">"Bong-ki's tornado shoot"</p>
+      <p begin="556.233s" xml:id="p213" end="558.025s">"Successful attack"</p>
+      <p begin="558.776s" xml:id="p214" end="560.317s">HID's Lee Min-gon is out.</p>
+      <p begin="561.275s" xml:id="p215" end="562.692s">"Team Blue attacks"</p>
+      <p begin="562.734s" xml:id="p216" end="563.734s">Blue.</p>
+      <p begin="563.9s" xml:id="p217" end="564.858s">Nice.</p>
+      <p begin="565.776s" xml:id="p218" end="567.484s">Be ready to receive<br />the ball at all times.</p>
+      <p begin="568.857s" xml:id="p219" end="569.983s">Be ready to receive<br />the ball at all times.</p>
+      <p begin="570.025s" xml:id="p220" end="573.442s">"Team Blue misses the ball"</p>
+      <p begin="574.442s" xml:id="p221" end="578.4s">"Bong-ki seizes the chance"</p>
+      <p begin="578.525s" xml:id="p222" end="579.857s">He caught it.</p>
+      <p begin="581.192s" xml:id="p223" end="582.525s">"Gu Seong-hwi catches the ball<br />and follows up with an attack"</p>
+      <p begin="582.567s" xml:id="p224" end="584.525s">-Nice.<br />-Nice, Gu Seong-hwi.</p>
+      <p begin="584.567s" xml:id="p225" end="587.317s">"Get hit, Bong-ki"</p>
+      <p begin="588.025s" xml:id="p226" end="589.734s">Be ready to receive<br />the ball at all times.</p>
+      <p begin="590.858s" xml:id="p227" end="591.776s">Yes!</p>
+      <p begin="591.817s" xml:id="p228" end="593.358s">Nice, Gu Seong-hwi.</p>
+      <p begin="593.65s" xml:id="p229" end="594.9s">Lee Jin-bong is out.</p>
+      <p begin="594.941s" xml:id="p230" end="596.4s">Lee Jin-bong<br />is overly aggressive again.</p>
+      <p begin="596.442s" xml:id="p231" end="598.65s">-In a situation like that...<br />-He should have dodged it quickly.</p>
+      <p begin="598.692s" xml:id="p232" end="600.776s">He didn't have<br />to catch it every time.</p>
+      <p begin="600.983s" xml:id="p233" end="603.15s">Line.</p>
+      <p begin="603.192s" xml:id="p234" end="605.857s">"Team Blue 7, Team Red 8"</p>
+      <p begin="605.858s" xml:id="p235" end="606.858s">Again.</p>
+      <p begin="607.317s" xml:id="p236" end="609.525s">Come out.</p>
+      <p begin="610.067s" xml:id="p237" end="611.317s">"Is it out of bounds?"</p>
+      <p begin="611.858s" xml:id="p238" end="613.857s">"Kim Jeong-woo saves the ball<br />with his quick movement"</p>
+      <p begin="613.858s" xml:id="p239" end="615.067s">Chung-won, get the ball.</p>
+      <p begin="616.15s" xml:id="p240" end="618.65s">"He shoots it softly"</p>
+      <p begin="620.9s" xml:id="p241" end="622.4s">"Lee Ju-yong from Team Blue is out"</p>
+      <p begin="623.108s" xml:id="p242" end="626.275s">"Kim Jeong-woo, who can play<br />both offence and defence"</p>
+      <p begin="626.857s" xml:id="p243" end="630.317s">"Team Red, who's on a roll,<br />is on the attack"</p>
+      <p begin="631.983s" xml:id="p244" end="633.275s">"Gu Seong-hwi from Team Blue is out"</p>
+      <p begin="633.317s" xml:id="p245" end="634.9s">That's too bad.<br />I should've caught that one.</p>
+      <p begin="635.108s" xml:id="p246" end="637.858s">"Team Blue 5, Team Red 8"</p>
+      <p begin="638.025s" xml:id="p247" end="639.65s">"Team Blue attacks"</p>
+      <p begin="639.692s" xml:id="p248" end="641.233s">Here.</p>
+      <p begin="641.442s" xml:id="p249" end="643.233s">"Team Blue's counterattack"</p>
+      <p begin="643.275s" xml:id="p250" end="644.692s">"Lee Dong-gyu, Lee Min-gon"</p>
+      <p begin="644.9s" xml:id="p251" end="648.192s">"They must hit someone this time!"</p>
+      <p begin="651.65s" xml:id="p252" end="654.15s">"Park Do-hyeon dodges<br />with an explosive force"</p>
+      <p begin="655.275s" xml:id="p253" end="656.192s">Nice.</p>
+      <p begin="656.857s" xml:id="p254" end="660.857s">"Kim Min-jun misses the ball<br />because of his slow reflexes"</p>
+      <p begin="664.233s" xml:id="p255" end="665.108s">"Team Red has<br />an overwhelming attack rate"</p>
+      <p begin="665.15s" xml:id="p256" end="667.067s">Take a breath. Let's go.</p>
+      <p begin="667.108s" xml:id="p257" end="668.358s">Fight!</p>
+      <p begin="668.4s" xml:id="p258" end="669.857s">Focus.</p>
+      <p begin="672.025s" xml:id="p259" end="673.233s">"Team Red's outfield pass"</p>
+      <p begin="673.275s" xml:id="p260" end="674.442s">Watch the line.</p>
+      <p begin="674.484s" xml:id="p261" end="675.857s">It's okay.</p>
+      <p begin="675.858s" xml:id="p262" end="679.442s">One more time...</p>
+      <p begin="680.317s" xml:id="p263" end="682.025s">Are you okay?</p>
+      <p begin="682.358s" xml:id="p264" end="684.4s">Let's finish it<br />in the outfield this time.</p>
+      <p begin="685.734s" xml:id="p265" end="686.65s">Let's finish it<br />in the outfield this time.</p>
+      <p begin="686.692s" xml:id="p266" end="687.817s">Let's finish it in one go.</p>
+      <p begin="687.857s" xml:id="p267" end="688.858s">"Intercepts the pass"</p>
+      <p begin="689.817s" xml:id="p268" end="691.025s">"Someone who knows<br />the attack pattern"</p>
+      <p begin="691.067s" xml:id="p269" end="692.4s">"Park Jun-woo intercepts"</p>
+      <p begin="693.817s" xml:id="p270" end="694.692s">"Then attacks"</p>
+      <p begin="694.734s" xml:id="p271" end="695.817s">Nice.</p>
+      <p begin="695.857s" xml:id="p272" end="697.609s">"Park Jun-woo and Kim Seung-min<br />succeed in combining tactics"</p>
+      <p begin="697.65s" xml:id="p273" end="698.857s">Nice.</p>
+      <p begin="699.65s" xml:id="p274" end="703.275s">Park Jun-woo did a good job.<br />That was a good point.</p>
+      <p begin="703.484s" xml:id="p275" end="706.025s">Intercept, pass, and attack.</p>
+      <p begin="706.983s" xml:id="p276" end="710.067s">Get ready.<br />Be ready to react right away.</p>
+      <p begin="710.4s" xml:id="p277" end="713.983s">"Team Blue 5, Team Red 7"</p>
+      <p begin="714.4s" xml:id="p278" end="715.4s">Throw it. Just throw it.</p>
+      <p begin="715.442s" xml:id="p279" end="716.317s">"Nervous"</p>
+      <p begin="716.609s" xml:id="p280" end="719.692s">"Team Blue attacks"</p>
+      <p begin="720.567s" xml:id="p281" end="722.4s">"Kim Jeong-woo jumps"</p>
+      <p begin="722.442s" xml:id="p282" end="723.65s">Good job.</p>
+      <p begin="724.858s" xml:id="p283" end="726.983s">"Kim Jeong-woo<br />shows off his agility"</p>
+      <p begin="727.025s" xml:id="p284" end="728.15s">Ours.</p>
+      <p begin="728.317s" xml:id="p285" end="729.484s">Here we go.</p>
+      <p begin="729.525s" xml:id="p286" end="731.025s">Finish it. Finish at once.</p>
+      <p begin="731.067s" xml:id="p287" end="732.067s">Block it. That's it.</p>
+      <p begin="732.108s" xml:id="p288" end="733.192s">Good.</p>
+      <p begin="733.567s" xml:id="p289" end="734.776s">Out.</p>
+      <p begin="737.857s" xml:id="p290" end="738.941s">Get the ball.</p>
+      <p begin="739.358s" xml:id="p291" end="740.358s">Nice.</p>
+      <p begin="740.4s" xml:id="p292" end="741.358s">Get the ball.</p>
+      <p begin="741.525s" xml:id="p293" end="742.4s">"A feint attack without looking"</p>
+      <p begin="742.442s" xml:id="p294" end="743.9s">Nice!</p>
+      <p begin="743.941s" xml:id="p295" end="744.983s">Good!</p>
+      <p begin="745.525s" xml:id="p296" end="746.525s">Get the ball.</p>
+      <p begin="746.567s" xml:id="p297" end="748.442s">"Park Gil-yeon attacks<br />while pretending to pass"</p>
+      <p begin="748.525s" xml:id="p298" end="751.734s">"Kim Jeong-woo is out"</p>
+      <p begin="751.857s" xml:id="p299" end="754.275s">"Team Blue 5, Team Red 6"</p>
+      <p begin="757.233s" xml:id="p300" end="758.4s">"Over here"</p>
+      <p begin="758.734s" xml:id="p301" end="760.025s">"Confirmed eye contact"</p>
+      <p begin="760.484s" xml:id="p302" end="763.442s">"Kim Jeong-woo, Choi Seong-hyeon"</p>
+      <p begin="763.484s" xml:id="p303" end="764.776s">Nice.</p>
+      <p begin="766.941s" xml:id="p304" end="769.108s">-Nice...<br />-Good.</p>
+      <p begin="769.15s" xml:id="p305" end="770.15s">"Kim Jeong-woo, Choi Seong-hyeon's<br />fantastic teamwork"</p>
+      <p begin="770.192s" xml:id="p306" end="771.525s">Nice, Jeong-woo.</p>
+      <p begin="772.941s" xml:id="p307" end="775.484s">"Lee Dong-gyu from Team Blue is out"</p>
+      <p begin="775.9s" xml:id="p308" end="776.817s">Let's go.</p>
+      <p begin="776.857s" xml:id="p309" end="779.025s">"Team Blue 4, Team Red 6"</p>
+      <p begin="779.067s" xml:id="p310" end="781.15s">Pass the ball.</p>
+      <p begin="785.233s" xml:id="p311" end="787.233s">"Oh Sang-young shoots"</p>
+      <p begin="788.941s" xml:id="p312" end="790.233s">Good.</p>
+      <p begin="790.275s" xml:id="p313" end="791.233s">"Jeong Hae-chul<br />from Team Red is out"</p>
+      <p begin="791.275s" xml:id="p314" end="792.9s">Good.</p>
+      <p begin="793.275s" xml:id="p315" end="795.525s">"Team Blue 4, Team Red 5"</p>
+      <p begin="795.858s" xml:id="p316" end="798.317s">"Team Blue is chasing Team Red"</p>
+      <p begin="798.484s" xml:id="p317" end="799.609s">Here.</p>
+      <p begin="801.192s" xml:id="p318" end="802.067s">Here.</p>
+      <p begin="802.108s" xml:id="p319" end="803.275s">"Outfield long-range pass"</p>
+      <p begin="803.317s" xml:id="p320" end="804.192s">Nice. Attack.</p>
+      <p begin="804.233s" xml:id="p321" end="805.692s">"Attacks right away"</p>
+      <p begin="806.025s" xml:id="p322" end="807.067s">Nice. Attack.</p>
+      <p begin="807.108s" xml:id="p323" end="808.484s">"Kang Jun from Team Red is out"</p>
+      <p begin="808.776s" xml:id="p324" end="810.442s">"Team Blue eliminates two in a row"</p>
+      <p begin="811.317s" xml:id="p325" end="814.108s">"Team Red's turn to attack again"</p>
+      <p begin="817.4s" xml:id="p326" end="818.275s">"Lee Yu Jeong from Team Blue is out"</p>
+      <p begin="818.317s" xml:id="p327" end="819.275s">It's a hit!</p>
+      <p begin="819.358s" xml:id="p328" end="822.609s">"Team Blue continues to fight back"</p>
+      <p begin="822.941s" xml:id="p329" end="825.65s">"Kim Sang-wook from Team Red is out"</p>
+      <p begin="825.734s" xml:id="p330" end="826.609s">"Team Blue 3, Team Red 3"</p>
+      <p begin="826.65s" xml:id="p331" end="827.857s">Okay, it's three to three.</p>
+      <p begin="831.817s" xml:id="p332" end="832.692s">"Team Blue's last three"</p>
+      <p begin="832.734s" xml:id="p333" end="834.525s">"Park Gil-yeon"</p>
+      <p begin="834.567s" xml:id="p334" end="837.4s">"Oh Sang-young"</p>
+      <p begin="837.442s" xml:id="p335" end="839.857s">"Park Jun-woo"</p>
+      <p begin="839.983s" xml:id="p336" end="840.858s">"Team Red's last three"</p>
+      <p begin="840.9s" xml:id="p337" end="842.192s">"Kang Cheong-myung"</p>
+      <p begin="842.233s" xml:id="p338" end="844.067s">"Choi Seong-hyeon, Park Do-hyeon"</p>
+      <p begin="844.108s" xml:id="p339" end="847.233s">The remaining ones<br />are pretty strong.</p>
+      <p begin="847.275s" xml:id="p340" end="849.317s">It's not easy.</p>
+      <p begin="849.358s" xml:id="p341" end="852.4s">"It's neck and neck,<br />it's anyone's game"</p>
+      <p begin="852.734s" xml:id="p342" end="855.484s">"Team Blue attacks"</p>
+      <p begin="855.567s" xml:id="p343" end="857.025s">Get ready to receive.</p>
+      <p begin="858.108s" xml:id="p344" end="858.983s">"Park Do-hyeon slips"</p>
+      <p begin="859.233s" xml:id="p345" end="860.734s">"It's a chance!"</p>
+      <p begin="862.442s" xml:id="p346" end="863.317s">Let's continue right away.</p>
+      <p begin="863.358s" xml:id="p347" end="864.983s">"Park Do-hyeon dodges"</p>
+      <p begin="865.192s" xml:id="p348" end="867.067s">"Oh Sang-young spikes"</p>
+      <p begin="868.317s" xml:id="p349" end="869.233s">Nice.</p>
+      <p begin="869.275s" xml:id="p350" end="871.858s">"Park Do-hyeon dodges again"</p>
+      <p begin="872.734s" xml:id="p351" end="875.025s">"Too bad"</p>
+      <p begin="875.567s" xml:id="p352" end="877.108s">"Exclaiming"</p>
+      <p begin="877.15s" xml:id="p353" end="879.025s">-Park Do-hyeon.<br />-He's quick.</p>
+      <p begin="879.067s" xml:id="p354" end="880.442s">Park Do-hyeon is agile.</p>
+      <p begin="880.484s" xml:id="p355" end="882.525s">That's because he trained his core.</p>
+      <p begin="882.858s" xml:id="p356" end="885.192s">"Replay"</p>
+      <p begin="887.776s" xml:id="p357" end="891.108s">"Park Do-hyeon,<br />the master of dodging"</p>
+      <p begin="891.858s" xml:id="p358" end="893.609s">They often hit it to the back.</p>
+      <p begin="894.025s" xml:id="p359" end="895.609s">-Seong-hyeon, hit it to the back.<br />-Okay.</p>
+      <p begin="895.65s" xml:id="p360" end="896.525s">-Take your time.<br />-Let's go.</p>
+      <p begin="896.567s" xml:id="p361" end="897.776s">Let's go.</p>
+      <p begin="898.067s" xml:id="p362" end="899.15s">Okay, straight pass.</p>
+      <p begin="899.734s" xml:id="p363" end="900.776s">Okay.</p>
+      <p begin="900.817s" xml:id="p364" end="901.692s">Okay, straight pass.</p>
+      <p begin="901.734s" xml:id="p365" end="902.609s">"Oh Sang-young intercepts"</p>
+      <p begin="902.65s" xml:id="p366" end="903.734s">Nice.</p>
+      <p begin="904.108s" xml:id="p367" end="905.275s">Oh Sang-young.</p>
+      <p begin="905.858s" xml:id="p368" end="907.857s">"Team Blue's turn to attack again"</p>
+      <p begin="908.65s" xml:id="p369" end="909.9s">Nice.</p>
+      <p begin="910.15s" xml:id="p370" end="911.817s">-Park Do-hyeon, nice catch.<br />-Park Do-hyeon!</p>
+      <p begin="911.857s" xml:id="p371" end="913.484s">He's showing his skills.</p>
+      <p begin="913.525s" xml:id="p372" end="915.692s">Park Do-hyeon, nice catch.</p>
+      <p begin="915.734s" xml:id="p373" end="917.567s">Be ready at all times.</p>
+      <p begin="919.192s" xml:id="p374" end="920.317s">Cheong-myung.</p>
+      <p begin="921.567s" xml:id="p375" end="924.941s">"After passing to the outfielder"</p>
+      <p begin="924.983s" xml:id="p376" end="926.025s">"Successful attack"</p>
+      <p begin="927.609s" xml:id="p377" end="929.358s">"Catches"</p>
+      <p begin="929.4s" xml:id="p378" end="931.567s">"A powerful shot"</p>
+      <p begin="932.067s" xml:id="p379" end="933.858s">Chung-won is doing well.</p>
+      <p begin="933.9s" xml:id="p380" end="935.817s">Hwang Chung-won is too strong.</p>
+      <p begin="935.857s" xml:id="p381" end="937.192s">He's the real deal.</p>
+      <p begin="937.442s" xml:id="p382" end="940.025s">Oh Sang-young is out.</p>
+      <p begin="940.067s" xml:id="p383" end="941.65s">Fight! Go! We did well!</p>
+      <p begin="941.692s" xml:id="p384" end="943.192s">-Good.<br />-We're doing well.</p>
+      <p begin="943.233s" xml:id="p385" end="946.65s">Seong-hyeon, good job!</p>
+      <p begin="946.692s" xml:id="p386" end="948.442s">Catch the ball.</p>
+      <p begin="949.484s" xml:id="p387" end="951.15s">Get ready to catch the ball.</p>
+      <p begin="951.817s" xml:id="p388" end="953.4s">Get ready to catch the ball.</p>
+      <p begin="956.317s" xml:id="p389" end="957.776s">-It's a hit.<br />-Good.</p>
+      <p begin="959.15s" xml:id="p390" end="960.9s">-It's a hit.<br />-Good.</p>
+      <p begin="961.025s" xml:id="p391" end="963.65s">"Kang Cheong-myung<br />from Team Red is out"</p>
+      <p begin="963.857s" xml:id="p392" end="965.317s">He could have caught that ball.</p>
+      <p begin="965.358s" xml:id="p393" end="967.983s">He should have tried<br />to catch it instead of dodging it.</p>
+      <p begin="968.484s" xml:id="p394" end="971.525s">"Team Blue 2, Team Red 2"</p>
+      <p begin="975.484s" xml:id="p395" end="978.567s">"Hwang Chung-won's attack"</p>
+      <p begin="978.609s" xml:id="p396" end="980.65s">Park Gil-yeon is out.</p>
+      <p begin="980.983s" xml:id="p397" end="982.484s">Okay, it's two to one now.</p>
+      <p begin="982.858s" xml:id="p398" end="984.776s">Gather around.</p>
+      <p begin="984.9s" xml:id="p399" end="986.358s">It's okay.</p>
+      <p begin="987.15s" xml:id="p400" end="989.15s">Ready...</p>
+      <p begin="989.192s" xml:id="p401" end="990.15s">"Super nervous"</p>
+      <p begin="990.192s" xml:id="p402" end="991.567s">It's a three-point chance.</p>
+      <p begin="991.609s" xml:id="p403" end="993.233s">"Park Jun-woo defends,<br />Team Red attacks"</p>
+      <p begin="994.317s" xml:id="p404" end="996.734s">"Park Jun-woo takes control<br />of the attack"</p>
+      <p begin="998.442s" xml:id="p405" end="999.857s">"Shoots right away"</p>
+      <p begin="1002.233s" xml:id="p406" end="1004.275s">It's a hit!</p>
+      <p begin="1006.15s" xml:id="p407" end="1008.692s">"Park Do-hyeon from Team Red is out"</p>
+      <p begin="1008.9s" xml:id="p408" end="1010.15s">Nice.</p>
+      <p begin="1011.067s" xml:id="p409" end="1012.442s">We're doing very well so far.</p>
+      <p begin="1012.941s" xml:id="p410" end="1014.4s">You don't know<br />when the ball will come at you.</p>
+      <p begin="1014.442s" xml:id="p411" end="1015.65s">So be ready at all times.</p>
+      <p begin="1015.858s" xml:id="p412" end="1017.067s">Okay?</p>
+      <p begin="1017.358s" xml:id="p413" end="1018.484s">Okay.</p>
+      <p begin="1019.442s" xml:id="p414" end="1022.067s">How will the match end?</p>
+      <p begin="1022.65s" xml:id="p415" end="1025.734s">"Park Jun-woo versus<br />Choi Seong-hyeon"</p>
+      <p begin="1025.9s" xml:id="p416" end="1030.567s">"Who will be<br />the last player standing?"</p>
+      <p begin="1030.692s" xml:id="p417" end="1031.983s">"Team Blue attacks"</p>
+      <p begin="1034.941s" xml:id="p418" end="1038.776s">"No wonder he's<br />the last player remaining"</p>
+      <p begin="1042.025s" xml:id="p419" end="1044.484s">"Lee Ju-yong missed<br />the golden opportunity"</p>
+      <p begin="1044.734s" xml:id="p420" end="1047.233s">He misses it because he<br />can't grasp the speed of the ball.</p>
+      <p begin="1047.692s" xml:id="p421" end="1048.567s">Get ready.</p>
+      <p begin="1048.609s" xml:id="p422" end="1050.025s">Be ready for the ball at all times.</p>
+      <p begin="1050.067s" xml:id="p423" end="1051.776s">-It's the last one.<br />-Go!</p>
+      <p begin="1051.817s" xml:id="p424" end="1054.983s">"He tries to use this attack<br />to attack Team Red"</p>
+      <p begin="1055.9s" xml:id="p425" end="1058.817s">"Team Red attacks"</p>
+      <p begin="1058.857s" xml:id="p426" end="1060.609s">-Attack!<br />-You must hit him.</p>
+      <p begin="1060.65s" xml:id="p427" end="1061.692s">"Kang Jun's attack"</p>
+      <p begin="1062.983s" xml:id="p428" end="1064.817s">"Must avoid it at all costs"</p>
+      <p begin="1067.233s" xml:id="p429" end="1068.776s">Attack!</p>
+      <p begin="1068.858s" xml:id="p430" end="1071.525s">"Kang Jun, Park Jun-woo"</p>
+      <p begin="1071.692s" xml:id="p431" end="1074.734s">"What will happen?"</p>
+      <p begin="1075.192s" xml:id="p432" end="1078.108s">"Will Park Jun-woo catch<br />the ball successfully?"</p>
+      <p begin="1078.233s" xml:id="p433" end="1079.442s">Attack!</p>
+      <p begin="1079.9s" xml:id="p434" end="1083.317s">"Park Jun-woo from Team Blue is out"</p>
+      <p begin="1086.067s" xml:id="p435" end="1089.567s">"Park Jun-woo<br />couldn't catch the ball"</p>
+      <p begin="1090.983s" xml:id="p436" end="1091.858s">"Choi Seong-hyeon,<br />the last man standing"</p>
+      <p begin="1091.9s" xml:id="p437" end="1093.734s">Very good.</p>
+      <p begin="1094.609s" xml:id="p438" end="1096.525s">Good job...</p>
+      <p begin="1096.817s" xml:id="p439" end="1099.317s">You played very calmly. Well done.</p>
+      <p begin="1099.4s" xml:id="p440" end="1100.983s">Your defence was good too.</p>
+      <p begin="1101.025s" xml:id="p441" end="1103.15s">You played much better<br />than in the first round.</p>
+      <p begin="1103.525s" xml:id="p442" end="1104.857s">You're stable.</p>
+      <p begin="1105.983s" xml:id="p443" end="1109.192s">"Team Red successfully avenges<br />the first round"</p>
+      <p begin="1110.609s" xml:id="p444" end="1113.817s">"Meanwhile, Team Blue"</p>
+      <p begin="1114.108s" xml:id="p445" end="1116.192s">-I'm sorry.<br />-It's okay.</p>
+      <p begin="1116.442s" xml:id="p446" end="1118.442s">I should've caught it better.</p>
+      <p begin="1119.358s" xml:id="p447" end="1123.692s">"Team Blue is sad to lose"</p>
+      <p begin="1124.4s" xml:id="p448" end="1125.275s">"The coaches are selecting<br />the eliminated players"</p>
+      <p begin="1125.317s" xml:id="p449" end="1127.317s">After watching the second round,</p>
+      <p begin="1127.4s" xml:id="p450" end="1129.567s">we can see how to evaluate those</p>
+      <p begin="1129.609s" xml:id="p451" end="1131.776s">-who are not eliminated.<br />-Yes.</p>
+      <p begin="1132.317s" xml:id="p452" end="1134.857s">Is he bad if he is out early?</p>
+      <p begin="1134.858s" xml:id="p453" end="1138.108s">It's also easier for those<br />in front to be eliminated.</p>
+      <p begin="1138.15s" xml:id="p454" end="1139.983s">If you hold out by hiding,</p>
+      <p begin="1140.025s" xml:id="p455" end="1142.233s">I don't think it's meaningful.</p>
+      <p begin="1142.275s" xml:id="p456" end="1144.567s">The other thing is<br />when the ball is thrown at you,</p>
+      <p begin="1144.609s" xml:id="p457" end="1146.567s">there are people who prepare for it.</p>
+      <p begin="1146.817s" xml:id="p458" end="1148.9s">The ball can be used<br />to your advantage or disadvantage.</p>
+      <p begin="1148.941s" xml:id="p459" end="1151.233s">Occasionally, players will miss<br />because they're not ready.</p>
+      <p begin="1151.275s" xml:id="p460" end="1153.983s">That's one<br />of the criteria for judging.</p>
+      <p begin="1154.025s" xml:id="p461" end="1155.734s">We can see that.</p>
+      <p begin="1156.358s" xml:id="p462" end="1158.484s">"The coaches are serious<br />about their final discussion"</p>
+      <p begin="1158.525s" xml:id="p463" end="1159.692s">This guy.</p>
+      <p begin="1159.857s" xml:id="p464" end="1160.941s">The second one...</p>
+      <p begin="1160.983s" xml:id="p465" end="1162.525s">Actually, it's these two.</p>
+      <p begin="1162.734s" xml:id="p466" end="1166.15s">He's more aggressive<br />than this player.</p>
+      <p begin="1166.358s" xml:id="p467" end="1169.734s">"Which three will be eliminated<br />after the coaches' evaluation?"</p>
+      <p begin="1170.857s" xml:id="p468" end="1176.9s">"The weather continues to worsen"</p>
+      <p begin="1178.734s" xml:id="p469" end="1183.067s">The results for round two of<br />the Ten-person Elimination are in.</p>
+      <p begin="1183.317s" xml:id="p470" end="1187.525s">Team Red won<br />by surviving to the end.</p>
+      <p begin="1187.567s" xml:id="p471" end="1188.9s">It was announced earlier</p>
+      <p begin="1188.983s" xml:id="p472" end="1193.067s">that winning didn't matter<br />in the second round.</p>
+      <p begin="1193.108s" xml:id="p473" end="1194.484s">We will now announce</p>
+      <p begin="1194.567s" xml:id="p474" end="1197.65s">the three eliminated players<br />from both teams.</p>
+      <p begin="1197.692s" xml:id="p475" end="1199.4s">Compared to round one,</p>
+      <p begin="1199.442s" xml:id="p476" end="1202.025s">there has been<br />a noticeable improvement</p>
+      <p begin="1202.067s" xml:id="p477" end="1206.108s">in your strategic moves<br />in offence and defence.</p>
+      <p begin="1206.15s" xml:id="p478" end="1209.567s">It's great that you're executing<br />your strategies boldly.</p>
+      <p begin="1213.734s" xml:id="p479" end="1215.692s">I will now announce</p>
+      <p begin="1215.734s" xml:id="p480" end="1218.817s">the three eliminated players<br />from round two</p>
+      <p begin="1218.857s" xml:id="p481" end="1221.941s">out of the 20 players.</p>
+      <p begin="1222.025s" xml:id="p482" end="1224.067s">"Who will be eliminated?"</p>
+      <p begin="1224.108s" xml:id="p483" end="1228.192s">Who will be eliminated?</p>
+      <p begin="1229.108s" xml:id="p484" end="1233.108s">We will now announce<br />the first eliminated player.</p>
+      <p begin="1233.734s" xml:id="p485" end="1235.358s">The first eliminated player is</p>
+      <p begin="1242.941s" xml:id="p486" end="1244.233s">Kim Min-jun.</p>
+      <p begin="1244.317s" xml:id="p487" end="1245.776s">Kim Min-jun.</p>
+      <p begin="1246.025s" xml:id="p488" end="1247.9s">It's Kim Min-jun.</p>
+      <p begin="1247.941s" xml:id="p489" end="1249.108s">"Kim Min-jun from Team Blue"</p>
+      <p begin="1249.15s" xml:id="p490" end="1253.025s">Kim Min-jun from Team Blue<br />is the first to be eliminated.</p>
+      <p begin="1254.4s" xml:id="p491" end="1255.567s">"Kim Min-jun is the first<br />to be eliminated"</p>
+      <p begin="1255.609s" xml:id="p492" end="1257.025s">Kim Min-jun is out.</p>
+      <p begin="1257.108s" xml:id="p493" end="1258.567s">"Shakes his head"</p>
+      <p begin="1259.692s" xml:id="p494" end="1263.317s">"He's defenceless<br />even in the outfield"</p>
+      <p begin="1264.776s" xml:id="p495" end="1266.15s">"Kim Min-jun often makes mistakes<br />during the match"</p>
+      <p begin="1266.858s" xml:id="p496" end="1269.525s">As expected, a player from<br />the losing team has been called out.</p>
+      <p begin="1269.567s" xml:id="p497" end="1273.692s">Kim Min-jun has been eliminated.</p>
+      <p begin="1274.65s" xml:id="p498" end="1278.858s">Who will be<br />the second eliminated player</p>
+      <p begin="1278.941s" xml:id="p499" end="1279.9s">between the two teams?</p>
+      <p begin="1279.941s" xml:id="p500" end="1280.858s">"Announcing the second elimination<br />of round two"</p>
+      <p begin="1285.525s" xml:id="p501" end="1287.192s">The second eliminated player is</p>
+      <p begin="1287.358s" xml:id="p502" end="1289.358s">"The second eliminated player is"</p>
+      <p begin="1289.442s" xml:id="p503" end="1291.858s">"Nervous"</p>
+      <p begin="1292.941s" xml:id="p504" end="1294.233s">Kang Cheong-myung.</p>
+      <p begin="1294.525s" xml:id="p505" end="1296.567s">Kang Cheong-myung.</p>
+      <p begin="1296.609s" xml:id="p506" end="1299.525s">"Kang Cheong-myung from Team Red"</p>
+      <p begin="1301.358s" xml:id="p507" end="1305.567s">"Out while dodging"</p>
+      <p begin="1305.692s" xml:id="p508" end="1308.692s">He should try<br />to catch it instead of dodging it.</p>
+      <p begin="1308.941s" xml:id="p509" end="1311.567s">The final eliminated player<br />for round two</p>
+      <p begin="1311.65s" xml:id="p510" end="1313.567s">following Kang Cheong-myung.</p>
+      <p begin="1313.9s" xml:id="p511" end="1317.65s">Will he be from Team Red<br />or Team Blue?</p>
+      <p begin="1318.567s" xml:id="p512" end="1320.65s">Please reveal the result.</p>
+      <p begin="1321.108s" xml:id="p513" end="1323.275s">The third eliminated player is...</p>
+      <p begin="1323.4s" xml:id="p514" end="1328.941s">"What will happen?"</p>
+      <p begin="1331.857s" xml:id="p515" end="1333.9s">Lee Yu-jeong.</p>
+      <p begin="1334.275s" xml:id="p516" end="1336.609s">Lee Yu-jeong</p>
+      <p begin="1337.525s" xml:id="p517" end="1338.983s">from Team Blue.</p>
+      <p begin="1340.484s" xml:id="p518" end="1342.776s">"He wasn't in his best condition<br />during the match"</p>
+      <p begin="1343.108s" xml:id="p519" end="1344.525s">-Be safe.<br />-Catch it.</p>
+      <p begin="1345.275s" xml:id="p520" end="1348.567s">He didn't catch the ball,<br />so he has no presence.</p>
+      <p begin="1348.857s" xml:id="p521" end="1351.484s">He's too cautious.</p>
+      <p begin="1353.941s" xml:id="p522" end="1358.734s">The three players<br />have been eliminated.</p>
+      <p begin="1359.275s" xml:id="p523" end="1362.484s">It was my first time<br />playing dodgeball.</p>
+      <p begin="1363.15s" xml:id="p524" end="1366.609s">It was harder than I thought.</p>
+      <p begin="1366.65s" xml:id="p525" end="1368.358s">It's a very difficult sport.</p>
+      <p begin="1368.4s" xml:id="p526" end="1369.941s">I'm glad I got to play it<br />with you all.</p>
+      <p begin="1371.025s" xml:id="p527" end="1373.692s">I hope the remaining members<br />will do well.</p>
+      <p begin="1373.734s" xml:id="p528" end="1376.233s">-Thank you.<br />-Good job.</p>
+      <p begin="1376.692s" xml:id="p529" end="1381.317s">It's a shame, but since<br />I received such an evaluation,</p>
+      <p begin="1381.776s" xml:id="p530" end="1385.857s">I'll accept it and go home<br />with no regrets.</p>
+      <p begin="1385.858s" xml:id="p531" end="1386.9s">Okay.</p>
+      <p begin="1386.941s" xml:id="p532" end="1390.358s">I haven't played<br />a lot of sports with balls.</p>
+      <p begin="1390.4s" xml:id="p533" end="1393.983s">I think this was a good opportunity<br />for me to learn about balls.</p>
+      <p begin="1395.275s" xml:id="p534" end="1397.817s">The three of you did a good job.</p>
+      <p begin="1397.857s" xml:id="p535" end="1401.776s">Let's give them a round of applause<br />and say goodbye.</p>
+      <p begin="1401.817s" xml:id="p536" end="1404.108s">"Says goodbye<br />to their sweaty teammates"</p>
+      <p begin="1404.15s" xml:id="p537" end="1407.067s">-Gosh.<br />-No, don't be sad.</p>
+      <p begin="1407.108s" xml:id="p538" end="1409.358s">-Don't be sad.<br />-You did a good job.</p>
+      <p begin="1410.442s" xml:id="p539" end="1412.067s">Don't get hurt. Be careful.</p>
+      <p begin="1412.108s" xml:id="p540" end="1413.275s">Don't get hurt.</p>
+      <p begin="1413.858s" xml:id="p541" end="1415.484s">Please make it to the national team.</p>
+      <p begin="1415.525s" xml:id="p542" end="1416.567s">You did well.</p>
+      <p begin="1416.776s" xml:id="p543" end="1417.857s">I really did my best.</p>
+      <p begin="1417.858s" xml:id="p544" end="1418.941s">-It's my capability.<br />-You practised for so long.</p>
+      <p begin="1418.983s" xml:id="p545" end="1420.484s">You're really ready now<br />that you've trained.</p>
+      <p begin="1420.525s" xml:id="p546" end="1421.983s">Yes, really.</p>
+      <p begin="1422.025s" xml:id="p547" end="1423.525s">You did well.</p>
+      <p begin="1424.192s" xml:id="p548" end="1425.65s">The three of you did a good job.</p>
+      <p begin="1426.857s" xml:id="p549" end="1429.4s">But honestly, we did our best.</p>
+      <p begin="1429.442s" xml:id="p550" end="1431.358s">We weren't good enough.</p>
+      <p begin="1431.4s" xml:id="p551" end="1433.025s">Anyway, that's how it is.</p>
+      <p begin="1433.067s" xml:id="p552" end="1435.275s">Regardless of what we wanted to do,</p>
+      <p begin="1435.317s" xml:id="p553" end="1438.317s">our goal was<br />to be on the national team.</p>
+      <p begin="1438.609s" xml:id="p554" end="1439.484s">We can't be vague.</p>
+      <p begin="1439.525s" xml:id="p555" end="1440.858s">We can't be vague.<br />We have to do well.</p>
+      <p begin="1440.9s" xml:id="p556" end="1443.317s">You have to be good to be chosen</p>
+      <p begin="1443.358s" xml:id="p557" end="1444.983s">since you have<br />to wear the Korean flag</p>
+      <p begin="1445.025s" xml:id="p558" end="1446.692s">and play against other countries.</p>
+      <p begin="1446.734s" xml:id="p559" end="1448.233s">So you have to do well.</p>
+      <p begin="1448.734s" xml:id="p560" end="1449.983s">You did a good job.</p>
+      <p begin="1450.025s" xml:id="p561" end="1451.525s">Wasn't it fun?</p>
+      <p begin="1451.567s" xml:id="p562" end="1455.857s">"The three eliminated players<br />put their regrets behind them"</p>
+      <p begin="1461.15s" xml:id="p563" end="1463.358s">Since three people were eliminated<br />in rounds one and two,</p>
+      <p begin="1463.442s" xml:id="p564" end="1465.192s">a total of six members<br />were eliminated.</p>
+      <p begin="1465.233s" xml:id="p565" end="1468.4s">There are now 20 players left.</p>
+      <p begin="1468.983s" xml:id="p566" end="1475.776s">"Nine people on Team Red survive,<br />eleven people on Team Blue survive"</p>
+      <p begin="1475.9s" xml:id="p567" end="1480.108s">Now, we will eliminate<br />four more players.</p>
+      <p begin="1480.858s" xml:id="p568" end="1482.567s">So in the third round,</p>
+      <p begin="1482.857s" xml:id="p569" end="1487.275s">it will be a match<br />to eliminate four players.</p>
+      <p begin="1490.233s" xml:id="p570" end="1493.025s">Now, the head coach and the coach</p>
+      <p begin="1493.358s" xml:id="p571" end="1498.525s">will announce the ten survivors.</p>
+      <p begin="1500.734s" xml:id="p572" end="1502.734s">The ten players who are called out</p>
+      <p begin="1503.442s" xml:id="p573" end="1506.858s">will be designated<br />as today's survivors.</p>
+      <p begin="1506.9s" xml:id="p574" end="1508.025s">"Today's designated survivors"</p>
+      <p begin="1508.067s" xml:id="p575" end="1509.317s">This is crazy.</p>
+      <p begin="1510.025s" xml:id="p576" end="1511.983s">We'll announce the ten survivors.</p>
+      <p begin="1512.484s" xml:id="p577" end="1514.567s">The three remaining players<br />from round one</p>
+      <p begin="1514.65s" xml:id="p578" end="1516.15s">will automatically advance.</p>
+      <p begin="1516.192s" xml:id="p579" end="1521.692s">So, Oh Jong-hyuk,<br />Song Bo-geun, and Kim Geon.</p>
+      <p begin="1521.817s" xml:id="p580" end="1525.817s">These three automatically advance.</p>
+      <p begin="1526.15s" xml:id="p581" end="1528.4s">We need to announce<br />the remaining seven survivors.</p>
+      <p begin="1528.442s" xml:id="p582" end="1531.233s">"There are seven spots left"</p>
+      <p begin="1536.067s" xml:id="p583" end="1539.317s">We will announce<br />the remaining seven survivors</p>
+      <p begin="1539.358s" xml:id="p584" end="1541.442s">apart from the three.</p>
+      <p begin="1541.692s" xml:id="p585" end="1543.15s">The fourth player to survive is</p>
+      <p begin="1549.525s" xml:id="p586" end="1550.817s">Park Jun-woo.</p>
+      <p begin="1550.857s" xml:id="p587" end="1554.233s">Park Jun-woo survives.</p>
+      <p begin="1556.067s" xml:id="p588" end="1558.857s">Next, the fifth survivor is</p>
+      <p begin="1561.358s" xml:id="p589" end="1562.609s">Choi Seong-hyeon.</p>
+      <p begin="1563.275s" xml:id="p590" end="1564.776s">Choi Seong-hyeon!</p>
+      <p begin="1565.525s" xml:id="p591" end="1566.9s">Kim Seung-min.</p>
+      <p begin="1566.983s" xml:id="p592" end="1568.525s">The captain, Kim Seung-min.</p>
+      <p begin="1568.858s" xml:id="p593" end="1571.442s">Park Do-hyeon...</p>
+      <p begin="1572.233s" xml:id="p594" end="1573.609s">There are three players left.</p>
+      <p begin="1574.776s" xml:id="p595" end="1577.817s">Now, the eighth survivor is</p>
+      <p begin="1577.857s" xml:id="p596" end="1579.108s">"If they don't make it,<br />they're in danger of elimination"</p>
+      <p begin="1581.692s" xml:id="p597" end="1584.4s">Gu Seong-hwi...</p>
+      <p begin="1584.983s" xml:id="p598" end="1586.525s">Gu Seong-hwi survives.</p>
+      <p begin="1587.857s" xml:id="p599" end="1589.9s">Next is the ninth survivor.</p>
+      <p begin="1589.941s" xml:id="p600" end="1591.65s">"The ninth player to survive"</p>
+      <p begin="1595.9s" xml:id="p601" end="1598.983s">Jeong Hae-chul...</p>
+      <p begin="1599.734s" xml:id="p602" end="1601.025s">Jeong Hae-chul.</p>
+      <p begin="1601.15s" xml:id="p603" end="1602.858s">The captain survives.</p>
+      <p begin="1603.983s" xml:id="p604" end="1606.108s">There's only one spot left.</p>
+      <p begin="1606.776s" xml:id="p605" end="1608.692s">There's only one spot left.<br />The last one.</p>
+      <p begin="1609.067s" xml:id="p606" end="1612.484s">The last player to survive.</p>
+      <p begin="1612.525s" xml:id="p607" end="1613.857s">"The last player to survive"</p>
+      <p begin="1615.9s" xml:id="p608" end="1617.692s">The last survivor is</p>
+      <p begin="1620.858s" xml:id="p609" end="1622.692s">Kim Jeong-woo.</p>
+      <p begin="1622.734s" xml:id="p610" end="1626.067s">Kim Jeong-woo survives.</p>
+      <p begin="1626.857s" xml:id="p611" end="1629.067s">Kim Jeong-woo survives.</p>
+      <p begin="1629.108s" xml:id="p612" end="1631.358s">"Both joy and sorrow after<br />the ten survivors are selected"</p>
+      <p begin="1634.525s" xml:id="p613" end="1637.857s">So the ten players<br />who didn't get called out</p>
+      <p begin="1637.858s" xml:id="p614" end="1639.857s">and the ten players who survived...</p>
+      <p begin="1639.858s" xml:id="p615" end="1641.15s">A match?</p>
+      <p begin="1642.067s" xml:id="p616" end="1644.067s">You will have the final match.</p>
+      <p begin="1644.4s" xml:id="p617" end="1647.317s">It's to show off our performance.</p>
+      <p begin="1647.358s" xml:id="p618" end="1649.025s">It's the last chance.</p>
+      <p begin="1650.358s" xml:id="p619" end="1652.858s">The ten of you<br />are not on the survivor list.</p>
+      <p begin="1653.233s" xml:id="p620" end="1654.9s">After the final match,</p>
+      <p begin="1655.65s" xml:id="p621" end="1657.484s">six of you will be saved</p>
+      <p begin="1657.525s" xml:id="p622" end="1661.025s">and four of you will be eliminated.</p>
+      <p begin="1661.65s" xml:id="p623" end="1663.65s">This is so cruel. My goodness.</p>
+      <p begin="1664.941s" xml:id="p624" end="1666.734s">The ten players who survived...</p>
+      <p begin="1666.776s" xml:id="p625" end="1669.317s">and ten players<br />who didn't survive...</p>
+      <p begin="1669.609s" xml:id="p626" end="1671.317s">will have the final match.</p>
+      <p begin="1671.358s" xml:id="p627" end="1674.734s">Four of you<br />will be eliminated in the end.</p>
+      <p begin="1675.858s" xml:id="p628" end="1676.776s">"Team Survivor"</p>
+      <p begin="1676.817s" xml:id="p629" end="1677.776s">"Oh Jong-hyuk,<br />Kim Geon, Song Bo-geun"</p>
+      <p begin="1677.817s" xml:id="p630" end="1678.692s">"Park Jun-woo, Choi Seong-hyeon"</p>
+      <p begin="1678.734s" xml:id="p631" end="1679.692s">"Kim Seung-min,<br />Park Do-hyeon, Gu Seong-hwi"</p>
+      <p begin="1679.734s" xml:id="p632" end="1680.609s">"Jeong Hae-chul, Kim Jeong-woo"</p>
+      <p begin="1680.776s" xml:id="p633" end="1681.858s">"Team Crisis"</p>
+      <p begin="1681.9s" xml:id="p634" end="1682.857s">"Lee Jin-bong,<br />Lee Dong-gyu, Hwang Chung-won"</p>
+      <p begin="1682.858s" xml:id="p635" end="1683.776s">"Park Gil-yeon, Lee Min-gon"</p>
+      <p begin="1683.817s" xml:id="p636" end="1684.692s">"Kim Sang-wook,<br />Kang Jun, Yoon Jong-jin"</p>
+      <p begin="1684.734s" xml:id="p637" end="1685.609s">"Oh Sang-young, Lee Ju-yong"</p>
+      <p begin="1686.15s" xml:id="p638" end="1687.857s">The third round</p>
+      <p begin="1688.108s" xml:id="p639" end="1691.192s">will be between the ten players<br />who are guaranteed to survive</p>
+      <p begin="1691.484s" xml:id="p640" end="1695.108s">and the ten players whose survival<br />haven't been decided yet.</p>
+      <p begin="1695.734s" xml:id="p641" end="1697.692s">From now on,</p>
+      <p begin="1698.192s" xml:id="p642" end="1700.609s">the third round begins.</p>
+      <p begin="1700.65s" xml:id="p643" end="1701.776s">"The third round begins"</p>
+      <p begin="1701.817s" xml:id="p644" end="1702.858s">Do we have to continue<br />even if it's raining?</p>
+      <p begin="1702.9s" xml:id="p645" end="1704.358s">We have to continue.</p>
+      <p begin="1704.4s" xml:id="p646" end="1709.484s">Let's take a break and regroup.</p>
+      <p begin="1709.567s" xml:id="p647" end="1711.067s">"Confused"</p>
+      <p begin="1711.233s" xml:id="p648" end="1713.484s">Okay, let's take a break<br />and regroup.</p>
+      <p begin="1715.817s" xml:id="p649" end="1717.609s">There's lightning.</p>
+      <p begin="1717.65s" xml:id="p650" end="1718.941s">"There's lightning<br />and the rain is getting heavier"</p>
+      <p begin="1718.983s" xml:id="p651" end="1720.233s">There's lightning.</p>
+      <p begin="1722.817s" xml:id="p652" end="1724.857s">"The staff takes shelter<br />from the heavy rain"</p>
+      <p begin="1724.858s" xml:id="p653" end="1726.233s">What should we do?</p>
+      <p begin="1726.609s" xml:id="p654" end="1728.192s">Let's get out of the rain.</p>
+      <p begin="1729.692s" xml:id="p655" end="1731.15s">One, two, three!</p>
+      <p begin="1731.192s" xml:id="p656" end="1734.525s">"Filming is interrupted"</p>
+      <p begin="1734.983s" xml:id="p657" end="1737.025s">Take a break.</p>
+      <p begin="1737.067s" xml:id="p658" end="1738.65s">Why is it raining so much?</p>
+      <p begin="1738.692s" xml:id="p659" end="1740.358s">"The heavy rain prevents<br />the match from proceeding"</p>
+      <p begin="1740.4s" xml:id="p660" end="1741.858s">This is crazy.</p>
+      <p begin="1742.567s" xml:id="p661" end="1743.817s">Are we not going to compete?</p>
+      <p begin="1745.025s" xml:id="p662" end="1746.192s">We're going<br />to keep going today, right?</p>
+      <p begin="1746.233s" xml:id="p663" end="1749.025s">It doesn't look like<br />we can continue.</p>
+      <p begin="1749.067s" xml:id="p664" end="1750.817s">-Right?<br />-Yes.</p>
+      <p begin="1750.858s" xml:id="p665" end="1751.817s">So...</p>
+      <p begin="1755.15s" xml:id="p666" end="1756.609s">Okay, focus.</p>
+      <p begin="1756.65s" xml:id="p667" end="1757.609s">Okay, the microphone.</p>
+      <p begin="1757.65s" xml:id="p668" end="1758.525s">Yes.</p>
+      <p begin="1758.776s" xml:id="p669" end="1762.442s">"The players regroup"</p>
+      <p begin="1763.609s" xml:id="p670" end="1766.525s">Due to the sudden downpour,</p>
+      <p begin="1766.567s" xml:id="p671" end="1770.233s">the staff had a meeting.</p>
+      <p begin="1770.4s" xml:id="p672" end="1772.15s">In the spirit of the Iron Ball,</p>
+      <p begin="1772.192s" xml:id="p673" end="1774.275s">we will proceed<br />with the third round.</p>
+      <p begin="1774.317s" xml:id="p674" end="1775.734s">What do you think? Is that okay?</p>
+      <p begin="1775.776s" xml:id="p675" end="1776.858s">Yes...</p>
+      <p begin="1776.9s" xml:id="p676" end="1778.567s">-Is that okay?<br />-Yes!</p>
+      <p begin="1778.609s" xml:id="p677" end="1781.609s">Okay, let's move on<br />to the third round.</p>
+      <p begin="1781.817s" xml:id="p678" end="1783.15s">Round three.</p>
+      <p begin="1784.857s" xml:id="p679" end="1788.358s">We'll start<br />with no outfield players.</p>
+      <p begin="1788.484s" xml:id="p680" end="1790.317s">"For careful evaluation,<br />all players will be in the infield"</p>
+      <p begin="1790.358s" xml:id="p681" end="1792.442s">No outfield players on either side.</p>
+      <p begin="1793.9s" xml:id="p682" end="1796.317s">I hope those of you<br />who have survived</p>
+      <p begin="1796.358s" xml:id="p683" end="1799.358s">will also do your best<br />for the other team.</p>
+      <p begin="1800.275s" xml:id="p684" end="1804.067s">Round three begins now.</p>
+      <p begin="1804.567s" xml:id="p685" end="1806.442s">You can do it!</p>
+      <p begin="1808.4s" xml:id="p686" end="1811.317s">Go for it!</p>
+      <p begin="1811.692s" xml:id="p687" end="1812.817s">"Only six people<br />from Team Crisis can survive"</p>
+      <p begin="1812.857s" xml:id="p688" end="1815.525s">-Come on, fight!<br />-Woo!</p>
+      <p begin="1817.525s" xml:id="p689" end="1819.734s">-Go! Strong!<br />-Woo!</p>
+      <p begin="1819.776s" xml:id="p690" end="1821.65s">Do your best!</p>
+      <p begin="1821.858s" xml:id="p691" end="1823.941s">Let's fight for real!</p>
+      <p begin="1825.776s" xml:id="p692" end="1828.192s">Elimination or no elimination,</p>
+      <p begin="1828.275s" xml:id="p693" end="1830.9s">I want to break the label.</p>
+      <p begin="1830.941s" xml:id="p694" end="1833.567s">We have to survive<br />because this is the last one.</p>
+      <p begin="1834.192s" xml:id="p695" end="1838.025s">This time, it's really do or die.</p>
+      <p begin="1838.275s" xml:id="p696" end="1839.15s">"Jump ball to determine who starts"</p>
+      <p begin="1839.192s" xml:id="p697" end="1841.734s">Okay, let's focus.</p>
+      <p begin="1843.609s" xml:id="p698" end="1845.15s">Come on, focus on the ball.</p>
+      <p begin="1845.192s" xml:id="p699" end="1846.817s">"Gu Seong-hwi from Team Survivors"</p>
+      <p begin="1847.067s" xml:id="p700" end="1849.484s">"Lee Dong-gyu from Team Crisis"</p>
+      <p begin="1849.525s" xml:id="p701" end="1850.983s">We have to win no matter what.</p>
+      <p begin="1857.941s" xml:id="p702" end="1860.609s">"Team Crisis attacks first"</p>
+      <p begin="1860.65s" xml:id="p703" end="1864.734s">-Let's go!<br />-Go!</p>
+      <p begin="1865.025s" xml:id="p704" end="1867.442s">-Let's go!<br />-Go!</p>
+      <p begin="1868.025s" xml:id="p705" end="1870.067s">Nice catch!</p>
+      <p begin="1871.65s" xml:id="p706" end="1872.817s">Okay!</p>
+      <p begin="1873.067s" xml:id="p707" end="1874.484s">"The ball is slippery<br />because of the rain"</p>
+      <p begin="1874.525s" xml:id="p708" end="1876.025s">The ball is very slippery.</p>
+      <p begin="1876.358s" xml:id="p709" end="1878.734s">"Lee Dong-gyu<br />from Team Crisis attacks"</p>
+      <p begin="1881.4s" xml:id="p710" end="1882.567s">Okay!</p>
+      <p begin="1882.9s" xml:id="p711" end="1884.275s">It's slippery.</p>
+      <p begin="1885.108s" xml:id="p712" end="1886.9s">"Oh Jong-hyuk<br />from Team Survivors attacks"</p>
+      <p begin="1888.442s" xml:id="p713" end="1890.817s">"Slippery"</p>
+      <p begin="1891.067s" xml:id="p714" end="1892.692s">The ball is slippery now.</p>
+      <p begin="1892.9s" xml:id="p715" end="1894.817s">-Because of the rain.<br />-Yes, it's slippery.</p>
+      <p begin="1894.857s" xml:id="p716" end="1896.317s">-It's really slippery.<br />-I know.</p>
+      <p begin="1897.275s" xml:id="p717" end="1899.108s">The ball is slippery.<br />Avoid it if you can.</p>
+      <p begin="1899.15s" xml:id="p718" end="1900.025s">Okay.</p>
+      <p begin="1900.067s" xml:id="p719" end="1902.233s">Don't receive the ball.<br />You'll be at a disadvantage.</p>
+      <p begin="1902.857s" xml:id="p720" end="1904.692s">-It's raining too hard.<br />-Hurry.</p>
+      <p begin="1904.858s" xml:id="p721" end="1906.857s">Avoid it if you can.<br />The ball will go over.</p>
+      <p begin="1908.275s" xml:id="p722" end="1909.776s">Go, Geon!</p>
+      <p begin="1909.857s" xml:id="p723" end="1910.858s">"Kim Geon<br />from Team Survivor attacks"</p>
+      <p begin="1911.9s" xml:id="p724" end="1914.9s">"A high-speed ball"</p>
+      <p begin="1916.857s" xml:id="p725" end="1918.317s">"Lee Dong-gyu is out"</p>
+      <p begin="1918.358s" xml:id="p726" end="1921.067s">-Okay.<br />-Lee Dong-gyu moves to the outfield.</p>
+      <p begin="1921.484s" xml:id="p727" end="1923.025s">We have an outfield player now.</p>
+      <p begin="1923.317s" xml:id="p728" end="1924.858s">We now have an outfield player.</p>
+      <p begin="1925.857s" xml:id="p729" end="1929.067s">-We have an outfield player.<br />-An outfield player at the back.</p>
+      <p begin="1934.567s" xml:id="p730" end="1935.734s">"Team Survivor is in a crisis"</p>
+      <p begin="1935.776s" xml:id="p731" end="1937.858s">"The ball bounces high because<br />Kim Jeong-woo can't catch it"</p>
+      <p begin="1937.9s" xml:id="p732" end="1940.108s">-Catch it.<br />-Come on.</p>
+      <p begin="1940.15s" xml:id="p733" end="1941.025s">You have to catch it.</p>
+      <p begin="1941.067s" xml:id="p734" end="1942.817s">"Song Bo-geun flies immediately"</p>
+      <p begin="1942.857s" xml:id="p735" end="1943.734s">Catch it.</p>
+      <p begin="1943.776s" xml:id="p736" end="1945.358s">"He fails to catch it"</p>
+      <p begin="1945.4s" xml:id="p737" end="1946.734s">Nice.</p>
+      <p begin="1947.4s" xml:id="p738" end="1949.525s">"Replay"</p>
+      <p begin="1949.567s" xml:id="p739" end="1950.65s">You have to catch it.</p>
+      <p begin="1950.857s" xml:id="p740" end="1952.734s">-Nice.<br />-Two people are out.</p>
+      <p begin="1952.858s" xml:id="p741" end="1954.858s">"Kim Jeong-woo<br />and Song Bo-geun are out"</p>
+      <p begin="1955.233s" xml:id="p742" end="1957.857s">Two people are out.</p>
+      <p begin="1958.484s" xml:id="p743" end="1960.857s">Okay, two people out.</p>
+      <p begin="1960.858s" xml:id="p744" end="1964.067s">-Go to the back.<br />-Okay.</p>
+      <p begin="1964.776s" xml:id="p745" end="1967.358s">"At that moment,<br />Lee Jin-bong suddenly sneaks up"</p>
+      <p begin="1967.858s" xml:id="p746" end="1970.442s">Jin-bong is moving forward<br />confidently.</p>
+      <p begin="1970.484s" xml:id="p747" end="1971.983s">Doesn't that mean he'll take it?</p>
+      <p begin="1975.65s" xml:id="p748" end="1977.067s">"Lee Jin-bong gets hits and is out?"</p>
+      <p begin="1977.108s" xml:id="p749" end="1978.4s">Okay.</p>
+      <p begin="1979.275s" xml:id="p750" end="1980.734s">Did he get out on purpose?</p>
+      <p begin="1981.108s" xml:id="p751" end="1982.15s">Lee Jin-bong.</p>
+      <p begin="1982.192s" xml:id="p752" end="1985.108s">-I think he got out on purpose.<br />-Jin-bong got out on purpose.</p>
+      <p begin="1985.192s" xml:id="p753" end="1986.941s">We need to make good use<br />of the outfield.</p>
+      <p begin="1986.983s" xml:id="p754" end="1991.358s">I think the team<br />that goes outfield early will win.</p>
+      <p begin="1992.15s" xml:id="p755" end="1993.192s">That means he's going to attack<br />from the outside.</p>
+      <p begin="1993.233s" xml:id="p756" end="1994.9s">Yes, he's going to play<br />from the outside.</p>
+      <p begin="1995.275s" xml:id="p757" end="1996.609s">He prepared a lot.</p>
+      <p begin="1997.858s" xml:id="p758" end="1999.067s">Side!</p>
+      <p begin="2001.067s" xml:id="p759" end="2002.067s">Side!</p>
+      <p begin="2002.108s" xml:id="p760" end="2003.442s">"Oh Sang-young's outfield side pass"</p>
+      <p begin="2003.484s" xml:id="p761" end="2004.692s">Okay, out.</p>
+      <p begin="2006.233s" xml:id="p762" end="2007.525s">Out.</p>
+      <p begin="2008.108s" xml:id="p763" end="2009.65s">-It's slippery.<br />-Okay.</p>
+      <p begin="2009.692s" xml:id="p764" end="2011.15s">"Park Jun-woo fails to block<br />the slippery ball and is out"</p>
+      <p begin="2011.65s" xml:id="p765" end="2012.941s">Nice.</p>
+      <p begin="2013.025s" xml:id="p766" end="2014.817s">"Nice!"</p>
+      <p begin="2015.358s" xml:id="p767" end="2017.525s">I'll go out.</p>
+      <p begin="2018.983s" xml:id="p768" end="2019.858s">Good.</p>
+      <p begin="2019.9s" xml:id="p769" end="2021.484s">"Yoon Jong-jin's<br />sharp outfield pass"</p>
+      <p begin="2021.525s" xml:id="p770" end="2026.4s">-Lee Dong-gyu is good. Nice.<br />-Rush attack!</p>
+      <p begin="2026.484s" xml:id="p771" end="2028.941s">Not bad, Dong-gyu. Not bad at all.</p>
+      <p begin="2030.067s" xml:id="p772" end="2033.317s">Gil-yeon, go!</p>
+      <p begin="2034.15s" xml:id="p773" end="2035.192s">Go!</p>
+      <p begin="2035.692s" xml:id="p774" end="2036.857s">Go!</p>
+      <p begin="2036.858s" xml:id="p775" end="2039.025s">"Lee Dong-gyu signals<br />to aim at Kim Geon"</p>
+      <p begin="2039.65s" xml:id="p776" end="2040.525s">Go!</p>
+      <p begin="2040.567s" xml:id="p777" end="2041.65s">"Park Gil-yeon, Lee Dong-gyu"</p>
+      <p begin="2041.692s" xml:id="p778" end="2042.983s">He got hit.</p>
+      <p begin="2043.442s" xml:id="p779" end="2044.525s">What? Are you going to pass it over?</p>
+      <p begin="2044.567s" xml:id="p780" end="2046.4s">"Fixes sight<br />and shoots without looking"</p>
+      <p begin="2046.442s" xml:id="p781" end="2047.734s">He got hit.</p>
+      <p begin="2047.776s" xml:id="p782" end="2049.192s">What? Are you going to pass it over?</p>
+      <p begin="2049.817s" xml:id="p783" end="2050.9s">He got hit.</p>
+      <p begin="2050.941s" xml:id="p784" end="2052.484s">He got hit. Yes, it's a hit.</p>
+      <p begin="2052.525s" xml:id="p785" end="2054.692s">Good job.</p>
+      <p begin="2054.734s" xml:id="p786" end="2056.108s">"Lee Dong-gyu<br />and Park Gil-yeon's linked play"</p>
+      <p begin="2058.857s" xml:id="p787" end="2060.567s">"Lee Ju-yong<br />from Team Crisis attacks"</p>
+      <p begin="2060.609s" xml:id="p788" end="2061.567s">Go!</p>
+      <p begin="2064.609s" xml:id="p789" end="2065.484s">"Connecting Lee Dong-gyu's ball<br />in the outfield"</p>
+      <p begin="2065.525s" xml:id="p790" end="2066.734s">Nice!</p>
+      <p begin="2069.233s" xml:id="p791" end="2070.941s">-Nice!<br />-Out!</p>
+      <p begin="2070.983s" xml:id="p792" end="2072.025s">"Lee Dong-gyu's fastball"</p>
+      <p begin="2072.067s" xml:id="p793" end="2073.857s">It's a hit.</p>
+      <p begin="2074.941s" xml:id="p794" end="2076.275s">It's a hit.</p>
+      <p begin="2076.317s" xml:id="p795" end="2077.358s">"Choi Seong-hyeon<br />from Team Survivor is out"</p>
+      <p begin="2077.4s" xml:id="p796" end="2079.275s">We can win.</p>
+      <p begin="2079.317s" xml:id="p797" end="2081.358s">Once they're on the outfield,<br />the tactics are clear.</p>
+      <p begin="2081.776s" xml:id="p798" end="2083.857s">We'll move around, so don't worry.</p>
+      <p begin="2084.108s" xml:id="p799" end="2085.525s">Slowly.</p>
+      <p begin="2085.567s" xml:id="p800" end="2086.9s">-That's good.<br />-Good.</p>
+      <p begin="2088.358s" xml:id="p801" end="2089.692s">Okay, focus.</p>
+      <p begin="2090.192s" xml:id="p802" end="2091.525s">We can really win.</p>
+      <p begin="2091.567s" xml:id="p803" end="2092.941s">Finish them off!</p>
+      <p begin="2093.192s" xml:id="p804" end="2096.358s">Now that they have a clear goal,<br />it makes a difference.</p>
+      <p begin="2096.4s" xml:id="p805" end="2098.857s">-That's right.<br />-It's a desperate difference.</p>
+      <p begin="2101.317s" xml:id="p806" end="2102.776s">Go!</p>
+      <p begin="2103.067s" xml:id="p807" end="2103.941s">"Lee Jin-bong"</p>
+      <p begin="2103.983s" xml:id="p808" end="2105.734s">Take your time.</p>
+      <p begin="2105.776s" xml:id="p809" end="2107.067s">Focus.</p>
+      <p begin="2107.9s" xml:id="p810" end="2109.567s">My body is getting warm.</p>
+      <p begin="2110.567s" xml:id="p811" end="2111.776s">Okay.</p>
+      <p begin="2112.817s" xml:id="p812" end="2113.692s">-Nice.<br />-Good.</p>
+      <p begin="2113.734s" xml:id="p813" end="2114.857s">"Lee Jin-bong connects"</p>
+      <p begin="2116.858s" xml:id="p814" end="2120.65s">"But it's an empty attack"</p>
+      <p begin="2120.734s" xml:id="p815" end="2124.358s">He keeps making unnecessary attacks.</p>
+      <p begin="2124.4s" xml:id="p816" end="2126.108s">"Team Crisis' rhythm is interrupted"</p>
+      <p begin="2127.9s" xml:id="p817" end="2129.484s">-Ready.<br />-Pass the ball.</p>
+      <p begin="2129.567s" xml:id="p818" end="2131.15s">"Team Survivor fights back"</p>
+      <p begin="2134.817s" xml:id="p819" end="2136.275s">It's okay.</p>
+      <p begin="2137.108s" xml:id="p820" end="2137.983s">Nice.</p>
+      <p begin="2138.025s" xml:id="p821" end="2139.233s">Catch it.</p>
+      <p begin="2139.525s" xml:id="p822" end="2140.941s">Kang Jun.</p>
+      <p begin="2141.275s" xml:id="p823" end="2142.525s">It's okay.</p>
+      <p begin="2143.358s" xml:id="p824" end="2144.941s">Kang Jun's skills are also mediocre.</p>
+      <p begin="2145.65s" xml:id="p825" end="2146.525s">Ready.</p>
+      <p begin="2146.567s" xml:id="p826" end="2147.442s">"One pass"</p>
+      <p begin="2147.525s" xml:id="p827" end="2148.4s">That's right.</p>
+      <p begin="2148.442s" xml:id="p828" end="2149.317s">Again. Infield.</p>
+      <p begin="2149.358s" xml:id="p829" end="2150.776s">Infield. You can just hit it.</p>
+      <p begin="2150.817s" xml:id="p830" end="2152.192s">Nice, Sang-wook.</p>
+      <p begin="2153.567s" xml:id="p831" end="2155.442s">"Three passes in a row"</p>
+      <p begin="2155.567s" xml:id="p832" end="2156.941s">You have to attack.</p>
+      <p begin="2157.609s" xml:id="p833" end="2158.941s">Come on, gather around.</p>
+      <p begin="2158.983s" xml:id="p834" end="2160.192s">"Lee Jin-bong's four pass foul"</p>
+      <p begin="2160.233s" xml:id="p835" end="2161.442s">You have to make a move.</p>
+      <p begin="2161.484s" xml:id="p836" end="2162.941s">Come on, gather around.</p>
+      <p begin="2162.983s" xml:id="p837" end="2164.317s">Four pass foul.</p>
+      <p begin="2164.567s" xml:id="p838" end="2165.857s">Shoot.</p>
+      <p begin="2165.858s" xml:id="p839" end="2167.025s">Right away.</p>
+      <p begin="2167.275s" xml:id="p840" end="2169.484s">"Lee Jin-bong keeps making mistakes"</p>
+      <p begin="2169.858s" xml:id="p841" end="2171.067s">Start.</p>
+      <p begin="2172.4s" xml:id="p842" end="2173.857s">He got hit.</p>
+      <p begin="2173.858s" xml:id="p843" end="2175.525s">Nice.</p>
+      <p begin="2175.567s" xml:id="p844" end="2176.817s">Oh Jong-hyuk is out.</p>
+      <p begin="2177.275s" xml:id="p845" end="2178.567s">Very good, Lee Ju-yong. Well done.</p>
+      <p begin="2178.734s" xml:id="p846" end="2181.275s">"But the rhythm is interrupted<br />by Lee Jin-bong again"</p>
+      <p begin="2182.025s" xml:id="p847" end="2183.358s">Behind you.</p>
+      <p begin="2183.4s" xml:id="p848" end="2185.233s">"Serious"</p>
+      <p begin="2185.275s" xml:id="p849" end="2186.358s">Okay.</p>
+      <p begin="2189.817s" xml:id="p850" end="2190.983s">Sorry.</p>
+      <p begin="2192.734s" xml:id="p851" end="2194.192s">We're leading. Take your time.</p>
+      <p begin="2196.025s" xml:id="p852" end="2197.108s">We got it.</p>
+      <p begin="2198.609s" xml:id="p853" end="2199.567s">Good.</p>
+      <p begin="2199.609s" xml:id="p854" end="2201.108s">-We got it.<br />-Okay.</p>
+      <p begin="2201.9s" xml:id="p855" end="2203.358s">Nice!</p>
+      <p begin="2204.067s" xml:id="p856" end="2205.734s">Nice, Choi Seong-hyeon!</p>
+      <p begin="2205.776s" xml:id="p857" end="2206.857s">Nice!</p>
+      <p begin="2207.65s" xml:id="p858" end="2209.4s">-He's strong.<br />-Nice, Choi Seong-hyeon.</p>
+      <p begin="2209.442s" xml:id="p859" end="2210.983s">-The bound.<br />-The bound. Gil-yeon.</p>
+      <p begin="2212.358s" xml:id="p860" end="2214.025s">Nice, Choi Seong-hyeon!</p>
+      <p begin="2214.067s" xml:id="p861" end="2215.15s">The bound. Gil-yeon.</p>
+      <p begin="2215.192s" xml:id="p862" end="2216.857s">"Park Gil-yeon is in danger<br />from the bounced ball"</p>
+      <p begin="2220.817s" xml:id="p863" end="2221.941s">The bound.</p>
+      <p begin="2222.108s" xml:id="p864" end="2223.484s">-The bound.<br />-The bound. Gil-yeon.</p>
+      <p begin="2224.15s" xml:id="p865" end="2225.067s">The bound.</p>
+      <p begin="2225.108s" xml:id="p866" end="2228.442s">Park Gil-yeon is good.</p>
+      <p begin="2228.609s" xml:id="p867" end="2231.442s">"Life shortened by ten years"</p>
+      <p begin="2231.567s" xml:id="p868" end="2234.317s">"Team Red 6, Team Blue 4"</p>
+      <p begin="2234.358s" xml:id="p869" end="2235.233s">It's okay.</p>
+      <p begin="2235.317s" xml:id="p870" end="2237.025s">One of us has to catch the ball.</p>
+      <p begin="2237.15s" xml:id="p871" end="2238.317s">It's okay.</p>
+      <p begin="2238.567s" xml:id="p872" end="2240.025s">One of us has to catch the ball.</p>
+      <p begin="2240.776s" xml:id="p873" end="2242.567s">"Even luck<br />does not favour Team Crisis"</p>
+      <p begin="2242.609s" xml:id="p874" end="2243.734s">-One of us has to catch the ball.<br />-Out.</p>
+      <p begin="2244.484s" xml:id="p875" end="2246.692s">What's this?</p>
+      <p begin="2247.275s" xml:id="p876" end="2248.4s">Watch out for the line.</p>
+      <p begin="2248.776s" xml:id="p877" end="2250.525s">It went over.</p>
+      <p begin="2250.817s" xml:id="p878" end="2251.858s">Watch out for the line.</p>
+      <p begin="2251.9s" xml:id="p879" end="2253.857s">"Keeps dropping the ball"</p>
+      <p begin="2253.858s" xml:id="p880" end="2255.983s">It went over the line.</p>
+      <p begin="2257.609s" xml:id="p881" end="2259.692s">Get ready to catch the ball.</p>
+      <p begin="2259.734s" xml:id="p882" end="2261.317s">Go!</p>
+      <p begin="2262.15s" xml:id="p883" end="2263.317s">Go!</p>
+      <p begin="2263.358s" xml:id="p884" end="2265.233s">"A strategy<br />that doesn't go as planned"</p>
+      <p begin="2265.275s" xml:id="p885" end="2267.317s">-That's right.<br />-Gosh.</p>
+      <p begin="2270.983s" xml:id="p886" end="2273.067s">Jin-bong, catch it.</p>
+      <p begin="2274.067s" xml:id="p887" end="2275.525s">"It's hard for Team Crisis<br />to get into the rhythm"</p>
+      <p begin="2275.567s" xml:id="p888" end="2277.941s">Focus!</p>
+      <p begin="2281.15s" xml:id="p889" end="2282.525s">Behind you.</p>
+      <p begin="2283.275s" xml:id="p890" end="2284.9s">"Frustrated"</p>
+      <p begin="2285.275s" xml:id="p891" end="2288.275s">But Team Crisis is playing fiercely.</p>
+      <p begin="2289.108s" xml:id="p892" end="2290.9s">-Side pass.<br />-Nice...</p>
+      <p begin="2290.941s" xml:id="p893" end="2292.192s">"Hwang Chung-won"</p>
+      <p begin="2292.233s" xml:id="p894" end="2293.525s">Harder.</p>
+      <p begin="2293.776s" xml:id="p895" end="2294.776s">Nice.</p>
+      <p begin="2294.857s" xml:id="p896" end="2295.817s">"Hwang Chung-won successfully dodges<br />twice in a row"</p>
+      <p begin="2295.857s" xml:id="p897" end="2296.734s">Harder.</p>
+      <p begin="2296.776s" xml:id="p898" end="2298.983s">Nice, Hwang Chung-won!</p>
+      <p begin="2299.275s" xml:id="p899" end="2301.567s">Hwang Chung-won dodged well.</p>
+      <p begin="2301.857s" xml:id="p900" end="2303.025s">-Let's go!<br />-That's it!</p>
+      <p begin="2303.233s" xml:id="p901" end="2305.609s">That's it!</p>
+      <p begin="2305.65s" xml:id="p902" end="2307.025s">"Crazy moves,<br />dodges three times in a row"</p>
+      <p begin="2307.067s" xml:id="p903" end="2308.442s">Hwang Chung-won!</p>
+      <p begin="2309.025s" xml:id="p904" end="2313.233s">Hwang Chung-won<br />has been playing in the outfield.</p>
+      <p begin="2313.275s" xml:id="p905" end="2314.442s">Turns out he can play well<br />in the infield too.</p>
+      <p begin="2314.484s" xml:id="p906" end="2316.692s">-He's doing well.<br />-Yes.</p>
+      <p begin="2316.817s" xml:id="p907" end="2318.734s">-He's doing well in the infield.<br />-Yes.</p>
+      <p begin="2320.4s" xml:id="p908" end="2321.567s">-It's slippery.<br />-Catch.</p>
+      <p begin="2324.858s" xml:id="p909" end="2326.983s">"Hwang Chung-won dodges again"</p>
+      <p begin="2327.525s" xml:id="p910" end="2328.4s">Ready.</p>
+      <p begin="2328.442s" xml:id="p911" end="2329.525s">"He changes his target"</p>
+      <p begin="2334.734s" xml:id="p912" end="2335.983s">What a shame.</p>
+      <p begin="2336.025s" xml:id="p913" end="2338.65s">"Lee Ju-yong<br />from Team Crisis is out"</p>
+      <p begin="2340.025s" xml:id="p914" end="2341.692s">What a shame, Lee Ju-yong.</p>
+      <p begin="2344.192s" xml:id="p915" end="2345.525s">Ours.</p>
+      <p begin="2345.857s" xml:id="p916" end="2347.192s">Take your time.</p>
+      <p begin="2347.233s" xml:id="p917" end="2348.275s">"Team Red stays calm and steady"</p>
+      <p begin="2348.525s" xml:id="p918" end="2351.233s">-Come on. Give us a sign.<br />-Come on.</p>
+      <p begin="2352.442s" xml:id="p919" end="2354.025s">-Okay.<br />-Give signals.</p>
+      <p begin="2354.484s" xml:id="p920" end="2356.15s">-Very good. He caught it.<br />-That's right.</p>
+      <p begin="2356.484s" xml:id="p921" end="2357.692s">Oh Sang-young!</p>
+      <p begin="2357.858s" xml:id="p922" end="2359.025s">Come on.</p>
+      <p begin="2359.857s" xml:id="p923" end="2360.9s">Come on!</p>
+      <p begin="2361.233s" xml:id="p924" end="2362.233s">Yoon Jong-jin!</p>
+      <p begin="2362.275s" xml:id="p925" end="2363.192s">-Come on!<br />-Nice.</p>
+      <p begin="2363.233s" xml:id="p926" end="2364.442s">Oh Sang-young!</p>
+      <p begin="2365.9s" xml:id="p927" end="2367.025s">Nice!</p>
+      <p begin="2367.692s" xml:id="p928" end="2368.609s">Oh Sang-young!</p>
+      <p begin="2368.65s" xml:id="p929" end="2370.442s">"Oh Sang-young, Lee Ju-yong"</p>
+      <p begin="2370.776s" xml:id="p930" end="2372.025s">Go!</p>
+      <p begin="2372.567s" xml:id="p931" end="2373.983s">-This is ours!<br />-Go!</p>
+      <p begin="2374.025s" xml:id="p932" end="2376.067s">-That's right!<br />-Good.</p>
+      <p begin="2376.857s" xml:id="p933" end="2377.734s">-This is ours!<br />-Go!</p>
+      <p begin="2377.776s" xml:id="p934" end="2379.609s">-That's right!<br />-Good.</p>
+      <p begin="2379.858s" xml:id="p935" end="2381.192s">That's right!</p>
+      <p begin="2381.442s" xml:id="p936" end="2384.108s">-Good.<br />-Good. Focus.</p>
+      <p begin="2384.817s" xml:id="p937" end="2386.15s">It's three to five.</p>
+      <p begin="2386.317s" xml:id="p938" end="2389.067s">Focus...</p>
+      <p begin="2389.108s" xml:id="p939" end="2390.275s">Good.</p>
+      <p begin="2390.317s" xml:id="p940" end="2391.484s">We're leading.</p>
+      <p begin="2391.525s" xml:id="p941" end="2394.067s">-Let's do a cheer.<br />-Go!</p>
+      <p begin="2394.108s" xml:id="p942" end="2395.275s">Focus.</p>
+      <p begin="2395.317s" xml:id="p943" end="2397.525s">"Kim Sang-wook"</p>
+      <p begin="2397.817s" xml:id="p944" end="2399.192s">Hit it. Here we go.</p>
+      <p begin="2401.983s" xml:id="p945" end="2404.941s">"Kim Sang-wook is out"</p>
+      <p begin="2405.317s" xml:id="p946" end="2407.983s">It's okay...</p>
+      <p begin="2408.4s" xml:id="p947" end="2410.025s">We're going to win.</p>
+      <p begin="2410.192s" xml:id="p948" end="2411.776s">Okay...</p>
+      <p begin="2412.858s" xml:id="p949" end="2415.025s">"Lee Min-gon"</p>
+      <p begin="2415.067s" xml:id="p950" end="2416.525s">-Nice.<br />-Okay.</p>
+      <p begin="2416.65s" xml:id="p951" end="2417.567s">Get hit.</p>
+      <p begin="2417.609s" xml:id="p952" end="2418.9s">Okay.</p>
+      <p begin="2418.941s" xml:id="p953" end="2420.442s">That's right!</p>
+      <p begin="2421.4s" xml:id="p954" end="2422.9s">Okay...</p>
+      <p begin="2422.941s" xml:id="p955" end="2423.857s">"Park Do-hyeon<br />from Team Survivor is out"</p>
+      <p begin="2423.858s" xml:id="p956" end="2425.692s">Watch your step on the line.</p>
+      <p begin="2426.108s" xml:id="p957" end="2428.067s">-Watch your step on the line.<br />-Park Do-hyeon is out.</p>
+      <p begin="2428.108s" xml:id="p958" end="2429.609s">He could have just gone next.</p>
+      <p begin="2429.776s" xml:id="p959" end="2430.983s">-No, again.<br />-Throw it straight.</p>
+      <p begin="2431.025s" xml:id="p960" end="2432.025s">Two, three.</p>
+      <p begin="2432.067s" xml:id="p961" end="2433.65s">-He got hit.<br />-That's it.</p>
+      <p begin="2434.233s" xml:id="p962" end="2435.233s">That's it.</p>
+      <p begin="2435.275s" xml:id="p963" end="2436.525s">"Park Gil-yeon is out"</p>
+      <p begin="2436.817s" xml:id="p964" end="2439.941s">-Keep defending.<br />-Right away.</p>
+      <p begin="2439.983s" xml:id="p965" end="2440.9s">Focus.</p>
+      <p begin="2440.941s" xml:id="p966" end="2443.317s">"Three to two, Team Survivor<br />continues to attack"</p>
+      <p begin="2443.484s" xml:id="p967" end="2445.192s">Hit it!</p>
+      <p begin="2445.484s" xml:id="p968" end="2446.65s">Okay, nice.</p>
+      <p begin="2446.941s" xml:id="p969" end="2448.983s">"At that moment, the ball<br />falls behind Jeong Hae-chul"</p>
+      <p begin="2449.025s" xml:id="p970" end="2453.15s">"Jeong Hae-chul, Lee Ju-yong"</p>
+      <p begin="2453.525s" xml:id="p971" end="2454.734s">Go!</p>
+      <p begin="2455.067s" xml:id="p972" end="2456.233s">Right away.</p>
+      <p begin="2456.442s" xml:id="p973" end="2457.317s">Go.</p>
+      <p begin="2457.358s" xml:id="p974" end="2459.817s">Right away.</p>
+      <p begin="2460.857s" xml:id="p975" end="2462.858s">-Good.<br />-Okay.</p>
+      <p begin="2462.983s" xml:id="p976" end="2464.358s">"Jeong Hae-chul is out,<br />Team Red's chance continues"</p>
+      <p begin="2464.4s" xml:id="p977" end="2467.734s">-Right away...<br />-It's coming.</p>
+      <p begin="2468.692s" xml:id="p978" end="2470.025s">Get them all out.</p>
+      <p begin="2472.9s" xml:id="p979" end="2474.067s">"Last member of Team Survivor,<br />Gu Seong-hwi"</p>
+      <p begin="2474.108s" xml:id="p980" end="2475.734s">It's just Gu Seong-hwi now.</p>
+      <p begin="2475.817s" xml:id="p981" end="2478.233s">"Gu Seong-hwi<br />calmly dodges a crisis"</p>
+      <p begin="2479.442s" xml:id="p982" end="2482.692s">"Kang Jun seizes an opportunity"</p>
+      <p begin="2483.941s" xml:id="p983" end="2485.567s">It's just Gu Seong-hwi now.</p>
+      <p begin="2485.609s" xml:id="p984" end="2488.484s">"What is Gu Seong-hwi's fate?"</p>
+      <p begin="2492.983s" xml:id="p985" end="2494.525s">"Gu Seong-hwi is out,<br />Team Crisis wins"</p>
+      <p begin="2494.567s" xml:id="p986" end="2499.067s">Nice!</p>
+      <p begin="2499.108s" xml:id="p987" end="2500.484s">Good job.</p>
+      <p begin="2501.484s" xml:id="p988" end="2504.4s">"Too bad"</p>
+      <p begin="2506.108s" xml:id="p989" end="2507.4s">-We won!<br />-Okay!</p>
+      <p begin="2507.442s" xml:id="p990" end="2508.442s">That was good.</p>
+      <p begin="2508.858s" xml:id="p991" end="2512.067s">"Team Crisis wins with<br />their extraordinary fighting spirit"</p>
+      <p begin="2512.108s" xml:id="p992" end="2513.442s">I told you we could win.</p>
+      <p begin="2513.817s" xml:id="p993" end="2515.358s">We won.</p>
+      <p begin="2516.484s" xml:id="p994" end="2517.692s">We did really well.</p>
+      <p begin="2517.734s" xml:id="p995" end="2520.525s">It's life or death...</p>
+      <p begin="2520.817s" xml:id="p996" end="2523.025s">"The end of round three<br />of the Ten-person Elimination"</p>
+      <p begin="2523.067s" xml:id="p997" end="2525.358s">Good job...</p>
+      <p begin="2525.776s" xml:id="p998" end="2530.4s">"The torrential rain<br />doesn't seem to be stopping"</p>
+      <p begin="2531.857s" xml:id="p999" end="2534.233s">Round three is over.</p>
+      <p begin="2537.233s" xml:id="p1000" end="2539.857s">"Six out of ten members<br />of Team Crisis will be eliminated"</p>
+      <p begin="2539.983s" xml:id="p1001" end="2543.442s">Of the ten members of Team Crisis,</p>
+      <p begin="2543.817s" xml:id="p1002" end="2546.776s">I'll announce the six survivors.</p>
+      <p begin="2547.192s" xml:id="p1003" end="2549.4s">For the four people<br />who aren't called out,</p>
+      <p begin="2549.442s" xml:id="p1004" end="2551.525s">sadly, it's time to say goodbye.</p>
+      <p begin="2554.734s" xml:id="p1005" end="2555.983s">All right, six players.</p>
+      <p begin="2556.192s" xml:id="p1006" end="2558.692s">"The third round<br />of the Ten-person Elimination"</p>
+      <p begin="2558.734s" xml:id="p1007" end="2561.567s">"Who are the final six survivors?"</p>
+      <p begin="2562.108s" xml:id="p1008" end="2564.067s">We'll announce it now.</p>
+      <p begin="2565.442s" xml:id="p1009" end="2566.317s">It can't be helped.</p>
+      <p begin="2566.358s" xml:id="p1010" end="2570.734s">It's a survival game<br />where one advances and one falls.</p>
+      <p begin="2570.776s" xml:id="p1011" end="2573.15s">I have to win.</p>
+      <p begin="2573.941s" xml:id="p1012" end="2577.358s">I sincerely hope I don't get<br />eliminated no matter what.</p>
+      <p begin="2578.941s" xml:id="p1013" end="2580.4s">I'm confident.</p>
+      <p begin="2582.442s" xml:id="p1014" end="2585.9s">Elimination? It hasn't hit me yet.</p>
+      <p begin="2586.857s" xml:id="p1015" end="2589.525s">The first survivor.</p>
+      <p begin="2590.067s" xml:id="p1016" end="2592.858s">The first survivor is...</p>
+      <p begin="2593.358s" xml:id="p1017" end="2597.484s">"Who is the first survivor?"</p>
+      <p begin="2598.65s" xml:id="p1018" end="2599.817s">Who will it be?</p>
+      <p begin="2600.857s" xml:id="p1019" end="2603.358s">Hwang Chung-won.</p>
+      <p begin="2603.4s" xml:id="p1020" end="2606.15s">Hwang Chung-won survives.</p>
+      <p begin="2606.857s" xml:id="p1021" end="2609.025s">"Bitter"</p>
+      <p begin="2609.525s" xml:id="p1022" end="2611.484s">Okay, the second out of nine.</p>
+      <p begin="2612.192s" xml:id="p1023" end="2613.983s">The second survivor is</p>
+      <p begin="2620.983s" xml:id="p1024" end="2622.857s">Lee Dong-gyu.</p>
+      <p begin="2622.858s" xml:id="p1025" end="2625.65s">Lee Dong-gyu survives.</p>
+      <p begin="2625.776s" xml:id="p1026" end="2628.358s">HID's Lee Dong-gyu, please move.</p>
+      <p begin="2631.857s" xml:id="p1027" end="2634.317s">Okay, there are<br />eight members remaining.</p>
+      <p begin="2635.275s" xml:id="p1028" end="2639.776s">The survivor among the eight.</p>
+      <p begin="2639.817s" xml:id="p1029" end="2642.358s">"Who is the third survivor?"</p>
+      <p begin="2646.358s" xml:id="p1030" end="2649.484s">Park Gil-yeon...</p>
+      <p begin="2649.525s" xml:id="p1031" end="2651.484s">"The third survivor, Park Gil-yeon"</p>
+      <p begin="2651.567s" xml:id="p1032" end="2652.857s">Park Gil-yeon survives.</p>
+      <p begin="2653.025s" xml:id="p1033" end="2654.067s">Yes.</p>
+      <p begin="2654.442s" xml:id="p1034" end="2657.067s">"The rest are getting impatient"</p>
+      <p begin="2657.4s" xml:id="p1035" end="2659.734s">"Joy"</p>
+      <p begin="2659.776s" xml:id="p1036" end="2662.317s">"Sorrow"</p>
+      <p begin="2662.734s" xml:id="p1037" end="2664.317s">It's time for the fourth survivor.</p>
+      <p begin="2664.358s" xml:id="p1038" end="2666.734s">The fourth survivor.</p>
+      <p begin="2672.192s" xml:id="p1039" end="2674.692s">There's no turning back now.<br />Let's go all the way.</p>
+      <p begin="2675.692s" xml:id="p1040" end="2677.192s">The fourth survivor is</p>
+      <p begin="2678.817s" xml:id="p1041" end="2680.067s">Lee Ju-yong.</p>
+      <p begin="2680.233s" xml:id="p1042" end="2683.525s">-Lee Ju-yong.<br />-It's Lee Ju-yong.</p>
+      <p begin="2684.067s" xml:id="p1043" end="2685.609s">Lee Ju-yong survives.</p>
+      <p begin="2685.65s" xml:id="p1044" end="2687.65s">Lee Ju-yong has really shown<br />his perseverance.</p>
+      <p begin="2687.692s" xml:id="p1045" end="2690.442s">Lee Ju-yong. Yes, he's amazing.</p>
+      <p begin="2692.358s" xml:id="p1046" end="2696.108s">Okay, there are<br />six members remaining.</p>
+      <p begin="2700.484s" xml:id="p1047" end="2705.275s">Who will be chosen among the six?</p>
+      <p begin="2705.442s" xml:id="p1048" end="2706.609s">The survivor.</p>
+      <p begin="2707.4s" xml:id="p1049" end="2710.358s">This is the end.<br />I'll be eliminated after this.</p>
+      <p begin="2711.609s" xml:id="p1050" end="2713.192s">How far can I go?</p>
+      <p begin="2717.108s" xml:id="p1051" end="2718.857s">I don't think<br />I'm the team's black sheep.</p>
+      <p begin="2719.358s" xml:id="p1052" end="2722.692s">Will they name me as the survivor?</p>
+      <p begin="2724.067s" xml:id="p1053" end="2726.4s">The fifth survivor.</p>
+      <p begin="2726.442s" xml:id="p1054" end="2727.776s">The fifth survivor is</p>
+      <p begin="2735.067s" xml:id="p1055" end="2739.484s">Lee Jin-bong...</p>
+      <p begin="2740.15s" xml:id="p1056" end="2741.525s">Lee Jin-bong survives.</p>
+      <p begin="2741.567s" xml:id="p1057" end="2742.776s">"A dramatic last survivor<br />announcement for Lee Jin-bong"</p>
+      <p begin="2746.233s" xml:id="p1058" end="2749.192s">The five of them<br />have been working hard.</p>
+      <p begin="2749.233s" xml:id="p1059" end="2753.025s">But only one out of them<br />will survive</p>
+      <p begin="2753.317s" xml:id="p1060" end="2755.108s">and say goodbye to the other four.</p>
+      <p begin="2757.108s" xml:id="p1061" end="2760.776s">The last one out of the five.</p>
+      <p begin="2760.858s" xml:id="p1062" end="2763.734s">This is the last player.<br />The sixth survivor.</p>
+      <p begin="2770.067s" xml:id="p1063" end="2773.484s">Oh Sang-young...</p>
+      <p begin="2773.525s" xml:id="p1064" end="2776.65s">Oh Sang-young survives in the end.</p>
+      <p begin="2777.692s" xml:id="p1065" end="2781.9s">Out of the ten,<br />Yoon Jong-jin, Kang Jun,</p>
+      <p begin="2781.941s" xml:id="p1066" end="2783.9s">Kim Sang-wook, and Lee Min-gon</p>
+      <p begin="2783.983s" xml:id="p1067" end="2787.275s">are confirmed to be eliminated.</p>
+      <p begin="2787.317s" xml:id="p1068" end="2789.317s">It's such a shame.</p>
+      <p begin="2792.358s" xml:id="p1069" end="2794.108s">I worked so hard to get here.</p>
+      <p begin="2794.15s" xml:id="p1070" end="2795.941s">There's no turning back for me.</p>
+      <p begin="2796.858s" xml:id="p1071" end="2800.9s">I'm going to train hard<br />so that I can win in the end.</p>
+      <p begin="2801.358s" xml:id="p1072" end="2803.983s">I worked so hard to get here.<br />I have to win.</p>
+      <p begin="2804.65s" xml:id="p1073" end="2807.9s">I'm going to keep on surviving<br />until the end.</p>
+      <p begin="2808.442s" xml:id="p1074" end="2811.442s">Today's Ten-person Elimination</p>
+      <p begin="2811.484s" xml:id="p1075" end="2815.484s">started with 26 people,<br />and 16 people survived.</p>
+      <p begin="2815.609s" xml:id="p1076" end="2819.776s">A total<br />of ten people are eliminated.</p>
+      <p begin="2820.275s" xml:id="p1077" end="2822.941s">"Mixed emotions"</p>
+      <p begin="2823.525s" xml:id="p1078" end="2826.025s">Round three<br />of the Ten-person Elimination</p>
+      <p begin="2826.108s" xml:id="p1079" end="2827.567s">has come to an end.</p>
+      <p begin="2827.609s" xml:id="p1080" end="2828.776s">Good job.</p>
+      <p begin="2828.817s" xml:id="p1081" end="2830.442s">"The final round<br />of the Ten-person Elimination ends"</p>
+      <p begin="2831.192s" xml:id="p1082" end="2834.484s">-Good job...<br />-What a shame.</p>
+      <p begin="2837.609s" xml:id="p1083" end="2838.983s">"Survivors of Team Crisis"</p>
+      <p begin="2839.025s" xml:id="p1084" end="2840.817s">"Hwang Chung-won,<br />Lee Dong-gyu, Park Gil-yeon"</p>
+      <p begin="2840.857s" xml:id="p1085" end="2842.525s">"Lee Ju-yong,<br />Lee Jin-bong, Oh Sang-young"</p>
+      <p begin="2842.941s" xml:id="p1086" end="2846.025s">"Back at the dormitory<br />after the Ten-person Elimination"</p>
+      <p begin="2850.15s" xml:id="p1087" end="2853.65s">"The 16 players return<br />to their respective rooms"</p>
+      <p begin="2858.776s" xml:id="p1088" end="2863.692s">It's so empty.</p>
+      <p begin="2864.817s" xml:id="p1089" end="2866.484s">I should've done this.</p>
+      <p begin="2866.525s" xml:id="p1090" end="2869.484s">"It was lively until yesterday"</p>
+      <p begin="2869.525s" xml:id="p1091" end="2873.192s">"The space is clearly empty now"</p>
+      <p begin="2873.857s" xml:id="p1092" end="2878.609s">Four out of seven people<br />in this room were eliminated.</p>
+      <p begin="2878.65s" xml:id="p1093" end="2880.317s">Is there bad energy in the room?</p>
+      <p begin="2880.358s" xml:id="p1094" end="2881.484s">"Is there bad energy in the room?"</p>
+      <p begin="2881.525s" xml:id="p1095" end="2883.442s">More than half of them left.</p>
+      <p begin="2886.442s" xml:id="p1096" end="2890.275s">When we were on "Steel Troops",<br />we were only with the members.</p>
+      <p begin="2890.317s" xml:id="p1097" end="2892.15s">We were separated<br />from the other teams.</p>
+      <p begin="2892.192s" xml:id="p1098" end="2894.9s">So we didn't have time to get close.<br />We were all strangers.</p>
+      <p begin="2894.941s" xml:id="p1099" end="2900.609s">Now, it's a survival game<br />between acquaintances.</p>
+      <p begin="2900.65s" xml:id="p1100" end="2902.15s">It feels so strange.</p>
+      <p begin="2902.317s" xml:id="p1101" end="2904.358s">"It feels so strange"</p>
+      <p begin="2905.9s" xml:id="p1102" end="2910.358s">I couldn't feel happy<br />even when I heard that I survived.</p>
+      <p begin="2912.025s" xml:id="p1103" end="2914.484s">Because we sent them away so coldly.</p>
+      <p begin="2918.317s" xml:id="p1104" end="2922.15s">It's a shame. Everyone did so well.</p>
+      <p begin="2922.358s" xml:id="p1105" end="2924.358s">Someone has to be eliminated.</p>
+      <p begin="2927.609s" xml:id="p1106" end="2929.734s">This is really a dodgeball battle...</p>
+      <p begin="2929.776s" xml:id="p1107" end="2932.15s">This is really a dodgeball battle.</p>
+      <p begin="2934.734s" xml:id="p1108" end="2938.192s">"The next morning"</p>
+      <p begin="2942.941s" xml:id="p1109" end="2946.525s">"The players start their morning<br />by running topless"</p>
+      <p begin="2950.484s" xml:id="p1110" end="2954.15s">It's time to play fiercely.</p>
+      <p begin="2954.192s" xml:id="p1111" end="2957.358s">Since I've made it this far,<br />I have to get in no matter what.</p>
+      <p begin="2960.609s" xml:id="p1112" end="2963.442s">I have to get a spot<br />in the national team no matter what.</p>
+      <p begin="2965.108s" xml:id="p1113" end="2966.9s">I have to stay focused.</p>
+      <p begin="2966.941s" xml:id="p1114" end="2969.567s">I worked so hard to get here,<br />I have to pass.</p>
+      <p begin="2969.609s" xml:id="p1115" end="2971.692s">"While the players are training"</p>
+      <p begin="2972.15s" xml:id="p1116" end="2973.275s">"The coaches are thinking<br />about how to pair up the players"</p>
+      <p begin="2973.317s" xml:id="p1117" end="2976.525s">We'll choose two new captains</p>
+      <p begin="2976.776s" xml:id="p1118" end="2979.233s">and divide them equally.</p>
+      <p begin="2979.4s" xml:id="p1119" end="2981.317s">That's right. Eight to eight.</p>
+      <p begin="2981.65s" xml:id="p1120" end="2983.358s">We've chosen a new captain.</p>
+      <p begin="2983.567s" xml:id="p1121" end="2984.776s">Through the ace vote?</p>
+      <p begin="2986.358s" xml:id="p1122" end="2989.525s">"The ace vote<br />was held the night before"</p>
+      <p begin="2989.734s" xml:id="p1123" end="2993.484s">"Each player nominated two aces"</p>
+      <p begin="2998.65s" xml:id="p1124" end="2999.776s">"Choi Seong-hyeon is an ace"</p>
+      <p begin="2999.817s" xml:id="p1125" end="3001.025s">"Kim Jeong-woo,<br />a late starter but a hard worker"</p>
+      <p begin="3001.067s" xml:id="p1126" end="3001.983s">"A rising new generation of aces"</p>
+      <p begin="3002.108s" xml:id="p1127" end="3006.941s">"Voting for the aces is over"</p>
+      <p begin="3007.4s" xml:id="p1128" end="3011.941s">Choi Seong-hyeon and Park Jun-woo<br />are now the new captains.</p>
+      <p begin="3011.983s" xml:id="p1129" end="3013.15s">"Six votes for Park Jung-woo,<br />ten votes for Choi Seong-hyun"</p>
+      <p begin="3014.4s" xml:id="p1130" end="3017.108s">Seong-hwi here.<br />Seong-hwi isn't bad either.</p>
+      <p begin="3017.358s" xml:id="p1131" end="3018.857s">Jeong-woo isn't bad either.</p>
+      <p begin="3018.941s" xml:id="p1132" end="3020.275s">Then Bo-geun.</p>
+      <p begin="3020.9s" xml:id="p1133" end="3022.734s">"Park Gil-yeon"</p>
+      <p begin="3023.067s" xml:id="p1134" end="3025.317s">If you divide it like this,<br />it's balanced, including strength.</p>
+      <p begin="3027.025s" xml:id="p1135" end="3031.192s">Divide them into teams<br />that are equally matched.</p>
+      <p begin="3032.817s" xml:id="p1136" end="3035.983s">"Later"</p>
+      <p begin="3037.025s" xml:id="p1137" end="3040.484s">Two players from the losing team</p>
+      <p begin="3041.025s" xml:id="p1138" end="3045.275s">will be eliminated<br />from the final selection.</p>
+      <p begin="3045.317s" xml:id="p1139" end="3047.317s">Let's show them what we're made of.</p>
+      <p begin="3047.734s" xml:id="p1140" end="3050.358s">I'll make it to the national team<br />no matter what.</p>
+      <p begin="3053.4s" xml:id="p1141" end="3054.358s">Nice!</p>
+      <p begin="3054.4s" xml:id="p1142" end="3055.275s">"The more you watch,<br />the more intense it gets"</p>
+      <p begin="3055.317s" xml:id="p1143" end="3056.484s">Good!</p>
+      <p begin="3057.857s" xml:id="p1144" end="3059.525s">"It's hard to predict<br />what will happen next"</p>
+      <p begin="3059.567s" xml:id="p1145" end="3060.692s">Nice.</p>
+      <p begin="3060.734s" xml:id="p1146" end="3061.734s">Defend!</p>
+      <p begin="3061.858s" xml:id="p1147" end="3063.275s">Keep concentrating.</p>
+      <p begin="3063.442s" xml:id="p1148" end="3065.817s">"What is the result<br />of the final selection?"</p>
+      <p begin="3067.65s" xml:id="p1149" end="3070.484s">"After selecting the teams"</p>
+      <p begin="3075.9s" xml:id="p1150" end="3080.857s">"The 16 players enter the arena"</p>
+      <p begin="3081.484s" xml:id="p1151" end="3084.108s">"Entrance complete"</p>
+      <p begin="3084.317s" xml:id="p1152" end="3090.567s">"Eight members of Team Blue"</p>
+      <p begin="3090.776s" xml:id="p1153" end="3096.983s">"Eight members of Team Red"</p>
+      <p begin="3097.776s" xml:id="p1154" end="3100.192s">It's a fierce battle to become</p>
+      <p begin="3100.233s" xml:id="p1155" end="3101.525s">the national dodgeball team.</p>
+      <p begin="3101.734s" xml:id="p1156" end="3104.108s">Iron Ball, Dodgeball Battle.</p>
+      <p begin="3105.025s" xml:id="p1157" end="3106.484s">Before the final selection begins,</p>
+      <p begin="3107.317s" xml:id="p1158" end="3111.9s">there will be a pre-match<br />with a benefit at stake.</p>
+      <p begin="3113.025s" xml:id="p1159" end="3115.941s">The benefit<br />of the pre-match mission is...</p>
+      <p begin="3116.275s" xml:id="p1160" end="3120.067s">"What is it?"</p>
+      <p begin="3120.317s" xml:id="p1161" end="3126.233s">The right to choose one person<br />to be outed.</p>
+      <p begin="3126.65s" xml:id="p1162" end="3129.025s">-Out? Just like that?<br />-Out?</p>
+      <p begin="3130.275s" xml:id="p1163" end="3131.857s">The right to choose one person<br />to be outed is</p>
+      <p begin="3131.858s" xml:id="p1164" end="3133.275s">when the match starts,</p>
+      <p begin="3133.317s" xml:id="p1165" end="3135.442s">you can designate one more player</p>
+      <p begin="3135.484s" xml:id="p1166" end="3137.525s">besides the regular outfielder</p>
+      <p begin="3137.567s" xml:id="p1167" end="3139.941s">to be the first one out</p>
+      <p begin="3139.983s" xml:id="p1168" end="3142.857s">from the infield.</p>
+      <p begin="3143.609s" xml:id="p1169" end="3144.983s">To the outfield.</p>
+      <p begin="3145.609s" xml:id="p1170" end="3147.484s">We can send one player<br />to the outfield first.</p>
+      <p begin="3148.317s" xml:id="p1171" end="3149.192s">My goodness.</p>
+      <p begin="3149.233s" xml:id="p1172" end="3150.567s">That's cruel.</p>
+      <p begin="3151.067s" xml:id="p1173" end="3154.067s">The pre-match with the benefit<br />to designate an outfielder.</p>
+      <p begin="3154.817s" xml:id="p1174" end="3157.9s">It's the Winning Throw.</p>
+      <p begin="3157.941s" xml:id="p1175" end="3160.15s">"Winning Throw?"</p>
+      <p begin="3160.317s" xml:id="p1176" end="3161.4s">What's Winning Throw?</p>
+      <p begin="3161.941s" xml:id="p1177" end="3163.442s">Winning Throw?</p>
+      <p begin="3164.275s" xml:id="p1178" end="3167.192s">"Turning heads"</p>
+      <p begin="3168.067s" xml:id="p1179" end="3169.858s">The Winning Throw.</p>
+      <p begin="3171.317s" xml:id="p1180" end="3173.9s">One person from each team</p>
+      <p begin="3175.067s" xml:id="p1181" end="3178.525s">takes turns to attack and defend.</p>
+      <p begin="3179.067s" xml:id="p1182" end="3183.442s">The team that scores more wins.</p>
+      <p begin="3183.484s" xml:id="p1183" end="3184.9s">"Winning Throw"</p>
+      <p begin="3185.15s" xml:id="p1184" end="3187.776s">Since it's a preemptive strike,</p>
+      <p begin="3187.817s" xml:id="p1185" end="3190.192s">why don't we send<br />Kim Geon or Jeong-woo?</p>
+      <p begin="3190.233s" xml:id="p1186" end="3191.4s">Okay...</p>
+      <p begin="3191.442s" xml:id="p1187" end="3192.317s">-How about Kim Geon?<br />-Okay.</p>
+      <p begin="3192.358s" xml:id="p1188" end="3193.567s">Okay, let's send Kim Geon.</p>
+      <p begin="3193.609s" xml:id="p1189" end="3195.067s">I'll give it a try.</p>
+      <p begin="3195.108s" xml:id="p1190" end="3196.692s">"Good idea"</p>
+      <p begin="3196.817s" xml:id="p1191" end="3198.025s">What could go wrong?</p>
+      <p begin="3198.067s" xml:id="p1192" end="3200.442s">-You can do it.<br />-With your speed, you can do it.</p>
+      <p begin="3201.067s" xml:id="p1193" end="3202.108s">It's a one-on-one match,</p>
+      <p begin="3202.192s" xml:id="p1194" end="3204.776s">so it's nerve-wracking<br />to be in the front.</p>
+      <p begin="3204.9s" xml:id="p1195" end="3207.567s">Think about the direction<br />before you throw.</p>
+      <p begin="3207.609s" xml:id="p1196" end="3208.983s">"Reliable"</p>
+      <p begin="3209.15s" xml:id="p1197" end="3212.317s">The experienced<br />Jeong Hae-chul will go first.</p>
+      <p begin="3212.358s" xml:id="p1198" end="3213.941s">"Number one shooter,<br />the experienced Jeong Hae-chul"</p>
+      <p begin="3214.067s" xml:id="p1199" end="3216.817s">It will be good for those<br />with height advantage</p>
+      <p begin="3216.857s" xml:id="p1200" end="3219.4s">to throw the ball fast.</p>
+      <p begin="3219.442s" xml:id="p1201" end="3220.9s">"Agility, Park Gil-yeon,<br />Height, Lee Dong-gyu"</p>
+      <p begin="3220.941s" xml:id="p1202" end="3221.857s">"Speed, Park Do-hyeon"</p>
+      <p begin="3222.067s" xml:id="p1203" end="3225.233s">Let's be bold<br />and keep our usual passing speed.</p>
+      <p begin="3225.275s" xml:id="p1204" end="3226.484s">Power isn't important.</p>
+      <p begin="3226.525s" xml:id="p1205" end="3228.108s">We just need<br />to score with precision.</p>
+      <p begin="3228.192s" xml:id="p1206" end="3229.275s">Let's give it a try.</p>
+      <p begin="3229.442s" xml:id="p1207" end="3230.4s">"We can do it"</p>
+      <p begin="3231.108s" xml:id="p1208" end="3233.941s">Let's begin the Winning Throw.</p>
+      <p begin="3234.858s" xml:id="p1209" end="3238.233s">Team Park Jun-woo will attack first.</p>
+      <p begin="3238.525s" xml:id="p1210" end="3243.567s">"Nervous"</p>
+      <p begin="3243.858s" xml:id="p1211" end="3247.275s">The first players, please come out.</p>
+      <p begin="3247.692s" xml:id="p1212" end="3249.025s">"The first team strikes"</p>
+      <p begin="3249.067s" xml:id="p1213" end="3250.857s">Go!</p>
+      <p begin="3250.858s" xml:id="p1214" end="3251.9s">"First shooter,<br />Jeong Hae-chul from Team Blue"</p>
+      <p begin="3251.941s" xml:id="p1215" end="3255.233s">-Go!<br />-Good.</p>
+      <p begin="3255.567s" xml:id="p1216" end="3256.858s">We'll win.</p>
+      <p begin="3257.15s" xml:id="p1217" end="3258.65s">-Jeong Hae-chul!<br />-Okay.</p>
+      <p begin="3258.857s" xml:id="p1218" end="3260.025s">Go!</p>
+      <p begin="3260.067s" xml:id="p1219" end="3261.233s">"First shooter,<br />Kim Geon from Team Red"</p>
+      <p begin="3261.275s" xml:id="p1220" end="3262.15s">Kim Geon!</p>
+      <p begin="3262.192s" xml:id="p1221" end="3268.192s">Jeong Hae-chul will attack first,<br />and Kim Geon will attack second.</p>
+      <p begin="3269.442s" xml:id="p1222" end="3274.192s">"The first shooter to take the lead"</p>
+      <p begin="3275.65s" xml:id="p1223" end="3277.108s">The goalpost<br />is narrower than I thought.</p>
+      <p begin="3277.65s" xml:id="p1224" end="3279.275s">The goalkeeper looks narrower.</p>
+      <p begin="3279.317s" xml:id="p1225" end="3280.192s">You can do it!</p>
+      <p begin="3280.233s" xml:id="p1226" end="3283.233s">"Nervous"</p>
+      <p begin="3283.9s" xml:id="p1227" end="3285.275s">Don't be nervous. Just be precise.</p>
+      <p begin="3285.317s" xml:id="p1228" end="3286.4s">Come on, don't be nervous.</p>
+      <p begin="3286.442s" xml:id="p1229" end="3287.817s">Just do what you always do.</p>
+      <p begin="3288.233s" xml:id="p1230" end="3291.567s">The order is important<br />in the Winning Throw.</p>
+      <p begin="3291.609s" xml:id="p1231" end="3294.734s">I'll play with the determination<br />not to make any mistakes.</p>
+      <p begin="3299.609s" xml:id="p1232" end="3301.442s">Since I'm the first player<br />for Team Red,</p>
+      <p begin="3301.484s" xml:id="p1233" end="3304.233s">I have to be precise<br />and pre-empt the first move.</p>
+      <p begin="3305.275s" xml:id="p1234" end="3306.567s">Don't be nervous.</p>
+      <p begin="3307.857s" xml:id="p1235" end="3308.983s">Just do what you always do.</p>
+      <p begin="3309.484s" xml:id="p1236" end="3311.15s">Throw it.<br />There's a lot of space to throw.</p>
+      <p begin="3314.275s" xml:id="p1237" end="3316.108s">"Jeong Hae-chul shoots"</p>
+      <p begin="3321.108s" xml:id="p1238" end="3322.734s">Okay...</p>
+      <p begin="3326.025s" xml:id="p1239" end="3327.317s">"Goal"</p>
+      <p begin="3328.108s" xml:id="p1240" end="3329.358s">"A clean shot into the net"</p>
+      <p begin="3329.4s" xml:id="p1241" end="3330.567s">-Okay.<br />-Nice.</p>
+      <p begin="3330.609s" xml:id="p1242" end="3331.817s">"Team Blue is off to a good start"</p>
+      <p begin="3332.317s" xml:id="p1243" end="3333.525s">Great job.</p>
+      <p begin="3333.567s" xml:id="p1244" end="3335.484s">Jeong Hae-chul.</p>
+      <p begin="3335.525s" xml:id="p1245" end="3336.734s">It's okay.</p>
+      <p begin="3336.858s" xml:id="p1246" end="3338.692s">It's okay. We just need to score.</p>
+      <p begin="3339.4s" xml:id="p1247" end="3340.358s">Good.</p>
+      <p begin="3340.4s" xml:id="p1248" end="3341.941s">-It's okay.<br />-It's okay as long as we score.</p>
+      <p begin="3341.983s" xml:id="p1249" end="3344.192s">"Player change"</p>
+      <p begin="3346.692s" xml:id="p1250" end="3349.108s">Kim Geon, use 70 per cent<br />of your strength.</p>
+      <p begin="3349.192s" xml:id="p1251" end="3350.567s">That's fast enough.</p>
+      <p begin="3350.857s" xml:id="p1252" end="3353.692s">"Oh Jong-hyuk encourages him<br />and boosts his confidence"</p>
+      <p begin="3355.567s" xml:id="p1253" end="3357.233s">He has a head start.</p>
+      <p begin="3357.857s" xml:id="p1254" end="3359.317s">Good.</p>
+      <p begin="3359.817s" xml:id="p1255" end="3361.567s">"Glares"</p>
+      <p begin="3364.4s" xml:id="p1256" end="3365.692s">Kim Geon, don't be afraid.</p>
+      <p begin="3366.15s" xml:id="p1257" end="3368.025s">Don't look him in the eye.</p>
+      <p begin="3368.192s" xml:id="p1258" end="3369.15s">"Defence, offence"</p>
+      <p begin="3369.192s" xml:id="p1259" end="3370.442s">Ready.</p>
+      <p begin="3371.358s" xml:id="p1260" end="3374.484s">"Team Red's momentum relies<br />on Kim Geon's hand"</p>
+      <p begin="3375.857s" xml:id="p1261" end="3377.525s">"Start"</p>
+      <p begin="3378.442s" xml:id="p1262" end="3380.609s">"Kim Geon's downward shoot"</p>
+      <p begin="3380.983s" xml:id="p1263" end="3384.4s">"What will be the result?"</p>
+      <p begin="3386.692s" xml:id="p1264" end="3390.857s">"Failed to score"</p>
+      <p begin="3391.983s" xml:id="p1265" end="3393.442s">"Blocked"</p>
+      <p begin="3394.525s" xml:id="p1266" end="3398.067s">"Jeong Hae-chul's cool defence"</p>
+      <p begin="3398.233s" xml:id="p1267" end="3399.525s">"Team Blue succeeds<br />in making the head start"</p>
+      <p begin="3399.567s" xml:id="p1268" end="3401.776s">-Jeong Hae-chul!<br />-Go!</p>
+      <p begin="3402.192s" xml:id="p1269" end="3403.9s">He's indeed an ace.</p>
+      <p begin="3403.941s" xml:id="p1270" end="3405.275s">It's good he went first.</p>
+      <p begin="3405.317s" xml:id="p1271" end="3406.358s">It's okay...</p>
+      <p begin="3406.4s" xml:id="p1272" end="3409.4s">-Kim Geon, it's okay.<br />-It's okay...</p>
+      <p begin="3409.442s" xml:id="p1273" end="3411.275s">You did well...</p>
+      <p begin="3411.317s" xml:id="p1274" end="3412.692s">-It's because you went first.<br />-That's right.</p>
+      <p begin="3412.734s" xml:id="p1275" end="3414.857s">-Good job. It's okay.<br />-You didn't get hurt.</p>
+      <p begin="3415.525s" xml:id="p1276" end="3418.317s">"Team Blue 1, Team Red 0"</p>
+      <p begin="3418.358s" xml:id="p1277" end="3420.65s">Second players, come on out.</p>
+      <p begin="3420.692s" xml:id="p1278" end="3421.567s">"Second players enter"</p>
+      <p begin="3421.817s" xml:id="p1279" end="3424.567s">"Second shooter,<br />Kim Jeong-woo from Team Red"</p>
+      <p begin="3424.65s" xml:id="p1280" end="3426.857s">"Second shooter,<br />Lee Dong-gyu from Team Blue"</p>
+      <p begin="3426.858s" xml:id="p1281" end="3428.275s">Let's go!</p>
+      <p begin="3428.65s" xml:id="p1282" end="3431.233s">Lee Dong-gyu versus Kim Jeong-woo.</p>
+      <p begin="3431.941s" xml:id="p1283" end="3433.776s">Jeong-woo plays water polo,<br />so he must be good.</p>
+      <p begin="3433.817s" xml:id="p1284" end="3435.484s">He's a water polo player.</p>
+      <p begin="3436.358s" xml:id="p1285" end="3437.734s">But Dong-gyu might put pressure<br />on Jeong-woo.</p>
+      <p begin="3437.776s" xml:id="p1286" end="3439.358s">Because he's big.</p>
+      <p begin="3440.609s" xml:id="p1287" end="3442.317s">He's strong. Look at his arms.</p>
+      <p begin="3444.941s" xml:id="p1288" end="3447.817s">"Lee Dong-gyu, the master<br />of extraordinary fastballs"</p>
+      <p begin="3447.857s" xml:id="p1289" end="3448.9s">Ready.</p>
+      <p begin="3450.776s" xml:id="p1290" end="3453.484s">I just think it's fun.</p>
+      <p begin="3453.734s" xml:id="p1291" end="3457.4s">I always win when I'm having fun.</p>
+      <p begin="3458.9s" xml:id="p1292" end="3461.4s">Let's play calmly.</p>
+      <p begin="3462.233s" xml:id="p1293" end="3464.275s">I'm confident in myself.</p>
+      <p begin="3466.108s" xml:id="p1294" end="3468.067s">"The designated outfielder<br />depends on this"</p>
+      <p begin="3468.108s" xml:id="p1295" end="3469.358s">"Winning Throw"</p>
+      <p begin="3469.4s" xml:id="p1296" end="3470.609s">Ready.</p>
+      <p begin="3470.65s" xml:id="p1297" end="3473.275s">"How will the second player do?"</p>
+      <p begin="3473.484s" xml:id="p1298" end="3475.983s">"Nervous"</p>
+      <p begin="3477.233s" xml:id="p1299" end="3478.734s">"Lee Dong-gyu's power shot"</p>
+      <p begin="3481.941s" xml:id="p1300" end="3483.4s">"Kim Jeong-woo's successful defence"</p>
+      <p begin="3484.484s" xml:id="p1301" end="3486.275s">"Kim Jeong-woo accurately saw<br />the direction of the shot"</p>
+      <p begin="3487.317s" xml:id="p1302" end="3490.776s">"Lee Dong-gyu's attack failed"</p>
+      <p begin="3491.233s" xml:id="p1303" end="3493.275s">"Thrilled"</p>
+      <p begin="3493.317s" xml:id="p1304" end="3494.567s">It's okay.</p>
+      <p begin="3494.609s" xml:id="p1305" end="3498.692s">-Dong-gyu, it's okay...</p>
+      <p begin="3498.734s" xml:id="p1306" end="3500.4s">Jeong-woo is so cool.</p>
+      <p begin="3501.025s" xml:id="p1307" end="3502.317s">So cool.</p>
+      <p begin="3502.358s" xml:id="p1308" end="3505.275s">The opposing team<br />has turned the tables.</p>
+      <p begin="3505.317s" xml:id="p1309" end="3506.567s">Gosh, his arm...</p>
+      <p begin="3506.609s" xml:id="p1310" end="3508.4s">Gosh, it's packed.</p>
+      <p begin="3508.442s" xml:id="p1311" end="3509.857s">Spider Hands, Lee Dong-gyu.</p>
+      <p begin="3509.858s" xml:id="p1312" end="3510.983s">Ready.</p>
+      <p begin="3511.15s" xml:id="p1313" end="3512.858s">"Ready"</p>
+      <p begin="3515.567s" xml:id="p1314" end="3517.734s">"The one who's going to score"</p>
+      <p begin="3517.776s" xml:id="p1315" end="3520.857s">"The one who's going to block"</p>
+      <p begin="3526.941s" xml:id="p1316" end="3527.941s">Gosh.</p>
+      <p begin="3532.275s" xml:id="p1317" end="3533.776s">Nice!</p>
+      <p begin="3534.484s" xml:id="p1318" end="3540.525s">"Precisely defended<br />with his long arm"</p>
+      <p begin="3540.692s" xml:id="p1319" end="3543.275s">"Lee Dong-gyu guards the lead<br />by one point"</p>
+      <p begin="3543.776s" xml:id="p1320" end="3545.983s">Did you see his reflexes?</p>
+      <p begin="3546.025s" xml:id="p1321" end="3549.15s">"Team Blue 1, Team Red 0"</p>
+      <p begin="3549.192s" xml:id="p1322" end="3551.525s">Jeong-woo, good job.</p>
+      <p begin="3552.192s" xml:id="p1323" end="3553.734s">If you get to do it again...</p>
+      <p begin="3553.817s" xml:id="p1324" end="3556.275s">"Team Red is eyeing<br />the next opportunity"</p>
+      <p begin="3556.692s" xml:id="p1325" end="3559.776s">Kim Jeong-woo guards the lead</p>
+      <p begin="3559.817s" xml:id="p1326" end="3561.609s">by showing good defence.</p>
+      <p begin="3561.692s" xml:id="p1327" end="3564.941s">Lee Dong-gyu also relied on defence</p>
+      <p begin="3564.983s" xml:id="p1328" end="3566.817s">to beat his opponent.</p>
+      <p begin="3566.9s" xml:id="p1329" end="3568.983s">The third players, please come out.</p>
+      <p begin="3569.025s" xml:id="p1330" end="3571.858s">-Go, Kim Seung-min!<br />-Go!</p>
+      <p begin="3571.983s" xml:id="p1331" end="3575.858s">"Third shooter,<br />Gu Seong-hwi from Team Blue"</p>
+      <p begin="3575.9s" xml:id="p1332" end="3577.609s">Gu Seong-hwi attacks first</p>
+      <p begin="3578.484s" xml:id="p1333" end="3582.4s">and Kim Seung-min will defend.</p>
+      <p begin="3583.941s" xml:id="p1334" end="3586.776s">-Ready.<br />-We're leading, so don't worry.</p>
+      <p begin="3587.192s" xml:id="p1335" end="3589.692s">"Must stop the ball no matter what"</p>
+      <p begin="3590.65s" xml:id="p1336" end="3593.067s">"Must score no matter what"</p>
+      <p begin="3600.442s" xml:id="p1337" end="3602.567s">"Kim Seung-min successfully defends"</p>
+      <p begin="3602.817s" xml:id="p1338" end="3607.567s">"Team Blue 1, Team Red 0"</p>
+      <p begin="3608.609s" xml:id="p1339" end="3610.983s">If Kim Seung-min scores,</p>
+      <p begin="3611.025s" xml:id="p1340" end="3613.567s">they'll have a chance<br />to even the score.</p>
+      <p begin="3614.108s" xml:id="p1341" end="3616.734s">Control is more important<br />than speed.</p>
+      <p begin="3618.067s" xml:id="p1342" end="3619.275s">Ready.</p>
+      <p begin="3621.692s" xml:id="p1343" end="3623.567s">"He shoots"</p>
+      <p begin="3623.609s" xml:id="p1344" end="3625.734s">It's okay.</p>
+      <p begin="3629.4s" xml:id="p1345" end="3631.4s">"Kim Seung-min's shot<br />slightly missed the goal"</p>
+      <p begin="3631.442s" xml:id="p1346" end="3633.192s">Okay.</p>
+      <p begin="3634.484s" xml:id="p1347" end="3636.025s">The result of this round</p>
+      <p begin="3636.067s" xml:id="p1348" end="3639.067s">is that both teams failed to score.</p>
+      <p begin="3639.108s" xml:id="p1349" end="3642.317s">Park Jun-woo's team<br />is leading one to zero.</p>
+      <p begin="3644.067s" xml:id="p1350" end="3645.108s">"Fourth shooter,<br />Park Do-hyeon from Team Blue"</p>
+      <p begin="3645.15s" xml:id="p1351" end="3647.609s">-Let's go!<br />-Let's go, Park Do-hyeon!</p>
+      <p begin="3647.65s" xml:id="p1352" end="3649.609s">"Disgruntled"</p>
+      <p begin="3649.941s" xml:id="p1353" end="3651.233s">"Who is Park Do-hyeon's opponent?"</p>
+      <p begin="3651.358s" xml:id="p1354" end="3652.857s">It's the ace.</p>
+      <p begin="3654.192s" xml:id="p1355" end="3656.025s">Go, Ace!</p>
+      <p begin="3656.9s" xml:id="p1356" end="3659.233s">"Fourth shooter,<br />Choi Seong-hyeon from Team Red"</p>
+      <p begin="3659.609s" xml:id="p1357" end="3661.025s">Let's go, Choi Sexy!</p>
+      <p begin="3663.275s" xml:id="p1358" end="3667.9s">They're both the most agile players.</p>
+      <p begin="3668.275s" xml:id="p1359" end="3670.108s">Show us the power of speed.</p>
+      <p begin="3670.484s" xml:id="p1360" end="3672.15s">How did they meet like this?</p>
+      <p begin="3672.192s" xml:id="p1361" end="3673.192s">"Choi Seong-hyeon<br />versus Park Do-hyeon"</p>
+      <p begin="3673.358s" xml:id="p1362" end="3674.857s">Let's even the score.</p>
+      <p begin="3676.15s" xml:id="p1363" end="3677.275s">Take him out.</p>
+      <p begin="3677.358s" xml:id="p1364" end="3679.525s">"I will kill you"</p>
+      <p begin="3679.692s" xml:id="p1365" end="3680.941s">"Smiling"</p>
+      <p begin="3681.192s" xml:id="p1366" end="3684.692s">"Suddenly serious"</p>
+      <p begin="3686.233s" xml:id="p1367" end="3687.734s">"Goal"</p>
+      <p begin="3689.275s" xml:id="p1368" end="3691.4s">"Park Do-hyeon shoots the ball<br />straight to the net"</p>
+      <p begin="3692.15s" xml:id="p1369" end="3693.025s">"Team Blue scores another goal"</p>
+      <p begin="3693.067s" xml:id="p1370" end="3695.734s">Block it. Just block it.</p>
+      <p begin="3695.858s" xml:id="p1371" end="3697.525s">"Replay"</p>
+      <p begin="3697.567s" xml:id="p1372" end="3700.025s">"His finger touched the ball"</p>
+      <p begin="3700.233s" xml:id="p1373" end="3701.65s">"But unfortunately,<br />he failed to defend"</p>
+      <p begin="3702.233s" xml:id="p1374" end="3706.025s">Now, Choi Seong-hyeon attacks<br />and Park Do-hyeon defends.</p>
+      <p begin="3706.067s" xml:id="p1375" end="3711.692s">Choi Seong-hyeon is in a situation<br />where he must score.</p>
+      <p begin="3712.525s" xml:id="p1376" end="3715.525s">I'm the captain and the ace.</p>
+      <p begin="3716.9s" xml:id="p1377" end="3719.358s">I have to show them<br />what we're made of.</p>
+      <p begin="3723.692s" xml:id="p1378" end="3725.9s">"Did he miss?"</p>
+      <p begin="3730.025s" xml:id="p1379" end="3730.941s">"Choi Seong-hyeon failed to score"</p>
+      <p begin="3730.983s" xml:id="p1380" end="3732.484s">That's it.</p>
+      <p begin="3733.858s" xml:id="p1381" end="3735.941s">"The ball grazed the goal"</p>
+      <p begin="3739.15s" xml:id="p1382" end="3741.275s">"What a shame"</p>
+      <p begin="3742.15s" xml:id="p1383" end="3743.857s">With this score,</p>
+      <p begin="3744.192s" xml:id="p1384" end="3746.857s">Park Jun-woo's team<br />leads two to zero</p>
+      <p begin="3746.9s" xml:id="p1385" end="3749.65s">over Choi Seong-hyeon's team.</p>
+      <p begin="3751.941s" xml:id="p1386" end="3753.15s">-Let's go!<br />-Let's go!</p>
+      <p begin="3753.734s" xml:id="p1387" end="3756.484s">"Fifth shooter<br />Park Gil-yeon from Team Blue"</p>
+      <p begin="3756.857s" xml:id="p1388" end="3759.233s">"Fifth shooter,<br />Hwang Chung-won from Team Red"</p>
+      <p begin="3760.442s" xml:id="p1389" end="3762.4s">"Power versus evil"</p>
+      <p begin="3762.442s" xml:id="p1390" end="3764.65s">Park Gil-yeon<br />from Park Jun-woo's team</p>
+      <p begin="3764.692s" xml:id="p1391" end="3767.317s">and Hwang Chung-won<br />from Choi Seong-hyeon's team.</p>
+      <p begin="3767.358s" xml:id="p1392" end="3768.983s">The goal looks narrower.</p>
+      <p begin="3769.025s" xml:id="p1393" end="3770.484s">It's filled up.</p>
+      <p begin="3770.65s" xml:id="p1394" end="3772.983s">"Can they break the wall,<br />Hwang Chung-won?"</p>
+      <p begin="3773.317s" xml:id="p1395" end="3774.484s">Ready.</p>
+      <p begin="3777.858s" xml:id="p1396" end="3779.317s">"Park Gil-yeon shoots"</p>
+      <p begin="3779.525s" xml:id="p1397" end="3780.817s">This one is going in.</p>
+      <p begin="3781.484s" xml:id="p1398" end="3782.9s">"Goal"</p>
+      <p begin="3785.4s" xml:id="p1399" end="3787.65s">"Bitter"</p>
+      <p begin="3788.65s" xml:id="p1400" end="3791.358s">"Replay"</p>
+      <p begin="3791.4s" xml:id="p1401" end="3793.358s">"Eye feint"</p>
+      <p begin="3793.858s" xml:id="p1402" end="3796.358s">"Park Gil-yeon's patent"</p>
+      <p begin="3796.4s" xml:id="p1403" end="3797.941s">"Successful goal"</p>
+      <p begin="3798.65s" xml:id="p1404" end="3800.442s">It's okay...</p>
+      <p begin="3800.484s" xml:id="p1405" end="3801.817s">We just need Chung-won<br />to score, right?</p>
+      <p begin="3801.857s" xml:id="p1406" end="3803.192s">Yes, we just need him to score.</p>
+      <p begin="3803.233s" xml:id="p1407" end="3805.858s">Chung-won, make the ball explode.</p>
+      <p begin="3806.15s" xml:id="p1408" end="3810.067s">"Laughs"</p>
+      <p begin="3810.442s" xml:id="p1409" end="3812.192s">If the remaining three score,</p>
+      <p begin="3812.275s" xml:id="p1410" end="3813.567s">and all of them block,<br />it will be a tie.</p>
+      <p begin="3813.734s" xml:id="p1411" end="3815.317s">"All three remaining shooters<br />must block to tie the game"</p>
+      <p begin="3816.567s" xml:id="p1412" end="3817.817s">I have to score.</p>
+      <p begin="3819.233s" xml:id="p1413" end="3821.609s">No matter who the opponent is,</p>
+      <p begin="3821.65s" xml:id="p1414" end="3823.442s">I must challenge myself.</p>
+      <p begin="3826.317s" xml:id="p1415" end="3828.525s">"Powerful shooter<br />Hwang Chung-won's attack"</p>
+      <p begin="3829.358s" xml:id="p1416" end="3832.025s">"Goal? Miss?"</p>
+      <p begin="3833.9s" xml:id="p1417" end="3835.4s">"Goal"</p>
+      <p begin="3837.317s" xml:id="p1418" end="3839.15s">"Hwang Chung-won<br />makes Team Red's first score"</p>
+      <p begin="3839.941s" xml:id="p1419" end="3841.484s">Good.</p>
+      <p begin="3841.525s" xml:id="p1420" end="3844.941s">Good job...</p>
+      <p begin="3844.983s" xml:id="p1421" end="3847.067s">"Replay"</p>
+      <p begin="3847.108s" xml:id="p1422" end="3852.65s">"Attacks the corner precisely"</p>
+      <p begin="3852.734s" xml:id="p1423" end="3855.15s">If Bo-geun scores, the game is over.</p>
+      <p begin="3855.192s" xml:id="p1424" end="3856.067s">I'll end this game.</p>
+      <p begin="3856.108s" xml:id="p1425" end="3857.65s">We just need to block their shots.</p>
+      <p begin="3857.857s" xml:id="p1426" end="3858.941s">Isn't it two to one?</p>
+      <p begin="3858.983s" xml:id="p1427" end="3860.9s">-Is it three to one?<br />-Three to one.</p>
+      <p begin="3860.941s" xml:id="p1428" end="3863.442s">-Two points.<br />-The sixth players from both teams,</p>
+      <p begin="3863.484s" xml:id="p1429" end="3864.65s">please come out.</p>
+      <p begin="3865.067s" xml:id="p1430" end="3866.317s">Let's go!</p>
+      <p begin="3866.567s" xml:id="p1431" end="3868.734s">"Sixth shooter,<br />Oh Jong-hyuk from Team Red"</p>
+      <p begin="3869.025s" xml:id="p1432" end="3869.9s">"Sixth shooter,<br />Song Bo-geun from Team Blue"</p>
+      <p begin="3869.941s" xml:id="p1433" end="3872.233s">-Okay, Song Bo-geun.<br />-Go!</p>
+      <p begin="3872.4s" xml:id="p1434" end="3874.15s">Don't worry.<br />It's three to one for us.</p>
+      <p begin="3874.192s" xml:id="p1435" end="3875.067s">"Team Blue has<br />a huge three-to-one lead"</p>
+      <p begin="3875.858s" xml:id="p1436" end="3877.4s">Please.</p>
+      <p begin="3877.734s" xml:id="p1437" end="3878.734s">He must get this ball.</p>
+      <p begin="3878.776s" xml:id="p1438" end="3880.858s">He must block this ball.</p>
+      <p begin="3880.9s" xml:id="p1439" end="3882.317s">"Team Red wants to snipe<br />even if it's just one point"</p>
+      <p begin="3882.358s" xml:id="p1440" end="3884.692s">I have to stop it before it goes in.</p>
+      <p begin="3884.776s" xml:id="p1441" end="3886.275s">Block at least one.</p>
+      <p begin="3887.358s" xml:id="p1442" end="3888.609s">Don't make a mistake.</p>
+      <p begin="3888.65s" xml:id="p1443" end="3889.858s">Then I can win.</p>
+      <p begin="3896.442s" xml:id="p1444" end="3898.609s">"Goal"</p>
+      <p begin="3899.108s" xml:id="p1445" end="3901.275s">"Team Red is in a crisis"</p>
+      <p begin="3901.525s" xml:id="p1446" end="3903.983s">"Mixed emotions"</p>
+      <p begin="3906.65s" xml:id="p1447" end="3909.817s">We just need to score a goal.</p>
+      <p begin="3910.15s" xml:id="p1448" end="3912.9s">Song Bo-geun scores a goal.</p>
+      <p begin="3913.192s" xml:id="p1449" end="3914.275s">It's four to one.</p>
+      <p begin="3916.567s" xml:id="p1450" end="3917.442s">Go, Oh Jong-hyuk!</p>
+      <p begin="3917.484s" xml:id="p1451" end="3920.567s">"If they fail this attack,<br />Team Red will lose"</p>
+      <p begin="3921.233s" xml:id="p1452" end="3922.65s">"Please..."</p>
+      <p begin="3927.108s" xml:id="p1453" end="3928.983s">"Goal"</p>
+      <p begin="3930.15s" xml:id="p1454" end="3932.233s">"Oh Jong-hyuk succeeds<br />in his attack"</p>
+      <p begin="3932.275s" xml:id="p1455" end="3933.442s">"As expected of Oh Jong-hyuk"</p>
+      <p begin="3933.484s" xml:id="p1456" end="3934.817s">I knew it.</p>
+      <p begin="3935.025s" xml:id="p1457" end="3937.358s">I didn't know<br />he could score like that.</p>
+      <p begin="3937.4s" xml:id="p1458" end="3939.983s">"Winning Throw"</p>
+      <p begin="3940.025s" xml:id="p1459" end="3942.983s">"Team Blue 4, Team Red 2"</p>
+      <p begin="3943.15s" xml:id="p1460" end="3945.233s">We can win just<br />by blocking the ball.</p>
+      <p begin="3945.275s" xml:id="p1461" end="3946.9s">If this goes in, it's over.</p>
+      <p begin="3947.233s" xml:id="p1462" end="3949.192s">We have to block this one.</p>
+      <p begin="3949.65s" xml:id="p1463" end="3952.275s">The seventh players,<br />please come on out.</p>
+      <p begin="3952.317s" xml:id="p1464" end="3954.525s">All right...</p>
+      <p begin="3954.567s" xml:id="p1465" end="3956.108s">Go...</p>
+      <p begin="3956.484s" xml:id="p1466" end="3957.692s">Shall we do a chant?</p>
+      <p begin="3957.817s" xml:id="p1467" end="3959.108s">Let's do it after we win.</p>
+      <p begin="3959.15s" xml:id="p1468" end="3960.275s">"Team Red Lee Jin-bong is defending"</p>
+      <p begin="3960.317s" xml:id="p1469" end="3964.317s">Park Jun-woo will attack first<br />and Lee Jin-bong will defend.</p>
+      <p begin="3964.442s" xml:id="p1470" end="3966.857s">The match begins now.</p>
+      <p begin="3967.025s" xml:id="p1471" end="3969.4s">Let's decide the result.</p>
+      <p begin="3969.817s" xml:id="p1472" end="3973.857s">"Please, defend"</p>
+      <p begin="3976.9s" xml:id="p1473" end="3978.609s">We have a good chance of winning.</p>
+      <p begin="3980.108s" xml:id="p1474" end="3983.067s">Park Jun-woo's right shoulder<br />is not good.</p>
+      <p begin="3983.941s" xml:id="p1475" end="3987.067s">"Park Jun-woo injured<br />his right shoulder during training"</p>
+      <p begin="3987.275s" xml:id="p1476" end="3988.525s">Then Park Jun-woo...</p>
+      <p begin="3988.567s" xml:id="p1477" end="3990.358s">Are you going to prepare<br />with your left arm?</p>
+      <p begin="3991.192s" xml:id="p1478" end="3993.567s">Yes, I think my left arm<br />is better now.</p>
+      <p begin="3994.358s" xml:id="p1479" end="3996.941s">"Shoulder injury variable"</p>
+      <p begin="3998.025s" xml:id="p1480" end="4000.525s">Choi Seong-hyeon's team is losing,</p>
+      <p begin="4000.776s" xml:id="p1481" end="4002.776s">but if they win this round,</p>
+      <p begin="4002.817s" xml:id="p1482" end="4004.817s">Choi Seong-hyeon's team</p>
+      <p begin="4004.857s" xml:id="p1483" end="4007.025s">has the chance to turn the tables.</p>
+      <p begin="4007.067s" xml:id="p1484" end="4008.776s">"A chance to turn the game around"</p>
+      <p begin="4009.525s" xml:id="p1485" end="4012.025s">"Nervous"</p>
+      <p begin="4012.4s" xml:id="p1486" end="4013.275s">Ready.</p>
+      <p begin="4013.317s" xml:id="p1487" end="4016.692s">"The fate of both teams<br />depends on one ball"</p>
+      <p begin="4018.692s" xml:id="p1488" end="4021.484s">"Did Park Jun-woo score?"</p>
+      <p begin="4021.692s" xml:id="p1489" end="4024.15s">"Please"</p>
+      <p begin="4029.025s" xml:id="p1490" end="4032.192s">"The ball went outside the goal"</p>
+      <p begin="4032.358s" xml:id="p1491" end="4035.858s">"We survived"</p>
+      <p begin="4036.108s" xml:id="p1492" end="4039.692s">"It was close"</p>
+      <p begin="4039.734s" xml:id="p1493" end="4040.858s">Still, he did well.</p>
+      <p begin="4040.9s" xml:id="p1494" end="4042.358s">Good job, Jun-woo.</p>
+      <p begin="4042.692s" xml:id="p1495" end="4043.776s">We can win if we block him.</p>
+      <p begin="4043.983s" xml:id="p1496" end="4045.358s">It's okay.</p>
+      <p begin="4046.358s" xml:id="p1497" end="4047.4s">"Because of Park Jun-woo's mistake"</p>
+      <p begin="4047.442s" xml:id="p1498" end="4049.025s">"Team Red gets another chance"</p>
+      <p begin="4049.15s" xml:id="p1499" end="4051.484s">Actually, I'm under<br />a lot of pressure.</p>
+      <p begin="4052.65s" xml:id="p1500" end="4054.025s">If I don't score,</p>
+      <p begin="4054.067s" xml:id="p1501" end="4056.567s">the eighth shooter Oh Sang-young<br />will have no chance.</p>
+      <p begin="4056.776s" xml:id="p1502" end="4057.817s">Ready.</p>
+      <p begin="4060.734s" xml:id="p1503" end="4065.025s">"Bong-ki's fire shot"</p>
+      <p begin="4066.15s" xml:id="p1504" end="4068.567s">"Goal"</p>
+      <p begin="4069.858s" xml:id="p1505" end="4075.525s">"Team Red succeeds in attacking<br />and catches up by one point"</p>
+      <p begin="4076.15s" xml:id="p1506" end="4081.941s">Lee Jin-bong scores with a feint.</p>
+      <p begin="4081.983s" xml:id="p1507" end="4084.4s">Good job...</p>
+      <p begin="4084.442s" xml:id="p1508" end="4086.317s">"But Team Red is still ahead<br />by one point"</p>
+      <p begin="4086.358s" xml:id="p1509" end="4088.192s">Good job, everyone.</p>
+      <p begin="4088.609s" xml:id="p1510" end="4091.817s">This is a very critical moment.</p>
+      <p begin="4092.941s" xml:id="p1511" end="4095.817s">Lastly, let's welcome<br />the eighth players.</p>
+      <p begin="4095.857s" xml:id="p1512" end="4098.192s">"The last rush"</p>
+      <p begin="4098.484s" xml:id="p1513" end="4100.358s">"The last shooter,<br />Oh Sang-young from Team Red"</p>
+      <p begin="4100.4s" xml:id="p1514" end="4101.65s">Oh Sang-young.</p>
+      <p begin="4101.692s" xml:id="p1515" end="4104.025s">"The last shooter,<br />Oh Ju-yong from Team Blue"</p>
+      <p begin="4104.609s" xml:id="p1516" end="4105.983s">We meet again.</p>
+      <p begin="4106.108s" xml:id="p1517" end="4108.192s">Gosh.</p>
+      <p begin="4109.192s" xml:id="p1518" end="4110.858s">"The fate of both teams<br />depends on this final round"</p>
+      <p begin="4110.9s" xml:id="p1519" end="4113.233s">Lee Ju-yong versus Oh Sang-young.</p>
+      <p begin="4113.817s" xml:id="p1520" end="4115.776s">Sang-young is under<br />a lot of pressure right now.</p>
+      <p begin="4115.817s" xml:id="p1521" end="4117.275s">"200 per cent pressure"</p>
+      <p begin="4117.317s" xml:id="p1522" end="4119.692s">-Go!<br />-Go, Lee Ju-yong!</p>
+      <p begin="4120.233s" xml:id="p1523" end="4122.858s">"Lee Ju-yong has a chance<br />to end the match"</p>
+      <p begin="4122.9s" xml:id="p1524" end="4124.233s">-Go.<br />-Relax...</p>
+      <p begin="4124.275s" xml:id="p1525" end="4125.317s">Sang-young, let's go.</p>
+      <p begin="4125.358s" xml:id="p1526" end="4126.692s">-Let's redeem ourselves.<br />-Go, Lee Ju-yong.</p>
+      <p begin="4129.067s" xml:id="p1527" end="4131.025s">"If Oh Sang-young succeeds<br />in scoring and intercepting"</p>
+      <p begin="4131.067s" xml:id="p1528" end="4132.317s">"The match will be back<br />to square one"</p>
+      <p begin="4133.484s" xml:id="p1529" end="4138.192s">"I'm going to end the match<br />with this attack"</p>
+      <p begin="4140.776s" xml:id="p1530" end="4142.025s">Ready.</p>
+      <p begin="4156.358s" xml:id="p1531" end="4158.567s">"Lee Ju-yong shoots"</p>
+      <p begin="4158.65s" xml:id="p1532" end="4162.525s">"What will be the result?"</p>
+      <p begin="4164.525s" xml:id="p1533" end="4165.817s">It's okay...</p>
+      <p begin="4169.567s" xml:id="p1534" end="4171.609s">"Oh Sang-young successfully defends"</p>
+      <p begin="4172.442s" xml:id="p1535" end="4175.317s">"Nice, Oh Sang-young"</p>
+      <p begin="4175.857s" xml:id="p1536" end="4176.983s">It's okay.</p>
+      <p begin="4177.15s" xml:id="p1537" end="4179.734s">-Just block him.<br />-Just block him. Good job.</p>
+      <p begin="4180.567s" xml:id="p1538" end="4182.776s">It's okay, Ju-yong...</p>
+      <p begin="4182.817s" xml:id="p1539" end="4183.983s">We'll win as long as we block him.</p>
+      <p begin="4184.192s" xml:id="p1540" end="4186.567s">It will be amazing<br />if we get extra time.</p>
+      <p begin="4187.108s" xml:id="p1541" end="4188.9s">Sang-young would go crazy.</p>
+      <p begin="4193.525s" xml:id="p1542" end="4194.65s">If we score this goal,</p>
+      <p begin="4194.692s" xml:id="p1543" end="4197.233s">our team will have a chance<br />to make a comeback.</p>
+      <p begin="4197.275s" xml:id="p1544" end="4198.858s">We have to score no matter what.</p>
+      <p begin="4199.9s" xml:id="p1545" end="4203.857s">Our team's victory flag<br />is in my hands.</p>
+      <p begin="4203.858s" xml:id="p1546" end="4205.65s">We have to block this goal<br />no matter what.</p>
+      <p begin="4205.9s" xml:id="p1547" end="4207.067s">Sang-young, forget about the team.</p>
+      <p begin="4207.108s" xml:id="p1548" end="4208.192s">Save the game for yourself.</p>
+      <p begin="4208.233s" xml:id="p1549" end="4210.484s">Please be quiet.</p>
+      <p begin="4210.525s" xml:id="p1550" end="4212.275s">My heart hurts so much.</p>
+      <p begin="4212.317s" xml:id="p1551" end="4213.857s">I feel like I'm going to faint.</p>
+      <p begin="4215.067s" xml:id="p1552" end="4215.983s">Okay, Lee Ju-yong can do it.</p>
+      <p begin="4216.025s" xml:id="p1553" end="4217.025s">Ready.</p>
+      <p begin="4218.317s" xml:id="p1554" end="4221.817s">"Oh Sang-young<br />must score no matter what"</p>
+      <p begin="4223.858s" xml:id="p1555" end="4225.858s">"Lee Ju-yong can win<br />if he just blocks him"</p>
+      <p begin="4226.275s" xml:id="p1556" end="4227.941s">"A match that causes sweaty palms"</p>
+      <p begin="4228.108s" xml:id="p1557" end="4231.358s">"What is the result?"</p>
+      <p begin="4233.983s" xml:id="p1558" end="4235.025s">He blocked it!</p>
+      <p begin="4235.067s" xml:id="p1559" end="4236.525s">We won!</p>
+      <p begin="4237.067s" xml:id="p1560" end="4238.442s">He blocked it!</p>
+      <p begin="4239.734s" xml:id="p1561" end="4241.609s">He blocked it!</p>
+      <p begin="4241.65s" xml:id="p1562" end="4243.067s">We won.</p>
+      <p begin="4244.233s" xml:id="p1563" end="4247.983s">"Team Red fails to get the benefit"</p>
+      <p begin="4248.025s" xml:id="p1564" end="4249.233s">It's okay.</p>
+      <p begin="4250.358s" xml:id="p1565" end="4251.65s">It's okay.</p>
+      <p begin="4252.067s" xml:id="p1566" end="4253.941s">I lost.</p>
+      <p begin="4253.983s" xml:id="p1567" end="4255.817s">You already did well.</p>
+      <p begin="4255.857s" xml:id="p1568" end="4257.4s">You're amazing.</p>
+      <p begin="4258.317s" xml:id="p1569" end="4259.358s">Even if we give them the benefit,</p>
+      <p begin="4259.4s" xml:id="p1570" end="4260.567s">we still have a chance to win.</p>
+      <p begin="4261.192s" xml:id="p1571" end="4262.776s">"Winning Throw"</p>
+      <p begin="4262.817s" xml:id="p1572" end="4265.9s">"Team Blue gets the benefit"</p>
+      <p begin="4266.358s" xml:id="p1573" end="4270.567s">"The night is getting darker"</p>
+      <p begin="4272.275s" xml:id="p1574" end="4275.65s">"Goseong Stadium<br />in Gangwon Province"</p>
+      <p begin="4279.025s" xml:id="p1575" end="4282.941s">"The players are waiting to enter<br />after the lights are turned on"</p>
+      <p begin="4284.442s" xml:id="p1576" end="4286.4s">The captain's position<br />is always heavy.</p>
+      <p begin="4286.858s" xml:id="p1577" end="4288.567s">Since I'm the captain,</p>
+      <p begin="4289.192s" xml:id="p1578" end="4291.983s">I have to lead them and make sure<br />no one gets eliminated.</p>
+      <p begin="4294.857s" xml:id="p1579" end="4298.275s">I'll make it to the national team<br />no matter what.</p>
+      <p begin="4299.317s" xml:id="p1580" end="4301.692s">I can't lose<br />now that I've come this far.</p>
+      <p begin="4303.776s" xml:id="p1581" end="4305.233s">I'm really going to do my best.</p>
+      <p begin="4305.275s" xml:id="p1582" end="4306.442s">Dodge me.</p>
+      <p begin="4310.941s" xml:id="p1583" end="4314.358s">I'll get a ticket<br />to the national team no matter what.</p>
+      <p begin="4314.9s" xml:id="p1584" end="4316.65s">The Korean national flag<br />is on the line.</p>
+      <p begin="4317.567s" xml:id="p1585" end="4319.192s">I'm going to win no matter what.</p>
+      <p begin="4320.941s" xml:id="p1586" end="4325.484s">"The players enter"</p>
+      <p begin="4330.734s" xml:id="p1587" end="4333.358s">It's a fierce battle to become</p>
+      <p begin="4333.4s" xml:id="p1588" end="4334.4s">the national dodgeball team.</p>
+      <p begin="4335.025s" xml:id="p1589" end="4336.858s">Iron Ball, Dodgeball Battle.</p>
+      <p begin="4337.317s" xml:id="p1590" end="4341.233s">We will now begin<br />the final selection match.</p>
+      <p begin="4341.65s" xml:id="p1591" end="4344.776s">The final selection match<br />will be two out of three rounds.</p>
+      <p begin="4345.317s" xml:id="p1592" end="4347.609s">The first team<br />to win two rounds wins.</p>
+      <p begin="4348.317s" xml:id="p1593" end="4349.692s">The losing team</p>
+      <p begin="4354.776s" xml:id="p1594" end="4359.025s">will lose two players.</p>
+      <p begin="4359.734s" xml:id="p1595" end="4361.233s">In order for our team<br />to avoid elimination,</p>
+      <p begin="4361.275s" xml:id="p1596" end="4363.233s">it's important<br />to win the first round.</p>
+      <p begin="4363.442s" xml:id="p1597" end="4365.358s">We have to win this time<br />no matter what.</p>
+      <p begin="4366.65s" xml:id="p1598" end="4370.9s">Your goal is on the screen.</p>
+      <p begin="4371.025s" xml:id="p1599" end="4375.609s">"Our goal?"</p>
+      <p begin="4380.734s" xml:id="p1600" end="4382.15s">"The goal is to be<br />on the national team"</p>
+      <p begin="4382.192s" xml:id="p1601" end="4384.317s">"The large Korean flag<br />is on the screen"</p>
+      <p begin="4387.525s" xml:id="p1602" end="4389.941s">I'm feeling the pressure<br />and burden again.</p>
+      <p begin="4390.941s" xml:id="p1603" end="4393.776s">"Nervous"</p>
+      <p begin="4394.025s" xml:id="p1604" end="4395.442s">My blood is boiling.</p>
+      <p begin="4395.9s" xml:id="p1605" end="4400.067s">Through the final selection match,<br />14 members will be selected</p>
+      <p begin="4400.108s" xml:id="p1606" end="4403.525s">for the national dodgeball team.</p>
+      <p begin="4404.15s" xml:id="p1607" end="4409.525s">I hope you'll do your best<br />to become the national team.</p>
+      <p begin="4424.233s" xml:id="p1608" end="4426.567s">"It has finally begun"</p>
+      <p begin="4427.442s" xml:id="p1609" end="4430.983s">"The final selection match<br />for the national team"</p>
+      <p begin="4434.4s" xml:id="p1610" end="4438.067s">"Team Blue's captain, Park Jun-woo"</p>
+      <p begin="4438.233s" xml:id="p1611" end="4442.025s">"Team Red's captain,<br />Choi Seong-hyeon"</p>
+      <p begin="4442.776s" xml:id="p1612" end="4445.692s">Before the final selection match,</p>
+      <p begin="4446.15s" xml:id="p1613" end="4448.358s">Park Jun-woo's team<br />received the benefit</p>
+      <p begin="4448.442s" xml:id="p1614" end="4450.734s">to select one player<br />to be on the outfield.</p>
+      <p begin="4451.192s" xml:id="p1615" end="4454.067s">Please select the player</p>
+      <p begin="4454.15s" xml:id="p1616" end="4456.358s">who will be on the outfield<br />from the other team.</p>
+      <p begin="4461.983s" xml:id="p1617" end="4464.192s">Captain Choi Seong-hyeon.</p>
+      <p begin="4464.4s" xml:id="p1618" end="4465.776s">"One outfielder"</p>
+      <p begin="4465.817s" xml:id="p1619" end="4468.317s">"Captain Choi Seong-hyeon<br />from Team Red is chosen"</p>
+      <p begin="4468.65s" xml:id="p1620" end="4471.317s">Don't we have to pick one opponent<br />to go to the outfield?</p>
+      <p begin="4471.609s" xml:id="p1621" end="4476.233s">But if we want to send away someone<br />who can't play well,</p>
+      <p begin="4476.275s" xml:id="p1622" end="4479.192s">we're more than capable<br />of doing that.</p>
+      <p begin="4479.233s" xml:id="p1623" end="4481.484s">He's the only one we can kick out.</p>
+      <p begin="4481.609s" xml:id="p1624" end="4483.484s">-It's him, right?<br />-We think alike.</p>
+      <p begin="4483.525s" xml:id="p1625" end="4485.857s">Choi Sexy.</p>
+      <p begin="4485.858s" xml:id="p1626" end="4488.817s">-He's really good at dodging.<br />-Choi Sexy.</p>
+      <p begin="4490.525s" xml:id="p1627" end="4492.734s">I believe in our team's skills.</p>
+      <p begin="4492.817s" xml:id="p1628" end="4495.567s">So I will attack more<br />from the outside.</p>
+      <p begin="4497.108s" xml:id="p1629" end="4499.941s">Choi Seong-hyeon is the outfielder.</p>
+      <p begin="4500.609s" xml:id="p1630" end="4505.567s">We'll begin the match<br />with two outside players.</p>
+      <p begin="4506.857s" xml:id="p1631" end="4509.776s">I'm going to trust my teammates<br />and do my best.</p>
+      <p begin="4510.108s" xml:id="p1632" end="4512.858s">Let's survive no matter what<br />and keep going.</p>
+      <p begin="4513.858s" xml:id="p1633" end="4515.4s">I'm going to crush you all.</p>
+      <p begin="4516.776s" xml:id="p1634" end="4518.692s">We're going to win.</p>
+      <p begin="4519.65s" xml:id="p1635" end="4520.734s">"Eight versus eight"</p>
+      <p begin="4520.776s" xml:id="p1636" end="4523.275s">"What is the result<br />of the final selection match?"</p>
+      <p begin="4525.525s" xml:id="p1637" end="4529.9s">We will now begin the first round.</p>
+      <p begin="4530.108s" xml:id="p1638" end="4531.358s">We can do it.</p>
+      <p begin="4532.442s" xml:id="p1639" end="4535.108s">Let's go!</p>
+      <p begin="4535.9s" xml:id="p1640" end="4539.442s">-Go! Fight!<br />-Fire!</p>
+      <p begin="4539.857s" xml:id="p1641" end="4542.4s">"Team Red outfielders,<br />Choi Seong-hyeon, Lee Jin-bong"</p>
+      <p begin="4542.817s" xml:id="p1642" end="4545.067s">-Top!<br />-Team!</p>
+      <p begin="4545.108s" xml:id="p1643" end="4546.067s">"Let's go, Team Blue!"</p>
+      <p begin="4546.358s" xml:id="p1644" end="4548.9s">"Team Blue outfielder, Lee Dong-gyu"</p>
+      <p begin="4549.108s" xml:id="p1645" end="4552.609s">"The decisive moment is approaching"</p>
+      <p begin="4552.858s" xml:id="p1646" end="4554.858s">Okay, please come out<br />for the jump ball.</p>
+      <p begin="4555.358s" xml:id="p1647" end="4557.484s">"Team Red's Kim Seung-min"</p>
+      <p begin="4557.692s" xml:id="p1648" end="4559.275s">"Team Blue's Lee Ju-yong"</p>
+      <p begin="4559.484s" xml:id="p1649" end="4560.817s">Let's go!</p>
+      <p begin="4560.941s" xml:id="p1650" end="4562.108s">Let's do this.</p>
+      <p begin="4562.15s" xml:id="p1651" end="4564.275s">Let's go. Relax.</p>
+      <p begin="4564.317s" xml:id="p1652" end="4566.15s">"The players are determined"</p>
+      <p begin="4566.192s" xml:id="p1653" end="4567.442s">Let's do this.</p>
+      <p begin="4567.484s" xml:id="p1654" end="4568.734s">Let's go!</p>
+      <p begin="4572.275s" xml:id="p1655" end="4573.317s">Let's go!</p>
+      <p begin="4573.358s" xml:id="p1656" end="4574.4s">Let's do this.</p>
+      <p begin="4579.776s" xml:id="p1657" end="4582.233s">"So..."</p>
+      <p begin="4582.275s" xml:id="p1658" end="4584.776s">"Which team will go first?"</p>
+      <p begin="4585.067s" xml:id="p1659" end="4588.358s">The final selection match<br />will begin now.</p>
+      <p begin="4588.567s" xml:id="p1660" end="4590.192s">Let's go all out.</p>
+      <p begin="4590.233s" xml:id="p1661" end="4591.692s">I'm going to go all out.</p>
+      <p begin="4592.025s" xml:id="p1662" end="4592.9s">Nice.</p>
+      <p begin="4592.941s" xml:id="p1663" end="4595.692s">It wasn't easy to get here.<br />I have to win.</p>
+      <p begin="4595.734s" xml:id="p1664" end="4596.941s">Focus on the game.</p>
+      <p begin="4596.983s" xml:id="p1665" end="4598.858s">Our team has to win<br />to move forward together.</p>
+      <p begin="4599.067s" xml:id="p1666" end="4600.941s">"I create the opportunity"</p>
+      <p begin="4600.983s" xml:id="p1667" end="4601.941s">That's right. We can dodge it.</p>
+      <p begin="4601.983s" xml:id="p1668" end="4604.941s">"For my team to achieve victory"</p>
+      <p begin="4606.484s" xml:id="p1669" end="4610.442s">The players that will be<br />the national representative of Korea</p>
+      <p begin="4610.941s" xml:id="p1670" end="4612.4s">is...</p>
+      <p begin="4615.442s" xml:id="p1671" end="4617.817s">Introducing the 14 players<br />of Korea's national dodgeball team,</p>
+      <p begin="4617.857s" xml:id="p1672" end="4622.817s">the Iron National Team.</p>
+      <p begin="4622.857s" xml:id="p1673" end="4624.941s">"The 14-member Iron National Team"</p>
+      <p begin="4624.983s" xml:id="p1674" end="4626.776s">The first opponent<br />for the warm-up match</p>
+      <p begin="4626.817s" xml:id="p1675" end="4629.858s">is the high school<br />dodgeball team from...</p>
+      <p begin="4630.858s" xml:id="p1676" end="4631.817s">That high school?</p>
+      <p begin="4631.857s" xml:id="p1677" end="4634.525s">I don't think they're<br />that threatening.</p>
+      <p begin="4634.567s" xml:id="p1678" end="4636.858s">I think we can wipe them out.</p>
+      <p begin="4636.9s" xml:id="p1679" end="4638.108s">It's the girls' team.</p>
+      <p begin="4638.15s" xml:id="p1680" end="4641.734s">The first warm-up match<br />for the national team begins.</p>
+    </div>
+  </body>
+</tt>

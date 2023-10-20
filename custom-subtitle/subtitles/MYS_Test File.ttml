@@ -1,0 +1,1083 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:timeBase="media" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+  <head>
+    <metadata>
+      <ttm:title></ttm:title>
+    </metadata>
+    <styling>
+      <style xml:id="s0" tts:backgroundColor="black" tts:fontStyle="normal" tts:fontSize="16px" tts:fontFamily="sansSerif" tts:color="white" />
+    </styling>
+    <layout>
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="start" xml:id="topLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="start" xml:id="centerLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="start" xml:id="bottomLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="center" xml:id="topCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="center" xml:id="centerСenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="center" xml:id="bottomCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="end" xml:id="topRight" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="end" xml:id="centerRight" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="end" xml:id="bottomRight" />
+    </layout>
+  </head>
+  <body style="s0">
+    <div>
+      <p begin="0.0s" xml:id="p0" end="0.334s" region="centerLeft">Title: Iron Monkey 2<br />story: TGPGMH001178<br />lang: MYS<br />SOM: 10:00:00:00</p>
+      <p begin="0.1s" xml:id="p1" end="1.225s">Terima kasih banyak-banyak.</p>
+      <p begin="1.567s" xml:id="p2" end="2.567s">Terima kasih.</p>
+      <p begin="3.15s" xml:id="p3" end="4.067s">Terima kasih.</p>
+      <p begin="5.192s" xml:id="p4" end="6.275s">Terima kasih.</p>
+      <p begin="8.067s" xml:id="p5" end="9.858s">Terima kasih banyak-banyak.</p>
+      <p begin="21.234s" xml:id="p6" end="22.317s">Habislah awak!</p>
+      <p begin="27.608s" xml:id="p7" end="28.608s">Harimau Jed.</p>
+      <p begin="29.192s" xml:id="p8" end="30.983s">Awak mencuri harta saya.</p>
+      <p begin="31.526s" xml:id="p9" end="33.691s">Awak bersekongkol<br />dengan orang Rusia!</p>
+      <p begin="33.775s" xml:id="p10" end="35.733s">Awak akan menerima balasannya!</p>
+      <p begin="42.858s" xml:id="p11" end="45.608s">Bertenang. Mari kita lihat apa<br />yang akan berlaku.</p>
+      <p begin="45.691s" xml:id="p12" end="47.567s">Tuan-tuan dan puan-puan.</p>
+      <p begin="47.733s" xml:id="p13" end="49.817s">Selamat datang, semua.</p>
+      <p begin="50.025s" xml:id="p14" end="52.317s">Mari kita mempersilakan Encik Bajove<br />memotong reben untuk kita.</p>
+      <p begin="52.4s" xml:id="p15" end="53.942s">Awak terlalu memuji saya.</p>
+      <p begin="54.607s" xml:id="p16" end="56.983s">Harimau Jed,<br />awak tuan rumah hari ini.</p>
+      <p begin="57.067s" xml:id="p17" end="59.317s">Ia menjadi kelaziman<br />untuk awak memotong reben itu.</p>
+      <p begin="59.4s" xml:id="p18" end="60.65s">Jika ia bukan kerana awak...</p>
+      <p begin="60.733s" xml:id="p19" end="62.192s">...kita takkan adakan majlis ini.</p>
+      <p begin="62.275s" xml:id="p20" end="64.359s">Kalau begitu, saya akan lakukannya.</p>
+      <p begin="64.442s" xml:id="p21" end="65.983s">Encik Bajove, silakan.</p>
+      <p begin="66.067s" xml:id="p22" end="66.9s">Silakan.</p>
+      <p begin="77.442s" xml:id="p23" end="79.442s">"Kelab"</p>
+      <p begin="168.15s" xml:id="p24" end="170.567s">Raja Monyet sudah tiba!</p>
+      <p begin="177.15s" xml:id="p25" end="179.608s">Inilah dia!</p>
+      <p begin="188.607s" xml:id="p26" end="190.858s">Inilah opera Cina yang terkenal...</p>
+      <p begin="190.942s" xml:id="p27" end="192.942s">...Raja Monyet Melawan 18 Sami.</p>
+      <p begin="194.775s" xml:id="p28" end="195.858s">Bagus.</p>
+      <p begin="221.65s" xml:id="p29" end="224.067s">Saya datang!</p>
+      <p begin="231.067s" xml:id="p30" end="232.983s">Mengapa monyet itu<br />berada di atas kepala sami?</p>
+      <p begin="233.067s" xml:id="p31" end="234.858s">Kawan-kawan, sudah tiba masanya.</p>
+      <p begin="235.067s" xml:id="p32" end="238.025s">Serang dia!</p>
+      <p begin="247.608s" xml:id="p33" end="249.025s">Mari kita pergi. Ayuh!</p>
+      <p begin="353.733s" xml:id="p34" end="354.775s">Bos.</p>
+      <p begin="362.359s" xml:id="p35" end="363.4s">Cepat!</p>
+      <p begin="431.9s" xml:id="p36" end="433.442s">- Serang mereka dari tepi.<br />- Ya.</p>
+      <p begin="480.484s" xml:id="p37" end="481.607s">Jin Tua, mari kita pergi.</p>
+      <p begin="487.733s" xml:id="p38" end="489.4s">Hati-hati! Monyet!</p>
+      <p begin="493.65s" xml:id="p39" end="494.65s">Jin Tua!</p>
+      <p begin="494.733s" xml:id="p40" end="496.983s">- Mata saya sakit.<br />- Jin Tua!</p>
+      <p begin="508.9s" xml:id="p41" end="513.526s">Saya Monyet Besi.<br />Saya akan kembali untuk bunuh awak!</p>
+      <p begin="522.484s" xml:id="p42" end="525.484s">Awak semua kalah. Awak harus minum.</p>
+      <p begin="528.484s" xml:id="p43" end="529.691s">Satu lagi pusingan.</p>
+      <p begin="537.067s" xml:id="p44" end="539.817s">- Enam, enam dan empat.<br />- Bagus!</p>
+      <p begin="556.942s" xml:id="p45" end="558.15s">Cepat!</p>
+      <p begin="558.234s" xml:id="p46" end="561.9s">- Cepat!<br />- Stabilkan bot!</p>
+      <p begin="564.817s" xml:id="p47" end="567.025s">- Apa saya harus buat?<br />- Hati-hati!</p>
+      <p begin="567.108s" xml:id="p48" end="569.025s">Tolong!</p>
+      <p begin="570.484s" xml:id="p49" end="573.942s">Tolong!</p>
+      <p begin="574.817s" xml:id="p50" end="576.608s">Tolong!</p>
+      <p begin="577.025s" xml:id="p51" end="578.817s">Tolong!</p>
+      <p begin="598.192s" xml:id="p52" end="600.526s">Ke tepi! Biar saya tolong awak!</p>
+      <p begin="600.607s" xml:id="p53" end="601.817s">Cepat!</p>
+      <p begin="604.025s" xml:id="p54" end="605.608s">Cepat!</p>
+      <p begin="610.275s" xml:id="p55" end="611.817s">Cepat!</p>
+      <p begin="614.607s" xml:id="p56" end="616.484s">Apa kita harus buat?</p>
+      <p begin="625.15s" xml:id="p57" end="627.15s">Cepat! Merangkak di atas tong!</p>
+      <p begin="627.234s" xml:id="p58" end="628.067s">Okey.</p>
+      <p begin="628.691s" xml:id="p59" end="629.608s">Cepat!</p>
+      <p begin="630.567s" xml:id="p60" end="631.691s">Hati-hati.</p>
+      <p begin="635.108s" xml:id="p61" end="636.9s">Cepat!</p>
+      <p begin="637.733s" xml:id="p62" end="638.775s">Ada jeram di depan.</p>
+      <p begin="638.858s" xml:id="p63" end="640.733s">Jika awak tak cepat,<br />kita semua akan lemas!</p>
+      <p begin="640.817s" xml:id="p64" end="641.691s">Merangkak lebih laju!</p>
+      <p begin="648.025s" xml:id="p65" end="649.067s">Cepat!</p>
+      <p begin="696.4s" xml:id="p66" end="697.275s">Bos.</p>
+      <p begin="697.359s" xml:id="p67" end="698.4s">Qian Xiaochun.</p>
+      <p begin="698.484s" xml:id="p68" end="700.317s">Saya akan beri awak tiga hari lagi.</p>
+      <p begin="700.733s" xml:id="p69" end="704.067s">JIka tak, saya akan cari awak<br />di mana saja awak menyorok!</p>
+      <p begin="704.15s" xml:id="p70" end="705.983s">Saya bukan jenis yang berhutang.</p>
+      <p begin="706.067s" xml:id="p71" end="707.526s">Saya akan beri awak wang itu!</p>
+      <p begin="712.775s" xml:id="p72" end="715.65s">Saya serahkan tugas ini<br />kepada awak.</p>
+      <p begin="716.4s" xml:id="p73" end="717.567s">Tiada masalah.</p>
+      <p begin="719.15s" xml:id="p74" end="721.65s">Ambillah duit ini.</p>
+      <p begin="722.234s" xml:id="p75" end="723.608s">Tidak perlu.</p>
+      <p begin="724.025s" xml:id="p76" end="726.4s">Saya hanya menyampaikan pesanan.</p>
+      <p begin="726.484s" xml:id="p77" end="727.942s">Ia kerja saya.</p>
+      <p begin="728.025s" xml:id="p78" end="729.733s">Saya patut membayar.</p>
+      <p begin="730.817s" xml:id="p79" end="731.942s">Jangan risau.</p>
+      <p begin="732.025s" xml:id="p80" end="734.275s">Pesanan ini akan tersebar<br />tak lama lagi.</p>
+      <p begin="734.359s" xml:id="p81" end="735.817s">Tolonglah.</p>
+      <p begin="746.942s" xml:id="p82" end="748.9s">Puan, jangan risau.</p>
+      <p begin="748.983s" xml:id="p83" end="750.9s">Maklumat itu akan tersebar<br />tak lama lagi.</p>
+      <p begin="750.983s" xml:id="p84" end="751.9s">Silakan.</p>
+      <p begin="754.733s" xml:id="p85" end="756.442s">
+        <span tts:fontStyle="italic">Saya Jin Tua.</span>
+      </p>
+      <p begin="756.526s" xml:id="p86" end="759.15s">
+        <span tts:fontStyle="italic">Saya akan beri awak maklumat.</span>
+      </p>
+      <p begin="759.234s" xml:id="p87" end="762.567s">
+        <span tts:fontStyle="italic">Wang yang banyak akan dibayar<br />untuk membunuh seseorang.</span>
+      </p>
+      <p begin="762.608s" xml:id="p88" end="765.484s">
+        <span tts:fontStyle="italic">Datang ke restoran teh petang ini.</span>
+      </p>
+      <p begin="765.567s" xml:id="p89" end="767.025s">Ada orang mahu mengupah<br />pembunuh upahan.</p>
+      <p begin="767.108s" xml:id="p90" end="769.526s">Saya dengar ada orang mahu mengupah<br />pembunuh upahan.</p>
+      <p begin="770.4s" xml:id="p91" end="772.108s">Ada orang mahu mengupah<br />pembunuh upahan.</p>
+      <p begin="772.192s" xml:id="p92" end="773.9s">Ada orang mahu mengupah<br />pembunuh upahan.</p>
+      <p begin="780.4s" xml:id="p93" end="781.775s">Tak guna.</p>
+      <p begin="785.442s" xml:id="p94" end="786.608s">Baiklah.</p>
+      <p begin="787.65s" xml:id="p95" end="789.4s">Bagaimana saya mahu dapatkan duit?</p>
+      <p begin="789.817s" xml:id="p96" end="791.65s">Saya dengar ada orang mahu mengupah<br />pembunuh upahan.</p>
+      <p begin="791.733s" xml:id="p97" end="792.691s">Di mana?</p>
+      <p begin="792.775s" xml:id="p98" end="793.733s">Restoran teh.</p>
+      <p begin="795.442s" xml:id="p99" end="796.526s">Ada orang akan bayar?</p>
+      <p begin="800.359s" xml:id="p100" end="801.983s">Di mana ada kemahuan,<br />di situ ada jalan.</p>
+      <p begin="804.442s" xml:id="p101" end="805.359s">Si tua buta...</p>
+      <p begin="805.442s" xml:id="p102" end="808.15s">...awak tahu semua maklumat.</p>
+      <p begin="808.234s" xml:id="p103" end="809.234s">Apa yang mereka sebarkan?</p>
+      <p begin="809.317s" xml:id="p104" end="810.192s">Beritahu saya.</p>
+      <p begin="811.067s" xml:id="p105" end="812.484s">Bayar dulu.</p>
+      <p begin="812.775s" xml:id="p106" end="814.108s">Saya akan menyanyikannya<br />kepada awak.</p>
+      <p begin="814.192s" xml:id="p107" end="815.733s">Okey, inilah duitnya.</p>
+      <p begin="816.608s" xml:id="p108" end="819.15s">Okey, dengar baik-baik.</p>
+      <p begin="821.983s" xml:id="p109" end="825.192s">
+        <span tts:fontStyle="italic">Biar Jin Tua menyanyikannya<br />kepada awak.</span>
+      </p>
+      <p begin="825.275s" xml:id="p110" end="827.817s">
+        <span tts:fontStyle="italic">Kawan lama saya kejam.</span>
+      </p>
+      <p begin="827.9s" xml:id="p111" end="830.733s">
+        <span tts:fontStyle="italic">Tidak mengapa, dia berjaya.</span>
+      </p>
+      <p begin="830.817s" xml:id="p112" end="833.9s">
+        <span tts:fontStyle="italic">Dia dengan kejam<br />meninggalkan kawannya.</span>
+      </p>
+      <p begin="833.983s" xml:id="p113" end="838.567s">
+        <span tts:fontStyle="italic">Bukankah ia menyedihkan?</span>
+      </p>
+      <p begin="853.15s" xml:id="p114" end="854.108s">Cik Puan...</p>
+      <p begin="854.192s" xml:id="p115" end="857.484s">...mereka sudah dapat mesej.</p>
+      <p begin="857.567s" xml:id="p116" end="860.567s">Namun saya tak rasa Monyet Besi<br />berada di kalangan mereka.</p>
+      <p begin="860.608s" xml:id="p117" end="861.526s">Menurut khabar angin...</p>
+      <p begin="861.607s" xml:id="p118" end="864.359s">...Monyet Besi tak pernah<br />tunjukkan muka dia.</p>
+      <p begin="864.442s" xml:id="p119" end="865.484s">Oleh itu...</p>
+      <p begin="866.4s" xml:id="p120" end="868.442s">Saya akan cari kebenaran.</p>
+      <p begin="874.567s" xml:id="p121" end="878.9s">Saya rasa anda tak takut mati.</p>
+      <p begin="878.983s" xml:id="p122" end="881.608s">Cik Puan saya meminta bantuan anda.</p>
+      <p begin="881.691s" xml:id="p123" end="885.108s">Keluarga anda akan dijaga<br />dengan baik.</p>
+      <p begin="885.192s" xml:id="p124" end="886.65s">Cukuplah kita beramah mesra.<br />Siapa sasaran?</p>
+      <p begin="886.733s" xml:id="p125" end="888.15s">Harimau Jed.</p>
+      <p begin="888.442s" xml:id="p126" end="891.234s">
+        <span tts:fontStyle="italic">Duit akan dibayar untuk<br />membunuh Harimau Jed.</span>
+      </p>
+      <p begin="891.317s" xml:id="p127" end="893.65s">
+        <span tts:fontStyle="italic">Datanglah<br />ke restoran teh petang ini.</span>
+      </p>
+      <p begin="893.733s" xml:id="p128" end="895.858s">
+        <span tts:fontStyle="italic">Jika anda hebat,<br />jangan terlepas peluang ini.</span>
+      </p>
+      <p begin="895.942s" xml:id="p129" end="900.359s">
+        <span tts:fontStyle="italic">Cepat, jangan berlengah-lengah.</span>
+      </p>
+      <p begin="900.442s" xml:id="p130" end="901.733s">Tak guna.</p>
+      <p begin="901.817s" xml:id="p131" end="903.442s">Mengapa awak tak menyanyikan<br />bahagian ini dulu?</p>
+      <p begin="905.025s" xml:id="p132" end="906.275s">Sepuluh ribu dolar.</p>
+      <p begin="906.359s" xml:id="p133" end="907.817s">Lapan ribu dolar.</p>
+      <p begin="907.9s" xml:id="p134" end="909.192s">Tiga ribu dolar.</p>
+      <p begin="909.275s" xml:id="p135" end="910.526s">Duit tak diperlukan.</p>
+      <p begin="911.983s" xml:id="p136" end="913.942s">Biar saya lakukannya.</p>
+      <p begin="914.025s" xml:id="p137" end="916.858s">Bukan senang mahu bunuh Harimau Jed.</p>
+      <p begin="916.942s" xml:id="p138" end="920.15s">Cik rasa mereka boleh lakukannya?</p>
+      <p begin="920.775s" xml:id="p139" end="922.4s">Apa awak kata?</p>
+      <p begin="922.484s" xml:id="p140" end="924.15s">Mari kita berlawan.</p>
+      <p begin="924.234s" xml:id="p141" end="927.275s">Kawan, siapa awak?</p>
+      <p begin="927.359s" xml:id="p142" end="929.607s">Saya tahu dia bukan pembunuh.</p>
+      <p begin="930.275s" xml:id="p143" end="932.526s">Beritahu saya nama awak.</p>
+      <p begin="933.15s" xml:id="p144" end="935.317s">Beritahu kami. Awak siapa?</p>
+      <p begin="936.275s" xml:id="p145" end="937.817s">Monyet Besi!</p>
+      <p begin="938.691s" xml:id="p146" end="939.817s">Penyelamat saya!</p>
+      <p begin="941.025s" xml:id="p147" end="942.484s">Akhirnya saya jumpa awak.</p>
+      <p begin="942.607s" xml:id="p148" end="944.442s">Bangunlah.</p>
+      <p begin="944.526s" xml:id="p149" end="945.983s">Lapan ahli keluarga saya dibunuh.</p>
+      <p begin="946.067s" xml:id="p150" end="948.108s">Saya belum mengebumikan mereka.</p>
+      <p begin="948.192s" xml:id="p151" end="949.608s">Saya tak mampu bayar awak.</p>
+      <p begin="951.359s" xml:id="p152" end="953.983s">Terimalah tunduk hormat saya.</p>
+      <p begin="954.067s" xml:id="p153" end="955.317s">Jangan buat begini.</p>
+      <p begin="955.691s" xml:id="p154" end="959.526s">Cik, pak cik,<br />saya hanya ada satu permintaan.</p>
+      <p begin="959.607s" xml:id="p155" end="961.858s">Lapan ahli keluarga gadis<br />yang miskin ini...</p>
+      <p begin="961.942s" xml:id="p156" end="963.192s">...telah dibunuh.</p>
+      <p begin="963.275s" xml:id="p157" end="966.025s">Saya mahu beri dia<br />semua upah saya...</p>
+      <p begin="966.108s" xml:id="p158" end="968.234s">...supaya dia boleh<br />mengaturkan pengebumian.</p>
+      <p begin="973.691s" xml:id="p159" end="975.942s">Awak boleh ambil duit ini dulu.</p>
+      <p begin="976.733s" xml:id="p160" end="978.4s">Ambil duit ini dan pulang.</p>
+      <p begin="978.484s" xml:id="p161" end="980.775s">Terima kasih, Monyet Besi.<br />Terima kasih, Cik.</p>
+      <p begin="982.484s" xml:id="p162" end="983.484s">Dalam masa tiga hari...</p>
+      <p begin="983.567s" xml:id="p163" end="985.607s">...saya akan hantar<br />kepala Harimau Jed.</p>
+      <p begin="989.234s" xml:id="p164" end="991.192s">Lakonan awak amat bagus.</p>
+      <p begin="991.275s" xml:id="p165" end="993.234s">Ia di luar imaginasi saya.</p>
+      <p begin="993.317s" xml:id="p166" end="994.858s">Saya belajar daripada awak.</p>
+      <p begin="996.025s" xml:id="p167" end="997.442s">Untuk meraikan kejayaan kita...</p>
+      <p begin="997.526s" xml:id="p168" end="1000.234s">...mari kita berseronok.</p>
+      <p begin="1000.317s" xml:id="p169" end="1002.691s">Saya akan buat segala-galanya<br />untuk awak.</p>
+      <p begin="1003.359s" xml:id="p170" end="1004.858s">Sebab itulah saya suka awak.</p>
+      <p begin="1004.942s" xml:id="p171" end="1005.817s">Ayuh.</p>
+      <p begin="1007.526s" xml:id="p172" end="1009.817s">Saya tak sangka<br />nama Monyet Besi amat berguna.</p>
+      <p begin="1009.9s" xml:id="p173" end="1012.691s">Kita boleh membuat duit<br />hanya dengan menyebut nama dia.</p>
+      <p begin="1013.234s" xml:id="p174" end="1015.317s">Mari kita bahagikan duit.</p>
+      <p begin="1020.691s" xml:id="p175" end="1021.858s">Banyaknya duit?</p>
+      <p begin="1021.942s" xml:id="p176" end="1022.942s">Ia untuk awak.</p>
+      <p begin="1023.858s" xml:id="p177" end="1025.025s">Saya tak perlukannya.</p>
+      <p begin="1025.108s" xml:id="p178" end="1026.608s">Awak harus bayar hutang awak.</p>
+      <p begin="1026.691s" xml:id="p179" end="1029.275s">Saya takkan bayar hutang saya.</p>
+      <p begin="1029.775s" xml:id="p180" end="1032.65s">Duit saya!</p>
+      <p begin="1035.192s" xml:id="p181" end="1036.607s">Punggung saya.</p>
+      <p begin="1038.359s" xml:id="p182" end="1039.234s">Duit saya.</p>
+      <p begin="1039.317s" xml:id="p183" end="1040.526s">"Derma untuk rumah anak yatim"</p>
+      <p begin="1051.359s" xml:id="p184" end="1053.817s">Terima kasih, semua.</p>
+      <p begin="1054.442s" xml:id="p185" end="1056.025s">Bos, dia tak bayar kita...</p>
+      <p begin="1056.108s" xml:id="p186" end="1057.025s">...tetapi dia mendermakannya.</p>
+      <p begin="1057.108s" xml:id="p187" end="1058.067s">Tangkap dia.</p>
+      <p begin="1058.942s" xml:id="p188" end="1061.65s">Turunkan saya!</p>
+      <p begin="1063.275s" xml:id="p189" end="1064.65s">Cepat.</p>
+      <p begin="1065.858s" xml:id="p190" end="1067.067s">Jangan lari!</p>
+      <p begin="1067.15s" xml:id="p191" end="1068.15s">Ikut sini!</p>
+      <p begin="1070.526s" xml:id="p192" end="1071.983s">Cepat!</p>
+      <p begin="1073.65s" xml:id="p193" end="1074.817s">Ke tepi!</p>
+      <p begin="1078.608s" xml:id="p194" end="1080.275s">Ke tepi!</p>
+      <p begin="1084.691s" xml:id="p195" end="1085.608s">"Bahaya"</p>
+      <p begin="1098.025s" xml:id="p196" end="1099.317s">Xiaochun.</p>
+      <p begin="1102.359s" xml:id="p197" end="1103.65s">Awak tak apa-apa?</p>
+      <p begin="1104.108s" xml:id="p198" end="1105.192s">Saya tak apa-apa.</p>
+      <p begin="1105.275s" xml:id="p199" end="1107.359s">Kita tak boleh berada di sini lagi.</p>
+      <p begin="1107.442s" xml:id="p200" end="1108.567s">Ke mana kita boleh pergi?</p>
+      <p begin="1108.608s" xml:id="p201" end="1109.691s">Mari kita pergi.</p>
+      <p begin="1110.607s" xml:id="p202" end="1111.65s">Silakan.</p>
+      <p begin="1112.275s" xml:id="p203" end="1113.484s">Tuan!</p>
+      <p begin="1113.691s" xml:id="p204" end="1114.775s">Masuklah.</p>
+      <p begin="1129.942s" xml:id="p205" end="1131.15s">Apa awak buat di sini?</p>
+      <p begin="1131.983s" xml:id="p206" end="1134.733s">Tuan, saya ada maklumat sulit.</p>
+      <p begin="1137.65s" xml:id="p207" end="1139.608s">Monyet Besi akan bunuh awak.</p>
+      <p begin="1140.567s" xml:id="p208" end="1142.275s">Semua orang tahu.</p>
+      <p begin="1143.192s" xml:id="p209" end="1144.858s">Apa kata awak beritahu saya...</p>
+      <p begin="1144.942s" xml:id="p210" end="1146.275s">...selepas saya mati?</p>
+      <p begin="1146.733s" xml:id="p211" end="1149.275s">Kali ini ia berbeza.</p>
+      <p begin="1150.4s" xml:id="p212" end="1152.442s">Saya dapat tahu sendiri.</p>
+      <p begin="1152.526s" xml:id="p213" end="1154.65s">Ada orang mengupah Monyet Besi.</p>
+      <p begin="1154.733s" xml:id="p214" end="1156.775s">Wanita itu baru kembali<br />dari luar negara.</p>
+      <p begin="1156.858s" xml:id="p215" end="1158.858s">Nama dia Zhang Xuemin.</p>
+      <p begin="1159.567s" xml:id="p216" end="1160.65s">Khabarnya...</p>
+      <p begin="1160.733s" xml:id="p217" end="1164.275s">...dia anak perempuan Zhang Wanqian.</p>
+      <p begin="1164.359s" xml:id="p218" end="1165.275s">Apa?</p>
+      <p begin="1165.359s" xml:id="p219" end="1167.317s">Dia mengupah pembunuh upahan<br />untuk membunuh awak.</p>
+      <p begin="1167.4s" xml:id="p220" end="1168.359s">Betulkah?</p>
+      <p begin="1168.442s" xml:id="p221" end="1170.817s">Sudah tentu. Ada satu lagi perkara.</p>
+      <p begin="1212.607s" xml:id="p222" end="1215.858s">"Dikehendaki"</p>
+      <p begin="1216.317s" xml:id="p223" end="1217.858s">Dia bukan salah seorang<br />daripada mereka.</p>
+      <p begin="1223.567s" xml:id="p224" end="1224.9s">Kaki saya.</p>
+      <p begin="1224.983s" xml:id="p225" end="1225.983s">Beri ia kepada saya.</p>
+      <p begin="1226.067s" xml:id="p226" end="1228.192s">Apa? Ini?</p>
+      <p begin="1228.275s" xml:id="p227" end="1230.192s">- Saya pernah nampak muka dia.<br />- Apa?</p>
+      <p begin="1231.192s" xml:id="p228" end="1233.484s">Betul. Saya kenal lelaki ini.</p>
+      <p begin="1233.567s" xml:id="p229" end="1234.607s">Awak kenal dia?</p>
+      <p begin="1234.65s" xml:id="p230" end="1235.858s">Sudah tentu.</p>
+      <p begin="1237.317s" xml:id="p231" end="1238.817s">Siapa nama dia?</p>
+      <p begin="1238.9s" xml:id="p232" end="1240.108s">Tunggu sekejap.</p>
+      <p begin="1241.025s" xml:id="p233" end="1242.817s">Saya lupa nama dia.</p>
+      <p begin="1242.9s" xml:id="p234" end="1245.607s">- Nama dia...<br />- Hei.</p>
+      <p begin="1245.65s" xml:id="p235" end="1248.192s">Saya gembira bertemu awak di sini.</p>
+      <p begin="1248.275s" xml:id="p236" end="1249.608s">Awak kenal dia.</p>
+      <p begin="1249.691s" xml:id="p237" end="1251.607s">Siapa nama dia?</p>
+      <p begin="1251.817s" xml:id="p238" end="1253.691s">Dia Jin Dafeng.</p>
+      <p begin="1253.775s" xml:id="p239" end="1256.15s">- Betul, Jin Dafeng!<br />- Betul, Jin Dafeng!</p>
+      <p begin="1256.234s" xml:id="p240" end="1257.275s">Betulkah awak kenal dia?</p>
+      <p begin="1257.359s" xml:id="p241" end="1258.567s">Ya, kami berkawan.</p>
+      <p begin="1258.608s" xml:id="p242" end="1260.442s">Jadi awak berkawan dengan ayah saya.</p>
+      <p begin="1260.526s" xml:id="p243" end="1261.9s">Kawan lama.</p>
+      <p begin="1262.775s" xml:id="p244" end="1264.607s">Dia ayah awak.</p>
+      <p begin="1264.65s" xml:id="p245" end="1265.526s">Ya.</p>
+      <p begin="1269.858s" xml:id="p246" end="1271.234s">Potret ini...</p>
+      <p begin="1271.317s" xml:id="p247" end="1273.275s">...membawa kembali banyak kenangan.</p>
+      <p begin="1273.359s" xml:id="p248" end="1274.359s">Di mana dia sekarang?</p>
+      <p begin="1276.4s" xml:id="p249" end="1278.234s">Panjang ceritanya.</p>
+      <p begin="1278.317s" xml:id="p250" end="1280.567s">Beginilah,<br />mari kita cari tempat duduk.</p>
+      <p begin="1280.608s" xml:id="p251" end="1281.775s">Saya akan beritahu awak.</p>
+      <p begin="1281.858s" xml:id="p252" end="1282.817s">- Okey.<br />- Mari kita pergi.</p>
+      <p begin="1285.608s" xml:id="p253" end="1287.025s">Mari kita minta dia<br />belanja kita makan.</p>
+      <p begin="1290.817s" xml:id="p254" end="1292.359s">Hidangan awak sudah sampai.</p>
+      <p begin="1292.442s" xml:id="p255" end="1295.484s">Bertenang. Nikmati makanan.</p>
+      <p begin="1295.567s" xml:id="p256" end="1296.65s">Budak!</p>
+      <p begin="1296.733s" xml:id="p257" end="1298.317s">Mana ikan yang kami pesan?</p>
+      <p begin="1298.4s" xml:id="p258" end="1300.15s">Kami datang untuk makan ikan.</p>
+      <p begin="1300.234s" xml:id="p259" end="1301.275s">Cepat.</p>
+      <p begin="1301.359s" xml:id="p260" end="1302.4s">Okey. Ia sedang dimasak.</p>
+      <p begin="1302.484s" xml:id="p261" end="1303.359s">Seperkara lagi...</p>
+      <p begin="1303.442s" xml:id="p262" end="1304.858s">...beri kami sarang burung<br />untuk pencuci mulut.</p>
+      <p begin="1304.942s" xml:id="p263" end="1306.4s">Baiklah. Nanti saya datang balik.</p>
+      <p begin="1309.733s" xml:id="p264" end="1312.15s">Semuanya makanan kegemaran<br />ayah awak.</p>
+      <p begin="1312.234s" xml:id="p265" end="1315.108s">Saya pasti awak akan<br />menyukainya juga.</p>
+      <p begin="1315.192s" xml:id="p266" end="1316.983s">Ayah saya makan seperti ini<br />setiap hari?</p>
+      <p begin="1318.608s" xml:id="p267" end="1320.067s">Adakah dia mampu?</p>
+      <p begin="1321.317s" xml:id="p268" end="1323.942s">Saya dan ayah awak<br />tak berkira tentang duit.</p>
+      <p begin="1324.025s" xml:id="p269" end="1326.317s">Saya selalu belanja dia makan.</p>
+      <p begin="1326.4s" xml:id="p270" end="1328.067s">- Betul?<br />- Ya.</p>
+      <p begin="1328.15s" xml:id="p271" end="1329.942s">Jadi, hari ini...</p>
+      <p begin="1330.025s" xml:id="p272" end="1331.983s">...kami gembira menjadi tetamu awak.</p>
+      <p begin="1333.817s" xml:id="p273" end="1334.691s">Nah.</p>
+      <p begin="1335.359s" xml:id="p274" end="1337.067s">Pergi lihat jika<br />sarang burung sudah siap.</p>
+      <p begin="1337.15s" xml:id="p275" end="1338.608s">- Budak!<br />- Bagaimana dengannya?</p>
+      <p begin="1341.442s" xml:id="p276" end="1343.067s">Lokasi Jin Dafeng.</p>
+      <p begin="1343.858s" xml:id="p277" end="1346.108s">Ayah saya?<br />Apa yang berlaku kepada dia?</p>
+      <p begin="1346.691s" xml:id="p278" end="1347.65s">Sebenarnya...</p>
+      <p begin="1348.192s" xml:id="p279" end="1349.942s">...kami sedang memikirkannya.</p>
+      <p begin="1350.025s" xml:id="p280" end="1352.567s">Kami tak pasti jika kami mahu<br />beritahu awak perkara sebenar.</p>
+      <p begin="1353.733s" xml:id="p281" end="1354.983s">Sudah tentu kita harus beritahu dia.</p>
+      <p begin="1355.067s" xml:id="p282" end="1356.484s">Jin Dafeng ialah ayahnya.</p>
+      <p begin="1356.567s" xml:id="p283" end="1357.608s">Kita harus beritahu dia.</p>
+      <p begin="1357.691s" xml:id="p284" end="1359.817s">- Saya rasa awak patut...<br />- Ya, betul.</p>
+      <p begin="1359.9s" xml:id="p285" end="1362.275s">Berapa banyak duit yang awak ada<br />untuk mencari ayah awak?</p>
+      <p begin="1362.359s" xml:id="p286" end="1363.4s">Biar saya lihat.</p>
+      <p begin="1363.484s" xml:id="p287" end="1365.275s">Jangan tunjukkan duit awak di sini.</p>
+      <p begin="1365.359s" xml:id="p288" end="1366.983s">Saya lebih arif tentang hal ini<br />berbanding orang lain.</p>
+      <p begin="1367.067s" xml:id="p289" end="1370.442s">Jangan risau. Kami akan pastikan<br />awak dapat cari ayah awak.</p>
+      <p begin="1370.526s" xml:id="p290" end="1373.192s">Saya sudah lama menunggu<br />sarang burung kita.</p>
+      <p begin="1373.275s" xml:id="p291" end="1374.359s">Apa yang tak kena?</p>
+      <p begin="1381.817s" xml:id="p292" end="1383.359s">Tangkap dia!</p>
+      <p begin="1383.983s" xml:id="p293" end="1384.942s">Pukul dia!</p>
+      <p begin="1421.567s" xml:id="p294" end="1422.942s">Habislah awak!</p>
+      <p begin="1423.691s" xml:id="p295" end="1425.275s">Mari kita lari!</p>
+      <p begin="1427.108s" xml:id="p296" end="1429.275s">Ada seorang lagi<br />di belakang kami!</p>
+      <p begin="1433.858s" xml:id="p297" end="1435.275s">Awak mahu lari ke mana?</p>
+      <p begin="1437.9s" xml:id="p298" end="1439.4s">Selamatkan saya.</p>
+      <p begin="1444.484s" xml:id="p299" end="1446.192s">Tolong!</p>
+      <p begin="1450.9s" xml:id="p300" end="1452.359s">Mari kita lari.</p>
+      <p begin="1453.733s" xml:id="p301" end="1456.108s">Kawan, awak ada ramai musuh.</p>
+      <p begin="1456.192s" xml:id="p302" end="1457.15s">Dalam masa yang singkat...</p>
+      <p begin="1457.234s" xml:id="p303" end="1458.442s">...begitu ramai orang<br />menyerang kita.</p>
+      <p begin="1458.526s" xml:id="p304" end="1459.4s">Uruskan mereka.</p>
+      <p begin="1459.484s" xml:id="p305" end="1461.4s">Betul, pukul dia.</p>
+      <p begin="1461.484s" xml:id="p306" end="1462.442s">- Pukul dia.<br />- Cepat.</p>
+      <p begin="1465.817s" xml:id="p307" end="1471.817s">Gerakan akar pokok tua,<br />tiada angin boleh lalu.</p>
+      <p begin="1471.9s" xml:id="p308" end="1478.775s">Gerakan akar pokok tua,<br />tiada angin boleh lalu.</p>
+      <p begin="1480.691s" xml:id="p309" end="1482.15s">Gerakan akar pokok tua...</p>
+      <p begin="1482.234s" xml:id="p310" end="1484.4s">Saya kalahkan awak<br />dengan satu pukulan.</p>
+      <p begin="1485.65s" xml:id="p311" end="1487.65s">- Hebat.<br />- Hebat.</p>
+      <p begin="1489.359s" xml:id="p312" end="1490.608s">Berambus.</p>
+      <p begin="1492.567s" xml:id="p313" end="1493.65s">Bos.</p>
+      <p begin="1494.234s" xml:id="p314" end="1496.15s">Kita tak perlu beramah mesra.</p>
+      <p begin="1496.234s" xml:id="p315" end="1497.108s">Tolong beritahu saya...</p>
+      <p begin="1497.192s" xml:id="p316" end="1499.025s">...bagaimana kita mahu<br />langsaikan hutang saya?</p>
+      <p begin="1499.108s" xml:id="p317" end="1501.025s">- Ya, betul.<br />- Kita tak perlu beramah mesra.</p>
+      <p begin="1501.108s" xml:id="p318" end="1502.817s">Semua hutang awak dibatalkan.</p>
+      <p begin="1502.9s" xml:id="p319" end="1504.317s">Okey.</p>
+      <p begin="1504.858s" xml:id="p320" end="1506.15s">Berambus.</p>
+      <p begin="1522.025s" xml:id="p321" end="1522.9s">Jin Tua.</p>
+      <p begin="1523.858s" xml:id="p322" end="1524.9s">Monyet?</p>
+      <p begin="1539.65s" xml:id="p323" end="1541.567s">Saya mencari awak selama ini.</p>
+      <p begin="1542.9s" xml:id="p324" end="1544.858s">Saya baru dapat tahu<br />di mana awak berada.</p>
+      <p begin="1546.567s" xml:id="p325" end="1548.234s">Akhirnya,<br />saya tahu awak berada di sini.</p>
+      <p begin="1557.733s" xml:id="p326" end="1560.4s">Pada mulanya, saya ingat<br />awak pulang ke rumah awak.</p>
+      <p begin="1561.608s" xml:id="p327" end="1562.858s">Lihatlah saya.</p>
+      <p begin="1562.942s" xml:id="p328" end="1564.275s">Bagaimana saya boleh pulang?</p>
+      <p begin="1564.359s" xml:id="p329" end="1566.192s">Bagaimana saya mahu berdepan<br />dengan keluarga saya?</p>
+      <p begin="1567.359s" xml:id="p330" end="1568.858s">Apa yang awak mahu buat?</p>
+      <p begin="1569.775s" xml:id="p331" end="1571.317s">Bagaimana saya boleh membantu?</p>
+      <p begin="1572.65s" xml:id="p332" end="1574.067s">Saya harap pada suatu hari nanti...</p>
+      <p begin="1574.15s" xml:id="p333" end="1576.108s">...awak boleh beritahu<br />isteri saya dan anak lelaki saya...</p>
+      <p begin="1576.192s" xml:id="p334" end="1577.607s">...saya jenis orang apa.</p>
+      <p begin="1578.234s" xml:id="p335" end="1579.15s">Baiklah.</p>
+      <p begin="1581.817s" xml:id="p336" end="1583.607s">Namun apa kata awak sendiri<br />yang beritahu mereka?</p>
+      <p begin="1583.65s" xml:id="p337" end="1585.608s">Tidak boleh.</p>
+      <p begin="1586.15s" xml:id="p338" end="1588.484s">Mereka fikir<br />saya tak bertanggungjawab.</p>
+      <p begin="1589.484s" xml:id="p339" end="1591.359s">Saya meninggalkan keluarga saya.</p>
+      <p begin="1591.442s" xml:id="p340" end="1594.526s">Saya tak ada alasan untuk mereka.</p>
+      <p begin="1596.983s" xml:id="p341" end="1597.942s">Jin Tua.</p>
+      <p begin="1604.526s" xml:id="p342" end="1605.942s">Saya akan jaga mereka untuk awak.</p>
+      <p begin="1614.691s" xml:id="p343" end="1615.567s">Cepat.</p>
+      <p begin="1617.691s" xml:id="p344" end="1618.65s">Pergi.</p>
+      <p begin="1630.526s" xml:id="p345" end="1631.567s">Cepat.</p>
+      <p begin="1634.359s" xml:id="p346" end="1635.607s">Ayuh.</p>
+      <p begin="1635.65s" xml:id="p347" end="1636.858s">Awak tak ada pintu?</p>
+      <p begin="1636.942s" xml:id="p348" end="1638.526s">Sudah tentu ada pintu.<br />Namun ia bukan pintu saya.</p>
+      <p begin="1638.607s" xml:id="p349" end="1640.442s">- Ia bukan pintu awak?<br />- Ia bukan rumah saya juga.</p>
+      <p begin="1640.526s" xml:id="p350" end="1642.817s">Rumah ini cantik.<br />Kita tinggal di sini dulu.</p>
+      <p begin="1649.608s" xml:id="p351" end="1651.317s">Bagaimana? Cantik tak?</p>
+      <p begin="1651.567s" xml:id="p352" end="1653.234s">- Tinggal bersama kami.<br />- Saya?</p>
+      <p begin="1653.317s" xml:id="p353" end="1654.567s">Jika awak tak suka tingkat ini...</p>
+      <p begin="1654.608s" xml:id="p354" end="1656.484s">...awak boleh lihat tingkat atas.</p>
+      <p begin="1656.567s" xml:id="p355" end="1659.15s">Tidak, bukan itu maksud saya.</p>
+      <p begin="1659.234s" xml:id="p356" end="1660.607s">Saya tak mahu membebankan awak.</p>
+      <p begin="1660.65s" xml:id="p357" end="1662.442s">Secara serius, apa kena dengan awak?</p>
+      <p begin="1662.526s" xml:id="p358" end="1664.317s">Beritahu dia maksud kawan.</p>
+      <p begin="1664.4s" xml:id="p359" end="1665.275s">Okey.</p>
+      <p begin="1667.108s" xml:id="p360" end="1668.775s">Kami mengambil kesempatan<br />terhadap rakan kami.</p>
+      <p begin="1668.858s" xml:id="p361" end="1670.691s">Kami mengkhianati rakan kami.</p>
+      <p begin="1670.942s" xml:id="p362" end="1671.983s">Faham?</p>
+      <p begin="1672.4s" xml:id="p363" end="1675.192s">
+        <span tts:fontStyle="italic">Lelaki itu meninggalkan rumah<br />berdekad-dekad lamanya.</span>
+      </p>
+      <p begin="1675.275s" xml:id="p364" end="1679.567s">
+        <span tts:fontStyle="italic">Isteri dan anaknya menunggu<br />dalam kesedihan.</span>
+      </p>
+      <p begin="1679.608s" xml:id="p365" end="1683.942s">
+        <span tts:fontStyle="italic">Budak itu cuba mencari ayahnya.</span>
+      </p>
+      <p begin="1684.025s" xml:id="p366" end="1687.359s">
+        <span tts:fontStyle="italic">Dia tak menyapa anaknya sendiri.</span>
+      </p>
+      <p begin="1687.442s" xml:id="p367" end="1691.067s">
+        <span tts:fontStyle="italic">Ayahnya harus memendam kedukaannya.</span>
+      </p>
+      <p begin="1704.234s" xml:id="p368" end="1705.567s">Awak bawa potret itu bersama awak.</p>
+      <p begin="1705.608s" xml:id="p369" end="1708.025s">Orang mungkin fikir dia orang<br />yang dikehendaki.</p>
+      <p begin="1710.607s" xml:id="p370" end="1712.359s">Saya sudah bertahun-tahun<br />tak jumpa ayah saya.</p>
+      <p begin="1713.108s" xml:id="p371" end="1714.65s">Saya tertanya-tanya<br />bagaimana dia berubah.</p>
+      <p begin="1715.65s" xml:id="p372" end="1716.942s">Awak lebih bertuah daripada kami.</p>
+      <p begin="1717.025s" xml:id="p373" end="1718.567s">Saya tak pernah jumpa ibu bapa saya.</p>
+      <p begin="1718.608s" xml:id="p374" end="1720.983s">Betul. Kami berdua anak yatim.</p>
+      <p begin="1723.192s" xml:id="p375" end="1724.608s">Maksud awak...</p>
+      <p begin="1724.691s" xml:id="p376" end="1726.858s">...awak membesar<br />di rumah anak yatim?</p>
+      <p begin="1726.942s" xml:id="p377" end="1729.025s">Kami tak mahu awak bernasib malang<br />seperti kami.</p>
+      <p begin="1729.108s" xml:id="p378" end="1731.025s">Kami akan bantu awak cari ayah awak.</p>
+      <p begin="1755.526s" xml:id="p379" end="1756.526s">- Tak guna!<br />- Tak guna!</p>
+      <p begin="1756.607s" xml:id="p380" end="1757.775s">Orang-orang asing...</p>
+      <p begin="1757.858s" xml:id="p381" end="1759.4s">...kami wakil bandar ini.</p>
+      <p begin="1759.484s" xml:id="p382" end="1761.108s">Siapa peduli?</p>
+      <p begin="1765.192s" xml:id="p383" end="1767.775s">Jin, apa yang awak buat?</p>
+      <p begin="1767.858s" xml:id="p384" end="1771.317s">Berani mereka buat begini<br />secara terang-terangan.</p>
+      <p begin="1771.4s" xml:id="p385" end="1773.108s">Janganlah marah.<br />Awak tak boleh bantu mereka.</p>
+      <p begin="1773.192s" xml:id="p386" end="1774.983s">Betul, ia selalu berlaku.</p>
+      <p begin="1775.067s" xml:id="p387" end="1776.607s">Betul, awak tak boleh selesaikannya.</p>
+      <p begin="1776.65s" xml:id="p388" end="1778.192s">Ayuh. Kita harus buat sesuatu.</p>
+      <p begin="1778.275s" xml:id="p389" end="1780.359s">Mari kita pergi.</p>
+      <p begin="1782.108s" xml:id="p390" end="1783.359s">Pistol ini bagus.</p>
+      <p begin="1783.442s" xml:id="p391" end="1784.775s">Ia berkuasa.</p>
+      <p begin="1784.858s" xml:id="p392" end="1787.65s">Ya, kami berpuas hati<br />dengan produk awak.</p>
+      <p begin="1787.733s" xml:id="p393" end="1789.234s">Ya.</p>
+      <p begin="1789.317s" xml:id="p394" end="1791.484s">Tolong beritahu bos awak.</p>
+      <p begin="1791.567s" xml:id="p395" end="1792.9s">Sediakan duit.</p>
+      <p begin="1792.983s" xml:id="p396" end="1795.442s">Saya akan hantar barang<br />ke tempat yang sama.</p>
+      <p begin="1795.526s" xml:id="p397" end="1797.067s">Tiada masalah.</p>
+      <p begin="1801.317s" xml:id="p398" end="1803.025s">- Bagus.<br />- Ya.</p>
+      <p begin="1805.192s" xml:id="p399" end="1806.733s">Saya akan bertemu seseorang.</p>
+      <p begin="1806.817s" xml:id="p400" end="1808.275s">Dia kenalan ayah awak.</p>
+      <p begin="1808.359s" xml:id="p401" end="1810.192s">Buat seperti yang saya suruh, faham?</p>
+      <p begin="1817.733s" xml:id="p402" end="1819.067s">Ingat.</p>
+      <p begin="1827.608s" xml:id="p403" end="1828.817s">Apa khabar?</p>
+      <p begin="1828.9s" xml:id="p404" end="1830.359s">Awak menepati masa.</p>
+      <p begin="1830.442s" xml:id="p405" end="1831.275s">Silakan duduk.</p>
+      <p begin="1835.317s" xml:id="p406" end="1838.234s">- Saya selalu...<br />- Jangan berpura-pura.</p>
+      <p begin="1838.317s" xml:id="p407" end="1839.858s">Saya tahu nama awak Qian Xiaochun.</p>
+      <p begin="1839.942s" xml:id="p408" end="1841.607s">Saya sudah menyiasatnya.</p>
+      <p begin="1842.192s" xml:id="p409" end="1844.108s">Kalau begitu...</p>
+      <p begin="1844.192s" xml:id="p410" end="1847.15s">...awak kenal dia?</p>
+      <p begin="1849.9s" xml:id="p411" end="1851.192s">Monyet Besi?</p>
+      <p begin="1852.192s" xml:id="p412" end="1853.567s">Awak amat berpengalaman.</p>
+      <p begin="1853.608s" xml:id="p413" end="1856.025s">Awak pasti veteran dalam masyarakat.</p>
+      <p begin="1856.108s" xml:id="p414" end="1857.691s">Saya jumpa awak hari itu...</p>
+      <p begin="1857.775s" xml:id="p415" end="1860.025s">...kerana dia yang memintanya.</p>
+      <p begin="1860.108s" xml:id="p416" end="1861.4s">Tidak mengapa.</p>
+      <p begin="1861.484s" xml:id="p417" end="1864.359s">Jika awak boleh buat apa<br />yang Cik Puan saya mahu...</p>
+      <p begin="1864.442s" xml:id="p418" end="1866.608s">...kami akan bayar awak.</p>
+      <p begin="1866.691s" xml:id="p419" end="1869.775s">Siapa dia adalah tak penting.</p>
+      <p begin="1869.858s" xml:id="p420" end="1870.983s">Saya percayakan awak.</p>
+      <p begin="1871.067s" xml:id="p421" end="1872.442s">Beritahu kami apa yang awak mahu.</p>
+      <p begin="1872.526s" xml:id="p422" end="1874.15s">Dia akan lakukannya.</p>
+      <p begin="1874.234s" xml:id="p423" end="1875.4s">Betul?</p>
+      <p begin="1876.65s" xml:id="p424" end="1878.108s">Dia tanya jika awak mahu cari<br />ayah awak.</p>
+      <p begin="1879.526s" xml:id="p425" end="1881.234s">Awak berasa lega sekarang?</p>
+      <p begin="1881.317s" xml:id="p426" end="1882.733s">Beritahu kami apa yang awak mahu.</p>
+      <p begin="1891.234s" xml:id="p427" end="1892.942s">Saya datang untuk mencari ayah saya.</p>
+      <p begin="1893.025s" xml:id="p428" end="1894.192s">Namun saya tak kenal sesiapa.</p>
+      <p begin="1894.275s" xml:id="p429" end="1896.108s">Mujurlah saya jumpa awak.</p>
+      <p begin="1898.607s" xml:id="p430" end="1900.067s">Betul kata ibu saya.</p>
+      <p begin="1900.15s" xml:id="p431" end="1902.817s">Saya akan jumpa seseorang<br />yang akan membantu saya.</p>
+      <p begin="1902.9s" xml:id="p432" end="1905.275s">
+        <span tts:fontStyle="italic">Awak tak bernasib baik<br />bertemu dengan kami.</span>
+      </p>
+      <p begin="1907.942s" xml:id="p433" end="1909.607s">Baiklah, saya setuju.</p>
+      <p begin="1909.65s" xml:id="p434" end="1910.733s">Tiada masalah.</p>
+      <p begin="1912.15s" xml:id="p435" end="1914.65s">Saya harap semuanya berjalan lancar.</p>
+      <p begin="1924.192s" xml:id="p436" end="1925.817s">Apa yang dia kata?</p>
+      <p begin="1925.9s" xml:id="p437" end="1927.65s">Dia kata ia tak mudah.</p>
+      <p begin="1927.733s" xml:id="p438" end="1930.484s">Ramai orang mencari ayah awak juga.</p>
+      <p begin="1930.567s" xml:id="p439" end="1932.15s">Bukan saya sahaja<br />yang mencari ayah saya?</p>
+      <p begin="1932.234s" xml:id="p440" end="1933.108s">Tidak juga.</p>
+      <p begin="1933.192s" xml:id="p441" end="1934.65s">Mereka mencari masalah.</p>
+      <p begin="1934.733s" xml:id="p442" end="1935.691s">Ia teruk bagi awak.</p>
+      <p begin="1935.775s" xml:id="p443" end="1936.9s">Apa saya harus buat?</p>
+      <p begin="1937.192s" xml:id="p444" end="1938.359s">Tentang hal ini...</p>
+      <p begin="1940.234s" xml:id="p445" end="1942.234s">Saya berjanji saya akan<br />tolong awak cari ayah awak.</p>
+      <p begin="1942.317s" xml:id="p446" end="1943.567s">Biar saya uruskan mereka.</p>
+      <p begin="1943.608s" xml:id="p447" end="1944.484s">Tidak mungkin.</p>
+      <p begin="1944.817s" xml:id="p448" end="1946.234s">Beritahu saya siapa mereka.</p>
+      <p begin="1946.317s" xml:id="p449" end="1947.567s">Biar saya uruskan mereka.</p>
+      <p begin="1947.608s" xml:id="p450" end="1948.607s">Awak?</p>
+      <p begin="1948.65s" xml:id="p451" end="1949.608s">- Ya.<br />- Sebenarnya...</p>
+      <p begin="1949.691s" xml:id="p452" end="1952.359s">Saya harus selesaikan<br />hal saya sendiri.</p>
+      <p begin="1952.442s" xml:id="p453" end="1953.65s">Saya tak mahu awak terlibat.</p>
+      <p begin="1955.4s" xml:id="p454" end="1956.9s">Kami siapa bagi awak?</p>
+      <p begin="1956.983s" xml:id="p455" end="1958.192s">Rakan.</p>
+      <p begin="1958.275s" xml:id="p456" end="1959.526s">Apa yang rakan harus buat?</p>
+      <p begin="1959.607s" xml:id="p457" end="1961.15s">Lakukan semuanya bersama-sama.</p>
+      <p begin="1961.234s" xml:id="p458" end="1962.108s">Betul.</p>
+      <p begin="1962.526s" xml:id="p459" end="1963.9s">Saya akan tolong awak.</p>
+      <p begin="1963.983s" xml:id="p460" end="1966.607s">Namun awak harus ikut arahan saya.</p>
+      <p begin="2010.942s" xml:id="p461" end="2012.067s">Ada apa?</p>
+      <p begin="2014.359s" xml:id="p462" end="2015.775s">Itulah sasaran.</p>
+      <p begin="2015.858s" xml:id="p463" end="2016.983s">Biar saya lakukannya.</p>
+      <p begin="2020.484s" xml:id="p464" end="2022.442s">Saya datang!</p>
+      <p begin="2035.275s" xml:id="p465" end="2036.607s">Saya Monyet Besi.</p>
+      <p begin="2036.65s" xml:id="p466" end="2038.234s">Tinggalkan senjata awak.</p>
+      <p begin="2042.526s" xml:id="p467" end="2043.607s">Jangan takut.</p>
+      <p begin="2043.65s" xml:id="p468" end="2045.359s">Jika awak tinggalkan senjata...</p>
+      <p begin="2045.442s" xml:id="p469" end="2047.15s">...saya akan lepaskan awak.</p>
+      <p begin="2050.567s" xml:id="p470" end="2052.192s">Adakah mereka terdiam kerana takut?</p>
+      <p begin="2060.442s" xml:id="p471" end="2061.442s">Aneh.</p>
+      <p begin="2067.567s" xml:id="p472" end="2068.65s">Awak siapa?</p>
+      <p begin="2070.858s" xml:id="p473" end="2072.4s">Saya Monyet Besi.</p>
+      <p begin="2073.775s" xml:id="p474" end="2075.108s">Awak Monyet Besi?</p>
+      <p begin="2075.192s" xml:id="p475" end="2076.567s">Awak kenal saya siapa?</p>
+      <p begin="2076.608s" xml:id="p476" end="2077.608s">Awak?</p>
+      <p begin="2079.025s" xml:id="p477" end="2081.607s">Awak penyeludup<br />dan penjual senjata api!</p>
+      <p begin="2081.65s" xml:id="p478" end="2082.608s">Awak penipu...</p>
+      <p begin="2082.691s" xml:id="p479" end="2084.15s">...yang berpura-pura<br />menjadi Monyet Besi.</p>
+      <p begin="2084.234s" xml:id="p480" end="2086.442s">Berani awak berkata begitu.</p>
+      <p begin="2090.983s" xml:id="p481" end="2092.567s">- Punggung saya sakit!<br />- Xiaochun.</p>
+      <p begin="2092.608s" xml:id="p482" end="2093.65s">Awak cedera?</p>
+      <p begin="2093.733s" xml:id="p483" end="2095.4s">Dia pandai berlawan.</p>
+      <p begin="2095.484s" xml:id="p484" end="2096.317s">Giliran awak!</p>
+      <p begin="2096.4s" xml:id="p485" end="2097.608s">- Baiklah.<br />- Biar saya tolong awak.</p>
+      <p begin="2126.484s" xml:id="p486" end="2128.067s">Budak, awak lebih pandai berlawan.</p>
+      <p begin="2128.15s" xml:id="p487" end="2129.275s">Sudah tentu.</p>
+      <p begin="2168.442s" xml:id="p488" end="2169.317s">Saya akan tolong dia.</p>
+      <p begin="2169.4s" xml:id="p489" end="2170.4s">Mari sini.</p>
+      <p begin="2170.817s" xml:id="p490" end="2172.775s">Biar dia berlawan.</p>
+      <p begin="2184.9s" xml:id="p491" end="2187.025s">Awak nampak mayat itu?</p>
+      <p begin="2187.108s" xml:id="p492" end="2187.942s">Saya takut.</p>
+      <p begin="2188.025s" xml:id="p493" end="2189.65s">Jangan takut.</p>
+      <p begin="2189.733s" xml:id="p494" end="2192.15s">Apabila ada orang mati,<br />pasti ada duit.</p>
+      <p begin="2215.9s" xml:id="p495" end="2217.275s">Kita akan menjadi kaya.</p>
+      <p begin="2275.607s" xml:id="p496" end="2277.817s">"Minyak Tung"</p>
+      <p begin="2284.108s" xml:id="p497" end="2285.025s">- Hei.<br />- Ada apa?</p>
+      <p begin="2285.108s" xml:id="p498" end="2286.733s">Bila awak belajar memandunya?</p>
+      <p begin="2286.817s" xml:id="p499" end="2287.983s">Awak tak tahu orang panggil saya...</p>
+      <p begin="2288.067s" xml:id="p500" end="2289.275s">...Budak Ajaib Genius?</p>
+      <p begin="2289.359s" xml:id="p501" end="2290.234s">Awak boleh memandunya?</p>
+      <p begin="2290.317s" xml:id="p502" end="2291.4s">Sudah tentu.</p>
+      <p begin="2444.858s" xml:id="p503" end="2445.775s">Awak bagus.</p>
+      <p begin="2445.858s" xml:id="p504" end="2446.691s">Awak siapa?</p>
+      <p begin="2446.775s" xml:id="p505" end="2447.775s">Monyet Besi.</p>
+      <p begin="2448.567s" xml:id="p506" end="2449.567s">Satu lagi?</p>
+      <p begin="2449.608s" xml:id="p507" end="2451.067s">Sudah tentu.</p>
+      <p begin="2457.691s" xml:id="p508" end="2458.567s">Pergi.</p>
+      <p begin="2482.317s" xml:id="p509" end="2483.275s">Cepat.</p>
+      <p begin="2492.567s" xml:id="p510" end="2494.067s">Senjata sudah hilang.</p>
+      <p begin="2497.817s" xml:id="p511" end="2499.067s">Mereka yang mencurinya.</p>
+      <p begin="2499.15s" xml:id="p512" end="2500.9s">Tangkap mereka hidup-hidup.</p>
+      <p begin="2501.4s" xml:id="p513" end="2502.317s">Cepat!</p>
+      <p begin="2509.65s" xml:id="p514" end="2511.067s">Xiaochun!</p>
+      <p begin="2511.15s" xml:id="p515" end="2512.567s">Xiaochun!</p>
+      <p begin="2513.4s" xml:id="p516" end="2514.442s">Monyet Besi.</p>
+      <p begin="2515.275s" xml:id="p517" end="2516.607s">Awak rupanya.</p>
+      <p begin="2516.65s" xml:id="p518" end="2517.691s">Betul.</p>
+      <p begin="2517.775s" xml:id="p519" end="2518.817s">Xiaochun di mana?</p>
+      <p begin="2518.9s" xml:id="p520" end="2519.858s">Saya tak tahu.</p>
+      <p begin="2519.942s" xml:id="p521" end="2521.858s">Saya menunggu sepanjang malam.</p>
+      <p begin="2521.942s" xml:id="p522" end="2524.275s">Terima kasih kerana membunuh<br />penjual senjata itu.</p>
+      <p begin="2524.359s" xml:id="p523" end="2525.359s">Penjual senjata?</p>
+      <p begin="2525.442s" xml:id="p524" end="2527.192s">Awak wajar dipuji.</p>
+      <p begin="2527.275s" xml:id="p525" end="2529.275s">Seluruh bandar bercakap tentangnya.</p>
+      <p begin="2529.359s" xml:id="p526" end="2530.526s">Encik Monyet Besi.</p>
+      <p begin="2530.607s" xml:id="p527" end="2531.607s">Monyet Besi?</p>
+      <p begin="2532.108s" xml:id="p528" end="2533.526s">Dia seorang legenda...</p>
+      <p begin="2533.607s" xml:id="p529" end="2534.775s">...tetapi saya bukan Monyet Besi.</p>
+      <p begin="2534.858s" xml:id="p530" end="2536.567s">Awak tentu salah faham.</p>
+      <p begin="2536.608s" xml:id="p531" end="2537.607s">Baiklah, pak cik.</p>
+      <p begin="2537.65s" xml:id="p532" end="2539.983s">Xiaochun kata awak tahu<br />di mana ayah saya berada.</p>
+      <p begin="2540.067s" xml:id="p533" end="2541.983s">Bagaimana keadaan dia?<br />Dia di mana sekarang?</p>
+      <p begin="2542.067s" xml:id="p534" end="2543.15s">Ayah awak?</p>
+      <p begin="2544.15s" xml:id="p535" end="2544.983s">Nampaknya...</p>
+      <p begin="2545.067s" xml:id="p536" end="2546.942s">...kita berdua telah ditipu<br />oleh Xiaochun.</p>
+      <p begin="2547.025s" xml:id="p537" end="2547.858s">Ditipu?</p>
+      <p begin="2547.942s" xml:id="p538" end="2549.983s">Ya, dia beritahu saya kisah lain.</p>
+      <p begin="2550.067s" xml:id="p539" end="2551.567s">Awak Monyet Besi.</p>
+      <p begin="2551.608s" xml:id="p540" end="2553.192s">Awak boleh dapatkan keadilan<br />untuk Cik Puan saya.</p>
+      <p begin="2553.275s" xml:id="p541" end="2555.65s">Awak boleh bunuh penjual senjata<br />dan Harimau Jed.</p>
+      <p begin="2555.733s" xml:id="p542" end="2557.607s">Namun selepas itu<br />dia melarikan duit.</p>
+      <p begin="2557.65s" xml:id="p543" end="2559.108s">Senjata juga hilang.</p>
+      <p begin="2560.317s" xml:id="p544" end="2561.359s">
+        <span tts:fontStyle="italic">Xiaochun.</span>
+      </p>
+      <p begin="2577.359s" xml:id="p545" end="2578.858s">Awak mencari saya?</p>
+      <p begin="2578.942s" xml:id="p546" end="2581.775s">Ya, kami mencari awak.</p>
+      <p begin="2581.858s" xml:id="p547" end="2582.942s">Apa yang awak mahu?</p>
+      <p begin="2595.4s" xml:id="p548" end="2597.275s">Inilah bos saya.</p>
+      <p begin="2597.942s" xml:id="p549" end="2599.359s">Bagaimana saya boleh membantu?</p>
+      <p begin="2599.442s" xml:id="p550" end="2601.192s">Awak ada kad nama?</p>
+      <p begin="2601.817s" xml:id="p551" end="2603.359s">Ia bukan hal perniagaan.</p>
+      <p begin="2603.442s" xml:id="p552" end="2604.65s">Mengapa saya perlukan kad?</p>
+      <p begin="2604.733s" xml:id="p553" end="2606.275s">Jadi, ada masalah antara kita?</p>
+      <p begin="2606.359s" xml:id="p554" end="2607.691s">Tidak.</p>
+      <p begin="2607.775s" xml:id="p555" end="2609.607s">Awak siapa?</p>
+      <p begin="2609.65s" xml:id="p556" end="2611.192s">Awak tak perlu tahu.</p>
+      <p begin="2618.025s" xml:id="p557" end="2618.983s">Bos.</p>
+      <p begin="2632.733s" xml:id="p558" end="2634.15s">Saya dengar awak mahu beli senjata.</p>
+      <p begin="2636.484s" xml:id="p559" end="2638.858s">Saya boleh menjualnya kepada awak.</p>
+      <p begin="2638.942s" xml:id="p560" end="2640.067s">Berapa banyak yang awak ada?</p>
+      <p begin="2640.526s" xml:id="p561" end="2642.733s">Saya boleh membekalkan<br />apa saja yang awak mahu.</p>
+      <p begin="2642.817s" xml:id="p562" end="2644.067s">Beritahu saya harganya.</p>
+      <p begin="2644.15s" xml:id="p563" end="2645.442s">Kami tak mahu duit awak.</p>
+      <p begin="2645.858s" xml:id="p564" end="2647.608s">Jadi, apa yang awak mahu?</p>
+      <p begin="2648.275s" xml:id="p565" end="2649.817s">Dia mahu jadi pengurus kelab.</p>
+      <p begin="2649.9s" xml:id="p566" end="2651.359s">Saya mahu jadi penyanyi.</p>
+      <p begin="2651.442s" xml:id="p567" end="2652.275s">Ya.</p>
+      <p begin="2652.359s" xml:id="p568" end="2654.9s">Okey, saya setuju dengan syaratnya.</p>
+      <p begin="2655.775s" xml:id="p569" end="2656.858s">Mana barangnya?</p>
+      <p begin="2657.817s" xml:id="p570" end="2658.817s">Barang?</p>
+      <p begin="2659.192s" xml:id="p571" end="2660.733s">Tentang hal itu...</p>
+      <p begin="2661.192s" xml:id="p572" end="2663.067s">Tak guna. Dia menipu bos.</p>
+      <p begin="2663.15s" xml:id="p573" end="2664.275s">- Pukul dia.<br />- Ayuh.</p>
+      <p begin="2664.359s" xml:id="p574" end="2667.317s">Nanti! Jangan terburu-buru.</p>
+      <p begin="2667.4s" xml:id="p575" end="2668.9s">Tao, tanggalkan pakaian awak...</p>
+      <p begin="2668.983s" xml:id="p576" end="2670.192s">...dan tunjukkan apa yang awak ada.</p>
+      <p begin="2683.484s" xml:id="p577" end="2686.192s">Itu senjata palsu,<br />tetapi ini senjata betul.</p>
+      <p begin="2696.359s" xml:id="p578" end="2698.567s">Bagus, saya setuju.</p>
+      <p begin="2706.359s" xml:id="p579" end="2709.442s">Ini hidangan awak.</p>
+      <p begin="2709.526s" xml:id="p580" end="2710.359s">Pelayan.</p>
+      <p begin="2710.442s" xml:id="p581" end="2712.025s">Boleh saya bantu awak?</p>
+      <p begin="2712.15s" xml:id="p582" end="2714.608s">- Beri saya minuman keras lagi.<br />- Okey, tunggu sebentar.</p>
+      <p begin="2714.817s" xml:id="p583" end="2717.858s">Pak Cik Zhong,<br />saya sudah menjelaskannya.</p>
+      <p begin="2717.942s" xml:id="p584" end="2719.484s">Saya tak mahu jumpa Cik Xuemin.</p>
+      <p begin="2719.567s" xml:id="p585" end="2720.526s">Baliklah.</p>
+      <p begin="2720.607s" xml:id="p586" end="2721.817s">Nikmati makanan awak.</p>
+      <p begin="2721.9s" xml:id="p587" end="2722.983s">Kita berbincang kemudian.</p>
+      <p begin="2723.4s" xml:id="p588" end="2724.567s">Di bandar ini...</p>
+      <p begin="2724.608s" xml:id="p589" end="2726.691s">...lelaki setia seperti awak<br />jarang ditemui.</p>
+      <p begin="2728.359s" xml:id="p590" end="2730.65s">Sejak orang asing datang ke sini...</p>
+      <p begin="2730.733s" xml:id="p591" end="2733.359s">...orang banyak berubah.</p>
+      <p begin="2735.817s" xml:id="p592" end="2738.607s">Saya tertanya-tanya<br />apa yang terjadi kepada ayah saya.</p>
+      <p begin="2742.858s" xml:id="p593" end="2745.65s">Pak Cik Zhong, jangan buang masa.</p>
+      <p begin="2745.733s" xml:id="p594" end="2747.15s">Saya tak mahu ikut awak.</p>
+      <p begin="2747.234s" xml:id="p595" end="2748.733s">Baliklah.</p>
+      <p begin="2749.567s" xml:id="p596" end="2751.858s">Pak Cik Zhong, awak boleh pulang.</p>
+      <p begin="2751.942s" xml:id="p597" end="2753.15s">Ya, Cik Puan.</p>
+      <p begin="2756.025s" xml:id="p598" end="2757.608s">- Pelayan.<br />- Nah.</p>
+      <p begin="2758.275s" xml:id="p599" end="2759.484s">Berapa harganya?</p>
+      <p begin="2759.567s" xml:id="p600" end="2761.108s">Tujuh dolar.</p>
+      <p begin="2761.9s" xml:id="p601" end="2764.275s">- Simpan bakinya.<br />- Terima kasih.</p>
+      <p begin="2767.942s" xml:id="p602" end="2769.733s">Bukankah awak mahukan duit?</p>
+      <p begin="2769.817s" xml:id="p603" end="2771.15s">Saya ada sesuatu untuk awak.</p>
+      <p begin="2771.234s" xml:id="p604" end="2772.484s">Beritahu saya berapa yang awak mahu.</p>
+      <p begin="2776.15s" xml:id="p605" end="2777.15s">Berhenti.</p>
+      <p begin="2779.775s" xml:id="p606" end="2781.108s">Berhenti!</p>
+      <p begin="2786.4s" xml:id="p607" end="2789.025s">Cik Xuemin,<br />saya memang perlukan duit.</p>
+      <p begin="2789.108s" xml:id="p608" end="2791.484s">Namun saya tak boleh dibeli<br />dengan duit.</p>
+      <p begin="2792.108s" xml:id="p609" end="2793.234s">Maafkan saya...</p>
+      <p begin="2793.317s" xml:id="p610" end="2795.607s">...tetapi saya betul-betul<br />tak boleh membantu awak.</p>
+      <p begin="2796.733s" xml:id="p611" end="2799.192s">Saya harus buat<br />sesuatu yang lebih penting.</p>
+      <p begin="2800.4s" xml:id="p612" end="2802.234s">Terima kasih atas penghormatan awak.</p>
+      <p begin="2802.317s" xml:id="p613" end="2804.067s">Jika kita berjumpa lagi...</p>
+      <p begin="2804.15s" xml:id="p614" end="2805.526s">...saya akan belanja awak.</p>
+      <p begin="2806.817s" xml:id="p615" end="2807.691s">Selamat tinggal.</p>
+      <p begin="2809.108s" xml:id="p616" end="2810.234s">Jin.</p>
+      <p begin="2816.691s" xml:id="p617" end="2818.526s">Itulah wanita yang bos cari!</p>
+      <p begin="2818.607s" xml:id="p618" end="2819.9s">Tangkap dia!</p>
+      <p begin="2826.108s" xml:id="p619" end="2827.108s">Lari.</p>
+      <p begin="2828.067s" xml:id="p620" end="2830.608s">Jin, tolong saya!</p>
+      <p begin="2832.108s" xml:id="p621" end="2834.526s">Lepaskan saya!</p>
+      <p begin="2854.275s" xml:id="p622" end="2855.317s">Tendangan tiga berturut?</p>
+      <p begin="2865.442s" xml:id="p623" end="2867.108s">Awak kalahkan<br />tendangan tiga berturut saya.</p>
+      <p begin="2867.192s" xml:id="p624" end="2869.067s">Awak tahu siapa bos saya?</p>
+      <p begin="2869.15s" xml:id="p625" end="2870.607s">Saya tak peduli.</p>
+      <p begin="2871.234s" xml:id="p626" end="2872.733s">Saya hanya tahu diri saya.</p>
+      <p begin="2872.817s" xml:id="p627" end="2875.317s">- Mari sini.<br />- Lepaskan saya!</p>
+      <p begin="2878.526s" xml:id="p628" end="2879.858s">Tolong!</p>
+      <p begin="2882.9s" xml:id="p629" end="2884.067s">Mari kita pergi.</p>
+      <p begin="2885.65s" xml:id="p630" end="2887.234s">Awak takkan terlepas.</p>
+      <p begin="2890.484s" xml:id="p631" end="2892.359s">Nicholas, biar saya uruskannya.</p>
+      <p begin="2892.733s" xml:id="p632" end="2893.9s">Tak guna!</p>
+      <p begin="2894.775s" xml:id="p633" end="2895.983s">Marilah.</p>
+      <p begin="2900.65s" xml:id="p634" end="2901.942s">Jangan takut.</p>
+      <p begin="2903.192s" xml:id="p635" end="2904.234s">Ayuh.</p>
+      <p begin="2933.9s" xml:id="p636" end="2935.067s">Mari sini.</p>
+      <p begin="2945.317s" xml:id="p637" end="2946.526s">Perempuan gila.</p>
+      <p begin="2970.4s" xml:id="p638" end="2971.817s">Saya akan bunuh awak.</p>
+      <p begin="2977.359s" xml:id="p639" end="2979.4s">Jin, tembak dia.</p>
+      <p begin="2979.484s" xml:id="p640" end="2980.567s">Tembak dia.</p>
+      <p begin="2981.15s" xml:id="p641" end="2982.65s">Saya akan bunuh awak.</p>
+      <p begin="2982.733s" xml:id="p642" end="2984.359s">Saya tak tahu cara<br />untuk menggunakannya.</p>
+      <p begin="3001.359s" xml:id="p643" end="3003.275s">Biar saya sapukan ubat.</p>
+      <p begin="3005.526s" xml:id="p644" end="3006.607s">Cik Xuemin.</p>
+      <p begin="3007.9s" xml:id="p645" end="3010.359s">Saya tak rasa Harimau Jed<br />akan lepaskan awak.</p>
+      <p begin="3011.025s" xml:id="p646" end="3012.526s">Awak harus pergi tak lama lagi.</p>
+      <p begin="3018.526s" xml:id="p647" end="3019.442s">Encik Jin.</p>
+      <p begin="3019.9s" xml:id="p648" end="3021.691s">Orang sedang mencari awak di luar.</p>
+      <p begin="3021.775s" xml:id="p649" end="3023.4s">Awak tak boleh keluar sekarang.</p>
+      <p begin="3023.484s" xml:id="p650" end="3026.4s">Saya sudah hantar orang<br />untuk mencari ayah awak.</p>
+      <p begin="3026.484s" xml:id="p651" end="3027.526s">Terima kasih.</p>
+      <p begin="3027.607s" xml:id="p652" end="3028.733s">Cik Puan.</p>
+      <p begin="3030.4s" xml:id="p653" end="3031.817s">Benarkan saya.</p>
+      <p begin="3043.317s" xml:id="p654" end="3044.607s">Pak Cik Zhong...</p>
+      <p begin="3044.983s" xml:id="p655" end="3047.484s">...saya akan cuba cari ayah saya.</p>
+      <p begin="3048.275s" xml:id="p656" end="3049.567s">Dia cedera teruk.</p>
+      <p begin="3049.608s" xml:id="p657" end="3050.9s">Dia lebih perlukan awak.</p>
+      <p begin="3051.484s" xml:id="p658" end="3053.067s">Awak patut jaga dia.</p>
+      <p begin="3053.9s" xml:id="p659" end="3055.607s">Jika saya ada peluang...</p>
+      <p begin="3056.608s" xml:id="p660" end="3059.608s">...saya akan bunuh Harimau Jed<br />untuk Cik Xuemin.</p>
+      <p begin="3060.442s" xml:id="p661" end="3061.691s">Jaga diri.</p>
+      <p begin="3072.942s" xml:id="p662" end="3076.858s">"Kelab"</p>
+      <p begin="3089.526s" xml:id="p663" end="3090.526s">Selamat jalan.</p>
+      <p begin="3091.526s" xml:id="p664" end="3092.733s">Pergi kemas meja di sana.</p>
+      <p begin="3093.317s" xml:id="p665" end="3094.317s">Apa khabar?</p>
+      <p begin="3094.4s" xml:id="p666" end="3095.691s">Awak berseronok?</p>
+      <p begin="3120.067s" xml:id="p667" end="3121.65s">Selamat menjamu selera.</p>
+      <p begin="3122.359s" xml:id="p668" end="3123.691s">Apa yang awak buat?</p>
+      <p begin="3129.108s" xml:id="p669" end="3131.108s">Boleh saya ambil pesanan awak?</p>
+      <p begin="3131.192s" xml:id="p670" end="3132.608s">Awak mahu makan apa?</p>
+      <p begin="3132.691s" xml:id="p671" end="3136.108s">Kopi, jus oren dan jus lemon.</p>
+      <p begin="3143.108s" xml:id="p672" end="3145.067s">Maaf, boleh saya ambil pesanan awak?</p>
+      <p begin="3145.15s" xml:id="p673" end="3146.317s">Panggil pengurus awak.</p>
+      <p begin="3146.4s" xml:id="p674" end="3147.9s">Dia tak guna.</p>
+      <p begin="3162.4s" xml:id="p675" end="3163.817s">Awak bangku?</p>
+      <p begin="3163.9s" xml:id="p676" end="3165.691s">- Pergi layan tetamu.<br />- Saya?</p>
+      <p begin="3165.775s" xml:id="p677" end="3167.317s">Pergi.</p>
+      <p begin="3167.4s" xml:id="p678" end="3168.484s">Ya, tuan.</p>
+      <p begin="3171.817s" xml:id="p679" end="3173.942s">Hei. Awak bangku?</p>
+      <p begin="3174.025s" xml:id="p680" end="3175.275s">Pergi layan tetamu.</p>
+      <p begin="3175.359s" xml:id="p681" end="3177.025s">- Pergi.<br />- Ya, tuan.</p>
+      <p begin="3179.817s" xml:id="p682" end="3180.817s">Mengapa awak bermain-main?</p>
+      <p begin="3180.9s" xml:id="p683" end="3182.067s">Tidak.</p>
+      <p begin="3182.15s" xml:id="p684" end="3183.607s">Pergi layan tetamu.</p>
+      <p begin="3188.983s" xml:id="p685" end="3191.858s">Bos, awak sudah kembali.</p>
+      <p begin="3191.942s" xml:id="p686" end="3193.775s">Bos pasti letih.</p>
+      <p begin="3195.567s" xml:id="p687" end="3196.775s">Dia Xiaochun.</p>
+      <p begin="3226.775s" xml:id="p688" end="3228.108s">Wanita dungu.</p>
+      <p begin="3228.691s" xml:id="p689" end="3230.15s">Berambus.</p>
+      <p begin="3231.526s" xml:id="p690" end="3232.567s">Mereka VIP...</p>
+      <p begin="3232.608s" xml:id="p691" end="3234.942s">...yang bertemu dengan bos<br />untuk urusan senjata.</p>
+      <p begin="3236.526s" xml:id="p692" end="3238.691s">Berhenti. Mainkan lagu Jepun.</p>
+      <p begin="3238.775s" xml:id="p693" end="3239.65s">Ya.</p>
+      <p begin="3241.067s" xml:id="p694" end="3242.607s">Xiaoqian, nyanyikan lagu Jepun.</p>
+      <p begin="3244.15s" xml:id="p695" end="3246.65s">Saya minta maaf atas<br />apa yang berlaku.</p>
+      <p begin="3246.733s" xml:id="p696" end="3249.025s">Pakar Tendang, apa pendapat awak<br />tentang cara saya uruskannya?</p>
+      <p begin="3249.108s" xml:id="p697" end="3250.526s">Boleh tahan.</p>
+      <p begin="3250.607s" xml:id="p698" end="3252.9s">Sekejap lagi saya akan<br />gantikan semua perempuan.</p>
+      <p begin="3252.983s" xml:id="p699" end="3253.858s">Okey.</p>
+      <p begin="3253.942s" xml:id="p700" end="3255.275s">- Awak berdua, pergi.<br />- Bangun.</p>
+      <p begin="3255.359s" xml:id="p701" end="3256.275s">Pergi.</p>
+      <p begin="3265.607s" xml:id="p702" end="3267.691s">Saya ada dua wanita cantik<br />untuk awak.</p>
+      <p begin="3267.775s" xml:id="p703" end="3268.608s">Mereka akan sampai tak lama lagi.</p>
+      <p begin="3268.691s" xml:id="p704" end="3269.733s">Berambus.</p>
+      <p begin="3269.817s" xml:id="p705" end="3271.484s">Saya akan cari wanita saya sendiri.</p>
+      <p begin="3280.775s" xml:id="p706" end="3283.067s">Helo, si cantik.</p>
+      <p begin="3286.9s" xml:id="p707" end="3288.442s">Awak amat comel.</p>
+      <p begin="3289.817s" xml:id="p708" end="3291.607s">Besarnya.</p>
+      <p begin="3293.983s" xml:id="p709" end="3295.4s">Apa yang awak cuba buat?</p>
+      <p begin="3295.484s" xml:id="p710" end="3297.983s">Bertenang. Jangan marah.</p>
+      <p begin="3309.691s" xml:id="p711" end="3310.942s">Tak guna.</p>
+      <p begin="3320.317s" xml:id="p712" end="3322.359s">Okey, bos dia akan uruskan dia.</p>
+      <p begin="3322.442s" xml:id="p713" end="3324.067s">Mainkan muzik.</p>
+      <p begin="3334.526s" xml:id="p714" end="3336.607s">Xiaoqian, awak tak apa-apa?</p>
+      <p begin="3349.359s" xml:id="p715" end="3350.942s">Sebaik saja duit kita mencukupi...</p>
+      <p begin="3351.025s" xml:id="p716" end="3352.858s">...kita tinggalkan tempat ini.</p>
+      <p begin="3352.942s" xml:id="p717" end="3355.608s">Apabila kita ada duit,<br />kita boleh buat apa-apa saja.</p>
+      <p begin="3357.15s" xml:id="p718" end="3359.108s">Walaupun duit<br />bukan segala-galanya...</p>
+      <p begin="3359.691s" xml:id="p719" end="3362.65s">...kita tak boleh buat apa-apa<br />tanpa duit.</p>
+      <p begin="3364.15s" xml:id="p720" end="3365.775s">Awak pernah memikirkannya?</p>
+      <p begin="3365.858s" xml:id="p721" end="3370.442s">Adakah tindakan awak<br />betul atau salah?</p>
+      <p begin="3371.484s" xml:id="p722" end="3373.192s">Saya melakukannya...</p>
+      <p begin="3373.275s" xml:id="p723" end="3375.067s">...demi masa depan kita.</p>
+      <p begin="3375.817s" xml:id="p724" end="3378.317s">Saya akan mencari duit.</p>
+      <p begin="3379.359s" xml:id="p725" end="3382.317s">Saya akan membuat banyak duit<br />daripada Harimau Jed.</p>
+      <p begin="3384.442s" xml:id="p726" end="3386.359s">Awak mahu pergi ke mana?</p>
+      <p begin="3386.442s" xml:id="p727" end="3388.359s">Saya mahu pergi.</p>
+      <p begin="3388.442s" xml:id="p728" end="3389.733s">Bagaimana dengan awak?</p>
+      <p begin="3390.942s" xml:id="p729" end="3392.567s">Awak tak ada duit.</p>
+      <p begin="3392.608s" xml:id="p730" end="3394.317s">Ke mana awak boleh pergi?</p>
+      <p begin="3394.733s" xml:id="p731" end="3397.192s">Awak rasa Harimau Jed<br />akan beri awak duit?</p>
+      <p begin="3397.275s" xml:id="p732" end="3399.858s">Awak rasa Harimau Jed<br />akan layan awak seperti manusia?</p>
+      <p begin="3399.942s" xml:id="p733" end="3402.608s">- Saya bijak...<br />- Jangan menipu diri sendiri.</p>
+      <p begin="3403.192s" xml:id="p734" end="3405.359s">Awak hanya suka duit.</p>
+      <p begin="3405.983s" xml:id="p735" end="3407.484s">Awak mengkhianati Jin...</p>
+      <p begin="3407.567s" xml:id="p736" end="3409.442s">...dan kehilangan<br />satu-satunya kawan awak.</p>
+      <p begin="3409.526s" xml:id="p737" end="3411.607s">Awak menipu Cik Xuemin...</p>
+      <p begin="3411.65s" xml:id="p738" end="3413.317s">...dan kehilangan sifat baik awak.</p>
+      <p begin="3413.4s" xml:id="p739" end="3414.526s">Dengan saya...</p>
+      <p begin="3414.9s" xml:id="p740" end="3416.65s">...awak tak pernah serius.</p>
+      <p begin="3416.733s" xml:id="p741" end="3419.775s">Betul, saya mengkhianati Jin.</p>
+      <p begin="3419.858s" xml:id="p742" end="3421.9s">Namun saya membantu dia, betul?</p>
+      <p begin="3422.108s" xml:id="p743" end="3423.817s">Saya penipu.</p>
+      <p begin="3424.234s" xml:id="p744" end="3427.983s">Namun bagaimana saya mahu hidup<br />di dunia ini tanpa menipu?</p>
+      <p begin="3429.65s" xml:id="p745" end="3431.9s">Saya tak pernah serius dengan awak?</p>
+      <p begin="3432.442s" xml:id="p746" end="3433.607s">Saya tertanya-tanya...</p>
+      <p begin="3434.192s" xml:id="p747" end="3436.733s">...jika awak yang tak tahu<br />tentang percintaan...</p>
+      <p begin="3438.9s" xml:id="p748" end="3441.442s">...atau saya yang tak tahu<br />tentang percintaan.</p>
+      <p begin="3443.234s" xml:id="p749" end="3446.108s">Pergilah. Saya tak mahu lihat awak!</p>
+      <p begin="3466.983s" xml:id="p750" end="3470.067s">Xiaoqian.</p>
+      <p begin="3483.484s" xml:id="p751" end="3485.983s">Saya tak ada kawan.</p>
+      <p begin="3486.567s" xml:id="p752" end="3488.65s">Saya mengkhianati kawan saya.</p>
+      <p begin="3490.067s" xml:id="p753" end="3492.567s">Inilah diri saya yang sebenar.</p>
+      <p begin="3503.108s" xml:id="p754" end="3504.4s">Tuan-tuan.</p>
+      <p begin="3505.983s" xml:id="p755" end="3507.108s">Tuan-tuan.</p>
+      <p begin="3508.4s" xml:id="p756" end="3510.526s">Saya sudah buat apa<br />yang Harimau Jed suruh.</p>
+      <p begin="3510.607s" xml:id="p757" end="3512.484s">Polis akan berjaga-jaga.</p>
+      <p begin="3512.567s" xml:id="p758" end="3514.4s">Apabila saya dapat berita<br />tentang Monyet Besi...</p>
+      <p begin="3514.484s" xml:id="p759" end="3516.275s">...saya akan beritahu awak.</p>
+      <p begin="3517.9s" xml:id="p760" end="3521.983s">Patutkah kita menahan<br />si tua buta itu juga?</p>
+      <p begin="3522.067s" xml:id="p761" end="3525.025s">Dia hanya umpan, faham?</p>
+      <p begin="3525.108s" xml:id="p762" end="3526.942s">Saya faham.</p>
+      <p begin="3527.025s" xml:id="p763" end="3528.567s">Saya pergi dulu.</p>
+      <p begin="3548.9s" xml:id="p764" end="3550.234s">Apa yang awak mahu?</p>
+      <p begin="3552.234s" xml:id="p765" end="3553.192s">Jangan bergerak.</p>
+      <p begin="3558.442s" xml:id="p766" end="3559.983s">- Apa yang awak mahu?<br />- Bos awak.</p>
+      <p begin="3560.608s" xml:id="p767" end="3562.108s">Encik Qian, silakan.</p>
+      <p begin="3570.234s" xml:id="p768" end="3571.4s">Dia kawan bos.</p>
+      <p begin="3576.484s" xml:id="p769" end="3577.65s">Awak siapa?</p>
+      <p begin="3583.442s" xml:id="p770" end="3584.65s">Awak siapa?</p>
+      <p begin="3584.733s" xml:id="p771" end="3586.15s">Awak tak cam saya?</p>
+      <p begin="3586.608s" xml:id="p772" end="3588.9s">Awak abang Encik Qian?</p>
+      <p begin="3591.15s" xml:id="p773" end="3592.4s">Di mana senjata saya?</p>
+      <p begin="3592.526s" xml:id="p774" end="3593.942s">Apa awak akan buat untuk<br />membela kematian abang saya?</p>
+      <p begin="3594.025s" xml:id="p775" end="3596.067s">Abang? Senjata?</p>
+      <p begin="3596.484s" xml:id="p776" end="3597.733s">Saya yang patut tanya awak...</p>
+      <p begin="3597.817s" xml:id="p777" end="3599.775s">...siapa yang mencuri senjata itu.</p>
+      <p begin="3599.858s" xml:id="p778" end="3601.983s">Berani awak tanya saya<br />tentang senjata itu.</p>
+      <p begin="3604.025s" xml:id="p779" end="3605.4s">Jangan berpura-pura.</p>
+      <p begin="3605.484s" xml:id="p780" end="3607.067s">Saya berpura-pura?</p>
+      <p begin="3607.15s" xml:id="p781" end="3608.442s">Bukankah ini kawasan awak?</p>
+      <p begin="3608.526s" xml:id="p782" end="3609.359s">Ya.</p>
+      <p begin="3609.442s" xml:id="p783" end="3610.607s">Bukankah ini dok awak?</p>
+      <p begin="3610.65s" xml:id="p784" end="3611.567s">Ya.</p>
+      <p begin="3611.608s" xml:id="p785" end="3612.942s">Di mana senjata itu dicuri?</p>
+      <p begin="3613.025s" xml:id="p786" end="3613.9s">Limbungan kayu.</p>
+      <p begin="3613.983s" xml:id="p787" end="3615.067s">Awak mengawal limbungan kayu?</p>
+      <p begin="3615.15s" xml:id="p788" end="3616.025s">Ya.</p>
+      <p begin="3616.108s" xml:id="p789" end="3617.317s">Awak bos di sini?</p>
+      <p begin="3617.4s" xml:id="p790" end="3618.275s">Sudah tentu.</p>
+      <p begin="3618.359s" xml:id="p791" end="3620.108s">Tiada siapa berani melawan saya.</p>
+      <p begin="3621.983s" xml:id="p792" end="3624.108s">Memandangkan awak bos...</p>
+      <p begin="3624.192s" xml:id="p793" end="3626.484s">...siapa yang berani curi<br />senjata itu?</p>
+      <p begin="3626.567s" xml:id="p794" end="3627.65s">Awak...</p>
+      <p begin="3629.317s" xml:id="p795" end="3630.275s">Baiklah.</p>
+      <p begin="3630.567s" xml:id="p796" end="3632.067s">Saya akan bawa seseorang<br />untuk jumpa awak.</p>
+      <p begin="3632.15s" xml:id="p797" end="3634.607s">Dia boleh buktikan<br />bahawa saya tak mencurinya.</p>
+      <p begin="3635.608s" xml:id="p798" end="3637.65s">- Bawa si tua buta itu ke sini.<br />- Ya, tuan.</p>
+      <p begin="3639.025s" xml:id="p799" end="3640.15s">Ke tepi.</p>
+      <p begin="3641.108s" xml:id="p800" end="3642.484s">Cepat.</p>
+      <p begin="3642.858s" xml:id="p801" end="3644.359s">Melutut.</p>
+      <p begin="3654.067s" xml:id="p802" end="3655.025s">Monyet?</p>
+      <p begin="3655.108s" xml:id="p803" end="3655.983s">Si tua.</p>
+      <p begin="3656.691s" xml:id="p804" end="3658.067s">Mana senjata saya?</p>
+      <p begin="3658.15s" xml:id="p805" end="3659.65s">Mana rakan subahat awak?</p>
+      <p begin="3659.733s" xml:id="p806" end="3660.817s">Soalan-soalan itu bagus.</p>
+      <p begin="3660.983s" xml:id="p807" end="3662.775s">Saya ada rakan di seluruh dunia.</p>
+      <p begin="3663.192s" xml:id="p808" end="3665.275s">Senjata itu berada dengan<br />orang yang sepatutnya.</p>
+      <p begin="3665.359s" xml:id="p809" end="3666.275s">Baiklah.</p>
+      <p begin="3667.234s" xml:id="p810" end="3668.775s">Saya tahu hendak<br />buat apa dengan awak.</p>
+      <p begin="3673.65s" xml:id="p811" end="3674.942s">Bagi saya pistol.</p>
+      <p begin="3675.025s" xml:id="p812" end="3675.983s">Nanti.</p>
+      <p begin="3685.775s" xml:id="p813" end="3687.275s">Awak masih tak mahu beritahu saya?</p>
+      <p begin="3687.359s" xml:id="p814" end="3689.359s">Mari kita lihat jika kepala awak<br />lebih kuat daripada peluru saya.</p>
+      <p begin="3689.983s" xml:id="p815" end="3692.65s">Tembaklah saya dan<br />akhiri kesengsaraan saya.</p>
+      <p begin="3693.108s" xml:id="p816" end="3695.192s">Saya tak mahu jadi umpan.</p>
+      <p begin="3695.275s" xml:id="p817" end="3697.691s">Baiklah, saya akan jadikan<br />impian awak kenyataan.</p>
+      <p begin="3699.108s" xml:id="p818" end="3700.108s">Apakah ini?</p>
+      <p begin="3700.192s" xml:id="p819" end="3701.317s">Pistol ini tak berisi peluru.</p>
+      <p begin="3701.4s" xml:id="p820" end="3702.607s">Awak memperlekehkan saya?</p>
+      <p begin="3703.108s" xml:id="p821" end="3705.025s">Ia hanya salah faham.</p>
+      <p begin="3705.108s" xml:id="p822" end="3707.317s">Saya hanya mahu<br />awak menakutkan si tua buta itu.</p>
+      <p begin="3707.4s" xml:id="p823" end="3709.025s">Sudah tentu saya percayakan awak.</p>
+      <p begin="3709.234s" xml:id="p824" end="3710.817s">Jika awak betul-betul bunuh dia...</p>
+      <p begin="3711.359s" xml:id="p825" end="3713.15s">...bagaimana kita mahu<br />cari pembunuh sebenar?</p>
+      <p begin="3714.526s" xml:id="p826" end="3715.442s">Baiklah.</p>
+      <p begin="3715.526s" xml:id="p827" end="3717.4s">Beginilah,<br />saya akan ambil si tua buta ini...</p>
+      <p begin="3717.484s" xml:id="p828" end="3718.484s">...dan membunuh dia<br />untuk adik saya.</p>
+      <p begin="3719.15s" xml:id="p829" end="3720.858s">Itulah yang awak boleh buat<br />untuk adik saya.</p>
+      <p begin="3726.442s" xml:id="p830" end="3728.15s">Apabila saya jumpa senjata itu...</p>
+      <p begin="3728.234s" xml:id="p831" end="3730.983s">...saya akan menunaikan urus janji<br />dengan awak, Harimau Jed.</p>
+      <p begin="3731.067s" xml:id="p832" end="3733.567s">Harimau Jed.</p>
+      <p begin="3733.608s" xml:id="p833" end="3735.025s">Senjata itu...</p>
+      <p begin="3736.65s" xml:id="p834" end="3739.275s">Itulah dia.</p>
+      <p begin="3739.608s" xml:id="p835" end="3742.067s">Adik, awak masih hidup.</p>
+      <p begin="3742.567s" xml:id="p836" end="3744.817s">- Awak bukan...<br />- Semua orang mencari awak.</p>
+      <p begin="3744.9s" xml:id="p837" end="3747.15s">Dialah Monyet Besi.</p>
+      <p begin="3751.192s" xml:id="p838" end="3752.192s">Jin Tua.</p>
+      <p begin="3753.275s" xml:id="p839" end="3755.567s">Ayuh. Cepat.</p>
+      <p begin="3769.108s" xml:id="p840" end="3770.691s">Jin Tua, saya akan lindungi awak.</p>
+      <p begin="3770.775s" xml:id="p841" end="3772.484s">Awak pergi dulu. Bergerak sekarang.</p>
+      <p begin="3954.15s" xml:id="p842" end="3955.4s">Jin Tua.</p>
+      <p begin="3959.15s" xml:id="p843" end="3959.983s">Jangan risau tentang saya.</p>
+      <p begin="3960.067s" xml:id="p844" end="3962.108s">Monyet, awak harus pergi sekarang.</p>
+      <p begin="3965.691s" xml:id="p845" end="3966.607s">Tangkap mereka.</p>
+      <p begin="3970.317s" xml:id="p846" end="3971.15s">Ayuh.</p>
+      <p begin="3974.234s" xml:id="p847" end="3975.108s">Jin Tua.</p>
+      <p begin="3977.4s" xml:id="p848" end="3978.359s">Jin Tua.</p>
+      <p begin="3984.607s" xml:id="p849" end="3986.359s">- Jin Tua!<br />- Monyet.</p>
+      <p begin="3986.442s" xml:id="p850" end="3987.9s">Ambil ini...</p>
+      <p begin="3988.484s" xml:id="p851" end="3990.025s">...dan beritahu Jin...</p>
+      <p begin="3990.108s" xml:id="p852" end="3991.691s">...dia harus pulang ke kampung...</p>
+      <p begin="3991.775s" xml:id="p853" end="3993.025s">...dan menjaga ibunya.</p>
+      <p begin="3993.108s" xml:id="p854" end="3994.65s">Pergi sekarang.</p>
+      <p begin="3994.733s" xml:id="p855" end="3996.317s">Cepat!</p>
+      <p begin="3997.526s" xml:id="p856" end="3998.775s">Monyet!</p>
+      <p begin="3999.192s" xml:id="p857" end="4003.108s">Bunuh Harimau Jed!</p>
+      <p begin="4006.942s" xml:id="p858" end="4012.15s">Jesus berkata,<br />"Semua orang harus ingat.</p>
+      <p begin="4012.234s" xml:id="p859" end="4015.775s">Abu menjadi abu,<br />debu menjadi debu."</p>
+      <p begin="4019.608s" xml:id="p860" end="4020.775s">Awak tak salahkan Xiaochun?</p>
+      <p begin="4022.484s" xml:id="p861" end="4025.025s">Walaupun saya tak kenal dia<br />seperti awak...</p>
+      <p begin="4025.108s" xml:id="p862" end="4027.691s">...saya tahu dia bukan orang jahat.</p>
+      <p begin="4027.775s" xml:id="p863" end="4029.608s">Saya tak kenal dia juga.</p>
+      <p begin="4029.691s" xml:id="p864" end="4032.442s">Kadang-kadang saya rasa<br />dia hidup demi duit saja.</p>
+      <p begin="4032.526s" xml:id="p865" end="4033.9s">Ia tak salah.</p>
+      <p begin="4033.983s" xml:id="p866" end="4036.275s">Manusia hidup demi duit<br />dan burung mati demi makanan.</p>
+      <p begin="4036.733s" xml:id="p867" end="4038.317s">Saya tak berada lama di bandar ini.</p>
+      <p begin="4038.9s" xml:id="p868" end="4041.15s">Namun saya boleh rasa<br />keperitan orang-orang di sini.</p>
+      <p begin="4041.942s" xml:id="p869" end="4043.275s">Saya bersimpati bahawa...</p>
+      <p begin="4043.359s" xml:id="p870" end="4045.317s">...awak berdua kehilangan ibu bapa<br />semasa awak berdua kecil.</p>
+      <p begin="4046.359s" xml:id="p871" end="4048.733s">Apa yang Xiaochun fikir?</p>
+      <p begin="4049.733s" xml:id="p872" end="4051.983s">Saya harap dia boleh<br />membuat banyak duit.</p>
+      <p begin="4052.067s" xml:id="p873" end="4053.942s">Saya juga harap<br />awak boleh maafkan dia.</p>
+      <p begin="4054.025s" xml:id="p874" end="4056.317s">Namun saya harap<br />saya boleh menjadi seperti awak...</p>
+      <p begin="4056.4s" xml:id="p875" end="4058.65s">...dan hidup di dunia<br />yang lebih ringkas.</p>
+      <p begin="4060.192s" xml:id="p876" end="4061.9s">Jika awak fikir saya kawan awak...</p>
+      <p begin="4061.983s" xml:id="p877" end="4063.317s">...tolong nasihatkan dia untuk saya.</p>
+      <p begin="4068.317s" xml:id="p878" end="4072.858s">Semoga Tuhan memberkati rakyat.</p>
+      <p begin="4073.691s" xml:id="p879" end="4076.15s">Tunjukkan kepada kami jalan...</p>
+      <p begin="4076.234s" xml:id="p880" end="4078.607s">...untuk melakukan kehendakmu.</p>
+      <p begin="4079.108s" xml:id="p881" end="4083.65s">Selamatkan kami daripada kejahatan.</p>
+      <p begin="4083.733s" xml:id="p882" end="4084.942s">Amen.</p>
+      <p begin="4089.15s" xml:id="p883" end="4090.484s">Awak rupanya.</p>
+      <p begin="4091.817s" xml:id="p884" end="4093.359s">Saya bukan penjual senjata.</p>
+      <p begin="4094.192s" xml:id="p885" end="4095.733s">Awak salah faham malam itu.</p>
+      <p begin="4097.192s" xml:id="p886" end="4098.817s">Saya tahu awak Jin.</p>
+      <p begin="4098.9s" xml:id="p887" end="4099.9s">Awak siapa?</p>
+      <p begin="4101.442s" xml:id="p888" end="4103.484s">Apa hubungan awak dengan ayah saya?</p>
+      <p begin="4105.733s" xml:id="p889" end="4107.317s">Saya dan ayah awak...</p>
+      <p begin="4107.4s" xml:id="p890" end="4109.15s">...berkawan ketika susah<br />dan senang.</p>
+      <p begin="4109.234s" xml:id="p891" end="4110.567s">Dia di mana?</p>
+      <p begin="4126.691s" xml:id="p892" end="4127.775s">Adakah dia...</p>
+      <p begin="4142.858s" xml:id="p893" end="4145.025s">Ayah awak minta saya sampaikan<br />pesanan terakhirnya kepada awak.</p>
+      <p begin="4145.108s" xml:id="p894" end="4147.025s">Dia bukannya tak bertanggungjawab.</p>
+      <p begin="4147.108s" xml:id="p895" end="4149.275s">Dia belum selesaikan<br />tanggungjawabnya.</p>
+      <p begin="4149.359s" xml:id="p896" end="4151.234s">Dia malu untuk kembali.</p>
+      <p begin="4152.108s" xml:id="p897" end="4153.983s">Sebelum dia mati,<br />dia beritahu saya...</p>
+      <p begin="4154.942s" xml:id="p898" end="4158.025s">...dia mahu awak pulang<br />dan menjaga ibu awak.</p>
+      <p begin="4158.108s" xml:id="p899" end="4160.108s">Saya tak mahu pulang.</p>
+      <p begin="4160.192s" xml:id="p900" end="4161.567s">Tidak boleh.</p>
+      <p begin="4162.733s" xml:id="p901" end="4164.275s">Apa yang ayah saya buat...</p>
+      <p begin="4164.775s" xml:id="p902" end="4166.234s">...pasti betul,<br />itulah yang saya fikir.</p>
+      <p begin="4166.317s" xml:id="p903" end="4167.691s">Walau apa pun kerjanya...</p>
+      <p begin="4167.775s" xml:id="p904" end="4169.234s">...saya akan selesaikannya.</p>
+      <p begin="4172.4s" xml:id="p905" end="4174.983s">Ibu saya akan faham.</p>
+      <p begin="4175.983s" xml:id="p906" end="4177.317s">Dia akan membenarkannya.</p>
+      <p begin="4186.526s" xml:id="p907" end="4188.108s">Saya akan membalas dendam.</p>
+      <p begin="4222.858s" xml:id="p908" end="4225.234s">Harimau Jed.</p>
+      <p begin="4228.526s" xml:id="p909" end="4230.442s">Walaupun kita berkawan,<br />ini hal perniagaan.</p>
+      <p begin="4230.607s" xml:id="p910" end="4233.067s">Beruang, ini bayaran awak.</p>
+      <p begin="4233.234s" xml:id="p911" end="4234.526s">Itulah perangai awak.</p>
+      <p begin="4234.607s" xml:id="p912" end="4235.942s">Jika saya dapat bayaran...</p>
+      <p begin="4236.025s" xml:id="p913" end="4237.691s">...saya boleh lakukannya<br />dengan baik.</p>
+      <p begin="4237.775s" xml:id="p914" end="4240.942s">Beruang,<br />sasaran yang saya mahu awak...</p>
+      <p begin="4241.359s" xml:id="p915" end="4242.691s">Saya tak perlu tahu.</p>
+      <p begin="4243.234s" xml:id="p916" end="4245.691s">Jika awak ada masalah,<br />saya akan bantu awak.</p>
+      <p begin="4245.775s" xml:id="p917" end="4246.983s">Itulah perangai awak.</p>
+      <p begin="4247.067s" xml:id="p918" end="4248.526s">Awak memang rakan saya.</p>
+      <p begin="4248.733s" xml:id="p919" end="4250.608s">Awak dialu-alukan di sini<br />pada bila-bila masa.</p>
+      <p begin="4250.691s" xml:id="p920" end="4253.108s">Awak takkan minta saya datang<br />tanpa sebab.</p>
+      <p begin="4253.192s" xml:id="p921" end="4255.275s">Kita berdua tahu.</p>
+      <p begin="4257.108s" xml:id="p922" end="4260.691s">Saya dengar Monyet Besi<br />mengganggu perniagaan awak.</p>
+      <p begin="4260.775s" xml:id="p923" end="4263.691s">Ia sukar untuk saya tidur<br />dengan lena.</p>
+      <p begin="4263.775s" xml:id="p924" end="4265.359s">Betul tak cakap saya, kawan?</p>
+      <p begin="4266.9s" xml:id="p925" end="4269.317s">Jika awak tak boleh tidur lena,<br />saya tak boleh tidur.</p>
+      <p begin="4278.359s" xml:id="p926" end="4280.359s">Hei. Awak siapa?</p>
+      <p begin="4282.775s" xml:id="p927" end="4285.025s">Kawan.</p>
+      <p begin="4308.817s" xml:id="p928" end="4310.817s">Jin, senjata berada<br />di laman belakang.</p>
+      <p begin="4310.9s" xml:id="p929" end="4312.108s">Ikut saya.</p>
+      <p begin="4315.067s" xml:id="p930" end="4316.983s">Di sana. Cepat.</p>
+      <p begin="4339.317s" xml:id="p931" end="4340.567s">Jin!</p>
+      <p begin="4350.9s" xml:id="p932" end="4352.608s">Xiaoqian, pergi!</p>
+      <p begin="4354.608s" xml:id="p933" end="4355.567s">Jangan harap!</p>
+      <p begin="4359.484s" xml:id="p934" end="4360.775s">Hati-hati!</p>
+      <p begin="4366.775s" xml:id="p935" end="4368.567s">- Tolong jaga Xiaoqian.<br />- Baiklah.</p>
+      <p begin="4375.607s" xml:id="p936" end="4376.9s">Monyet Besi.</p>
+      <p begin="4377.442s" xml:id="p937" end="4378.983s">Mengapa awak di sini?</p>
+      <p begin="4379.067s" xml:id="p938" end="4379.9s">Kita tak ada masa.</p>
+      <p begin="4379.983s" xml:id="p939" end="4380.817s">Mari kita alihkan<br />senjata-senjata ini.</p>
+      <p begin="4380.9s" xml:id="p940" end="4381.733s">Baiklah.</p>
+      <p begin="4383.691s" xml:id="p941" end="4384.775s">Jangan takut.</p>
+      <p begin="4384.858s" xml:id="p942" end="4387.025s">Walau apa pun yang berlaku,<br />saya berada di sisi awak.</p>
+      <p begin="4387.108s" xml:id="p943" end="4388.067s">Jangan risau.</p>
+      <p begin="4397.817s" xml:id="p944" end="4398.858s">Menjelang subuh...</p>
+      <p begin="4398.942s" xml:id="p945" end="4400.775s">...saya harus memindahkan<br />senjata itu ke selatan.</p>
+      <p begin="4404.192s" xml:id="p946" end="4406.15s">Dengar cakap ayah awak dan pulang.</p>
+      <p begin="4407.234s" xml:id="p947" end="4409.234s">Jagalah Xiaoqian dan Xiaochun.</p>
+      <p begin="4411.9s" xml:id="p948" end="4413.317s">Bawa duit ini bersama awak.</p>
+      <p begin="4413.4s" xml:id="p949" end="4415.234s">Saya rasa ia berguna untuk awak.</p>
+      <p begin="4425.608s" xml:id="p950" end="4427.025s">Terima kasih atas bantuan awak...</p>
+      <p begin="4427.108s" xml:id="p951" end="4428.108s">...kerana mencari senjata<br />yang hilang itu.</p>
+      <p begin="4428.192s" xml:id="p952" end="4429.067s">Selamat tinggal.</p>
+      <p begin="4434.234s" xml:id="p953" end="4435.526s">Xiaochun.</p>
+      <p begin="4436.442s" xml:id="p954" end="4438.608s">Saya di sini.<br />Apa yang awak perlukan?</p>
+      <p begin="4438.691s" xml:id="p955" end="4441.733s">Saya hanya perlukan awak.</p>
+      <p begin="4444.9s" xml:id="p956" end="4446.275s">Awak ingat bahawa...</p>
+      <p begin="4446.359s" xml:id="p957" end="4448.607s">...saya berjanji kepada awak,<br />kita akan memiliki...</p>
+      <p begin="4448.65s" xml:id="p958" end="4450.15s">Kenderaan yang awak pandu hari itu?</p>
+      <p begin="4452.192s" xml:id="p959" end="4455.317s">Kita akan ada<br />rumah yang cantik juga.</p>
+      <p begin="4455.4s" xml:id="p960" end="4456.858s">Kita akan masuk melalui pintu.</p>
+      <p begin="4460.234s" xml:id="p961" end="4461.608s">Saya berasa sejuk.</p>
+      <p begin="4461.691s" xml:id="p962" end="4463.067s">Baiklah.</p>
+      <p begin="4471.983s" xml:id="p963" end="4475.025s">Xiaoqian.</p>
+      <p begin="4482.567s" xml:id="p964" end="4483.526s">Okey.</p>
+      <p begin="4484.359s" xml:id="p965" end="4485.691s">Okey.</p>
+      <p begin="4488.108s" xml:id="p966" end="4490.15s">Saya tak pernah kasihankan sesiapa.</p>
+      <p begin="4524.275s" xml:id="p967" end="4525.526s">Apa yang awak mahu?</p>
+      <p begin="4547.025s" xml:id="p968" end="4548.9s">Apa yang awak buat?</p>
+      <p begin="4602.025s" xml:id="p969" end="4603.691s">Saya tak perlukan duit ini.</p>
+      <p begin="4604.275s" xml:id="p970" end="4605.359s">Bawa ia bersama awak.</p>
+      <p begin="4607.9s" xml:id="p971" end="4608.817s">Tunggu.</p>
+      <p begin="4610.192s" xml:id="p972" end="4612.4s">Awak perlukan duit ini di kampung.</p>
+      <p begin="4612.484s" xml:id="p973" end="4613.317s">Tidak.</p>
+      <p begin="4613.567s" xml:id="p974" end="4615.234s">Saya tak boleh pulang seperti ini.</p>
+      <p begin="4616.858s" xml:id="p975" end="4619.025s">Saya akan selesaikan<br />hal saya dengan mereka.</p>
+      <p begin="4619.108s" xml:id="p976" end="4620.192s">Baiklah.</p>
+      <p begin="4621.484s" xml:id="p977" end="4624.317s">Kematian awak tak sia-sia, Xiaoqian.</p>
+      <p begin="4624.858s" xml:id="p978" end="4627.275s">Kami harus buat<br />sesuatu yang penting.</p>
+      <p begin="4640.025s" xml:id="p979" end="4642.858s">Tinggi lagi. Awak memang tak guna.</p>
+      <p begin="4643.4s" xml:id="p980" end="4644.65s">Selesai.</p>
+      <p begin="4646.234s" xml:id="p981" end="4647.567s">Ke kiri.</p>
+      <p begin="4649.65s" xml:id="p982" end="4650.691s">Cepat.</p>
+      <p begin="4657.067s" xml:id="p983" end="4658.484s">Awak buta?</p>
+      <p begin="4658.567s" xml:id="p984" end="4660.359s">- Saya...<br />- Berambus!</p>
+      <p begin="4663.192s" xml:id="p985" end="4665.025s">Tak guna. Awak semua tak guna!</p>
+      <p begin="4665.108s" xml:id="p986" end="4666.108s">Cepat!</p>
+      <p begin="4666.192s" xml:id="p987" end="4668.317s">Itulah pejabat Harimau Jed.</p>
+      <p begin="4669.691s" xml:id="p988" end="4671.691s">Jangan jadikannya bersifat peribadi.</p>
+      <p begin="4673.526s" xml:id="p989" end="4676.484s">Ingat, awak harus guna otak awak dan<br />jangan memandang rendah pada mereka.</p>
+      <p begin="4678.108s" xml:id="p990" end="4680.65s">Mari kita berpecah dan menyerang.</p>
+      <p begin="4684.858s" xml:id="p991" end="4685.983s">Pergi.</p>
+      <p begin="4686.9s" xml:id="p992" end="4689.691s">Cepat.</p>
+      <p begin="4690.65s" xml:id="p993" end="4692.858s">Awak tak boleh menariknya? Cepat.</p>
+      <p begin="4711.65s" xml:id="p994" end="4712.607s">Maafkan saya...</p>
+      <p begin="4712.65s" xml:id="p995" end="4714.359s">...tetapi bos kami ada hal.</p>
+      <p begin="4714.442s" xml:id="p996" end="4715.484s">Dia akan kembali tak lama lagi.</p>
+      <p begin="4715.567s" xml:id="p997" end="4717.317s">Panggil bos awak sekarang.</p>
+      <p begin="4718.025s" xml:id="p998" end="4719.275s">Tak guna.</p>
+      <p begin="4719.359s" xml:id="p999" end="4722.234s">Mengapa kami belum dapat<br />senjata kami?</p>
+      <p begin="4722.317s" xml:id="p1000" end="4723.775s">Panggil bos awak sekarang.</p>
+      <p begin="4723.858s" xml:id="p1001" end="4725.526s">Saya mahu bercakap dengan dia.</p>
+      <p begin="4725.607s" xml:id="p1002" end="4726.484s">Baiklah.</p>
+      <p begin="4729.9s" xml:id="p1003" end="4731.608s">Helo, bos berada di sana?</p>
+      <p begin="4732.4s" xml:id="p1004" end="4734.733s">Bos, saya Pemenggal.</p>
+      <p begin="4734.817s" xml:id="p1005" end="4735.775s">Ya.</p>
+      <p begin="4736.067s" xml:id="p1006" end="4737.15s">Dia di talian.</p>
+      <p begin="4749.526s" xml:id="p1007" end="4750.608s">Mari kita pergi.</p>
+      <p begin="4773.817s" xml:id="p1008" end="4774.9s">Rasakan!</p>
+      <p begin="4813.567s" xml:id="p1009" end="4815.442s">Berani awak buat masalah di sini.</p>
+      <p begin="4955.275s" xml:id="p1010" end="4957.317s">Awak akan mati di sini hari ini.</p>
+      <p begin="5189.526s" xml:id="p1011" end="5190.359s">Jin.</p>
+      <p begin="5190.484s" xml:id="p1012" end="5193.108s">- Biar saya tolong awak.<br />- Saya tak apa-apa.</p>
+      <p begin="5193.608s" xml:id="p1013" end="5194.607s">Awak tak apa-apa?</p>
+      <p begin="5241.025s" xml:id="p1014" end="5242.192s">Lepaskan saya!</p>
+      <p begin="5242.275s" xml:id="p1015" end="5244.108s">Saya cabar awak lepaskan saya!</p>
+      <p begin="5292.691s" xml:id="p1016" end="5294.9s">Terjemahan oleh:<br />SDI MEDIA</p>
+    </div>
+  </body>
+</tt>

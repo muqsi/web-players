@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="./styles.css">
+    <script src="./shaka-player.compiled.babel.js"></script>
+    <script src="./App.js"></script>
+  </head>
+  <body>
+    <div class="app-wrapper">
+      <div class="header">
+      <img src="./DIAGNAL-Logo.svg" width="120px" />
+      
+      <div>
+      <!-- Manifest URL (Dash) <input id="dahs"  />
+      Subtitle URL ( TTML )<input id="TTML" /> -->
+   Select Subtitle
+    <select id="subtitle" onclick="menuselection()" >
+    <option value="0">Diagnal PAC</option>
+    <option value="1">GRB TEST</option>
+    <option value="2">MYS TEST</option>
+    <option value="3">SIM TEST</option>
+    <option value="4">TAG TEST</option>
+    <option value="5">TRD TEST</option>
+  </select>
+      <!-- <button onclick="loadmedia()">Load</button> -->
+      </div>
+    </div>
+    <video id="video"
+         controls
+         autoplay
+         width="94%"
+    >
+    </video>
+  </div>
+  </body>
+</html>
+
+
