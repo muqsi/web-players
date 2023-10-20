@@ -2,11 +2,13 @@
 <html>
 <script type="text/javascript" src="https://cdn.bitmovin.com/player/web/8/bitmovinplayer.js"></script>
 <body>
-<div id="player-container"></div>
+<div id="player-container">
+  
+</div>
 <script>
 
 var conf = {
-  key: '',
+  key: 'F86A1F58-177E-4D4D-8138-6EEC37B171F4b7ef39d2-03a7-451b-a9e1-da3266fb6d4c4b4d8a85-356e-41a0-bf23-43f21c5c7b0b',
   style: {
     aspectratio: '2:1'
   },
@@ -32,20 +34,12 @@ var conf = {
 
 
 var source = {
-  dash: "https://akm.cdn.intigral-ott.net/Titles/S000854602003/S000854602003.ism/manifest.mpd",
-  
-  drm: {
-    widevine: {
-      LA_URL: "https://wv.drm.intigral-ott.net:8063/?deviceId=MWE2MDZmZWQtNjQ4MC0zMTEwLThmZjItNDA4MjMyNzJmNjIx"
-    },
-  }
+  dash: "https://storage.googleapis.com/wvmedia/clear/hevc/tears/tears.mpd",
 };
 
 var playerContainer = document.getElementById('player-container');
 var  player = new bitmovin.player.Player(playerContainer, conf);
-player.load(source).then(() => { 
-  console.log("Playe loaded")
-} );
+player.load(source)
 
 const playerEvent = window.bitmovin.player.PlayerEvent;
 

@@ -1,6 +1,6 @@
 // DRM
 
-const manifestUri = "https://akm.cdn.intigral-ott.net/Titles/S000854602003/S000854602003.ism/manifest.mpd";
+const manifestUri = 'https://cdn.bitmovin.com/content/assets/art-of-motion_drm/mpds/11331.mpd';
 
 function initApp() {
   // Install built-in polyfills to patch browser incompatibilities.
@@ -19,28 +19,26 @@ function initApp() {
  // Create a Player instance.
  const video = document.getElementById('video');
  const player = new shaka.Player(video);
- // Attach player to the window to make it easy to access in the JS console.
-//  window.player = player;
+ // Attach player to the window to make it easy to access in the JS console.  
+ window.player = player;
 //  window.video =  video;
 
  var servers = {
-  'com.widevine.alpha':"",
+  'com.widevine.alpha':"https://cwip-shaka-proxy.appspot.com/no_auth",
 }
 
  const config = {
   drm: {
-    servers,
+    servers,  
   },
 };
 
-player.configure(config);
+ player.configure(config);
 
- player.load(manifestUri);
-
+ 
+ player.load(manifestUri).then(() => console.log("Playing") ).catch((e)=> console.log("loaderror", e));
  player.addEventListener('error', (e) => { console.log("err", e) } );
- player.addEventListener('buffering', (e) => { console.log("err", e) } );
 }
-
 
 
 

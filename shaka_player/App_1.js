@@ -1,6 +1,6 @@
 // Basic Player
 
-const manifestUri = "https://akm.cdn.intigral-ott.net/VOD/M0004404_T2/M0004404_T2.ism/manifest.mpd";
+const manifestUri = "https://storage.googleapis.com/wvmedia/clear/hevc/tears/tears.mpd";
 
 function initApp() {
   // Install built-in polyfills to patch browser incompatibilities.
@@ -17,8 +17,8 @@ function initApp() {
 
  function initPlayer() {
  // Create a Player instance.
- const video = document.getElementById('video');
- const player = new shaka.Player(video);
+ const htmlPlayer = document.getElementById('video');
+ const player = new shaka.Player(htmlPlayer);
  // Attach player to the window to make it easy to access in the JS console.
 //  window.player = player;
 //  window.video =  video;

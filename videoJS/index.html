@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <!-- <link href="https://vjs.zencdn.net/8.6.0/video-js.css" rel="stylesheet">
+  <script src="https://vjs.zencdn.net/8.6.0/video.min.js"></script>
+  <script src="https://vjs.zencdn.net/8.6.0/dash.all.min.js"></script> -->
+
+  <link href="https://unpkg.com/video.js/dist/video-js.css" rel="stylesheet">
+  <script src="https://unpkg.com/video.js/dist/video.js"></script>
+  <script src="https://unpkg.com/dashjs/dist/dash.all.min.js"></script>
+  <script src="https://path/to/widevine-plugin.js"></script>
+</head>
+<body>
+  <video id="my-video" class="video-js vjs-default-skin" controls preload="auto" width="640" height="360">
+    <!-- <source src='https://cdn.bitmovin.com/content/assets/art-of-motion_drm/mpds/11331.mpd' type="application/dash+xml"> -->
+    <!-- <source src="https://storage.googleapis.com/wvmedia/clear/hevc/tears/tears.mpd" type="application/dash+xml"> -->
+
+    
+  </video>
+
+  <script>
+    var player = videojs('my-video');
+    player.play();
+
+    player.ready(function() {
+      // var options = {
+      //   debug: { logLevel: dashjs.Debug.LOG_LEVEL_INFO }
+      // };
+      // player.dash(options);
+      var source = {
+        src: 'https://cdn.bitmovin.com/content/assets/art-of-motion_drm/mpds/11331.mpd',
+        type: 'application/dash+xml',
+        keySystems: {
+          'com.widevine.alpha': 'https://cwip-shaka-proxy.appspot.com/no_auth'
+        }
+      };
+
+      player.src(source);
+      player.play();
+    });
+  </script>
+</body>
+</html>

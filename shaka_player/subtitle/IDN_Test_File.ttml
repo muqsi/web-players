@@ -1,0 +1,1612 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:timeBase="media" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+  <head>
+    <metadata>
+      <ttm:title></ttm:title>
+    </metadata>
+    <styling>
+      <style xml:id="s0" tts:backgroundColor="black" tts:fontStyle="normal" tts:fontSize="16px" tts:fontFamily="sansSerif" tts:color="white" />
+    </styling>
+    <layout>
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="start" xml:id="topLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="start" xml:id="centerLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="start" xml:id="bottomLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="center" xml:id="topCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="center" xml:id="centerСenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="center" xml:id="bottomCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="end" xml:id="topRight" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="end" xml:id="centerRight" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="end" xml:id="bottomRight" />
+    </layout>
+  </head>
+  <body style="s0">
+    <div>
+      <p begin="2.170s" end="4.136s">Yes pac convrted working...........</p>
+      <p begin="0.0s" xml:id="p0" end="0.334s">Iron Ball #2<br />STORY: TGPGTGX007053<br />LANG: IDN</p>
+      <p begin="36000.125s" xml:id="p1" end="36002.459s">Para anggota Musim Pertama<br />dan Musim Kedua...</p>
+      <p begin="36002.584s" xml:id="p2" end="36005.334s">...harus menantang diri mereka<br />melakukan olahraga baru.</p>
+      <p begin="36005.459s" xml:id="p3" end="36007.292s">Olahraga itu adalah dodgeball.</p>
+      <p begin="36008.0s" xml:id="p4" end="36011.918s">Tujuannya adalah menjadi<br />pemain dodgeball nasional.</p>
+      <p begin="36012.0s" xml:id="p5" end="36013.417s">Kita?</p>
+      <p begin="36013.542s" xml:id="p6" end="36015.083s">Apa itu mungkin?</p>
+      <p begin="36015.292s" xml:id="p7" end="36016.709s">Tim nasional?</p>
+      <p begin="36016.834s" xml:id="p8" end="36020.209s">Tentu tidak semuanya<br />bisa masuk timnas.</p>
+      <p begin="36020.626s" xml:id="p9" end="36024.083s">Kontes Pemain Terkuat<br />akan segera dimulai.</p>
+      <p begin="36024.209s" xml:id="p10" end="36025.292s">(Kontes Pemain Terkuat)</p>
+      <p begin="36027.584s" xml:id="p11" end="36029.667s">(Pertandingan bertahan hidup<br />yang sengit)</p>
+      <p begin="36032.042s" xml:id="p12" end="36033.334s">(Hanya pemenang yang akan bertahan)</p>
+      <p begin="36033.459s" xml:id="p13" end="36034.459s">Sangat bagus.</p>
+      <p begin="36034.584s" xml:id="p14" end="36035.667s">Apa yang terjadi?</p>
+      <p begin="36035.959s" xml:id="p15" end="36039.417s">Benefitnya adalah bisa memilih<br />anggota timnya.</p>
+      <p begin="36039.542s" xml:id="p16" end="36040.542s">Kau pasti bisa!</p>
+      <p begin="36040.667s" xml:id="p17" end="36041.709s">Ini kesempatan kita.</p>
+      <p begin="36043.042s" xml:id="p18" end="36044.834s">(Babak Satu, Death Cage)</p>
+      <p begin="36044.959s" xml:id="p19" end="36045.959s">(Jeong Hae-chul menang)</p>
+      <p begin="36046.042s" xml:id="p20" end="36048.042s">Oh Jong-hyuk, Kim Seung-min.</p>
+      <p begin="36048.167s" xml:id="p21" end="36049.25s">Tangkap!</p>
+      <p begin="36051.292s" xml:id="p22" end="36052.751s">Hindari!</p>
+      <p begin="36054.042s" xml:id="p23" end="36055.334s">(Pertandingan sengit<br />untuk pemain terbaik)</p>
+      <p begin="36055.459s" xml:id="p24" end="36056.5s">Oh Jong-hyuk!</p>
+      <p begin="36058.292s" xml:id="p25" end="36060.25s">(Oh Jong-hyuk keluar)</p>
+      <p begin="36060.375s" xml:id="p26" end="36063.292s">Pemenangnya bisa memilih<br />lebih dulu.</p>
+      <p begin="36063.417s" xml:id="p27" end="36064.417s">(Babak final)</p>
+      <p begin="36064.542s" xml:id="p28" end="36066.042s">(Hak untuk memilih dipertaruhkan)</p>
+      <p begin="36066.167s" xml:id="p29" end="36067.792s">(Pertandingan sengit<br />tanpa konsesi apa pun)</p>
+      <p begin="36067.918s" xml:id="p30" end="36069.0s">Fokus.</p>
+      <p begin="36069.918s" xml:id="p31" end="36070.876s">Bagus!</p>
+      <p begin="36072.083s" xml:id="p32" end="36073.667s">(Sekali lempar, target kena)</p>
+      <p begin="36073.792s" xml:id="p33" end="36078.125s">Selesai. Pemenangnya adalah<br />Kim Seung-min dari HID.</p>
+      <p begin="36079.542s" xml:id="p34" end="36082.959s">Ini pertandingan yang sengit<br />untuk masuk timnas dodgeball.</p>
+      <p begin="36083.042s" xml:id="p35" end="36085.584s">Iron Ball, pertandingan dodgeball.</p>
+      <p begin="36085.709s" xml:id="p36" end="36089.834s">Kontes Pemain Terkuat<br />telah berakhir.</p>
+      <p begin="36090.042s" xml:id="p37" end="36095.751s">Dua dari 26 pemain telah terpilih<br />sebagai pemain terbaik.</p>
+      <p begin="36096.125s" xml:id="p38" end="36098.626s">Kita akan mengadakan<br />pertandingan seleksi...</p>
+      <p begin="36098.751s" xml:id="p39" end="36101.125s">...melalui pertandingan<br />antara dua tim.</p>
+      <p begin="36102.125s" xml:id="p40" end="36105.792s">Satu anggota dari tim yang kalah<br />akan dieliminasi.</p>
+      <p begin="36106.709s" xml:id="p41" end="36107.751s">(Pertandingan antara dua tim<br />untuk masuk timnas)</p>
+      <p begin="36107.876s" xml:id="p42" end="36110.417s">- Masuk! Bertahan!<br />- Pelan-pelan!</p>
+      <p begin="36110.918s" xml:id="p43" end="36113.375s">(Satu anggota dari tim yang kalah<br />akan dieliminasi)</p>
+      <p begin="36113.5s" xml:id="p44" end="36115.25s">Kau pasti bisa!</p>
+      <p begin="36117.918s" xml:id="p45" end="36119.167s">(Mulut kering)</p>
+      <p begin="36119.292s" xml:id="p46" end="36124.792s">Oleh karena itu, formasi tim<br />sangatlah penting.</p>
+      <p begin="36125.459s" xml:id="p47" end="36130.626s">Sebelumnya,<br />aku akan memberi pengumuman.</p>
+      <p begin="36134.0s" xml:id="p48" end="36136.584s">Setelah Kontes Pemain Terkuat...</p>
+      <p begin="36137.25s" xml:id="p49" end="36140.042s">...ada satu pemain yang cedera.</p>
+      <p begin="36142.209s" xml:id="p50" end="36145.959s">Pergelangan kaki Kang Won-jae<br />cedera...</p>
+      <p begin="36146.042s" xml:id="p51" end="36150.751s">...jadi dia tak akan bisa lanjut<br />dalam seleksi timnas.</p>
+      <p begin="36151.125s" xml:id="p52" end="36153.542s">(Dalam babak pertama<br />Kontes Pemain Terkuat...)</p>
+      <p begin="36154.0s" xml:id="p53" end="36156.709s">(...pergelangan kakinya terkilir)</p>
+      <p begin="36157.375s" xml:id="p54" end="36160.751s">(Kang Won-jae mundur<br />akibat cedera pergelangan kaki)</p>
+      <p begin="36161.751s" xml:id="p55" end="36165.167s">(Kang Won-jae cedera<br />bahkan sebelum tanding)</p>
+      <p begin="36165.542s" xml:id="p56" end="36167.5s">Karena Kang Won-jae<br />tidak bisa lanjut...</p>
+      <p begin="36167.626s" xml:id="p57" end="36172.792s">...kami menggantikan dia<br />dengan pemain baru.</p>
+      <p begin="36173.209s" xml:id="p58" end="36175.667s">(Pemain baru untuk mengisi<br />posisi Kang Won-jae)</p>
+      <p begin="36175.792s" xml:id="p59" end="36177.334s">Dia pemain baru.</p>
+      <p begin="36177.459s" xml:id="p60" end="36178.667s">Silakan masuk.</p>
+      <p begin="36180.125s" xml:id="p61" end="36182.042s">(Pemain final<br />untuk uji coba timnas?)</p>
+      <p begin="36182.292s" xml:id="p62" end="36183.375s">(Siapa dia?)</p>
+      <p begin="36183.792s" xml:id="p63" end="36186.751s">(Pupil membesar)</p>
+      <p begin="36187.584s" xml:id="p64" end="36189.0s">(Pemain final itu adalah...)</p>
+      <p begin="36189.125s" xml:id="p65" end="36190.751s">(...Kim Jeong-woo, SSU Musim Dua)</p>
+      <p begin="36190.876s" xml:id="p66" end="36193.167s">- Itu Jeong-woo.<br />- Jeong-woo.</p>
+      <p begin="36193.292s" xml:id="p67" end="36194.626s">(Kim Jeong-woo ikut?)</p>
+      <p begin="36194.876s" xml:id="p68" end="36196.834s">- Kau tak tahu?<br />- Aku tak tahu.</p>
+      <p begin="36196.959s" xml:id="p69" end="36198.042s">Kim Jeong-woo</p>
+      <p begin="36198.167s" xml:id="p70" end="36200.417s">(Kim Jeong-woo dari SSU)</p>
+      <p begin="36200.626s" xml:id="p71" end="36204.0s">Unit Pengangkatan Kapal Karam AL,<br />Sersan Staf Kim Jeong-woo.</p>
+      <p begin="36204.375s" xml:id="p72" end="36206.584s">(Tekad pembalikan)</p>
+      <p begin="36207.959s" xml:id="p73" end="36208.959s">Semangat!</p>
+      <p begin="36209.042s" xml:id="p74" end="36210.042s">Aku tak tahu apa yang akan terjadi.</p>
+      <p begin="36210.167s" xml:id="p75" end="36211.999s">(Dia juga aktif<br />dalam permainan dodgeball)</p>
+      <p begin="36212.083s" xml:id="p76" end="36213.584s">Baik, dua lawan dua.</p>
+      <p begin="36214.667s" xml:id="p77" end="36215.667s">Ya.</p>
+      <p begin="36215.792s" xml:id="p78" end="36217.167s">(Pengganti Kang Won-jae,<br />Kim Jeong-woo dari SSU)</p>
+      <p begin="36217.834s" xml:id="p79" end="36219.209s">Pemain unggul lainnya.</p>
+      <p begin="36219.334s" xml:id="p80" end="36220.999s">Orang yang tahu cara bermainnya.</p>
+      <p begin="36222.792s" xml:id="p81" end="36225.042s">(Kudengar dia pemain unggul,<br />jadi akan kuamati dia)</p>
+      <p begin="36225.292s" xml:id="p82" end="36228.125s">Bagaimana perasaanmu<br />datang ke sini?</p>
+      <p begin="36228.584s" xml:id="p83" end="36230.667s">Kudengar ada seleksi untuk timnas.</p>
+      <p begin="36230.959s" xml:id="p84" end="36233.209s">Jadi aku ke sini<br />untuk memperebutkan posisi.</p>
+      <p begin="36233.334s" xml:id="p85" end="36236.0s">(Aku ke sini<br />untuk memperebutkan posisi)</p>
+      <p begin="36236.167s" xml:id="p86" end="36238.0s">(Lihat karismanya)</p>
+      <p begin="36238.125s" xml:id="p87" end="36239.709s">Apa kau andal bermain dodgeball?</p>
+      <p begin="36239.959s" xml:id="p88" end="36243.459s">Aku lebih suka bermain polo air<br />daripada dodgeball.</p>
+      <p begin="36245.459s" xml:id="p89" end="36246.667s">Kurasa dia hebat<br />dalam melempar bola.</p>
+      <p begin="36246.792s" xml:id="p90" end="36249.125s">Kita sudah lihat betapa hebat<br />Kim Jeong-woo.</p>
+      <p begin="36249.25s" xml:id="p91" end="36250.334s">Kuharap kau melakukan<br />yang terbaik.</p>
+      <p begin="36250.459s" xml:id="p92" end="36251.667s">(Kompetisi menjadi intens dengan<br />bergabungnya pemain unggulan)</p>
+      <p begin="36251.792s" xml:id="p93" end="36257.709s">Termasuk Kim Jeong-woo,<br />sekarang kita akan memilih pemain.</p>
+      <p begin="36258.0s" xml:id="p94" end="36262.292s">Ketua Tim Kim Seung-min<br />punya kewenangan memilih pemain.</p>
+      <p begin="36262.5s" xml:id="p95" end="36264.792s">Silakan pilih pemain pertama.</p>
+      <p begin="36264.918s" xml:id="p96" end="36267.292s">Sebuah kehormatan untuk jadi<br />yang pertama dipilih.</p>
+      <p begin="36267.542s" xml:id="p97" end="36271.918s">(Siapa yang akan jadi<br />pemain terhormat pertama?)</p>
+      <p begin="36276.626s" xml:id="p98" end="36278.0s">Aku pilih Park Jun-woo.</p>
+      <p begin="36278.125s" xml:id="p99" end="36279.209s">Park Jun-woo.</p>
+      <p begin="36279.375s" xml:id="p100" end="36280.751s">Aku pilih Park Jun-woo.</p>
+      <p begin="36280.876s" xml:id="p101" end="36284.25s">Park Jun-woo.</p>
+      <p begin="36284.375s" xml:id="p102" end="36285.751s">(Pilihan pertama Ketua Tim<br />Kim Seung-min adalah Park Jun-woo)</p>
+      <p begin="36285.876s" xml:id="p103" end="36288.626s">Park Jun-woo adalah nomor satu.</p>
+      <p begin="36288.751s" xml:id="p104" end="36290.0s">(Pilihan pertama yang terhormat)</p>
+      <p begin="36290.125s" xml:id="p105" end="36292.042s">Yang pertama dipilih<br />adalah Park Jun-woo.</p>
+      <p begin="36294.209s" xml:id="p106" end="36296.125s">Apa alasannya?<br />(Kenapa Jun-woo dipilih pertama?)</p>
+      <p begin="36296.25s" xml:id="p107" end="36299.125s">- Karena dia penyusun strategi.<br />- Jun-woo adalah penyusun strategi.</p>
+      <p begin="36299.25s" xml:id="p108" end="36301.125s">Ya, kurasa itu<br />akan sangat membantu.</p>
+      <p begin="36301.25s" xml:id="p109" end="36304.417s">Dia akan sangat membantu<br />karena dia penyusun strategi.</p>
+      <p begin="36304.542s" xml:id="p110" end="36305.667s">- Selanjutnya.<br />- Ya.</p>
+      <p begin="36305.792s" xml:id="p111" end="36307.626s">- Ketua Tim Jeong Hae-chul.<br />- Ya.</p>
+      <p begin="36307.792s" xml:id="p112" end="36308.999s">Silakan umumkan.</p>
+      <p begin="36309.083s" xml:id="p113" end="36311.667s">- Kapten Yoon Jong-jin.<br />- Yoon Jong-jin.</p>
+      <p begin="36311.792s" xml:id="p114" end="36314.083s">- Apa?<br />- Kapten Yoon Jong-jin.</p>
+      <p begin="36314.209s" xml:id="p115" end="36315.667s">Kenapa ini?</p>
+      <p begin="36316.292s" xml:id="p116" end="36319.125s">(Iri)</p>
+      <p begin="36320.667s" xml:id="p117" end="36322.918s">Terima kasih.</p>
+      <p begin="36324.334s" xml:id="p118" end="36325.292s">(Langkah berat)</p>
+      <p begin="36325.417s" xml:id="p119" end="36326.417s">Tunggu.</p>
+      <p begin="36326.542s" xml:id="p120" end="36328.083s">Kau bisa berdiri di samping.</p>
+      <p begin="36328.584s" xml:id="p121" end="36331.417s">- Kau terlihat kurang senang.<br />- Tidak senang.</p>
+      <p begin="36331.542s" xml:id="p122" end="36333.999s">Aku tak bisa melakukannya.<br />Bagaimana ini?</p>
+      <p begin="36334.083s" xml:id="p123" end="36337.0s">Apa ada alasan khusus<br />kenapa kau pilih Yoon Jong-jin?</p>
+      <p begin="36337.125s" xml:id="p124" end="36338.5s">(Penasaran)</p>
+      <p begin="36338.667s" xml:id="p125" end="36342.375s">Saat melihat<br />rekan-rekan timku berlatih...</p>
+      <p begin="36342.667s" xml:id="p126" end="36345.834s">...aku bisa merasakan kekuatan<br />dari lemparannya.</p>
+      <p begin="36345.959s" xml:id="p127" end="36346.959s">(Lemparan kuat Yoon Jong-jin)</p>
+      <p begin="36347.167s" xml:id="p128" end="36350.042s">Baiklah, dia memilih Yoon Jong-jin.</p>
+      <p begin="36350.167s" xml:id="p129" end="36353.459s">Selanjutnya, pemain kedua.</p>
+      <p begin="36353.584s" xml:id="p130" end="36356.167s">Kim Seung-min, silakan umumkan<br />pemain kedua.</p>
+      <p begin="36356.751s" xml:id="p131" end="36359.876s">Aku pilih Lee Min-gon.</p>
+      <p begin="36359.999s" xml:id="p132" end="36361.5s">Lee Min-gon.</p>
+      <p begin="36362.542s" xml:id="p133" end="36364.209s">Lee Min-gon dari HID.</p>
+      <p begin="36364.542s" xml:id="p134" end="36366.0s">Dia memilih koleganya.</p>
+      <p begin="36366.334s" xml:id="p135" end="36369.5s">Dia pilih Lee Min-gon.</p>
+      <p begin="36370.167s" xml:id="p136" end="36372.25s">Selanjutnya, siapa yang akan<br />dipilih Jeong Hae-chul?</p>
+      <p begin="36373.751s" xml:id="p137" end="36377.751s">Aku pilih Park Do-hyeon.</p>
+      <p begin="36377.876s" xml:id="p138" end="36379.292s">Park Do-hyeon.</p>
+      <p begin="36379.417s" xml:id="p139" end="36380.709s">- Lemparannya sangat cepat.<br />- Park Do-hyeon.</p>
+      <p begin="36381.125s" xml:id="p140" end="36383.959s">(Sebelumnya diadakan tes kecepatan)</p>
+      <p begin="36384.999s" xml:id="p141" end="36385.999s">(Catatan bola tercepat:<br />71 km per jam)</p>
+      <p begin="36386.083s" xml:id="p142" end="36387.417s">71 km per jam.</p>
+      <p begin="36389.375s" xml:id="p143" end="36391.083s">- Aku akan loyal padamu.<br />- Baiklah.</p>
+      <p begin="36391.209s" xml:id="p144" end="36392.334s">Aku akan loyal padamu.</p>
+      <p begin="36392.459s" xml:id="p145" end="36394.042s">(Sangat puas)</p>
+      <p begin="36394.584s" xml:id="p146" end="36395.999s">(Para pemain yang tersisa<br />sudah tampak gelisah)</p>
+      <p begin="36396.083s" xml:id="p147" end="36397.876s">selanjutnya pemain ketiga.</p>
+      <p begin="36398.25s" xml:id="p148" end="36399.876s">Siapa yang akan dipilih Seung-min?</p>
+      <p begin="36400.209s" xml:id="p149" end="36402.542s">- Aku pilih Oh Jong-hyuk.<br />- Oh Jong-hyuk.</p>
+      <p begin="36402.667s" xml:id="p150" end="36404.334s">Dia pilih Oh Jong-hyuk.</p>
+      <p begin="36404.751s" xml:id="p151" end="36405.751s">Oh Jong-hyuk.</p>
+      <p begin="36405.876s" xml:id="p152" end="36406.876s">(Akhirnya)</p>
+      <p begin="36409.918s" xml:id="p153" end="36411.626s">Oh Jong-hyuk hebat.</p>
+      <p begin="36412.834s" xml:id="p154" end="36415.459s">(lincah, akurat)</p>
+      <p begin="36415.876s" xml:id="p155" end="36418.417s">(Dialah pemain unggulan<br />di Kontes Pemain Terkuat)</p>
+      <p begin="36419.25s" xml:id="p156" end="36421.125s">Oh Jong-hyuk terpilih.</p>
+      <p begin="36421.25s" xml:id="p157" end="36423.042s">Baik, beginilah hasilnya.</p>
+      <p begin="36423.167s" xml:id="p158" end="36425.999s">Jeong Hae-chul,<br />umumkan pemain ketigamu.</p>
+      <p begin="36427.584s" xml:id="p159" end="36429.626s">- Aku pilih Hwang Chung-won.<br />- Hwang Chung-won.</p>
+      <p begin="36429.751s" xml:id="p160" end="36430.751s">(Hwang Chung-won)</p>
+      <p begin="36430.876s" xml:id="p161" end="36432.0s">Hwang Chung-won.</p>
+      <p begin="36432.375s" xml:id="p162" end="36434.667s">- Baiklah.<br />- Tiba-tiba dia berseri-seri.</p>
+      <p begin="36434.999s" xml:id="p163" end="36438.042s">Kurasa tim lawan punya anggota<br />yang unggul dalam hal kekuatan.</p>
+      <p begin="36438.542s" xml:id="p164" end="36440.334s">- Kita akan bermain dodgeball.<br />- Ya.</p>
+      <p begin="36440.459s" xml:id="p165" end="36442.25s">- Bukan Pertempuran Parit.<br />- Benar.</p>
+      <p begin="36442.375s" xml:id="p166" end="36445.542s">Aku penasaran siapa yang akan<br />mereka pilih.</p>
+      <p begin="36445.918s" xml:id="p167" end="36446.959s">Aku pilih Kang Jun.</p>
+      <p begin="36447.042s" xml:id="p168" end="36448.25s">Kang Jun.</p>
+      <p begin="36448.375s" xml:id="p169" end="36450.042s">Kang Jun dari SDT.</p>
+      <p begin="36450.709s" xml:id="p170" end="36452.792s">- Aku pilih Kang Cheong-myung.<br />- Kang Cheong-myung.</p>
+      <p begin="36452.918s" xml:id="p171" end="36453.918s">Terima kasih.</p>
+      <p begin="36454.0s" xml:id="p172" end="36455.0s">Semangat!</p>
+      <p begin="36455.125s" xml:id="p173" end="36456.25s">- Iron!<br />- Iron!</p>
+      <p begin="36456.375s" xml:id="p174" end="36457.375s">Aku pilih Jin-bong.</p>
+      <p begin="36457.5s" xml:id="p175" end="36458.5s">Ketua tim!</p>
+      <p begin="36458.626s" xml:id="p176" end="36461.667s">(Lee Jin-bing yang penuh semangat)</p>
+      <p begin="36462.167s" xml:id="p177" end="36464.542s">(Tim Hae-chul fokus<br />pada kekuatan)</p>
+      <p begin="36464.999s" xml:id="p178" end="36465.999s">(Tim Jeong Hae-chul)</p>
+      <p begin="36466.083s" xml:id="p179" end="36467.334s">(Jeong Hae-chul, Yoon Jong-jin,<br />Park Do-hyeon, Hwang Chung-won)</p>
+      <p begin="36467.459s" xml:id="p180" end="36468.626s">(Lee Jin-bong, Choi Seong-hyeon<br />Kim Jeong-woo, Kang Jun)</p>
+      <p begin="36468.751s" xml:id="p181" end="36469.751s">(Kang Cheong-myung)<br />(Jeong Tae-pung, Jung Jong-hyun)</p>
+      <p begin="36469.876s" xml:id="p182" end="36471.334s">Ketua Tim Kim Seung-min,<br />siapa yang akan kau pilih?</p>
+      <p begin="36471.459s" xml:id="p183" end="36472.584s">Aku pilih Lee Dong-gyu.</p>
+      <p begin="36472.709s" xml:id="p184" end="36475.459s">Lee Dong-gyu.</p>
+      <p begin="36475.834s" xml:id="p185" end="36478.209s">- Aku pilih Kim Geon.<br />- Kim Geon.</p>
+      <p begin="36478.417s" xml:id="p186" end="36479.918s">Aku pilih Gu Seong-hwi.</p>
+      <p begin="36480.0s" xml:id="p187" end="36482.167s">Gu Seong-hwi.</p>
+      <p begin="36482.5s" xml:id="p188" end="36485.125s">(Tim Seung-min dikenal<br />dengan kegesitannya)</p>
+      <p begin="36485.417s" xml:id="p189" end="36486.667s">(Kim Seung-min, Park Jun-woo,<br />Lee Min-gon)</p>
+      <p begin="36486.792s" xml:id="p190" end="36488.042s">(Oh Jong-hyuk, Gu Seong-hwi,<br />Lee Dong-gyu)</p>
+      <p begin="36488.167s" xml:id="p191" end="36489.125s">(Kim Geon, Park Gil-yeon,)<br />Lee Ju-yong</p>
+      <p begin="36489.25s" xml:id="p192" end="36490.25s">(Song Bo-geun, Lee Yu-jeong)</p>
+      <p begin="36490.959s" xml:id="p193" end="36495.209s">(Tersisa empat pemain)</p>
+      <p begin="36495.959s" xml:id="p194" end="36497.334s">(Kim Sang-wook, Kim Min-jun<br />Jeong Seong-hoon, Oh Sang-young)</p>
+      <p begin="36497.459s" xml:id="p195" end="36498.999s">Siapa yang akan dipilih terakhir?</p>
+      <p begin="36499.167s" xml:id="p196" end="36501.876s">(Siapa yang akan dipilih terakhir?)</p>
+      <p begin="36503.042s" xml:id="p197" end="36506.667s">Ketua Tim Kim Seung-min,<br />siapa yang akan kau pilih?</p>
+      <p begin="36506.959s" xml:id="p198" end="36508.918s">Kim Seung-min,<br />dari keempat pemain ini...</p>
+      <p begin="36509.0s" xml:id="p199" end="36510.125s">(Kim Seung-min dipastikan berada<br />di posisi terakhir)</p>
+      <p begin="36510.959s" xml:id="p200" end="36512.083s">Kim Seung-min.</p>
+      <p begin="36512.626s" xml:id="p201" end="36513.584s">Kim Min-jun.</p>
+      <p begin="36513.709s" xml:id="p202" end="36514.876s">Kim Min-jun.</p>
+      <p begin="36514.999s" xml:id="p203" end="36516.709s">Kim Min-jun.</p>
+      <p begin="36516.834s" xml:id="p204" end="36519.125s">(Aku bergabung lebih dulu)</p>
+      <p begin="36519.375s" xml:id="p205" end="36522.083s">(Kim Min-jun lega karena dipilih)</p>
+      <p begin="36522.292s" xml:id="p206" end="36524.5s">(Sedih)</p>
+      <p begin="36525.0s" xml:id="p207" end="36526.167s">(Kim Seung-min selalu fokus<br />pada kegesitan)</p>
+      <p begin="36526.292s" xml:id="p208" end="36528.667s">Semangat!</p>
+      <p begin="36528.792s" xml:id="p209" end="36530.959s">Baiklah, tersisa tiga orang.</p>
+      <p begin="36531.042s" xml:id="p210" end="36533.042s">Kim Sang-wook, Jeong Seong-hoon,<br />dan Oh Sang-young.</p>
+      <p begin="36533.167s" xml:id="p211" end="36534.709s">Oh Sang-young di luar ekspektasi.</p>
+      <p begin="36534.834s" xml:id="p212" end="36538.375s">Termasuk Oh Sang-young,<br />ada tiga orang yang tersisa.</p>
+      <p begin="36538.5s" xml:id="p213" end="36541.584s">- Pilih Oh Sang-young.<br />- Sang-wook hebat dalam melempar.</p>
+      <p begin="36541.709s" xml:id="p214" end="36543.334s">Sang-wook. Pilih Sang-wook.</p>
+      <p begin="36543.459s" xml:id="p215" end="36545.25s">Oh Sang-young di luar ekspektasi.</p>
+      <p begin="36545.375s" xml:id="p216" end="36547.542s">Jeong Hae-chul, silakan pilih.</p>
+      <p begin="36547.667s" xml:id="p217" end="36550.25s">- Aku akan pilih Kim Sang-wook.<br />- Kim Sang-wook.</p>
+      <p begin="36550.375s" xml:id="p218" end="36551.751s">(Tim Jeong Hae-chul<br />memilih pemain kuat)</p>
+      <p begin="36551.876s" xml:id="p219" end="36553.334s">Dia pilih Kim Sang-wook.</p>
+      <p begin="36553.918s" xml:id="p220" end="36556.042s">Tersisa dua pemain.</p>
+      <p begin="36556.167s" xml:id="p221" end="36558.542s">Jeong Seong-hoon and Oh Sang-young.</p>
+      <p begin="36558.667s" xml:id="p222" end="36562.083s">Mereka yang terakhir dipilih.</p>
+      <p begin="36562.209s" xml:id="p223" end="36563.834s">Bagaimana perasaanmu saat ini?</p>
+      <p begin="36564.709s" xml:id="p224" end="36565.709s">(Menghela napas)</p>
+      <p begin="36565.834s" xml:id="p225" end="36568.083s">- Merasa tak nyaman bersama dia.<br />- Merasa tak nyaman.</p>
+      <p begin="36568.209s" xml:id="p226" end="36570.792s">- Merasa tak nyaman bersama dia.<br />- Merasa tak nyaman.</p>
+      <p begin="36570.918s" xml:id="p227" end="36573.083s">(Sulit kupercaya<br />aku bersama Jeong Seong-hoon)</p>
+      <p begin="36573.209s" xml:id="p228" end="36574.5s">Baiklah.</p>
+      <p begin="36574.709s" xml:id="p229" end="36579.667s">Aku ingin tahu, kau ingin bergabung<br />di tim mana.</p>
+      <p begin="36579.792s" xml:id="p230" end="36581.375s">Kim Seung-min atau Jeong Hae-chul.</p>
+      <p begin="36581.5s" xml:id="p231" end="36583.417s">Kau ingin bergabung di tim mana?<br />Jujur saja.</p>
+      <p begin="36583.751s" xml:id="p232" end="36584.959s">Jika bicara soal<br />kekuatan tanding...</p>
+      <p begin="36585.042s" xml:id="p233" end="36587.584s">...kurasa tim Seung-min<br />akan lebih unggul.</p>
+      <p begin="36587.709s" xml:id="p234" end="36588.709s">(Puas)</p>
+      <p begin="36588.834s" xml:id="p235" end="36591.125s">Semoga Ketua Tim Kim Seung-min<br />memilih dia.</p>
+      <p begin="36591.417s" xml:id="p236" end="36593.626s">Aku juga ingin masuk<br />tim Seung-min.</p>
+      <p begin="36594.25s" xml:id="p237" end="36598.125s">Kedua pemain ingin bergabung<br />dengan tim Seung-min.</p>
+      <p begin="36598.459s" xml:id="p238" end="36603.626s">Baiklah. Kapten Kim Seung-min,<br />silakan pilih pemain terakhir.</p>
+      <p begin="36603.751s" xml:id="p239" end="36605.751s">Oh Sang-young dan Jeong Seong-hoon.</p>
+      <p begin="36606.542s" xml:id="p240" end="36610.5s">Di antara keduanya,<br />siapa yang akan kau pilih?</p>
+      <p begin="36611.292s" xml:id="p241" end="36614.626s">Baiklah, Jeong..</p>
+      <p begin="36614.751s" xml:id="p242" end="36615.834s">(Akankah si Gesit<br />Jeong Seong-hoon?)</p>
+      <p begin="36616.25s" xml:id="p243" end="36617.5s">(Tidak!)</p>
+      <p begin="36617.626s" xml:id="p244" end="36618.626s">Jeong..</p>
+      <p begin="36618.751s" xml:id="p245" end="36623.25s">Aku pilih Oh Sang-young.</p>
+      <p begin="36623.375s" xml:id="p246" end="36624.876s">(Sangat kaget)</p>
+      <p begin="36624.999s" xml:id="p247" end="36626.083s">Maaf.</p>
+      <p begin="36627.459s" xml:id="p248" end="36628.459s">Maaf.</p>
+      <p begin="36628.584s" xml:id="p249" end="36629.584s">(Menjungkirbalikkan<br />konsep kelincahan)</p>
+      <p begin="36629.751s" xml:id="p250" end="36634.959s">Oh Sang-young, silakan bergabung<br />dengan tim Kim Seung-min.</p>
+      <p begin="36635.042s" xml:id="p251" end="36636.042s">(Atmosfer memanas)</p>
+      <p begin="36636.167s" xml:id="p252" end="36637.709s">Ayo kita lakukan!</p>
+      <p begin="36638.542s" xml:id="p253" end="36643.751s">Jeong Seong-hoon otomatis<br />bergabung dengan tim Hae-chul.</p>
+      <p begin="36645.334s" xml:id="p254" end="36649.042s">(Menang dengan kelincahan<br />dan ketangkasan)</p>
+      <p begin="36649.25s" xml:id="p255" end="36652.209s">(Tim Kim Seung-min)</p>
+      <p begin="36652.542s" xml:id="p256" end="36653.667s">(Kim Seung-min, Park Jun-woo)</p>
+      <p begin="36653.792s" xml:id="p257" end="36655.125s">(Lee Min-gon, Oh Jong-hyuk,<br />Gu Seong-hwi)</p>
+      <p begin="36655.25s" xml:id="p258" end="36656.5s">(Lee Dong-gyu, Kim Geon,<br />Park Gil-yeon)</p>
+      <p begin="36656.626s" xml:id="p259" end="36658.042s">(Lee Ju-yong, Song Bo-geun,<br />Lee Yu-jeong)</p>
+      <p begin="36658.167s" xml:id="p260" end="36659.167s">(Kim Min-jun, Oh Sang-young)</p>
+      <p begin="36659.292s" xml:id="p261" end="36661.876s">- Semuanya, perhatian! Hormat!<br />- Iron!</p>
+      <p begin="36661.999s" xml:id="p262" end="36663.999s">(Tim Jeong Hae-chul)</p>
+      <p begin="36664.083s" xml:id="p263" end="36665.25s">(Ketua Tim Jeong Hae-chul,<br />Yoon Jong-jin)</p>
+      <p begin="36665.375s" xml:id="p264" end="36666.834s">(Park Do-hyeon, Hwang Chung-won,<br />Lee Jin-bong)</p>
+      <p begin="36666.959s" xml:id="p265" end="36668.25s">(Choi Sang-hyun, Kim Jeong-woo,<br />Kang Jun)</p>
+      <p begin="36668.375s" xml:id="p266" end="36669.876s">(Kang Cheong-myung, Jeong Tae-pung,<br />Jung Jong-hyun)</p>
+      <p begin="36669.999s" xml:id="p267" end="36670.999s">(Kim Sang-wook, Jeong Seong-hoon)</p>
+      <p begin="36671.792s" xml:id="p268" end="36674.25s">(Gangneung, Provinsi Gangwon)</p>
+      <p begin="36678.959s" xml:id="p269" end="36683.459s">(Pantai yang berangin kencang)</p>
+      <p begin="36684.792s" xml:id="p270" end="36688.5s">(Ke-26 pemain yang menembus<br />ombak besar, masuk)</p>
+      <p begin="36689.25s" xml:id="p271" end="36694.999s">(Pertandingan seleksi<br />untuk timnas dodgeball)</p>
+      <p begin="36695.667s" xml:id="p272" end="36697.834s">(Tim Merah<br />adalah tim Jeong Hae-chul)</p>
+      <p begin="36697.959s" xml:id="p273" end="36700.918s">(Tim Biru adalah Tim Kim Seung-min)</p>
+      <p begin="36701.0s" xml:id="p274" end="36705.125s">Tantangan untuk menjadi<br />timnas dodgeball...</p>
+      <p begin="36705.25s" xml:id="p275" end="36707.959s">...Iron Ball,<br />pertandingan dodgeball.</p>
+      <p begin="36708.209s" xml:id="p276" end="36712.292s">Pertandingan untuk mengeliminasi<br />pemain pertama...</p>
+      <p begin="36712.626s" xml:id="p277" end="36715.417s">...akan dimulai sekarang.</p>
+      <p begin="36715.542s" xml:id="p278" end="36719.417s">Pemain pertama yang dieliminasi<br />tidak hanya satu orang.</p>
+      <p begin="36719.584s" xml:id="p279" end="36722.876s">Ini eliminasi massal.</p>
+      <p begin="36723.125s" xml:id="p280" end="36725.584s">(Eliminasi pertama<br />adalah eliminasi massal)</p>
+      <p begin="36726.792s" xml:id="p281" end="36729.209s">Tak bisa mundur lagi.<br />Harus berjuang hingga akhir.</p>
+      <p begin="36729.918s" xml:id="p282" end="36731.417s">- Ketua Tim, Kim Seung-min.<br />- Ya.</p>
+      <p begin="36731.542s" xml:id="p283" end="36733.167s">Apa pendapatmu dengan Tim Biru?</p>
+      <p begin="36734.0s" xml:id="p284" end="36735.125s">Sangat cerah.</p>
+      <p begin="36735.751s" xml:id="p285" end="36737.751s">- Lawan mereka, Tim Merah.<br />- Ya.</p>
+      <p begin="36737.876s" xml:id="p286" end="36739.167s">- Ketua Tim, Jeong Hae-chul.<br />- Ya.</p>
+      <p begin="36739.292s" xml:id="p287" end="36743.292s">Sebagian orang bilang,<br />timnya Seung-min punya keunggulan.</p>
+      <p begin="36743.417s" xml:id="p288" end="36745.209s">Itu yang mereka katakan.</p>
+      <p begin="36745.334s" xml:id="p289" end="36746.959s">Bagaimana suasana tim saat ini?</p>
+      <p begin="36747.042s" xml:id="p290" end="36750.292s">Pendapat itu<br />membuat kami termotivasi.</p>
+      <p begin="36750.417s" xml:id="p291" end="36752.0s">Semangat kami terus meningkat.</p>
+      <p begin="36752.125s" xml:id="p292" end="36753.792s">Kami juga sangat percaya diri<br />dalam pertandingan ini.</p>
+      <p begin="36753.918s" xml:id="p293" end="36755.167s">Bagus.</p>
+      <p begin="36755.292s" xml:id="p294" end="36758.459s">Sebelum dimulai...</p>
+      <p begin="36758.584s" xml:id="p295" end="36764.334s">...ada prapertandingan<br />untuk memperebutkan benefit.</p>
+      <p begin="36765.459s" xml:id="p296" end="36769.709s">Prapertandingan untuk memperebutkan<br />benefit yaitu...</p>
+      <p begin="36771.0s" xml:id="p297" end="36772.918s">...Close-combat Dodgeball.</p>
+      <p begin="36773.0s" xml:id="p298" end="36775.25s">Close-combat Dodgeball.</p>
+      <p begin="36777.209s" xml:id="p299" end="36779.125s">Jarak dekat.</p>
+      <p begin="36779.25s" xml:id="p300" end="36782.209s">Kenapa itu lagi?</p>
+      <p begin="36782.334s" xml:id="p301" end="36784.999s">Sudah jelas.<br />Sudah ada di depan kita.</p>
+      <p begin="36785.999s" xml:id="p302" end="36789.667s">Close-combat Dodgeball<br />dibagi tiga babak.</p>
+      <p begin="36789.792s" xml:id="p303" end="36793.417s">Dua wakil dari tiap tim<br />akan bertanding di setiap babak.</p>
+      <p begin="36793.542s" xml:id="p304" end="36800.5s">Tim pertama yang melempar bola<br />ke dalam ban milik lawan...</p>
+      <p begin="36800.626s" xml:id="p305" end="36802.584s">...yang jadi pemenang.</p>
+      <p begin="36803.834s" xml:id="p306" end="36806.876s">(Jika bagian tubuh ke luar batas,<br />lawan yang berganti menyerang)</p>
+      <p begin="36806.999s" xml:id="p307" end="36810.209s">Babak pertama<br />Close-combat Dodgeball.</p>
+      <p begin="36810.334s" xml:id="p308" end="36815.709s">Dua pemain dari kedua tim,<br />silakan maju.</p>
+      <p begin="36816.375s" xml:id="p309" end="36818.334s">Siapa, ya?</p>
+      <p begin="36819.751s" xml:id="p310" end="36821.083s">Kau pasti bisa!</p>
+      <p begin="36821.209s" xml:id="p311" end="36823.459s">Kau pasti bisa!</p>
+      <p begin="36823.584s" xml:id="p312" end="36825.5s">(Kedua wakil tim memasuki arena)</p>
+      <p begin="36825.626s" xml:id="p313" end="36829.0s">Kau pasti bisa.</p>
+      <p begin="36831.375s" xml:id="p314" end="36833.959s">Akan jadi pertandingan menarik.</p>
+      <p begin="36834.042s" xml:id="p315" end="36836.584s">Luar biasa!</p>
+      <p begin="36837.25s" xml:id="p316" end="36840.959s">(Tim Merah,<br />Kim Sang-wook, Jung Jong-hyun)</p>
+      <p begin="36841.459s" xml:id="p317" end="36844.876s">(Tim Biru,<br />Lee Ju-yong, Oh Sang-young)</p>
+      <p begin="36844.999s" xml:id="p318" end="36846.709s">Susunan saat ini...</p>
+      <p begin="36846.834s" xml:id="p319" end="36849.0s">...menunjukkan kedua tim<br />ingin menang di babak pertama.</p>
+      <p begin="36849.125s" xml:id="p320" end="36851.0s">Mereka ingin langsung menang.</p>
+      <p begin="36851.125s" xml:id="p321" end="36854.834s">Jika dilihat, pertandingan ini<br />antara Special Forces dan UDT.</p>
+      <p begin="36854.959s" xml:id="p322" end="36857.584s">Jika diperhatikan, pertandingan ini<br />antara Musim Satu dan Musim Dua.</p>
+      <p begin="36857.709s" xml:id="p323" end="36860.167s">- Benar.<br />- Ya, benar.</p>
+      <p begin="36860.292s" xml:id="p324" end="36862.25s">- Sekilas info.<br />- Apa?</p>
+      <p begin="36862.375s" xml:id="p325" end="36863.959s">- Lee Ju-yong...<br />- Ya.</p>
+      <p begin="36864.042s" xml:id="p326" end="36866.125s">...adalah atlet gulat<br />hingga di universitas.</p>
+      <p begin="36866.25s" xml:id="p327" end="36868.042s">Sangat bisa diandalkan.</p>
+      <p begin="36868.167s" xml:id="p328" end="36869.792s">Kita para pemain aktif.</p>
+      <p begin="36869.918s" xml:id="p329" end="36872.292s">Namun tim ini<br />punya pemain MMA, 'kan?</p>
+      <p begin="36872.417s" xml:id="p330" end="36875.792s">Pertarungan menarik<br />antara MMA dan gulat.</p>
+      <p begin="36875.918s" xml:id="p331" end="36879.042s">Siapa yang akan menang?</p>
+      <p begin="36884.626s" xml:id="p332" end="36886.0s">Bagus sekali.</p>
+      <p begin="36888.292s" xml:id="p333" end="36889.876s">Tubuhnya bagai baju zirah.</p>
+      <p begin="36891.417s" xml:id="p334" end="36893.834s">Lee Ju-yong mengagumkan.</p>
+      <p begin="36894.626s" xml:id="p335" end="36896.834s">Dia sangat kuat.</p>
+      <p begin="36899.459s" xml:id="p336" end="36901.542s">Ju-yong luar biasa.</p>
+      <p begin="36901.667s" xml:id="p337" end="36903.417s">Dia sangat kuat.</p>
+      <p begin="36904.918s" xml:id="p338" end="36908.209s">(Fisik Oh Sang-young urutan kedua<br />di bawah Lee Ju-yong)</p>
+      <p begin="36908.334s" xml:id="p339" end="36910.959s">(Keduanya tampak lebih kurus<br />dibandingkan mereka)</p>
+      <p begin="36911.5s" xml:id="p340" end="36913.959s">(Tim Biru memamerkan<br />fisik mereka yang mengagumkan)</p>
+      <p begin="36914.042s" xml:id="p341" end="36917.25s">Lee Ju-yong, dari Tim Biru,<br />ceritakan resolusimu.</p>
+      <p begin="36917.375s" xml:id="p342" end="36919.999s">Kulakukan yang terbaik<br />demi kemenangan tim.</p>
+      <p begin="36920.083s" xml:id="p343" end="36922.125s">Tak akan kutunjukkan<br />kekalahanku lagi.</p>
+      <p begin="36922.25s" xml:id="p344" end="36923.626s">(Tak akan kutunjukkan kekalahanku)</p>
+      <p begin="36923.751s" xml:id="p345" end="36925.709s">Kim Sang-wook terus maju!</p>
+      <p begin="36925.834s" xml:id="p346" end="36927.5s">Oh Sang-young tertarik!</p>
+      <p begin="36927.626s" xml:id="p347" end="36929.125s">Dia terseret!</p>
+      <p begin="36929.25s" xml:id="p348" end="36930.5s">Kim Sang-wook menariknya!</p>
+      <p begin="36930.626s" xml:id="p349" end="36931.626s">Hampir selesai.</p>
+      <p begin="36931.751s" xml:id="p350" end="36933.334s">(Oh Sang-young<br />dikalahkan Kim Sang-wook)</p>
+      <p begin="36933.459s" xml:id="p351" end="36934.959s">Licin sekali.</p>
+      <p begin="36935.042s" xml:id="p352" end="36936.5s">Kim Sang-wook menang!</p>
+      <p begin="36936.626s" xml:id="p353" end="36937.999s">Oh Sang-young.</p>
+      <p begin="36938.083s" xml:id="p354" end="36941.876s">Dia sangat bersemangat.</p>
+      <p begin="36941.999s" xml:id="p355" end="36944.959s">Jung Jong-hyun dari Tim Merah.</p>
+      <p begin="36945.042s" xml:id="p356" end="36947.334s">Aku pasti akan menang.</p>
+      <p begin="36947.459s" xml:id="p357" end="36949.751s">Aku akan bertanding seperti biasa<br />hingga mati!</p>
+      <p begin="36949.876s" xml:id="p358" end="36951.417s">Mati! Bukan.</p>
+      <p begin="36951.542s" xml:id="p359" end="36953.459s">Mati? Baiklah.</p>
+      <p begin="36953.584s" xml:id="p360" end="36956.25s">Ini acara TV.</p>
+      <p begin="36956.751s" xml:id="p361" end="36958.459s">(Close-combat Dodgeball, Tim Satu)</p>
+      <p begin="36958.584s" xml:id="p362" end="36960.209s">(Kim Sang-wook, Jung Jong-hyun<br />versus Lee Ju-yong, Oh Sang-young)</p>
+      <p begin="36960.334s" xml:id="p363" end="36963.083s">Saatnya kita putuskan<br />tim pertama yang menyerang.</p>
+      <p begin="36963.209s" xml:id="p364" end="36965.0s">Ayo, Tim terbaik!</p>
+      <p begin="36965.667s" xml:id="p365" end="36966.959s">Bersiap!</p>
+      <p begin="36968.292s" xml:id="p366" end="36971.626s">(Sangat penting<br />dapat bola pertama)</p>
+      <p begin="36977.709s" xml:id="p367" end="36980.5s">(Jong-hyun dari Tim Merah)</p>
+      <p begin="36980.626s" xml:id="p368" end="36983.083s">Tidak apa-apa!</p>
+      <p begin="36983.209s" xml:id="p369" end="36986.375s">- Bersiap! Mulai!<br />- Bola!</p>
+      <p begin="36986.5s" xml:id="p370" end="36989.083s">Tim Merah menyerang terlebih dulu.</p>
+      <p begin="36989.209s" xml:id="p371" end="36990.667s">- Ini akan menyenangkan.<br />- Ini mengasyikkan.</p>
+      <p begin="36990.792s" xml:id="p372" end="36992.959s">Babak Pertama.</p>
+      <p begin="36993.042s" xml:id="p373" end="36996.292s">(Tim mana yang akan menang<br />di babak pertama?)</p>
+      <p begin="36996.417s" xml:id="p374" end="36997.459s">Aku tak sanggup menyaksikan.</p>
+      <p begin="36997.584s" xml:id="p375" end="37000.709s">Babak pertama<br />Close-combat Dodgeball!</p>
+      <p begin="37000.834s" xml:id="p376" end="37002.375s">(Babak pertama<br />Close-combat Dodgeball dimulai)</p>
+      <p begin="37002.5s" xml:id="p377" end="37004.292s">Bertahan atau menyerang?</p>
+      <p begin="37004.417s" xml:id="p378" end="37007.125s">Benar, diblokir.</p>
+      <p begin="37007.25s" xml:id="p379" end="37009.417s">Kim Sang-wook.</p>
+      <p begin="37009.542s" xml:id="p380" end="37010.667s">Dia dapat!</p>
+      <p begin="37010.792s" xml:id="p381" end="37012.167s">Kim Sang-wook.</p>
+      <p begin="37012.292s" xml:id="p382" end="37013.834s">Kim Sang-wook terjatuh!</p>
+      <p begin="37013.959s" xml:id="p383" end="37015.167s">Bagus sekali.</p>
+      <p begin="37015.292s" xml:id="p384" end="37017.584s">Bagus! Jangan biarkan dia<br />ke arah sana!</p>
+      <p begin="37017.709s" xml:id="p385" end="37019.792s">Dia berhasil menahan.</p>
+      <p begin="37019.918s" xml:id="p386" end="37021.834s">Dia menyeret.</p>
+      <p begin="37021.959s" xml:id="p387" end="37022.959s">Sang-wook terus maju.</p>
+      <p begin="37023.042s" xml:id="p388" end="37024.918s">Tidak boleh melempar bola.</p>
+      <p begin="37025.0s" xml:id="p389" end="37027.25s">Satu lawan satu sekarang.</p>
+      <p begin="37027.375s" xml:id="p390" end="37029.0s">Jong-hyun, kau harus bebaskan diri!</p>
+      <p begin="37029.959s" xml:id="p391" end="37031.042s">(Oh Sang-young berusaha keras<br />menahan Jung Jong-hyun)</p>
+      <p begin="37031.167s" xml:id="p392" end="37032.5s">Kau pasti bisa!</p>
+      <p begin="37032.626s" xml:id="p393" end="37034.918s">Jong-hyun tak sanggup.</p>
+      <p begin="37035.0s" xml:id="p394" end="37037.125s">Jong-hyun tak sanggup.</p>
+      <p begin="37037.25s" xml:id="p395" end="37039.334s">Belum tahu siapa yang menang.</p>
+      <p begin="37039.459s" xml:id="p396" end="37040.459s">Kim Sang-wook!</p>
+      <p begin="37040.584s" xml:id="p397" end="37042.25s">Kim Sang-wook!</p>
+      <p begin="37042.375s" xml:id="p398" end="37043.709s">Jangan sampai kehilangan bola.</p>
+      <p begin="37043.834s" xml:id="p399" end="37046.751s">- Kim Sang-wook!<br />- Terus!</p>
+      <p begin="37047.542s" xml:id="p400" end="37051.292s">Pertandingan yang ketat.</p>
+      <p begin="37052.042s" xml:id="p401" end="37053.584s">Ayo, Kim Sang-wook!</p>
+      <p begin="37053.709s" xml:id="p402" end="37055.792s">Kim Sang-wook berdiri.</p>
+      <p begin="37055.918s" xml:id="p403" end="37057.999s">- Kim Sang-wook!<br />- Kau pasti bisa!</p>
+      <p begin="37058.083s" xml:id="p404" end="37060.5s">- Bagus. Ayo, Kim Sang-wook!<br />- Bagus!</p>
+      <p begin="37060.626s" xml:id="p405" end="37062.5s">Bagus, Ju-yong! Itu dia!</p>
+      <p begin="37063.751s" xml:id="p406" end="37065.709s">Kim Sang-wook berdiri.</p>
+      <p begin="37065.834s" xml:id="p407" end="37068.918s">- Bagus, Ju-yong.<br />- Itu dia.</p>
+      <p begin="37069.0s" xml:id="p408" end="37071.25s">Ju-yong, bagus!<br />Itu dia!</p>
+      <p begin="37071.375s" xml:id="p409" end="37072.918s">Bagus!</p>
+      <p begin="37073.0s" xml:id="p410" end="37074.918s">Wajahnya terkena pasir.</p>
+      <p begin="37075.0s" xml:id="p411" end="37077.334s">Wajah Kim Sang-wook<br />tertutup pasir.</p>
+      <p begin="37077.459s" xml:id="p412" end="37079.834s">Astaga!</p>
+      <p begin="37081.375s" xml:id="p413" end="37083.042s">Pertahanan Oh Sang-young sempurna.</p>
+      <p begin="37083.167s" xml:id="p414" end="37084.709s">Itu dia!</p>
+      <p begin="37084.834s" xml:id="p415" end="37085.918s">Benar-benar adu kekuatan.</p>
+      <p begin="37086.0s" xml:id="p416" end="37089.042s">Kim Sang-wook<br />menguasai bola sekarang.</p>
+      <p begin="37089.667s" xml:id="p417" end="37092.209s">Lee Ju-yong terus memeluknya.</p>
+      <p begin="37092.959s" xml:id="p418" end="37094.959s">(Buntu)</p>
+      <p begin="37095.042s" xml:id="p419" end="37097.083s">Curi bolanya!</p>
+      <p begin="37097.209s" xml:id="p420" end="37099.292s">Jong-hyun, gunakan kekuatanmu!</p>
+      <p begin="37099.417s" xml:id="p421" end="37102.834s">- Jong-hyun, kau harus terlepas!<br />- Lebih dekat dan bantu dia!</p>
+      <p begin="37103.459s" xml:id="p422" end="37106.042s">Kakimu harus di dalam arena.<br />Jangan sampai keluar batas.</p>
+      <p begin="37106.167s" xml:id="p423" end="37108.375s">- Bagus!<br />- Jong-hyun berhasil terlepas.</p>
+      <p begin="37108.5s" xml:id="p424" end="37111.125s">(Jong-hyun terlepas dari Sang-young<br />lalu melesat maju)</p>
+      <p begin="37111.25s" xml:id="p425" end="37113.542s">Bagus!</p>
+      <p begin="37113.667s" xml:id="p426" end="37115.292s">Jong-hyun<br />berusaha melepaskan lawan.</p>
+      <p begin="37115.417s" xml:id="p427" end="37117.083s">- Jong-hyun luar biasa.<br />- Dia mengikuti dari belakang.</p>
+      <p begin="37117.209s" xml:id="p428" end="37118.999s">Dia mencuri bola.</p>
+      <p begin="37119.083s" xml:id="p429" end="37120.626s">(Pertarungan sengit<br />memperebutkan bola dodgeball)</p>
+      <p begin="37120.751s" xml:id="p430" end="37121.792s">Bolanya keluar.</p>
+      <p begin="37121.918s" xml:id="p431" end="37125.626s">- Dapatkan bolanya.<br />- Rebut bolanya.</p>
+      <p begin="37126.292s" xml:id="p432" end="37127.751s">Jong-hyun,<br />ke belakang dan ambil bolanya.</p>
+      <p begin="37127.876s" xml:id="p433" end="37128.876s">Hampir dapat. Nyaris.</p>
+      <p begin="37128.999s" xml:id="p434" end="37131.709s">(Pencuri bola melawan penjaga bola)</p>
+      <p begin="37133.709s" xml:id="p435" end="37134.876s">Bola jangan sampai terlepas!</p>
+      <p begin="37134.999s" xml:id="p436" end="37136.918s">Nyaris.</p>
+      <p begin="37137.0s" xml:id="p437" end="37139.542s">Tembok yang tak bisa ditembus.</p>
+      <p begin="37139.667s" xml:id="p438" end="37142.626s">Keempat pemain saling mengekang.</p>
+      <p begin="37142.751s" xml:id="p439" end="37144.167s">(Kedua tim saling mengekang)</p>
+      <p begin="37145.918s" xml:id="p440" end="37149.542s">Jika memegang bola,<br />harus gunakan lebih banyak tenaga.</p>
+      <p begin="37149.667s" xml:id="p441" end="37151.0s">Tak bisa hanya satu tangan.</p>
+      <p begin="37151.125s" xml:id="p442" end="37152.459s">Kau harus mengawasi bolanya.</p>
+      <p begin="37152.584s" xml:id="p443" end="37154.125s">Butuh banyak tenaga<br />untuk merebut bola.</p>
+      <p begin="37154.25s" xml:id="p444" end="37156.25s">Itu tak akan berhasil.</p>
+      <p begin="37156.375s" xml:id="p445" end="37158.417s">(Pertarungan jarak dekat<br />menguras stamina mereka)</p>
+      <p begin="37158.542s" xml:id="p446" end="37160.626s">Kita sudah sejauh ini.<br />Jika menyerah sekarang..</p>
+      <p begin="37161.751s" xml:id="p447" end="37163.876s">(Jalan buntu)</p>
+      <p begin="37163.999s" xml:id="p448" end="37165.999s">(Pertandingan terakhir<br />ditangguhkan)</p>
+      <p begin="37166.083s" xml:id="p449" end="37168.999s">Waktu habis.</p>
+      <p begin="37169.083s" xml:id="p450" end="37170.584s">(Kedua tim mengerahkan segalanya)</p>
+      <p begin="37170.709s" xml:id="p451" end="37172.417s">Keren sekali.</p>
+      <p begin="37172.542s" xml:id="p452" end="37176.459s">Ayo, bertahanlah.<br />Hampir berhasil.</p>
+      <p begin="37176.584s" xml:id="p453" end="37178.125s">Bagaimana rasanya saat bergumul?</p>
+      <p begin="37178.25s" xml:id="p454" end="37180.209s">- Hampir mati.<br />- Ya ampun.</p>
+      <p begin="37181.292s" xml:id="p455" end="37182.542s">Karena dia masih aktif bertugas.</p>
+      <p begin="37182.667s" xml:id="p456" end="37184.083s">-  Benar.<br />-  Benar.</p>
+      <p begin="37184.209s" xml:id="p457" end="37186.417s">- Keren sekali.<br />- Kau keren sekali.</p>
+      <p begin="37188.542s" xml:id="p458" end="37189.584s">(Pertandingan dilanjutkan)</p>
+      <p begin="37189.709s" xml:id="p459" end="37191.334s">Silakan ambil posisi.</p>
+      <p begin="37192.083s" xml:id="p460" end="37193.584s">Tim Merah akan menyerang.</p>
+      <p begin="37193.709s" xml:id="p461" end="37195.209s">(Tim Merah masih punya hak<br />untuk menyerang)</p>
+      <p begin="37195.334s" xml:id="p462" end="37196.626s">Bersiap!</p>
+      <p begin="37199.792s" xml:id="p463" end="37202.5s">(Close-combat Dodgeball<br />dilanjutkan)</p>
+      <p begin="37204.417s" xml:id="p464" end="37208.334s">(Jung Jong-hyun langsung bergerak<br />saat peluit berbunyi)</p>
+      <p begin="37211.542s" xml:id="p465" end="37212.542s">(Langsung menabrak)</p>
+      <p begin="37212.667s" xml:id="p466" end="37213.667s">Apa?</p>
+      <p begin="37218.334s" xml:id="p467" end="37221.125s">(Lee Ju-yong terjatuh<br />terkena tabrakan Jung Jong-hyun)</p>
+      <p begin="37223.751s" xml:id="p468" end="37225.0s">Jung Jong-hyun!</p>
+      <p begin="37226.5s" xml:id="p469" end="37227.751s">Jung Jong-hyun!</p>
+      <p begin="37234.626s" xml:id="p470" end="37235.792s">Jung Jong-hyun!</p>
+      <p begin="37235.918s" xml:id="p471" end="37237.959s">(Touchdown)</p>
+      <p begin="37238.5s" xml:id="p472" end="37239.5s">(Astaga)</p>
+      <p begin="37239.626s" xml:id="p473" end="37240.626s">Ayo!</p>
+      <p begin="37241.626s" xml:id="p474" end="37245.792s">(Tim Merah menang babak pertama)</p>
+      <p begin="37252.209s" xml:id="p475" end="37256.334s">(Tim Biru kalah<br />karena serangan tak terduga)</p>
+      <p begin="37258.167s" xml:id="p476" end="37260.334s">Babak pertama dimenangkan...</p>
+      <p begin="37260.459s" xml:id="p477" end="37263.083s">...Kim Sang-wook dan Jung Jong-hyun<br />dari Tim Merah.</p>
+      <p begin="37263.209s" xml:id="p478" end="37265.542s">(Tim Merah: 1, Tim Biru: 0)</p>
+      <p begin="37265.667s" xml:id="p479" end="37266.667s">(Gagal balas dendam)</p>
+      <p begin="37266.792s" xml:id="p480" end="37268.167s">Pertahankan!</p>
+      <p begin="37269.584s" xml:id="p481" end="37270.918s">Orang itu monster.</p>
+      <p begin="37272.209s" xml:id="p482" end="37273.792s">Tiba-tiba makin menarik.</p>
+      <p begin="37273.918s" xml:id="p483" end="37277.25s">(Senang dan sedih)</p>
+      <p begin="37277.375s" xml:id="p484" end="37278.751s">(Babak pertama<br />Close-combat Dodgeball)</p>
+      <p begin="37278.876s" xml:id="p485" end="37282.25s">(Kim Sang-wook dan Jung Jong-hyun,<br />dari Tim Merah, menang)</p>
+      <p begin="37283.167s" xml:id="p486" end="37287.999s">Tim Merah menang babak pertama<br />dengan skor 1 : 0.</p>
+      <p begin="37288.083s" xml:id="p487" end="37289.626s">Selanjutnya, babak kedua.</p>
+      <p begin="37289.751s" xml:id="p488" end="37293.626s">Jika Tim Merah menang lagi,<br />tak akan ada babak ketiga.</p>
+      <p begin="37293.751s" xml:id="p489" end="37295.999s">Pertandingan akan berakhir.</p>
+      <p begin="37296.083s" xml:id="p490" end="37299.792s">Tim Merah akan dapat benefitnya.</p>
+      <p begin="37299.918s" xml:id="p491" end="37302.417s">Hwang Chung-won pasti akan bermain.</p>
+      <p begin="37302.542s" xml:id="p492" end="37305.542s">(Akankah Tim Merah<br />mengutus Hwang Chung-won?)</p>
+      <p begin="37307.042s" xml:id="p493" end="37309.542s">(Menelan ludah)</p>
+      <p begin="37309.667s" xml:id="p494" end="37312.417s">Putaran kedua<br />Close-combat Dodgeball.</p>
+      <p begin="37312.542s" xml:id="p495" end="37316.292s">Wakil dari kedua tim silakan maju.</p>
+      <p begin="37317.125s" xml:id="p496" end="37319.0s">(Tim Merah,<br />Hwang Chung-won, Kang Jun)</p>
+      <p begin="37319.125s" xml:id="p497" end="37320.918s">Hwang Chung-won, Kang Jun.</p>
+      <p begin="37321.0s" xml:id="p498" end="37323.25s">Siapa dari Tim Biru?</p>
+      <p begin="37323.375s" xml:id="p499" end="37325.25s">Lee Dong-gyu, Park Gil-yeon.</p>
+      <p begin="37325.375s" xml:id="p500" end="37326.584s">(Tim Biru,<br />Lee Dong-gyu, Park Gil-yeon)</p>
+      <p begin="37329.542s" xml:id="p501" end="37333.792s">Ekspresi Chung-won berubah.</p>
+      <p begin="37335.0s" xml:id="p502" end="37336.709s">Dong-gyu mengalihkan pandangan.</p>
+      <p begin="37336.834s" xml:id="p503" end="37338.083s">Dong-gyu memiringkan kepala.</p>
+      <p begin="37338.209s" xml:id="p504" end="37340.083s">Dong-gyu ketakutan.</p>
+      <p begin="37340.959s" xml:id="p505" end="37342.459s">Bersiap!</p>
+      <p begin="37344.751s" xml:id="p506" end="37347.626s">(Fisik monster)</p>
+      <p begin="37347.751s" xml:id="p507" end="37349.5s">Punggungnya kenapa?</p>
+      <p begin="37349.626s" xml:id="p508" end="37350.792s">Ada gempa di punggungnya.</p>
+      <p begin="37350.918s" xml:id="p509" end="37352.417s">Tubuhnya bagus sekali.</p>
+      <p begin="37352.542s" xml:id="p510" end="37353.999s">(Otot-otot Lee Dong-gyu<br />terlihat atletis)</p>
+      <p begin="37356.0s" xml:id="p511" end="37357.876s">Kang Jun juga pemain kuat.</p>
+      <p begin="37360.5s" xml:id="p512" end="37367.876s">(Kekuatan versus Kecepatan)</p>
+      <p begin="37367.999s" xml:id="p513" end="37370.626s">Jika Tim Merah menang,<br />pertandingan berakhir.</p>
+      <p begin="37370.751s" xml:id="p514" end="37373.334s">(Jika Tim Merah menang,<br />Close-combat Dodgeball berakhir)</p>
+      <p begin="37374.5s" xml:id="p515" end="37376.459s">Tim Biru harus memenangkan<br />pertandingan ini...</p>
+      <p begin="37376.584s" xml:id="p516" end="37378.667s">...untuk lanjut ke putaran ketiga.</p>
+      <p begin="37378.792s" xml:id="p517" end="37381.125s">Park Gil-yeon, apa pendapatmu?</p>
+      <p begin="37381.25s" xml:id="p518" end="37382.999s">Aku selalu ingin bertanding<br />melawan Jenderal Hwang.</p>
+      <p begin="37383.083s" xml:id="p519" end="37385.876s">Aku mengawasimu.</p>
+      <p begin="37386.542s" xml:id="p520" end="37389.125s">Dia bilang, sangat berhasrat<br />melawan Jenderal Hwang.</p>
+      <p begin="37389.25s" xml:id="p521" end="37390.459s">Hwang Chung-won.</p>
+      <p begin="37390.584s" xml:id="p522" end="37392.0s">Aku ingin menyingkirkan dia<br />secepatnya.</p>
+      <p begin="37392.709s" xml:id="p523" end="37395.209s">Dia menggunakan<br />kata "menyingkirkan".</p>
+      <p begin="37396.25s" xml:id="p524" end="37398.5s">(Provokasi dari Park Gil-yeon<br />menjadikan suasana menegangkan)</p>
+      <p begin="37398.667s" xml:id="p525" end="37401.292s">Aku tak percaya<br />ini terjadi di depan mataku.</p>
+      <p begin="37402.25s" xml:id="p526" end="37404.125s">(Close-combat Dodgeball, Tim 2)</p>
+      <p begin="37404.25s" xml:id="p527" end="37407.042s">(Hwang Chung-won, Kang Jun<br />versus Lee Dong-gyu, Park Gil-yeon)</p>
+      <p begin="37407.167s" xml:id="p528" end="37409.792s">Kita mulai putaran kedua.</p>
+      <p begin="37409.918s" xml:id="p529" end="37411.584s">(Close-combat Dodgeball Tim Dua)</p>
+      <p begin="37412.459s" xml:id="p530" end="37413.834s">(Ditentukan dengan jump ball)</p>
+      <p begin="37413.959s" xml:id="p531" end="37415.125s">Bersiap.</p>
+      <p begin="37416.876s" xml:id="p532" end="37420.542s">(Kang Jun versus Lee Dong-gyu)</p>
+      <p begin="37424.334s" xml:id="p533" end="37425.5s">Bagus!</p>
+      <p begin="37425.626s" xml:id="p534" end="37427.167s">- Bagus sekali.<br />- Tim Biru menyerang.</p>
+      <p begin="37427.292s" xml:id="p535" end="37428.709s">Bolanya milik kita.</p>
+      <p begin="37428.834s" xml:id="p536" end="37430.792s">Silakan ambil posisi.</p>
+      <p begin="37430.918s" xml:id="p537" end="37434.0s">Close-combat Dodgeball<br />putaran kedua.</p>
+      <p begin="37434.125s" xml:id="p538" end="37435.542s">Kurasa Tim Biru<br />akan menunjukkan kecepatan.</p>
+      <p begin="37435.667s" xml:id="p539" end="37436.667s">Mereka tak akan langsung menyerang.</p>
+      <p begin="37436.792s" xml:id="p540" end="37437.792s">Bersiap!</p>
+      <p begin="37437.918s" xml:id="p541" end="37439.459s">Jangan sampai tertangkap.</p>
+      <p begin="37439.584s" xml:id="p542" end="37440.709s">Benar, jangan sampai tertangkap.</p>
+      <p begin="37440.834s" xml:id="p543" end="37442.125s">Bersiap!</p>
+      <p begin="37443.709s" xml:id="p544" end="37446.417s">- Kau harus tangkap mereka.<br />- Lima, empat...</p>
+      <p begin="37446.542s" xml:id="p545" end="37449.876s">...tiga, dua, satu!</p>
+      <p begin="37449.999s" xml:id="p546" end="37452.167s">Kau harus tangkap mereka.</p>
+      <p begin="37452.292s" xml:id="p547" end="37453.334s">(Close-combat Dodgeball<br />putaran kedua dimulai)</p>
+      <p begin="37453.459s" xml:id="p548" end="37456.0s">Lempar. Dia melemparnya.</p>
+      <p begin="37457.918s" xml:id="p549" end="37460.876s">(Hwang Chung-won<br />mengadang Lee Dong-gyu)</p>
+      <p begin="37462.459s" xml:id="p550" end="37464.334s">Lee Dong-gyu langsung ke depan.</p>
+      <p begin="37464.459s" xml:id="p551" end="37466.5s">(Lee Dong-gyu menunjukkan kecepatan<br />saat meloloskan diri)</p>
+      <p begin="37466.626s" xml:id="p552" end="37468.417s">Lee Dong-gyu langsung maju.</p>
+      <p begin="37468.542s" xml:id="p553" end="37469.959s">Hwang Chung-won<br />berusaha menangkapnya.</p>
+      <p begin="37470.042s" xml:id="p554" end="37471.375s">Kau harus mengadangnya!</p>
+      <p begin="37471.5s" xml:id="p555" end="37473.083s">Ayo!</p>
+      <p begin="37473.209s" xml:id="p556" end="37476.542s">Hwang Chung-won menangkapnya!</p>
+      <p begin="37478.334s" xml:id="p557" end="37479.918s">Bagus!</p>
+      <p begin="37480.0s" xml:id="p558" end="37481.0s">Hak untuk menyerang.</p>
+      <p begin="37481.125s" xml:id="p559" end="37482.751s">(Waktu habis)</p>
+      <p begin="37482.876s" xml:id="p560" end="37486.042s">Karena Lee Dong-gyu<br />keluar dari batas...</p>
+      <p begin="37486.167s" xml:id="p561" end="37488.167s">...hak untuk menyerang berpindah.</p>
+      <p begin="37488.292s" xml:id="p562" end="37489.709s">Giliran Tim Merah menyerang.</p>
+      <p begin="37489.834s" xml:id="p563" end="37490.959s">(Hak menyerang<br />diberikan kepada Tim Merah)</p>
+      <p begin="37491.792s" xml:id="p564" end="37494.209s">(Putaran dilanjutkan<br />dengan serangan dari Tim Merah)</p>
+      <p begin="37494.334s" xml:id="p565" end="37498.542s">Halangi dia sampai akhir!</p>
+      <p begin="37498.667s" xml:id="p566" end="37500.083s">(Tim Merah menyerang dengan ganas<br />karena perbedaan yang mencolok)</p>
+      <p begin="37502.25s" xml:id="p567" end="37505.167s">(Terkejut)</p>
+      <p begin="37507.542s" xml:id="p568" end="37509.167s">Bagus!</p>
+      <p begin="37509.292s" xml:id="p569" end="37511.25s">- Apa?<br />- Apa?</p>
+      <p begin="37511.751s" xml:id="p570" end="37514.959s">Bagus!</p>
+      <p begin="37515.042s" xml:id="p571" end="37516.626s">Apa yang terjadi?</p>
+      <p begin="37516.751s" xml:id="p572" end="37518.876s">- Bagus!<br />- Tidak.</p>
+      <p begin="37518.999s" xml:id="p573" end="37520.375s">- Bolanya berhasil dicuri?<br />- Bagus!</p>
+      <p begin="37520.5s" xml:id="p574" end="37522.876s">- Mereka berhasil?<br />- Tidak.</p>
+      <p begin="37522.999s" xml:id="p575" end="37525.042s">- Bola berhasil direbut?<br />- Bagus!</p>
+      <p begin="37525.167s" xml:id="p576" end="37526.542s">(Park Gil-yeon<br />berhasil mencuri bola)</p>
+      <p begin="37526.667s" xml:id="p577" end="37528.751s">Dia kehilangan bola?</p>
+      <p begin="37528.876s" xml:id="p578" end="37531.542s">Ayo, teruskan!</p>
+      <p begin="37531.959s" xml:id="p579" end="37534.709s">Ayo, teruskan!</p>
+      <p begin="37534.834s" xml:id="p580" end="37536.918s">- Serang!<br />- Halangi dia!</p>
+      <p begin="37537.0s" xml:id="p581" end="37539.209s">- Bola bebas.<br />- Lempar bolanya!</p>
+      <p begin="37539.334s" xml:id="p582" end="37540.667s">Serang!</p>
+      <p begin="37540.792s" xml:id="p583" end="37541.876s">(Kang Jun dengan keras kepala<br />menghalangi Park Gil-yeon)</p>
+      <p begin="37541.999s" xml:id="p584" end="37544.083s">Tangkap kakinya!</p>
+      <p begin="37544.918s" xml:id="p585" end="37545.918s">Bolanya bebas.</p>
+      <p begin="37546.0s" xml:id="p586" end="37547.0s">(Pertarungan sengit<br />memperebutkan hak menyerang)</p>
+      <p begin="37547.125s" xml:id="p587" end="37549.0s">Serang!</p>
+      <p begin="37549.125s" xml:id="p588" end="37551.999s">Bolanya bebas.</p>
+      <p begin="37552.083s" xml:id="p589" end="37554.375s">- Keluar!<br />- Milik kami.</p>
+      <p begin="37554.5s" xml:id="p590" end="37556.0s">Bolanya masih ada.</p>
+      <p begin="37556.125s" xml:id="p591" end="37558.125s">- Keluar!<br />- Milik kami.</p>
+      <p begin="37558.25s" xml:id="p592" end="37559.375s">Apa yang terjadi?</p>
+      <p begin="37559.5s" xml:id="p593" end="37560.751s">(Bingung)</p>
+      <p begin="37561.334s" xml:id="p594" end="37562.751s">Kenapa? Bola masih di tangannya.</p>
+      <p begin="37562.876s" xml:id="p595" end="37564.5s">Tidak, tangannya keluar.</p>
+      <p begin="37565.792s" xml:id="p596" end="37567.0s">Tangannya.</p>
+      <p begin="37567.626s" xml:id="p597" end="37569.959s">(Tayangan ulang)</p>
+      <p begin="37570.042s" xml:id="p598" end="37573.167s">(Tangan Hwang Chung-won<br />keluar batas)</p>
+      <p begin="37573.292s" xml:id="p599" end="37577.667s">Tangannya keluar.<br />Hak menyerang berganti.</p>
+      <p begin="37578.626s" xml:id="p600" end="37583.25s">Semuanya, tenang. Relaks.</p>
+      <p begin="37583.667s" xml:id="p601" end="37585.5s">Kita mulai lagi.</p>
+      <p begin="37585.626s" xml:id="p602" end="37587.584s">(Mulai ulang<br />dengan serangan dari Tim Biru)</p>
+      <p begin="37587.999s" xml:id="p603" end="37589.626s">Semangat!</p>
+      <p begin="37591.626s" xml:id="p604" end="37593.542s">Park Gil-yeon bertahan.</p>
+      <p begin="37594.751s" xml:id="p605" end="37596.584s">Park Gil-yeon bertahan.</p>
+      <p begin="37597.167s" xml:id="p606" end="37604.292s">(Bertahan atau menyerang)</p>
+      <p begin="37605.375s" xml:id="p607" end="37609.0s">(Pada saat itu..)</p>
+      <p begin="37610.209s" xml:id="p608" end="37611.209s">Bagus!</p>
+      <p begin="37611.334s" xml:id="p609" end="37612.667s">(Apa yang terjadi?)</p>
+      <p begin="37614.709s" xml:id="p610" end="37618.334s">(Hwang Chung-won<br />dihalangi dua orang)</p>
+      <p begin="37618.667s" xml:id="p611" end="37621.25s">Bagus!</p>
+      <p begin="37621.375s" xml:id="p612" end="37622.751s">Dia lewat!</p>
+      <p begin="37623.417s" xml:id="p613" end="37624.5s">Park Gil-yeon bertahan.</p>
+      <p begin="37624.626s" xml:id="p614" end="37626.959s">Bagus! Dia lewat!</p>
+      <p begin="37628.25s" xml:id="p615" end="37629.542s">Tidak!</p>
+      <p begin="37629.667s" xml:id="p616" end="37632.626s">- Bagus! Dia lewat!<br />- Tidak!</p>
+      <p begin="37632.751s" xml:id="p617" end="37635.751s">- Bagus! Dia lewat!<br />- Tidak!</p>
+      <p begin="37637.375s" xml:id="p618" end="37641.209s">(Tim Biru mengandalkan<br />kecepatan untuk menang)</p>
+      <p begin="37643.125s" xml:id="p619" end="37645.042s">Luar biasa.</p>
+      <p begin="37646.334s" xml:id="p620" end="37648.125s">- Park Gil-yeon melesat.<br />- Kita menang!</p>
+      <p begin="37648.25s" xml:id="p621" end="37650.042s">(Kekalahan mengejutkan<br />dari Jenderal Hwang)</p>
+      <p begin="37650.167s" xml:id="p622" end="37653.459s">- Tidak apa-apa.<br />- Kerja bagus.</p>
+      <p begin="37653.584s" xml:id="p623" end="37656.209s">Astaga, ini seru sekali.</p>
+      <p begin="37656.334s" xml:id="p624" end="37659.751s">Babak kedua Close-combat Dodgeball.</p>
+      <p begin="37659.876s" xml:id="p625" end="37661.584s">Tim Biru menang.</p>
+      <p begin="37661.709s" xml:id="p626" end="37664.876s">(Tim Merah 1-1 Tim Biru)</p>
+      <p begin="37664.999s" xml:id="p627" end="37667.626s">- Ayo! Top tim!<br />- Ayo!</p>
+      <p begin="37668.542s" xml:id="p628" end="37670.25s">(Tim Dua Close-combat Dodgeball)</p>
+      <p begin="37670.375s" xml:id="p629" end="37673.417s">(Lee Dong-gyu, Park Gil-yeon,<br />Tim Biru menang)</p>
+      <p begin="37674.375s" xml:id="p630" end="37675.999s">Pertarungan memanas.</p>
+      <p begin="37676.083s" xml:id="p631" end="37679.375s">Tim yang menang<br />di Close-combat Dodgeball...</p>
+      <p begin="37679.5s" xml:id="p632" end="37681.167s">...akan menerima benefit penting.</p>
+      <p begin="37681.292s" xml:id="p633" end="37685.626s">Hasilnya tergantung<br />pada babak ketiga.</p>
+      <p begin="37685.751s" xml:id="p634" end="37692.834s">Tim Biru dan Tim Merah,<br />silakan kirim pemain kalian.</p>
+      <p begin="37693.626s" xml:id="p635" end="37695.5s">Ayo, Lee Jin-bong!</p>
+      <p begin="37695.626s" xml:id="p636" end="37697.959s">Ayo, Yoon Jong-jin!</p>
+      <p begin="37698.042s" xml:id="p637" end="37701.125s">Tim Biru Lee Min-gon<br />dan Kim Min-jun.</p>
+      <p begin="37701.25s" xml:id="p638" end="37703.792s">Tim ini Min-Min. Tim ini Jin-Jin.</p>
+      <p begin="37703.918s" xml:id="p639" end="37705.626s">(Lee Jin-bong, Yoon Jong-jin<br />Lee Min-gon, Kim Min-jun)</p>
+      <p begin="37705.751s" xml:id="p640" end="37707.626s">Melihat pemain di babak ketiga...</p>
+      <p begin="37707.751s" xml:id="p641" end="37710.999s">...kedua tim tidak ingin<br />ada babak ketiga.</p>
+      <p begin="37711.083s" xml:id="p642" end="37713.584s">Jadi pemain hebatnya<br />sudah maju duluan.</p>
+      <p begin="37714.209s" xml:id="p643" end="37715.334s">- Dong-hyun.<br />- Ya?</p>
+      <p begin="37715.459s" xml:id="p644" end="37717.25s">Kau jeli sekali.</p>
+      <p begin="37718.25s" xml:id="p645" end="37720.25s">Menurutmu siapa yang menang?</p>
+      <p begin="37720.375s" xml:id="p646" end="37723.751s">- Menurutku Lee Jin-bong.<br />- Ya.</p>
+      <p begin="37723.876s" xml:id="p647" end="37728.5s">Dia sangat cerdas dan ulet.</p>
+      <p begin="37728.626s" xml:id="p648" end="37730.167s">Ini pasti menarik.</p>
+      <p begin="37730.292s" xml:id="p649" end="37733.876s">Menontonnya terasa menegangkan.</p>
+      <p begin="37737.167s" xml:id="p650" end="37741.042s">Tubuhnya sangat kuat.</p>
+      <p begin="37741.876s" xml:id="p651" end="37743.918s">Dia tampak sangat kuat.</p>
+      <p begin="37745.667s" xml:id="p652" end="37747.25s">Kapan dia berolahraga?</p>
+      <p begin="37747.375s" xml:id="p653" end="37749.083s">Aku menantikannya.</p>
+      <p begin="37749.626s" xml:id="p654" end="37751.083s">Kita harus menang.</p>
+      <p begin="37751.209s" xml:id="p655" end="37753.959s">Ini pertandingan terakhir<br />di Close-combat Dodgeball.</p>
+      <p begin="37754.042s" xml:id="p656" end="37755.959s">Tolong sampaikan resolusi kalian.</p>
+      <p begin="37756.042s" xml:id="p657" end="37757.667s">Lee Min-gon, kau duluan.</p>
+      <p begin="37757.792s" xml:id="p658" end="37760.292s">Aku akan menang<br />demi benefit tim kami.</p>
+      <p begin="37760.417s" xml:id="p659" end="37761.417s">(Dapat diandalkan)</p>
+      <p begin="37761.542s" xml:id="p660" end="37763.209s">Keren sekali.</p>
+      <p begin="37763.709s" xml:id="p661" end="37767.292s">Kami akan menunjukkan kenapa<br />Jong-jin dan Jin-bong memimpin.</p>
+      <p begin="37769.209s" xml:id="p662" end="37770.834s">Ini ketat sekali.</p>
+      <p begin="37770.959s" xml:id="p663" end="37772.5s">Ini menarik.</p>
+      <p begin="37772.626s" xml:id="p664" end="37775.25s">Min-jun adalah monster.</p>
+      <p begin="37775.375s" xml:id="p665" end="37778.209s">- Jong-jin juga monster.<br />- Benarkah?</p>
+      <p begin="37778.334s" xml:id="p666" end="37779.999s">(Tim Tiga Close-combat Dodgeball)</p>
+      <p begin="37780.083s" xml:id="p667" end="37781.459s">(Lee Jin-bong, Yoon Jong-jin)</p>
+      <p begin="37781.584s" xml:id="p668" end="37783.25s">(Melawan Kim Min-jun, Lee Min-gon)</p>
+      <p begin="37783.375s" xml:id="p669" end="37785.042s">Ini babak terakhir.</p>
+      <p begin="37785.167s" xml:id="p670" end="37789.125s">Tolong tunjukkan<br />pertandingan menarik.</p>
+      <p begin="37789.25s" xml:id="p671" end="37791.25s">Saatnya menentukan tim penyerang.</p>
+      <p begin="37792.167s" xml:id="p672" end="37793.667s">Bersiap.</p>
+      <p begin="37793.792s" xml:id="p673" end="37795.0s">(Musim kedua,<br />Kapten UDT, Yoon Jong-jin)</p>
+      <p begin="37796.709s" xml:id="p674" end="37799.626s">(Lemparan bola untuk menentukan<br />siapa yang menyerang duluan)</p>
+      <p begin="37801.417s" xml:id="p675" end="37802.417s">Tidak apa-apa.</p>
+      <p begin="37802.542s" xml:id="p676" end="37803.542s">(Yoon Jong-jin menang,<br />Tim Merah duluan)</p>
+      <p begin="37803.667s" xml:id="p677" end="37805.042s">Baiklah, Lee Jin-bong.</p>
+      <p begin="37805.167s" xml:id="p678" end="37806.626s">Bagus.</p>
+      <p begin="37806.751s" xml:id="p679" end="37808.375s">Tukar tempat.</p>
+      <p begin="37809.709s" xml:id="p680" end="37812.25s">Babak ini akan segera dimulai.</p>
+      <p begin="37812.375s" xml:id="p681" end="37815.626s">- Lihat lengan Jong-jin.<br />- Lima, empat, tiga...</p>
+      <p begin="37815.751s" xml:id="p682" end="37817.417s">...dua, satu. Mulai!</p>
+      <p begin="37817.542s" xml:id="p683" end="37818.584s">(Babak ketiga<br />Close-combat Dodgeball)</p>
+      <p begin="37818.709s" xml:id="p684" end="37820.0s">Mulai!</p>
+      <p begin="37820.125s" xml:id="p685" end="37821.209s">(Terkejut)</p>
+      <p begin="37821.626s" xml:id="p686" end="37822.834s">(Begitu mulai)</p>
+      <p begin="37822.959s" xml:id="p687" end="37824.542s">(Lee Min-gon lari kecepatan penuh)</p>
+      <p begin="37824.667s" xml:id="p688" end="37826.834s">- Lee Min-gon!<br />- Bagus!</p>
+      <p begin="37826.959s" xml:id="p689" end="37830.584s">Lee Min-gon.</p>
+      <p begin="37830.709s" xml:id="p690" end="37833.0s">Ini menarik. Lee Jin-bong.</p>
+      <p begin="37833.125s" xml:id="p691" end="37834.834s">(Lee Jin-bong menunggu kesempatan<br />untuk menerobos dengan bola)</p>
+      <p begin="37835.334s" xml:id="p692" end="37837.542s">Lee Min-gon.</p>
+      <p begin="37837.667s" xml:id="p693" end="37839.334s">Kim Min-jun, Lee Jin-bong.</p>
+      <p begin="37839.459s" xml:id="p694" end="37840.667s">Bola tidak boleh jatuh.</p>
+      <p begin="37842.25s" xml:id="p695" end="37844.584s">Lee Min-gon.</p>
+      <p begin="37844.709s" xml:id="p696" end="37847.834s">Kim Min-jun, Lee Jin-bong.</p>
+      <p begin="37847.959s" xml:id="p697" end="37850.417s">(Inilah kesempatannya)</p>
+      <p begin="37850.876s" xml:id="p698" end="37855.167s">(Lee Jin-bong menerobos celah<br />yang dibuat oleh Yoon Jong-jin)</p>
+      <p begin="37855.292s" xml:id="p699" end="37858.5s">Ayo!</p>
+      <p begin="37860.125s" xml:id="p700" end="37861.375s">(Penampilan hebat Yoon Jong-jin)</p>
+      <p begin="37861.5s" xml:id="p701" end="37862.792s">(Menerobos)</p>
+      <p begin="37862.918s" xml:id="p702" end="37864.709s">(Dia lewat!)</p>
+      <p begin="37865.167s" xml:id="p703" end="37868.292s">Kim Min-jun. Lee Jin-bong!</p>
+      <p begin="37868.417s" xml:id="p704" end="37870.125s">(Lee Jin-bong mencetak skor<br />dengan mudah)</p>
+      <p begin="37870.25s" xml:id="p705" end="37874.334s">Memantul!</p>
+      <p begin="37874.459s" xml:id="p706" end="37877.417s">Tidak masuk.</p>
+      <p begin="37877.542s" xml:id="p707" end="37878.542s">Masuk.</p>
+      <p begin="37878.667s" xml:id="p708" end="37881.918s">(Bola tidak masuk ke ban?)</p>
+      <p begin="37883.209s" xml:id="p709" end="37884.667s">Lee Jin-bong.</p>
+      <p begin="37884.792s" xml:id="p710" end="37886.5s">(Lee Jin-bong melempar bola)</p>
+      <p begin="37886.626s" xml:id="p711" end="37888.417s">Tidak masuk.</p>
+      <p begin="37888.542s" xml:id="p712" end="37891.334s">(Bola memantul dari pasir)</p>
+      <p begin="37892.5s" xml:id="p713" end="37893.918s">Tidak masuk.</p>
+      <p begin="37894.0s" xml:id="p714" end="37895.417s">(Bola memantul keluar ban)</p>
+      <p begin="37896.459s" xml:id="p715" end="37899.959s">Tim penyerang berubah.</p>
+      <p begin="37900.042s" xml:id="p716" end="37901.292s">Sudah masuk.</p>
+      <p begin="37901.417s" xml:id="p717" end="37903.125s">Giliran kita.</p>
+      <p begin="37903.25s" xml:id="p718" end="37905.751s">Ganti tim penyerang.</p>
+      <p begin="37906.626s" xml:id="p719" end="37908.334s">Apa yang kau lakukan?</p>
+      <p begin="37908.918s" xml:id="p720" end="37910.042s">Apa yang kau lakukan?</p>
+      <p begin="37910.167s" xml:id="p721" end="37911.167s">(Lompatan kemarahan)</p>
+      <p begin="37911.292s" xml:id="p722" end="37913.417s">Tunggu. Bukankah ini akhirnya?</p>
+      <p begin="37913.542s" xml:id="p723" end="37916.292s">Tidak, ganti penyerang<br />saat bola memantul.</p>
+      <p begin="37916.417s" xml:id="p724" end="37917.918s">Aku sudah bilang tadi.</p>
+      <p begin="37918.0s" xml:id="p725" end="37920.542s">(Kesalahan fatal Lee Jin-bong)</p>
+      <p begin="37920.667s" xml:id="p726" end="37921.751s">(Memohon ampun)</p>
+      <p begin="37921.876s" xml:id="p727" end="37924.167s">Syukurlah.</p>
+      <p begin="37924.292s" xml:id="p728" end="37925.292s">(Umur berkurang 10 tahun)</p>
+      <p begin="37925.417s" xml:id="p729" end="37927.792s">Jangan bercanda.</p>
+      <p begin="37927.918s" xml:id="p730" end="37929.918s">Astaga, tapi dia hebat.</p>
+      <p begin="37930.0s" xml:id="p731" end="37932.167s">Yoon Jong-jin keren sekali.</p>
+      <p begin="37932.292s" xml:id="p732" end="37934.292s">(Tayangan ulang)</p>
+      <p begin="37934.417s" xml:id="p733" end="37938.626s">(Yoon Jong-jin menahan mereka<br />dengan kekuatannya seorang diri)</p>
+      <p begin="37940.334s" xml:id="p734" end="37941.918s">Yoon Jong-jin, bagus!</p>
+      <p begin="37942.0s" xml:id="p735" end="37944.209s">- Keren sekali.<br />- Semangat!</p>
+      <p begin="37944.334s" xml:id="p736" end="37946.876s">Sekarang Tim Biru menyerang.</p>
+      <p begin="37946.999s" xml:id="p737" end="37948.751s">(Tim Biru giliran menyerang)</p>
+      <p begin="37948.876s" xml:id="p738" end="37949.918s">Bersiap.</p>
+      <p begin="37950.0s" xml:id="p739" end="37952.834s">(Tim Merah melewatkan kemenangan)</p>
+      <p begin="37953.667s" xml:id="p740" end="37954.667s">Bersiap.</p>
+      <p begin="37954.792s" xml:id="p741" end="37955.918s">(Tim Biru di ambang kematian)</p>
+      <p begin="37956.0s" xml:id="p742" end="37957.125s">(Pertandingan berlanjut)</p>
+      <p begin="37957.25s" xml:id="p743" end="37958.959s">Kalahkan mereka!</p>
+      <p begin="37959.042s" xml:id="p744" end="37961.083s">(Kali ini giliran Kim Min-jun)</p>
+      <p begin="37961.209s" xml:id="p745" end="37963.209s">(Menghalangi Yoon Jong-jin sendiri)</p>
+      <p begin="37963.334s" xml:id="p746" end="37966.709s">(Lee Min-gon menghilang?)</p>
+      <p begin="37966.834s" xml:id="p747" end="37968.167s">(Yoon Jong-jin lewat)</p>
+      <p begin="37968.292s" xml:id="p748" end="37971.417s">Yoon Jong-jin. Bagus, Lee Min-gon.</p>
+      <p begin="37972.375s" xml:id="p749" end="37974.125s">- Bagus!<br />- Ayo!</p>
+      <p begin="37974.25s" xml:id="p750" end="37975.542s">(Apakah lewat?)</p>
+      <p begin="37975.667s" xml:id="p751" end="37976.667s">(Atau tertahan?)</p>
+      <p begin="37977.25s" xml:id="p752" end="37979.0s">(Dia mengelak untuk bisa lewat)</p>
+      <p begin="37979.125s" xml:id="p753" end="37981.375s">Lee Min-gon!</p>
+      <p begin="37981.5s" xml:id="p754" end="37984.542s">Yoon Jong-jin! Bagus, Lee Min-gon!</p>
+      <p begin="37984.667s" xml:id="p755" end="37986.542s">(Bagaimana hasilnya?)</p>
+      <p begin="37986.667s" xml:id="p756" end="37988.542s">Lee Min-gon!</p>
+      <p begin="37988.667s" xml:id="p757" end="37989.667s">(Dia lewat!)</p>
+      <p begin="37989.792s" xml:id="p758" end="37992.167s">Lee Min-gon!</p>
+      <p begin="37992.667s" xml:id="p759" end="37997.667s">Lee Min-gon!</p>
+      <p begin="37997.792s" xml:id="p760" end="37999.209s">(Masuk)</p>
+      <p begin="38000.0s" xml:id="p761" end="38004.751s">(Kemenangan dramatis)</p>
+      <p begin="38006.5s" xml:id="p762" end="38009.167s">(Tidak bisa berkata-kata)</p>
+      <p begin="38009.5s" xml:id="p763" end="38012.25s">(Apa yang baru saja kulihat?)</p>
+      <p begin="38013.375s" xml:id="p764" end="38016.083s">(Tayangan ulang)</p>
+      <p begin="38016.209s" xml:id="p765" end="38018.751s">Bagus, Lee Min-gon!</p>
+      <p begin="38022.667s" xml:id="p766" end="38025.292s">Min-gon berhasil.</p>
+      <p begin="38025.417s" xml:id="p767" end="38028.167s">Alasan kemenangan kita,<br />Ketua Tim Jin-bong.</p>
+      <p begin="38028.918s" xml:id="p768" end="38030.751s">Aku sungguh minta maaf!</p>
+      <p begin="38031.5s" xml:id="p769" end="38033.334s">(Tulang rawan lutut hampir aus)</p>
+      <p begin="38033.709s" xml:id="p770" end="38035.876s">Babak ketiga<br />Close-combat Dodgeball.</p>
+      <p begin="38036.876s" xml:id="p771" end="38039.918s">Karena kecerobohan<br />Jong-jin dan Jin-bong...</p>
+      <p begin="38040.0s" xml:id="p772" end="38041.709s">...Tim Biru menang.</p>
+      <p begin="38041.834s" xml:id="p773" end="38045.292s">(Tim Merah 1-2 Tim Biru)</p>
+      <p begin="38046.209s" xml:id="p774" end="38049.709s">Kalau jadi Jong-jin,<br />aku pasti marah sekali.</p>
+      <p begin="38050.584s" xml:id="p775" end="38051.999s">(Marah)</p>
+      <p begin="38052.083s" xml:id="p776" end="38054.125s">Aku pantas dimarahi.</p>
+      <p begin="38054.25s" xml:id="p777" end="38055.375s">Lucu sekali.</p>
+      <p begin="38055.5s" xml:id="p778" end="38060.709s">(Menang acara ragam,<br />tapi kalah pertandingan)</p>
+      <p begin="38061.999s" xml:id="p779" end="38063.292s">(Tim Tiga Close-combat Dodgeball)</p>
+      <p begin="38063.417s" xml:id="p780" end="38066.792s">(Kim Min-jun, Lee Min-gon,<br />Tim Biru menang)</p>
+      <p begin="38067.709s" xml:id="p781" end="38071.584s">(Tim Biru dapat benefit)</p>
+      <p begin="38071.876s" xml:id="p782" end="38074.417s">(Segera hadir)</p>
+      <p begin="38076.959s" xml:id="p783" end="38078.542s">Ke belakang.</p>
+      <p begin="38078.667s" xml:id="p784" end="38080.542s">(Seleksi resmi dimulai)</p>
+      <p begin="38080.667s" xml:id="p785" end="38081.792s">Lebih rendah.</p>
+      <p begin="38081.918s" xml:id="p786" end="38083.5s">Lempar sejauh mungkin.</p>
+      <p begin="38085.626s" xml:id="p787" end="38087.292s">Lebih fokus.</p>
+      <p begin="38087.876s" xml:id="p788" end="38089.375s">- Fokus.<br />- Bagus.</p>
+      <p begin="38089.999s" xml:id="p789" end="38092.792s">(Bertahan dan eliminasi)</p>
+      <p begin="38092.918s" xml:id="p790" end="38093.999s">Bola.</p>
+      <p begin="38094.083s" xml:id="p791" end="38096.083s">Orang yang tereliminasi..</p>
+      <p begin="38096.209s" xml:id="p792" end="38098.5s">(Bagaimana nasib 26 pemain ini?)</p>
+      <p begin="38100.125s" xml:id="p793" end="38102.292s">(Close-combat Dodgeball berakhir)</p>
+      <p begin="38102.417s" xml:id="p794" end="38108.209s">(Ke-26 pemain<br />berkumpul di gimnasium)</p>
+      <p begin="38108.876s" xml:id="p795" end="38112.25s">(Apa misi kali ini?)</p>
+      <p begin="38112.375s" xml:id="p796" end="38114.25s">Sebelum seleksi tim nasional...</p>
+      <p begin="38114.375s" xml:id="p797" end="38118.876s">...kami akan menguji keakuratan<br />dan kekuatan kalian.</p>
+      <p begin="38121.542s" xml:id="p798" end="38124.542s">Semua proses akan dievaluasi<br />secara ketat.</p>
+      <p begin="38124.667s" xml:id="p799" end="38127.375s">Aku harap kalian berusaha<br />sekuat tenaga.</p>
+      <p begin="38127.5s" xml:id="p800" end="38131.584s">(Gugup maksimal)</p>
+      <p begin="38132.25s" xml:id="p801" end="38135.459s">(Kompetisi memukul kerucut)</p>
+      <p begin="38135.584s" xml:id="p802" end="38139.25s">(Bidik kerucut sejauh 10 meter<br />dengan bola)</p>
+      <p begin="38139.375s" xml:id="p803" end="38146.083s">(Tim pertama dengan semua anggota<br />yang berhasil, menang)</p>
+      <p begin="38146.584s" xml:id="p804" end="38150.959s">Untuk meningkatkan fokus<br />dalam memukul kerucut...</p>
+      <p begin="38151.042s" xml:id="p805" end="38154.584s">...kalian akan menerima penalti<br />kalau meleset.</p>
+      <p begin="38154.709s" xml:id="p806" end="38156.125s">(Kalau meleset, ada penalti)</p>
+      <p begin="38156.25s" xml:id="p807" end="38159.334s">Sepuluh kali lompat burpee.</p>
+      <p begin="38159.918s" xml:id="p808" end="38161.459s">(Astaga)</p>
+      <p begin="38164.626s" xml:id="p809" end="38168.0s">- Sekali gagal, 10 kali lompat?<br />- Ya, benar.</p>
+      <p begin="38168.542s" xml:id="p810" end="38171.542s">Bukankah 10 kali terlalu banyak?</p>
+      <p begin="38171.667s" xml:id="p811" end="38174.209s">Setelah lompat burpee,<br />mulai dari awal lagi?</p>
+      <p begin="38174.334s" xml:id="p812" end="38175.417s">Benar.</p>
+      <p begin="38175.542s" xml:id="p813" end="38178.959s">Setelah dua kali meleset,<br />kalian pasti akan fokus.</p>
+      <p begin="38179.042s" xml:id="p814" end="38180.125s">(Tawa palsu)</p>
+      <p begin="38180.25s" xml:id="p815" end="38182.042s">- Seperti lari berputar.<br />- Ya.</p>
+      <p begin="38183.584s" xml:id="p816" end="38186.083s">(Tim mana yang berhasil duluan?)</p>
+      <p begin="38187.042s" xml:id="p817" end="38188.792s">- Semangat!<br />- Semangat!</p>
+      <p begin="38188.918s" xml:id="p818" end="38191.459s">- Ayo! Semangat!<br />- Ya!</p>
+      <p begin="38191.584s" xml:id="p819" end="38192.918s">Kita serang duluan!</p>
+      <p begin="38193.0s" xml:id="p820" end="38195.542s">- Ayo! Top Tim!<br />- Ayo!</p>
+      <p begin="38195.667s" xml:id="p821" end="38198.5s">Kita lebih nyaring.</p>
+      <p begin="38198.626s" xml:id="p822" end="38201.167s">- Ayo! Semangat!<br />- Ya!</p>
+      <p begin="38201.292s" xml:id="p823" end="38204.0s">- Ayo! Top Tim!<br />- Ayo!</p>
+      <p begin="38204.125s" xml:id="p824" end="38205.417s">Teriakan yang bagus.</p>
+      <p begin="38205.542s" xml:id="p825" end="38206.876s">Aku tidak bisa dengar.</p>
+      <p begin="38207.667s" xml:id="p826" end="38209.542s">Pemain pertama bersiap.</p>
+      <p begin="38210.042s" xml:id="p827" end="38212.667s">(Pemain pertama,<br />Park Jun-woo, Oh Sang-young)</p>
+      <p begin="38213.125s" xml:id="p828" end="38215.876s">(Pemain pertama,<br />Jeong Hae-chul, Jeong Seong-hoon)</p>
+      <p begin="38215.999s" xml:id="p829" end="38216.999s">Semangat!</p>
+      <p begin="38217.083s" xml:id="p830" end="38218.167s">(Selesaikan dalam sekali coba)</p>
+      <p begin="38218.292s" xml:id="p831" end="38220.083s">Santai saja.</p>
+      <p begin="38220.626s" xml:id="p832" end="38222.5s">Lumayan jauh.</p>
+      <p begin="38222.626s" xml:id="p833" end="38224.0s">Benar, bukan?</p>
+      <p begin="38224.125s" xml:id="p834" end="38226.959s">(Sepuluh meter<br />lebih jauh dari dugaan)</p>
+      <p begin="38227.459s" xml:id="p835" end="38230.083s">(Seberapa bagus lemparan mereka?)</p>
+      <p begin="38230.876s" xml:id="p836" end="38233.834s">(Mulai)</p>
+      <p begin="38235.375s" xml:id="p837" end="38238.083s">(Lemparan langsung)</p>
+      <p begin="38240.125s" xml:id="p838" end="38241.125s">(Gagal)</p>
+      <p begin="38243.209s" xml:id="p839" end="38244.542s">(Semua gagal)</p>
+      <p begin="38244.667s" xml:id="p840" end="38247.334s">Burpee.</p>
+      <p begin="38247.459s" xml:id="p841" end="38251.083s">- Ke sini.<br />- Ke sini.</p>
+      <p begin="38251.209s" xml:id="p842" end="38252.375s">(Zona burpee sudah dibuka)</p>
+      <p begin="38252.5s" xml:id="p843" end="38254.125s">Fokus!</p>
+      <p begin="38254.25s" xml:id="p844" end="38256.042s">Mereka semua gagal.</p>
+      <p begin="38256.834s" xml:id="p845" end="38258.125s">Ini sulit.</p>
+      <p begin="38258.751s" xml:id="p846" end="38260.083s">(Satu, dua)</p>
+      <p begin="38260.209s" xml:id="p847" end="38261.709s">Dua, tiga.</p>
+      <p begin="38264.375s" xml:id="p848" end="38267.334s">(Dalam sekejap mata,<br />zona burpee ramai)</p>
+      <p begin="38267.459s" xml:id="p849" end="38268.876s">Terlalu banyak orang.</p>
+      <p begin="38269.959s" xml:id="p850" end="38272.667s">(Penuh setelah dua putaran)</p>
+      <p begin="38272.999s" xml:id="p851" end="38274.626s">Fokus, Semuanya!</p>
+      <p begin="38274.876s" xml:id="p852" end="38275.876s">(Evaluasi dengan mata elang)</p>
+      <p begin="38275.999s" xml:id="p853" end="38277.125s">Semangat!</p>
+      <p begin="38280.542s" xml:id="p854" end="38284.959s">(Mereka masih belum bisa<br />mengenai kerucut)</p>
+      <p begin="38285.375s" xml:id="p855" end="38288.375s">(Bisakah mereka mengenainya?)</p>
+      <p begin="38288.792s" xml:id="p856" end="38292.125s">(Kerucut tidak bergerak<br />sama sekali)</p>
+      <p begin="38292.792s" xml:id="p857" end="38293.792s">(Mendesah)</p>
+      <p begin="38294.999s" xml:id="p858" end="38297.375s">(Pusing)</p>
+      <p begin="38297.709s" xml:id="p859" end="38299.999s">- Kita tidak bisa memukulnya.<br />- Ini tidak mudah.</p>
+      <p begin="38300.083s" xml:id="p860" end="38302.167s">Astaga, ini sulit.</p>
+      <p begin="38302.292s" xml:id="p861" end="38303.626s">Sulit sekali.</p>
+      <p begin="38303.751s" xml:id="p862" end="38305.999s">- Tugasmu berat.<br />- Ya.</p>
+      <p begin="38306.083s" xml:id="p863" end="38309.918s">(Tolong berhasil)</p>
+      <p begin="38310.0s" xml:id="p864" end="38311.876s">Kalian terlalu berhati-hati.</p>
+      <p begin="38311.999s" xml:id="p865" end="38317.709s">Lempar bola dengan berani.<br />Ini bukan operan.</p>
+      <p begin="38317.834s" xml:id="p866" end="38321.459s">(Lempar bola dengan berani)</p>
+      <p begin="38323.209s" xml:id="p867" end="38327.542s">Bagus!</p>
+      <p begin="38328.5s" xml:id="p868" end="38329.918s">(Berhasil)</p>
+      <p begin="38330.876s" xml:id="p869" end="38332.876s">(Bagus, Jenderal Yong)</p>
+      <p begin="38333.334s" xml:id="p870" end="38336.417s">(Tayangan ulang)</p>
+      <p begin="38336.542s" xml:id="p871" end="38339.584s">(Langsung mendengarkan<br />saran Pelatih Choi Hyeon-ho)</p>
+      <p begin="38340.083s" xml:id="p872" end="38342.459s">(Bagus)</p>
+      <p begin="38342.584s" xml:id="p873" end="38343.918s">Bagus!</p>
+      <p begin="38344.542s" xml:id="p874" end="38345.584s">(Lee Ju-yong berhasil pertama)</p>
+      <p begin="38345.709s" xml:id="p875" end="38347.5s">Kemarilah, Ju-yong.</p>
+      <p begin="38349.125s" xml:id="p876" end="38352.459s">(Berdiri di samping pelatih)</p>
+      <p begin="38353.042s" xml:id="p877" end="38355.959s">Lempar seolah-olah<br />ingin menjatuhkannya.</p>
+      <p begin="38356.042s" xml:id="p878" end="38359.0s">Tidak ada gunanya<br />melempar dengan pelan.</p>
+      <p begin="38360.459s" xml:id="p879" end="38361.999s">(Ubah pola pikir)</p>
+      <p begin="38362.083s" xml:id="p880" end="38364.375s">(Lempar bola dengan berani!)</p>
+      <p begin="38365.083s" xml:id="p881" end="38366.751s">(Yoon Jong-jin<br />dan Lee Jin-bong berhasil)</p>
+      <p begin="38366.876s" xml:id="p882" end="38368.0s">Bagus.</p>
+      <p begin="38368.125s" xml:id="p883" end="38369.292s">Benar begitu.</p>
+      <p begin="38373.042s" xml:id="p884" end="38374.125s">Benar begitu.</p>
+      <p begin="38374.25s" xml:id="p885" end="38376.334s">(Lee Yu-jeong berhasil<br />setelah 20 burpee)</p>
+      <p begin="38378.709s" xml:id="p886" end="38380.999s">Bagus!</p>
+      <p begin="38383.292s" xml:id="p887" end="38384.584s">Bagus!</p>
+      <p begin="38384.709s" xml:id="p888" end="38386.209s">(Park Do-hyeon berhasil<br />setelah 30 burpee)</p>
+      <p begin="38386.334s" xml:id="p889" end="38388.918s">(Proses belajar mulai terlihat)</p>
+      <p begin="38389.876s" xml:id="p890" end="38392.751s">(Di bawah bimbingan pelatih,<br />pemain sukses satu per satu)</p>
+      <p begin="38392.876s" xml:id="p891" end="38394.751s">- Bagus.<br />- Hebat.</p>
+      <p begin="38395.918s" xml:id="p892" end="38399.417s">(Tapi zona burpee masih ramai)</p>
+      <p begin="38399.999s" xml:id="p893" end="38402.25s">(Pelanggan tetap sudah melompat<br />setidaknya 60 kali)</p>
+      <p begin="38402.375s" xml:id="p894" end="38405.0s">Kalian sudah melempar berkali-kali.<br />Seharusnya sudah paham sekarang.</p>
+      <p begin="38405.125s" xml:id="p895" end="38406.834s">Mau sampai kapan?</p>
+      <p begin="38407.709s" xml:id="p896" end="38410.042s">(Sekarang!)</p>
+      <p begin="38410.542s" xml:id="p897" end="38412.584s">(Kim Jeong-woo berhasil<br />setelah 70 burpee)</p>
+      <p begin="38415.542s" xml:id="p898" end="38417.167s">(Kim Seung-min berhasil<br />setelah 80 burpee)</p>
+      <p begin="38417.292s" xml:id="p899" end="38418.792s">Bagus!</p>
+      <p begin="38419.167s" xml:id="p900" end="38421.584s">(Mengungkap status kesuksesan<br />kedua tim)</p>
+      <p begin="38421.709s" xml:id="p901" end="38424.667s">(Tim Merah 11 vs 10 Tim Biru)</p>
+      <p begin="38425.167s" xml:id="p902" end="38428.25s">(Pemain yang tersisa,<br />persaingan dua lawan tiga)</p>
+      <p begin="38432.834s" xml:id="p903" end="38436.125s">(Pelanggan tetap zona burpee)</p>
+      <p begin="38436.542s" xml:id="p904" end="38440.334s">(Jeong Seong-hoon dan Park Gil-yeon<br />sudah melakukan 100 lompat burpee)</p>
+      <p begin="38440.459s" xml:id="p905" end="38441.834s">Sang-young.</p>
+      <p begin="38441.959s" xml:id="p906" end="38444.417s">Bidik area luas. Bagian bawah.</p>
+      <p begin="38444.542s" xml:id="p907" end="38445.999s">Ayo, Sang-wook!</p>
+      <p begin="38446.667s" xml:id="p908" end="38448.5s">Santai saja.</p>
+      <p begin="38448.626s" xml:id="p909" end="38449.709s">Ayo!</p>
+      <p begin="38449.834s" xml:id="p910" end="38451.918s">Geon, bidik area yang luas.</p>
+      <p begin="38452.0s" xml:id="p911" end="38454.209s">- Kim Sang-wook!<br />- Ayo!</p>
+      <p begin="38454.334s" xml:id="p912" end="38457.042s">Bidik area yang luas.</p>
+      <p begin="38457.417s" xml:id="p913" end="38460.209s">(Pemain terakhir kedua tim)</p>
+      <p begin="38466.209s" xml:id="p914" end="38467.209s">(Hanya terantuk)</p>
+      <p begin="38471.083s" xml:id="p915" end="38472.999s">(Kim Sang-wook melempar)</p>
+      <p begin="38473.292s" xml:id="p916" end="38474.334s">(Sang-wook, ayolah!)</p>
+      <p begin="38479.125s" xml:id="p917" end="38480.459s">(Kim Sang-wook berhasil<br />di lemparan kesepuluhnya)</p>
+      <p begin="38481.417s" xml:id="p918" end="38483.25s">(Sang-wook!)</p>
+      <p begin="38483.751s" xml:id="p919" end="38486.292s">(Kemenangan Tim Merah<br />ada dalam genggamannya)</p>
+      <p begin="38489.334s" xml:id="p920" end="38491.375s">(Kim Geon cemas<br />pada keberhasilan Sang-wook)</p>
+      <p begin="38493.125s" xml:id="p921" end="38494.792s">(Kim Geon gagal<br />setelah 80 lompatan burpee)</p>
+      <p begin="38497.417s" xml:id="p922" end="38499.25s">Kim Geon mengalami kehancuran.</p>
+      <p begin="38503.042s" xml:id="p923" end="38505.876s">(Kehancuran)</p>
+      <p begin="38506.792s" xml:id="p924" end="38512.792s">(Harapan terakhir Tim Merah,<br />Jeong Seong-hoon)</p>
+      <p begin="38513.209s" xml:id="p925" end="38514.626s">(Jeong Seong-hoon<br />dan Park Gil-yeon...)</p>
+      <p begin="38514.751s" xml:id="p926" end="38516.083s">(...telah melakukan<br />100 lompatan burpee)</p>
+      <p begin="38516.542s" xml:id="p927" end="38519.834s">- Jeong Seong-hoon<br />- Ayo!</p>
+      <p begin="38519.959s" xml:id="p928" end="38521.5s">Gil-yeon, tenanglah.</p>
+      <p begin="38521.626s" xml:id="p929" end="38523.959s">Tenang. Ayo mulai.</p>
+      <p begin="38526.626s" xml:id="p930" end="38528.584s">(Melempar bola bersamaan)</p>
+      <p begin="38528.918s" xml:id="p931" end="38531.876s">(Jika Jeong Seong-hoon berhasil,<br />Tim Merah menang)</p>
+      <p begin="38532.125s" xml:id="p932" end="38534.5s">(Apa yang akan terjadi?)</p>
+      <p begin="38536.542s" xml:id="p933" end="38538.292s">(Gagal, Berhasil)</p>
+      <p begin="38538.5s" xml:id="p934" end="38539.999s">Pelan-pelan saja.</p>
+      <p begin="38541.083s" xml:id="p935" end="38544.751s">(Lemparan terakhir Jeong Seong-hoon<br />mengakhiri pertandingan)</p>
+      <p begin="38548.709s" xml:id="p936" end="38549.709s">(Menang)</p>
+      <p begin="38549.834s" xml:id="p937" end="38550.834s">Sudah berakhir?</p>
+      <p begin="38554.584s" xml:id="p938" end="38557.334s">(Sudah berakhir?)</p>
+      <p begin="38561.417s" xml:id="p939" end="38563.417s">(Sayang sekali)</p>
+      <p begin="38563.751s" xml:id="p940" end="38566.0s">(Tim Merah memenangkan<br />kompetisi memukul kerucut)</p>
+      <p begin="38567.083s" xml:id="p941" end="38568.751s">- Ayo! Semangat!<br />- Bola!</p>
+      <p begin="38568.876s" xml:id="p942" end="38570.834s">Hebat sekali.</p>
+      <p begin="38574.542s" xml:id="p943" end="38576.167s">Mari makan siang.</p>
+      <p begin="38576.292s" xml:id="p944" end="38577.751s">(Makan siang setelah latihan berat)</p>
+      <p begin="38577.876s" xml:id="p945" end="38578.876s">Apa kita harus memanggangnya?</p>
+      <p begin="38578.999s" xml:id="p946" end="38581.042s">Kejam sekali.<br />Kita harus melihatnya.</p>
+      <p begin="38581.167s" xml:id="p947" end="38582.167s">(Meja yang mencuri perhatian)</p>
+      <p begin="38582.292s" xml:id="p948" end="38583.417s">Ini pesta besar.</p>
+      <p begin="38584.167s" xml:id="p949" end="38586.417s">(Makan siang untuk tim kalah)</p>
+      <p begin="38586.542s" xml:id="p950" end="38589.5s">(Gongseng daging babi pedas)</p>
+      <p begin="38589.876s" xml:id="p951" end="38592.459s">(Selagi Tim Biru mengeluh...)</p>
+      <p begin="38595.792s" xml:id="p952" end="38597.626s">(...tim menang masuk)</p>
+      <p begin="38597.834s" xml:id="p953" end="38599.125s">Daging sapi Korea.</p>
+      <p begin="38599.25s" xml:id="p954" end="38600.25s">(Tim menang<br />dapat daging sapi Korea)</p>
+      <p begin="38600.375s" xml:id="p955" end="38602.459s">- Gila sekali.<br />- Daging sapi Korea sangat enak.</p>
+      <p begin="38602.876s" xml:id="p956" end="38605.292s">(Terpana)</p>
+      <p begin="38605.667s" xml:id="p957" end="38607.459s">(Benefit bagi tim menang)</p>
+      <p begin="38607.751s" xml:id="p958" end="38610.834s">(Daging sapi Korea terbaik<br />dengan guratan lemak fantastis)</p>
+      <p begin="38618.25s" xml:id="p959" end="38619.459s">Enak sekali.</p>
+      <p begin="38619.667s" xml:id="p960" end="38621.125s">Dan ini potongan yang bagus.</p>
+      <p begin="38621.25s" xml:id="p961" end="38623.375s">(Mengunyah)</p>
+      <p begin="38623.918s" xml:id="p962" end="38625.042s">(Mengunyah)</p>
+      <p begin="38625.334s" xml:id="p963" end="38626.542s">Steik.</p>
+      <p begin="38627.876s" xml:id="p964" end="38629.584s">(Sombong)</p>
+      <p begin="38630.0s" xml:id="p965" end="38632.083s">Aku sedang tidak mau<br />daging sapi Korea.</p>
+      <p begin="38636.125s" xml:id="p966" end="38637.584s">Enak sekali.</p>
+      <p begin="38637.999s" xml:id="p967" end="38640.417s">Hei, diam dan makanlah.</p>
+      <p begin="38640.542s" xml:id="p968" end="38642.751s">Maaf, tidak tahu kalau ada orang.<br />Terlalu gelap.</p>
+      <p begin="38644.751s" xml:id="p969" end="38645.751s">(Apa lagi?)</p>
+      <p begin="38645.876s" xml:id="p970" end="38646.876s">Jin-bong, kau pandai berkata-kata.</p>
+      <p begin="38647.209s" xml:id="p971" end="38649.709s">(Semua berdiri)</p>
+      <p begin="38649.834s" xml:id="p972" end="38653.542s">Baik, tim kami telah bekerja keras.</p>
+      <p begin="38653.667s" xml:id="p973" end="38655.292s">Mari benar-benar<br />menikmati momen ini,</p>
+      <p begin="38655.667s" xml:id="p974" end="38658.042s">(Suasana hati buruk)</p>
+      <p begin="38658.459s" xml:id="p975" end="38660.959s">- Ayo, semangat!<br />- Bola!</p>
+      <p begin="38661.042s" xml:id="p976" end="38662.709s">Makan!</p>
+      <p begin="38666.292s" xml:id="p977" end="38668.083s">(Dasar anak-anak iseng)</p>
+      <p begin="38668.584s" xml:id="p978" end="38670.375s">Mari kita hargai<br />daging babi juga.</p>
+      <p begin="38670.876s" xml:id="p979" end="38672.083s">Mari lakukan juga.</p>
+      <p begin="38672.209s" xml:id="p980" end="38674.375s">(Kita tidak boleh kalah)</p>
+      <p begin="38674.667s" xml:id="p981" end="38676.959s">- Ayo, tim unggulan!<br />- Hore!</p>
+      <p begin="38677.083s" xml:id="p982" end="38678.292s">Enak sekali.</p>
+      <p begin="38678.918s" xml:id="p983" end="38680.417s">Dagingnya terlalu berminyak.</p>
+      <p begin="38680.542s" xml:id="p984" end="38681.542s">(Tim biru memenangkan<br />kemenangan mental)</p>
+      <p begin="38681.667s" xml:id="p985" end="38682.667s">(Fokus pada daging Korea,<br />tidak peduli mereka)</p>
+      <p begin="38682.792s" xml:id="p986" end="38683.959s">Gongseng babi pedas<br />adalah cara terbaik makan daging.</p>
+      <p begin="38685.542s" xml:id="p987" end="38687.792s">(Kenyataan pahit menusuk)</p>
+      <p begin="38688.209s" xml:id="p988" end="38691.0s">(Makan siang kejam telah berakhir)</p>
+      <p begin="38692.542s" xml:id="p989" end="38700.334s">(Gelombangnya lebih ganas<br />dari tadi pagi)</p>
+      <p begin="38700.5s" xml:id="p990" end="38703.792s">Tantangan berat menjadi<br />pemain dodgeball nasional.</p>
+      <p begin="38703.918s" xml:id="p991" end="38706.417s">Untuk Pertandingan Dodgeball<br />Iron Ball...</p>
+      <p begin="38706.709s" xml:id="p992" end="38712.584s">...kita akan mulai misi<br />untuk mengeliminasi orang pertama.</p>
+      <p begin="38712.709s" xml:id="p993" end="38716.25s">Pertandingan<br />antara kedua tim adalah...</p>
+      <p begin="38716.375s" xml:id="p994" end="38721.292s">(Apa misi eliminasi pertamanya?)</p>
+      <p begin="38721.417s" xml:id="p995" end="38726.042s">...Ten-person Elimination.</p>
+      <p begin="38726.167s" xml:id="p996" end="38727.209s">Apa?</p>
+      <p begin="38727.876s" xml:id="p997" end="38729.25s">Sepuluh orang akan dieliminasi?</p>
+      <p begin="38729.375s" xml:id="p998" end="38730.709s">Sepuluh orang?</p>
+      <p begin="38730.834s" xml:id="p999" end="38732.167s">(Sepuluh orang akan dieliminasi?)</p>
+      <p begin="38732.375s" xml:id="p1000" end="38738.167s">Akan ada tiga babak<br />dalam Ten-person Elimination.</p>
+      <p begin="38738.292s" xml:id="p1001" end="38743.792s">Pemain akan tersingkir dengan<br />cara berbeda di setiap babak.</p>
+      <p begin="38743.918s" xml:id="p1002" end="38748.709s">Tim yang kalah di babak pertama<br />akan mengeliminasi tiga anggotanya.</p>
+      <p begin="38748.999s" xml:id="p1003" end="38752.834s">Pemain dari tim kalah<br />akan dipilih...</p>
+      <p begin="38752.959s" xml:id="p1004" end="38757.042s">...setelah diskusi<br />antara manajer dan pelatih.</p>
+      <p begin="38757.876s" xml:id="p1005" end="38759.167s">Tiga pemain terpilih...</p>
+      <p begin="38759.292s" xml:id="p1006" end="38762.209s">...akan mengucapkan perpisahan<br />sebelum babak kedua dimulai.</p>
+      <p begin="38762.334s" xml:id="p1007" end="38763.542s">(Pemain akan dieliminasi<br />sebelum babak kedua)</p>
+      <p begin="38763.667s" xml:id="p1008" end="38765.125s">Kejam sekali.</p>
+      <p begin="38767.999s" xml:id="p1009" end="38770.542s">Pertama, Tim Biru<br />memiliki keunggulan.</p>
+      <p begin="38770.667s" xml:id="p1010" end="38774.459s">Karena memenangkan<br />Close-combat dodgeball...</p>
+      <p begin="38774.584s" xml:id="p1011" end="38778.959s">...Tim Biru akan dapat benefit.</p>
+      <p begin="38779.042s" xml:id="p1012" end="38780.918s">(Benefit untuk Tim Biru)</p>
+      <p begin="38787.918s" xml:id="p1013" end="38790.125s">Mereka dapat kesempatan<br />menugaskan pemain luar.</p>
+      <p begin="38790.751s" xml:id="p1014" end="38792.959s">Mereka dapat kesempatan<br />menugaskan pemain luar.</p>
+      <p begin="38795.834s" xml:id="p1015" end="38799.125s">Pemain luar di dodgeball<br />adalah kartu as tim.</p>
+      <p begin="38799.25s" xml:id="p1016" end="38800.25s">Mereka kartu asnya.</p>
+      <p begin="38800.375s" xml:id="p1017" end="38804.042s">- Serangan dimulai oleh pemain<br />- luar. Ya.</p>
+      <p begin="38804.167s" xml:id="p1018" end="38805.167s">(Pemain luar)</p>
+      <p begin="38805.292s" xml:id="p1019" end="38811.042s">(Yang paling berpartisipasi)</p>
+      <p begin="38811.709s" xml:id="p1020" end="38812.751s">(Tim Merah<br />dapat penalti sejak awal)</p>
+      <p begin="38812.876s" xml:id="p1021" end="38815.125s">Pemain luar berperan penting.</p>
+      <p begin="38816.918s" xml:id="p1022" end="38817.918s">(Keuntungan besar untuk Tim Biru)</p>
+      <p begin="38818.0s" xml:id="p1023" end="38820.334s">Bagus dapat kesempatan memilih<br />pemain luar di awal.</p>
+      <p begin="38820.5s" xml:id="p1024" end="38822.876s">- Bagus sekali.<br />- Benar.</p>
+      <p begin="38822.999s" xml:id="p1025" end="38825.542s">Kapten Kim Seung-min, silakan maju.</p>
+      <p begin="38827.292s" xml:id="p1026" end="38832.459s">Tolong umumkan pemain luar<br />Tim Jeong Hae-chul.</p>
+      <p begin="38832.918s" xml:id="p1027" end="38837.209s">Pemain luar<br />dengan tugas paling penting.</p>
+      <p begin="38837.334s" xml:id="p1028" end="38839.834s">Siapa yang akan dia pilih?</p>
+      <p begin="38840.334s" xml:id="p1029" end="38843.918s">(Siapakah dia?)</p>
+      <p begin="38844.0s" xml:id="p1030" end="38847.125s">Tentukanlah siapa<br />yang akan jadi pemain luar.</p>
+      <p begin="38847.751s" xml:id="p1031" end="38851.292s">(Gugup)</p>
+      <p begin="38853.584s" xml:id="p1032" end="38857.584s">Aku akan memilih Jeong Seong-hoon.</p>
+      <p begin="38858.876s" xml:id="p1033" end="38862.292s">(Jeong Seong-hoon melewatkan<br />banyak tangkapan selama latihan)</p>
+      <p begin="38862.584s" xml:id="p1034" end="38864.292s">Kau dijadikan pemain luar.</p>
+      <p begin="38864.417s" xml:id="p1035" end="38867.834s">- Ya.<br />- Bagaimana rasanya?</p>
+      <p begin="38867.959s" xml:id="p1036" end="38871.292s">Aku merasa yakin. Aku tidak akan<br />biarkan mereka menang.</p>
+      <p begin="38871.417s" xml:id="p1037" end="38872.834s">Kami akan menang.</p>
+      <p begin="38873.292s" xml:id="p1038" end="38874.459s">Baiklah.</p>
+      <p begin="38875.751s" xml:id="p1039" end="38880.918s">Babak pertama<br />Ten-person Elimination, dimulai.</p>
+      <p begin="38881.0s" xml:id="p1040" end="38883.209s">(Babak pertama<br />Ten-person Elimination, dimulai)</p>
+      <p begin="38885.584s" xml:id="p1041" end="38888.334s">(Ten-person Elimination)</p>
+      <p begin="38888.459s" xml:id="p1042" end="38891.626s">(Babak pertama)</p>
+      <p begin="38899.0s" xml:id="p1043" end="38901.792s">
+        <span tts:fontStyle="italic">Ini seperti berangkat perang.</span>
+      </p>
+      <p begin="38904.0s" xml:id="p1044" end="38905.584s">
+        <span tts:fontStyle="italic">Ini seperti perang.</span>
+      </p>
+      <p begin="38905.709s" xml:id="p1045" end="38909.626s">
+        <span tts:fontStyle="italic">Saat kalah, tiga orang dari tim<br />akan dieliminasi.</span>
+      </p>
+      <p begin="38910.5s" xml:id="p1046" end="38912.167s">
+        <span tts:fontStyle="italic">Aku semakin gugup.</span>
+      </p>
+      <p begin="38912.292s" xml:id="p1047" end="38914.334s">
+        <span tts:fontStyle="italic">Jika salah sekali,<br />akan langsung dieliminasi.</span>
+      </p>
+      <p begin="38915.459s" xml:id="p1048" end="38917.876s">
+        <span tts:fontStyle="italic">Tubuhku mulai kaku.</span>
+      </p>
+      <p begin="38920.25s" xml:id="p1049" end="38922.083s">
+        <span tts:fontStyle="italic">Kami harus bertahan.</span>
+      </p>
+      <p begin="38922.751s" xml:id="p1050" end="38925.584s">(Intinya hanya satu babak ini)</p>
+      <p begin="38925.792s" xml:id="p1051" end="38930.0s">(Tiga orang akan dieliminasi<br />dari tim yang kalah)</p>
+      <p begin="38931.25s" xml:id="p1052" end="38934.042s">
+        <span tts:fontStyle="italic">Saatnya Tim Merah berburu.<br />Semuanya, sembunyi.</span>
+      </p>
+      <p begin="38934.667s" xml:id="p1053" end="38936.918s">Baiklah, kita akan mulai<br />babak pertama.</p>
+      <p begin="38937.375s" xml:id="p1054" end="38939.0s">- Semangat!<br />- Semangat!</p>
+      <p begin="38939.459s" xml:id="p1055" end="38941.834s">- Ayo, tim jagoan!<br />- Hore!</p>
+      <p begin="38942.334s" xml:id="p1056" end="38944.792s">Kim Seung-min kini<br />jadi pemain luar.</p>
+      <p begin="38944.918s" xml:id="p1057" end="38946.626s">- Ayo, semangat!<br />- Bola!</p>
+      <p begin="38946.751s" xml:id="p1058" end="38948.918s">(Semangat juang tinggi)</p>
+      <p begin="38949.0s" xml:id="p1059" end="38950.042s">- Ayo!<br />- Ayo!</p>
+      <p begin="38950.751s" xml:id="p1060" end="38953.999s">(Pemain luar yang ditunjuk<br />Tim Biru, Jeong Seong-hoon)</p>
+      <p begin="38954.959s" xml:id="p1061" end="38957.0s">Majulah untuk <span tts:fontStyle="italic">jump ball.</span></p>
+      <p begin="38957.626s" xml:id="p1062" end="38960.25s">(Tim Biru, Lee Dong-gyu)</p>
+      <p begin="38960.375s" xml:id="p1063" end="38961.459s">(Tim Merah, Jeong Tae-pung)</p>
+      <p begin="38961.584s" xml:id="p1064" end="38962.999s">Baik, jump ball.</p>
+      <p begin="38963.25s" xml:id="p1065" end="38964.876s">Jangan keluar garis.</p>
+      <p begin="38964.999s" xml:id="p1066" end="38966.209s">Fokus.</p>
+      <p begin="38967.5s" xml:id="p1067" end="38969.125s">Semuanya, maju sedikit.</p>
+      <p begin="38969.25s" xml:id="p1068" end="38970.375s">Baiklah, jump ball.</p>
+      <p begin="38970.5s" xml:id="p1069" end="38971.626s">(Kedua tim berada di posisi awal)</p>
+      <p begin="38972.209s" xml:id="p1070" end="38978.125s">(Siapa yang akan mulai duluan?)</p>
+      <p begin="38979.167s" xml:id="p1071" end="38980.876s">Fokus.</p>
+      <p begin="38982.834s" xml:id="p1072" end="38985.709s">Lompat. Bagus.</p>
+      <p begin="38985.834s" xml:id="p1073" end="38989.5s">Masuk. Lindungi.</p>
+      <p begin="38989.626s" xml:id="p1074" end="38990.709s">- Pertandingan dimulai.<br />- Baiklah.</p>
+      <p begin="38990.834s" xml:id="p1075" end="38992.417s">Masuk. Lindungi.</p>
+      <p begin="38998.417s" xml:id="p1076" end="39001.0s">(Di awal, Jeong Hae-chul<br />dari Tim Merah, keluar)</p>
+      <p begin="39001.667s" xml:id="p1077" end="39002.876s">(Peluit)</p>
+      <p begin="39003.5s" xml:id="p1078" end="39007.5s">Pemain luar Tim Biru<br />menginjak garis.</p>
+      <p begin="39007.626s" xml:id="p1079" end="39010.209s">(Reka ulang)</p>
+      <p begin="39010.334s" xml:id="p1080" end="39012.876s">(Kim Seung-min menginjak garis<br />selama menyerang)</p>
+      <p begin="39013.918s" xml:id="p1081" end="39015.709s">(Menginjak garis selagi menyerang<br />adalah pelanggaran)</p>
+      <p begin="39015.834s" xml:id="p1082" end="39017.459s">Melewati garis.</p>
+      <p begin="39017.584s" xml:id="p1083" end="39018.584s">(Jeong Hae-chul lolos<br />karena kesalahan Kim Seung-min)</p>
+      <p begin="39018.709s" xml:id="p1084" end="39020.25s">Apa dia menginjak garis?</p>
+      <p begin="39020.459s" xml:id="p1085" end="39022.292s">Perhatikan.<br />Dia menginjak garis.</p>
+      <p begin="39022.417s" xml:id="p1086" end="39023.459s">Jangan sampai menginjak garis.</p>
+      <p begin="39023.584s" xml:id="p1087" end="39024.834s">(Tim Merah beralih<br />dari bertahan ke menyerang)</p>
+      <p begin="39024.959s" xml:id="p1088" end="39028.834s">- Serang!<br />- Serang!</p>
+      <p begin="39028.959s" xml:id="p1089" end="39032.876s">(Gugup)</p>
+      <p begin="39035.083s" xml:id="p1090" end="39036.876s">(Mengoper bola dari dalam<br />ke tengah lapangan)</p>
+      <p begin="39037.542s" xml:id="p1091" end="39040.334s">(Jeong Hae-chul melempar)</p>
+      <p begin="39040.459s" xml:id="p1092" end="39041.834s">- Baik.<br />- Bagus sekali.</p>
+      <p begin="39043.125s" xml:id="p1093" end="39044.417s">- Baik.<br />- Bagus sekali.</p>
+      <p begin="39044.542s" xml:id="p1094" end="39045.751s">(Jeong Hae-chul melempar)</p>
+      <p begin="39045.876s" xml:id="p1095" end="39047.0s">- Baik.<br />- Bagus sekali.</p>
+      <p begin="39047.584s" xml:id="p1096" end="39050.042s">- Pertahanan!<br />- Pertahanan!</p>
+      <p begin="39050.167s" xml:id="p1097" end="39051.334s">Maju.</p>
+      <p begin="39051.459s" xml:id="p1098" end="39052.459s">(Giliran Tim Biru menyerang)</p>
+      <p begin="39053.334s" xml:id="p1099" end="39054.876s">- Dia menangkapnya.<br />- Bagus sekali.</p>
+      <p begin="39056.667s" xml:id="p1100" end="39058.167s">- Dia menangkapnya.<br />- Bagus sekali.</p>
+      <p begin="39058.292s" xml:id="p1101" end="39059.292s">Langsung lempar bola.</p>
+      <p begin="39059.417s" xml:id="p1102" end="39060.417s">Serang.</p>
+      <p begin="39060.999s" xml:id="p1103" end="39062.167s">Serang.</p>
+      <p begin="39062.292s" xml:id="p1104" end="39064.125s">(Namun...)</p>
+      <p begin="39065.626s" xml:id="p1105" end="39068.626s">(...Jeong Seong-hoon, pemain luar,<br />melewatkan operannya)</p>
+      <p begin="39069.459s" xml:id="p1106" end="39070.959s">Kau seharusnya menangkapnya.</p>
+      <p begin="39071.042s" xml:id="p1107" end="39072.751s">- Pemain luar harus menangkapnya.<br />- Benar.</p>
+      <p begin="39072.876s" xml:id="p1108" end="39075.709s">(Jeong Seong-hoon, pemain luar,<br />tidak bisa menangkap bola)</p>
+      <p begin="39076.167s" xml:id="p1109" end="39078.209s">Formasi penyerangan. Maju.</p>
+      <p begin="39078.334s" xml:id="p1110" end="39079.5s">Maju.</p>
+      <p begin="39079.709s" xml:id="p1111" end="39081.334s">Di depan garis.</p>
+      <p begin="39081.667s" xml:id="p1112" end="39086.0s">Pertahanan!</p>
+      <p begin="39087.417s" xml:id="p1113" end="39088.999s">Perhatikan garis.</p>
+      <p begin="39090.918s" xml:id="p1114" end="39093.792s">(Kim Seung-min, si pemain luar,<br />melempar)</p>
+      <p begin="39093.918s" xml:id="p1115" end="39095.0s">Awas garisnya.</p>
+      <p begin="39095.125s" xml:id="p1116" end="39096.417s">Bagus.</p>
+      <p begin="39097.542s" xml:id="p1117" end="39100.751s">(Serangan sukses<br />setelah operan luar)</p>
+      <p begin="39101.667s" xml:id="p1118" end="39104.042s">(Pemain luar Tim Biru yang kuat,<br />Kim Seung-min)</p>
+      <p begin="39104.709s" xml:id="p1119" end="39106.5s">(Kang Jun dari Tim Merah keluar)</p>
+      <p begin="39108.459s" xml:id="p1120" end="39109.751s">Kang Jun.</p>
+      <p begin="39110.334s" xml:id="p1121" end="39112.626s">Serang. Seong-hoon, kembali.</p>
+      <p begin="39112.751s" xml:id="p1122" end="39113.751s">Serang.</p>
+      <p begin="39113.876s" xml:id="p1123" end="39116.417s">- Formasi serangan.<br />- Formasi serangan.</p>
+      <p begin="39116.542s" xml:id="p1124" end="39117.542s">Mundur terus.</p>
+      <p begin="39117.667s" xml:id="p1125" end="39118.667s">- Fokus.<br />- Serang.</p>
+      <p begin="39118.792s" xml:id="p1126" end="39119.918s">(Tim Merah menyerang)</p>
+      <p begin="39120.0s" xml:id="p1127" end="39122.417s">Serang.</p>
+      <p begin="39122.542s" xml:id="p1128" end="39124.459s">- Mundur.<br />- Sandwich.</p>
+      <p begin="39124.584s" xml:id="p1129" end="39126.292s">(Lee Jin-bong mengoper bola<br />ke pemain luar)</p>
+      <p begin="39128.918s" xml:id="p1130" end="39130.751s">(Jeong Seong-hoon<br />melakukan kesalahan lagi)</p>
+      <p begin="39130.876s" xml:id="p1131" end="39133.999s">- Tidak masalah.<br />- Tidak masalah.</p>
+      <p begin="39135.626s" xml:id="p1132" end="39137.709s">Itu sebabnya<br />peran pemain luar penting.</p>
+      <p begin="39138.042s" xml:id="p1133" end="39141.626s">(Perbedaan jelas<br />antara pemain luar kedua tim)</p>
+      <p begin="39142.167s" xml:id="p1134" end="39143.417s">Jun!</p>
+      <p begin="39143.542s" xml:id="p1135" end="39144.542s">(Jun, ke sini!)</p>
+      <p begin="39145.542s" xml:id="p1136" end="39148.459s">(Kang Jun bergerak ke kanan)</p>
+      <p begin="39149.999s" xml:id="p1137" end="39151.751s">Jun, kau harus banyak gerak.</p>
+      <p begin="39152.0s" xml:id="p1138" end="39153.459s">Banyak peluang untuk menyerang.</p>
+      <p begin="39153.584s" xml:id="p1139" end="39155.167s">- Atas!<br />- Ayo.</p>
+      <p begin="39156.083s" xml:id="p1140" end="39162.459s">- Atas!<br />- Pelanggaran lemparan ulang.</p>
+      <p begin="39162.584s" xml:id="p1141" end="39163.709s">Pelanggaran Tim Merah.</p>
+      <p begin="39163.834s" xml:id="p1142" end="39167.209s">Atas!</p>
+      <p begin="39168.459s" xml:id="p1143" end="39169.459s">(Pelanggaran lemparan ulang)</p>
+      <p begin="39169.584s" xml:id="p1144" end="39170.834s">(Saat pertandingan dimulai lagi...)</p>
+      <p begin="39170.959s" xml:id="p1145" end="39173.542s">(...kau harus mengangkat bola<br />di atas kepala dengan kedua tangan)</p>
+      <p begin="39173.959s" xml:id="p1146" end="39176.999s">- Pelanggaran Tim Merah.<br />- Fokus!</p>
+      <p begin="39177.209s" xml:id="p1147" end="39179.167s">Kalian harus memahami aturan<br />lebih baik lagi.</p>
+      <p begin="39179.292s" xml:id="p1148" end="39181.292s">Ini akan dievaluasi juga.</p>
+      <p begin="39181.417s" xml:id="p1149" end="39182.959s">Formasi serangan!</p>
+      <p begin="39183.042s" xml:id="p1150" end="39184.042s">- Formasi serangan.<br />- Serang.</p>
+      <p begin="39184.167s" xml:id="p1151" end="39185.584s">- Serang.<br />- Sandwich.</p>
+      <p begin="39186.083s" xml:id="p1152" end="39187.083s">Mari mulai lagi.</p>
+      <p begin="39187.209s" xml:id="p1153" end="39189.542s">(Kang Jun bergerak setelah<br />menerima tanda di luar lapangan)</p>
+      <p begin="39190.626s" xml:id="p1154" end="39191.876s">Kenapa dia keluar?</p>
+      <p begin="39192.0s" xml:id="p1155" end="39193.709s">Mundur lagi.</p>
+      <p begin="39194.042s" xml:id="p1156" end="39196.751s">(Lee Jin-bong ingin mengoper bola<br />ke luar)</p>
+      <p begin="39197.584s" xml:id="p1157" end="39198.584s">Ayolah, Lee Jin-bong.</p>
+      <p begin="39198.709s" xml:id="p1158" end="39199.709s">Bagus.</p>
+      <p begin="39200.417s" xml:id="p1159" end="39201.876s">Dua orang.</p>
+      <p begin="39201.999s" xml:id="p1160" end="39204.5s">Dua. Tiga orang.</p>
+      <p begin="39204.876s" xml:id="p1161" end="39206.626s">- Lee Jin-bong.<br />- Bagus.</p>
+      <p begin="39206.751s" xml:id="p1162" end="39209.042s">(Sekali lempar...)</p>
+      <p begin="39209.167s" xml:id="p1163" end="39210.709s">Dua.</p>
+      <p begin="39210.834s" xml:id="p1164" end="39211.876s">(...dua orang kena)</p>
+      <p begin="39212.709s" xml:id="p1165" end="39213.999s">Dua.</p>
+      <p begin="39214.125s" xml:id="p1166" end="39218.125s">Dua! Tiga!</p>
+      <p begin="39218.999s" xml:id="p1167" end="39219.999s">(Mengenai pemain)</p>
+      <p begin="39220.083s" xml:id="p1168" end="39221.417s">Kenapa tidak tangkap bolanya?</p>
+      <p begin="39222.0s" xml:id="p1169" end="39224.667s">(Sayangnya, tiga orang keluar<br />dari Tim Biru)</p>
+      <p begin="39225.167s" xml:id="p1170" end="39226.999s">Jin-bong itu cerdas.</p>
+      <p begin="39227.584s" xml:id="p1171" end="39231.375s">(Aku adalah Bong-ki,<br />rajanya dodgeball)</p>
+      <p begin="39231.751s" xml:id="p1172" end="39233.542s">Tiga orang.<br />(Tiga orang Tim Biru keluar)</p>
+      <p begin="39233.667s" xml:id="p1173" end="39235.0s">Termasuk Kim Min-jun.</p>
+      <p begin="39235.417s" xml:id="p1174" end="39237.292s">Kau bisa pukul<br />dan lempar langsung.</p>
+      <p begin="39237.417s" xml:id="p1175" end="39238.5s">Kau harus menyerang<br />selama bolanya masih ada.</p>
+      <p begin="39238.626s" xml:id="p1176" end="39239.918s">Lee Jin-bong adalah kartu asnya.</p>
+      <p begin="39240.0s" xml:id="p1177" end="39243.167s">Meskipun ada yang keluar,<br />permainan terus lanjut.</p>
+      <p begin="39243.292s" xml:id="p1178" end="39244.834s">- Bagus, Jin-bong.<br />- Jangan senang dulu.</p>
+      <p begin="39244.959s" xml:id="p1179" end="39246.876s">- Baik.<br />- Perhatikan bolanya.</p>
+      <p begin="39247.751s" xml:id="p1180" end="39248.751s">(Tim Merah siap menyerang lagi)</p>
+      <p begin="39248.876s" xml:id="p1181" end="39251.375s">Serang!</p>
+      <p begin="39251.5s" xml:id="p1182" end="39254.209s">- Siap.<br />- Fokus.</p>
+      <p begin="39254.918s" xml:id="p1183" end="39257.709s">Serang!</p>
+      <p begin="39260.292s" xml:id="p1184" end="39262.292s">(Kang Jun dari Tim Merah<br />tidak menangkap bolanya)</p>
+      <p begin="39262.918s" xml:id="p1185" end="39265.0s">(Bola jatuh ke lapangan Tim Biru)<br />Bagus.</p>
+      <p begin="39265.375s" xml:id="p1186" end="39266.626s">Bagus!</p>
+      <p begin="39267.584s" xml:id="p1187" end="39268.918s">- Formasi pertahanan.<br />- Awas garisnya.</p>
+      <p begin="39269.0s" xml:id="p1188" end="39270.25s">- Awas garisnya.<br />- Pertahanan.</p>
+      <p begin="39270.375s" xml:id="p1189" end="39272.5s">Jangan melakukan kesalahan<br />yang tak seharusnya terjadi.</p>
+      <p begin="39272.792s" xml:id="p1190" end="39276.417s">(Tim Merah 11, Tim Biru 9)</p>
+      <p begin="39276.751s" xml:id="p1191" end="39277.751s">Serang!</p>
+      <p begin="39277.876s" xml:id="p1192" end="39279.125s">Jangan dulu.<br />Peluit belum berbunyi.</p>
+      <p begin="39279.25s" xml:id="p1193" end="39280.375s">(Tim Biru beralih dari bertahan<br />ke menyerang)</p>
+      <p begin="39281.584s" xml:id="p1194" end="39282.584s">Ayolah!</p>
+      <p begin="39282.709s" xml:id="p1195" end="39284.584s">(Serangan balik dimulai)</p>
+      <p begin="39285.167s" xml:id="p1196" end="39288.5s">(Kim Min-jun menemukan<br />celah mengoper)</p>
+      <p begin="39290.167s" xml:id="p1197" end="39291.667s">(Park Jun-woo)</p>
+      <p begin="39292.999s" xml:id="p1198" end="39294.167s">(Lemparan angin puyuh Park Jun-woo)</p>
+      <p begin="39297.584s" xml:id="p1199" end="39300.459s">- Bagus.<br />- Dua orang.</p>
+      <p begin="39301.292s" xml:id="p1200" end="39302.626s">(Hwang Chung-won<br />dan Choi Seong-hyeon keluar)</p>
+      <p begin="39306.5s" xml:id="p1201" end="39308.584s">Bagus. Jun-woo mengenai dua orang.</p>
+      <p begin="39308.876s" xml:id="p1202" end="39310.167s">(Hwang Chung-won<br />dan Choi Seong-hyeon keluar)</p>
+      <p begin="39310.292s" xml:id="p1203" end="39311.5s">Fokus. Langsung serang.</p>
+      <p begin="39312.083s" xml:id="p1204" end="39313.626s">Angkat bola.</p>
+      <p begin="39314.209s" xml:id="p1205" end="39315.209s">Bagus.</p>
+      <p begin="39315.334s" xml:id="p1206" end="39316.334s">(Tim Biru mengoper bola<br />masuk dan keluar)</p>
+      <p begin="39316.459s" xml:id="p1207" end="39317.834s">Kenapa tidak ditangkap,<br />Pemain Luar?</p>
+      <p begin="39319.0s" xml:id="p1208" end="39320.918s">- Oper ke pemain luar.<br />- Pemain luar!</p>
+      <p begin="39323.209s" xml:id="p1209" end="39324.375s">Serang.</p>
+      <p begin="39325.542s" xml:id="p1210" end="39326.918s">(Apa yang akan terjadi?)</p>
+      <p begin="39327.0s" xml:id="p1211" end="39328.584s">- Serang!<br />- Awas!</p>
+      <p begin="39330.999s" xml:id="p1212" end="39332.459s">(Tim Biru berhasil menyerang lagi)</p>
+      <p begin="39332.834s" xml:id="p1213" end="39334.751s">Bagus, Min-jun.</p>
+      <p begin="39335.626s" xml:id="p1214" end="39337.25s">Dia akan menyerang.</p>
+      <p begin="39337.375s" xml:id="p1215" end="39340.542s">Begitu caranya pemain luar<br />menangkap bola.</p>
+      <p begin="39341.918s" xml:id="p1216" end="39343.25s">- Permainan berlanjut.<br />- Fokus.</p>
+      <p begin="39343.375s" xml:id="p1217" end="39345.083s">- Formasi serangan.<br />- Jangan menginjak garis.</p>
+      <p begin="39346.292s" xml:id="p1218" end="39347.626s">Jangan menginjak garis.</p>
+      <p begin="39348.0s" xml:id="p1219" end="39349.167s"> Jangan menginjak garis.</p>
+      <p begin="39351.667s" xml:id="p1220" end="39352.792s">Bola kita!</p>
+      <p begin="39353.918s" xml:id="p1221" end="39357.167s">(Tim Merah tidak bisa<br />mengoper bola sama sekali)</p>
+      <p begin="39357.292s" xml:id="p1222" end="39358.334s">Bola kita!</p>
+      <p begin="39358.459s" xml:id="p1223" end="39361.167s">Kita tidak bisa terus menyerang.</p>
+      <p begin="39361.292s" xml:id="p1224" end="39363.042s">Kita harus mengalihkan<br />perhatian mereka.</p>
+      <p begin="39363.167s" xml:id="p1225" end="39364.209s">(Jeong Hae-cheol bersikeras<br />mengoper bola)</p>
+      <p begin="39364.334s" xml:id="p1226" end="39366.542s">Oper bolanya. Tidak apa-apa.</p>
+      <p begin="39367.0s" xml:id="p1227" end="39369.459s">Jangan hiraukan mereka. Berkumpul.</p>
+      <p begin="39370.709s" xml:id="p1228" end="39372.334s">Tunggu. <span tts:fontStyle="italic">Time out.</span></p>
+      <p begin="39372.667s" xml:id="p1229" end="39374.334s">
+        <span tts:fontStyle="italic">- Time out.</span>
+        <br />- Ada apa?</p>
+      <p begin="39374.459s" xml:id="p1230" end="39375.999s">Mataku kemasukan pasir.</p>
+      <p begin="39376.876s" xml:id="p1231" end="39378.542s">Baiklah. Silakan duduk.</p>
+      <p begin="39378.667s" xml:id="p1232" end="39380.375s">- Duduk.<br />- Silakan duduk.</p>
+      <p begin="39380.5s" xml:id="p1233" end="39381.584s">(Saat pertandingan dihentikan,<br />pemain duduk dan menunggu)</p>
+      <p begin="39381.709s" xml:id="p1234" end="39382.792s">Duduk.</p>
+      <p begin="39382.918s" xml:id="p1235" end="39384.876s">Berikan dia air. Matanya.</p>
+      <p begin="39385.334s" xml:id="p1236" end="39389.083s">(Park Jun-woo tidak bisa membuka<br />mata karena ada pasir di matanya)</p>
+      <p begin="39389.209s" xml:id="p1237" end="39391.667s">Kita unggul sekarang. Bagus.<br />Tunggu. Dengarkan aku dulu.</p>
+      <p begin="39391.792s" xml:id="p1238" end="39393.125s">Jangan terlalu senang.</p>
+      <p begin="39393.876s" xml:id="p1239" end="39395.626s">Dan jangan injak garisnya.</p>
+      <p begin="39396.209s" xml:id="p1240" end="39398.0s">Kau tidak bisa terus menyerang.</p>
+      <p begin="39398.125s" xml:id="p1241" end="39399.918s">- Kita bisa alihkan perhatian.<br />- Ya.</p>
+      <p begin="39400.167s" xml:id="p1242" end="39402.584s">Pemain luar kita lebih banyak.<br />Kita bisa menghadapi mereka.</p>
+      <p begin="39402.918s" xml:id="p1243" end="39406.459s">(Tim Merah memutuskan<br />menggunakan pemain luar)</p>
+      <p begin="39406.584s" xml:id="p1244" end="39408.626s">- Kini fokus pada pemain luar?<br />- Ya, kini ada banyak pemain luar.</p>
+      <p begin="39408.751s" xml:id="p1245" end="39409.834s">Baik. Aku sekarang baik-baik saja.</p>
+      <p begin="39409.959s" xml:id="p1246" end="39411.125s">- Aku baik-baik saja.<br />- Silakan berdiri.</p>
+      <p begin="39411.25s" xml:id="p1247" end="39412.25s">(Pertandingan dilanjutkan)</p>
+      <p begin="39412.375s" xml:id="p1248" end="39416.417s">- Baiklah, ayo mulai lagi.<br />- Mulai!</p>
+      <p begin="39417.959s" xml:id="p1249" end="39419.876s">(Bola Tim Merah keluar sejak awal?)</p>
+      <p begin="39420.751s" xml:id="p1250" end="39421.751s">Bagus.</p>
+      <p begin="39421.876s" xml:id="p1251" end="39424.999s">(Lemparan Kim Geon<br />yang bertenaga berhasil ditahan)</p>
+      <p begin="39427.959s" xml:id="p1252" end="39429.751s">Dia menangkap bolanya.</p>
+      <p begin="39429.876s" xml:id="p1253" end="39431.792s">- Jong-hyun.<br />- Jung Jong-hyun!</p>
+      <p begin="39433.918s" xml:id="p1254" end="39435.584s">Formasi menyerang.</p>
+      <p begin="39435.959s" xml:id="p1255" end="39438.0s">- Formasi menyerang.<br />- Bagus.</p>
+      <p begin="39438.5s" xml:id="p1256" end="39440.459s">(Lemparan Kang Jun yang bertenaga)</p>
+      <p begin="39443.334s" xml:id="p1257" end="39444.5s">(Lee Dong-gyu dari Tim Biru keluar)</p>
+      <p begin="39444.626s" xml:id="p1258" end="39445.709s">- Lee Dong-gyu.<br />- Tidak apa-apa, Dong-gyu.</p>
+      <p begin="39445.834s" xml:id="p1259" end="39447.25s">Lee Dong-gyu kena lemparan bola.</p>
+      <p begin="39447.542s" xml:id="p1260" end="39448.751s">Tahan!</p>
+      <p begin="39448.876s" xml:id="p1261" end="39449.918s">(Tahan!)</p>
+      <p begin="39451.083s" xml:id="p1262" end="39452.125s">Pelan-pelan.</p>
+      <p begin="39452.25s" xml:id="p1263" end="39453.792s">Oper bolanya.</p>
+      <p begin="39456.209s" xml:id="p1264" end="39458.876s">(Taktik pengoperan Tim Biru<br />yang kompak)</p>
+      <p begin="39458.999s" xml:id="p1265" end="39460.209s">Bagus.</p>
+      <p begin="39460.375s" xml:id="p1266" end="39462.5s">Baik, bagus.</p>
+      <p begin="39462.626s" xml:id="p1267" end="39463.834s">Sebelah sana.</p>
+      <p begin="39465.709s" xml:id="p1268" end="39468.0s">Astaga, Jeong Hae-chul.</p>
+      <p begin="39468.584s" xml:id="p1269" end="39470.25s">- Semangat!<br />- Semangat!</p>
+      <p begin="39470.375s" xml:id="p1270" end="39471.375s">Bagus. Mundur sedikit.</p>
+      <p begin="39471.5s" xml:id="p1271" end="39473.292s">- Angkat tangan kalian.<br />- Ayo, bentuk formasi.</p>
+      <p begin="39473.417s" xml:id="p1272" end="39475.542s">Formasi menyerang.<br />(Bong-ki menemukan mangsanya)</p>
+      <p begin="39477.083s" xml:id="p1273" end="39478.083s">(Ini)</p>
+      <p begin="39478.5s" xml:id="p1274" end="39480.709s">(Hwang Chung-won menunjuk<br />Choi Seong-hyeon)</p>
+      <p begin="39480.999s" xml:id="p1275" end="39482.042s">Baik, formasi menyerang.</p>
+      <p begin="39482.167s" xml:id="p1276" end="39483.918s">(Park Jun-woo, Choi Seong-hyeon)</p>
+      <p begin="39484.25s" xml:id="p1277" end="39485.375s">Fokus.</p>
+      <p begin="39485.5s" xml:id="p1278" end="39487.125s">(Operan Bong-ki ke pemain luar)</p>
+      <p begin="39488.209s" xml:id="p1279" end="39490.876s">(Park Jun-woo jadi targetnya)</p>
+      <p begin="39493.792s" xml:id="p1280" end="39495.083s">- Bagus.<br />- Baik.</p>
+      <p begin="39496.042s" xml:id="p1281" end="39497.209s">(Refleks luar biasa<br />Park Jun-woo)</p>
+      <p begin="39497.542s" xml:id="p1282" end="39498.959s">- Bagus.<br />- Baik.</p>
+      <p begin="39499.167s" xml:id="p1283" end="39500.999s">(Menangani keadaan genting<br />dan serangan)</p>
+      <p begin="39501.083s" xml:id="p1284" end="39502.125s">Pelanggaran!</p>
+      <p begin="39503.209s" xml:id="p1285" end="39504.667s">- Tangkap!<br />- Bagus!</p>
+      <p begin="39505.209s" xml:id="p1286" end="39506.792s">- Bagus!<br />- Tangkap bolanya!</p>
+      <p begin="39506.918s" xml:id="p1287" end="39508.042s">Jangan terlalu bersemangat.</p>
+      <p begin="39508.5s" xml:id="p1288" end="39511.25s">(Lee Dong-gyu melempar bola<br />dari luar lapangan)</p>
+      <p begin="39515.167s" xml:id="p1289" end="39517.292s">(Song Bo-geun dari Tim Biru<br />gagal merebut bola)</p>
+      <p begin="39519.334s" xml:id="p1290" end="39520.417s">(Bola kembali ke Tim Merah)</p>
+      <p begin="39520.542s" xml:id="p1291" end="39521.709s">- Bagus.<br />- Tangkap bolanya.</p>
+      <p begin="39523.709s" xml:id="p1292" end="39525.834s">(Merebut kesempatan)</p>
+      <p begin="39526.25s" xml:id="p1293" end="39528.167s">(Bong-ki langsung<br />menembakkan bola api)</p>
+      <p begin="39534.0s" xml:id="p1294" end="39537.292s">(Menghindar)</p>
+      <p begin="39537.5s" xml:id="p1295" end="39539.375s">- Bo-geun pandai menghindar.<br />- Ya.</p>
+      <p begin="39539.5s" xml:id="p1296" end="39541.626s">Apa Song Bo-geun<br />selalu sehebat ini?</p>
+      <p begin="39541.751s" xml:id="p1297" end="39543.125s">(Song Bo-geun menunjukkan<br />refleks yang luar biasa)</p>
+      <p begin="39543.25s" xml:id="p1298" end="39544.334s">Formasi bertahan.</p>
+      <p begin="39544.459s" xml:id="p1299" end="39545.5s">- Perhatikan kakimu.<br />- Formasi bertahan.</p>
+      <p begin="39545.626s" xml:id="p1300" end="39547.0s">Bertahan..</p>
+      <p begin="39548.876s" xml:id="p1301" end="39550.042s">Bersiap menyerang.</p>
+      <p begin="39551.167s" xml:id="p1302" end="39552.459s">Kemari sekarang.</p>
+      <p begin="39552.876s" xml:id="p1303" end="39553.876s">Langsung serang.</p>
+      <p begin="39555.292s" xml:id="p1304" end="39556.292s">(Bong-ki menyela serangan itu)</p>
+      <p begin="39556.417s" xml:id="p1305" end="39557.459s">Lee Jin-bong.</p>
+      <p begin="39557.584s" xml:id="p1306" end="39558.667s">Jin-bong, gunakan pemain luar.</p>
+      <p begin="39558.792s" xml:id="p1307" end="39561.083s">Gunakan pemain luar!<br />(Gunakan pemain luar!)</p>
+      <p begin="39561.292s" xml:id="p1308" end="39563.125s">Lempar ke pemain luar!</p>
+      <p begin="39566.834s" xml:id="p1309" end="39568.375s">Semangat!</p>
+      <p begin="39568.5s" xml:id="p1310" end="39571.5s">(Tim Merah kini aktif<br />menggunakan pemain luar)</p>
+      <p begin="39571.626s" xml:id="p1311" end="39572.959s">Bagus!</p>
+      <p begin="39573.709s" xml:id="p1312" end="39574.959s">Bagus!</p>
+      <p begin="39575.876s" xml:id="p1313" end="39577.125s">Bagus!</p>
+      <p begin="39578.542s" xml:id="p1314" end="39580.999s">Jika kena rambut, kalian keluar.</p>
+      <p begin="39581.083s" xml:id="p1315" end="39583.083s">- Serangan pemain luar Tim Merah.<br />- Pemain luar.</p>
+      <p begin="39583.209s" xml:id="p1316" end="39584.334s">Serangan pemain luar.</p>
+      <p begin="39584.459s" xml:id="p1317" end="39585.834s">(Tim Merah terus menyerang)</p>
+      <p begin="39587.459s" xml:id="p1318" end="39588.459s">Bagus.</p>
+      <p begin="39588.584s" xml:id="p1319" end="39589.834s">Kena.</p>
+      <p begin="39590.876s" xml:id="p1320" end="39592.542s">(Apa yang terjadi?)</p>
+      <p begin="39592.834s" xml:id="p1321" end="39596.626s">(Park Jun-woo dalam bahaya)</p>
+      <p begin="39598.25s" xml:id="p1322" end="39599.25s">Baiklah.</p>
+      <p begin="39599.375s" xml:id="p1323" end="39600.375s">(Tangkapan super<br />Oh Sang-young)</p>
+      <p begin="39600.5s" xml:id="p1324" end="39601.626s">(Pertandingan dilanjutkan)</p>
+      <p begin="39601.751s" xml:id="p1325" end="39603.25s">Baik, ayo lanjutkan.</p>
+      <p begin="39604.083s" xml:id="p1326" end="39605.667s">Lempar bolanya.</p>
+      <p begin="39605.792s" xml:id="p1327" end="39607.292s">Jangan terlalu bersemangat.</p>
+      <p begin="39607.834s" xml:id="p1328" end="39610.918s">(Bermain dengan tenang)</p>
+      <p begin="39613.834s" xml:id="p1329" end="39614.834s">(Lemparan Park Jun-woo<br />yang tenang ke pemain luar)</p>
+      <p begin="39614.959s" xml:id="p1330" end="39616.584s">- Bagus.<br />- Kau harus menangkapnya.</p>
+      <p begin="39616.876s" xml:id="p1331" end="39618.584s">(Tim Merah dikejar)</p>
+      <p begin="39618.709s" xml:id="p1332" end="39619.709s">Bagus.</p>
+      <p begin="39620.667s" xml:id="p1333" end="39621.667s">- Bagus.<br />- Awas kaki kalian.</p>
+      <p begin="39621.792s" xml:id="p1334" end="39622.876s">Bagus.</p>
+      <p begin="39622.999s" xml:id="p1335" end="39624.751s">- Awas kaki kalian.<br />- Bagus.</p>
+      <p begin="39624.876s" xml:id="p1336" end="39627.459s">(Lempar bola dan langsung serang)</p>
+      <p begin="39630.25s" xml:id="p1337" end="39631.834s">- Awas kaki kalian.<br />- Bagus.</p>
+      <p begin="39631.959s" xml:id="p1338" end="39634.125s">- Bagus.<br />- Dua orang.</p>
+      <p begin="39634.25s" xml:id="p1339" end="39635.792s">Dia mengenai dua orang.</p>
+      <p begin="39635.918s" xml:id="p1340" end="39638.542s">(Dia langsung melempar bolanya)</p>
+      <p begin="39638.709s" xml:id="p1341" end="39641.375s">(Lee Jin-bong<br />dan Jung Jong-hyun keluar)</p>
+      <p begin="39641.5s" xml:id="p1342" end="39644.042s">Lee Jin-bong<br />dan Jung Jong-hyun keluar.</p>
+      <p begin="39645.751s" xml:id="p1343" end="39648.334s">Angkat bolanya.</p>
+      <p begin="39650.918s" xml:id="p1344" end="39654.209s">(Yoon Jong-jin mengacaukan<br />ritme Tim Biru)</p>
+      <p begin="39654.334s" xml:id="p1345" end="39655.999s">Bagus, Yoon Jong-jin.</p>
+      <p begin="39656.25s" xml:id="p1346" end="39657.375s">Yoon Jong-jin bermain dengan baik.</p>
+      <p begin="39657.5s" xml:id="p1347" end="39658.876s">(Tim Merah melawan)</p>
+      <p begin="39658.999s" xml:id="p1348" end="39660.375s">Bagus.</p>
+      <p begin="39665.292s" xml:id="p1349" end="39666.292s">(Park Jun-woo dari Tim Biru keluar)</p>
+      <p begin="39666.417s" xml:id="p1350" end="39668.459s">Bagus.</p>
+      <p begin="39668.834s" xml:id="p1351" end="39671.0s">(Tim Merah melakukan serangan)</p>
+      <p begin="39671.125s" xml:id="p1352" end="39672.125s">Pelan-pelan saja.</p>
+      <p begin="39672.25s" xml:id="p1353" end="39674.375s">- Mereka pandai menyerang. Tangkap.<br />- Kena.</p>
+      <p begin="39674.5s" xml:id="p1354" end="39675.584s">(Lee Ju-yong<br />dari Tim Biru keluar)</p>
+      <p begin="39675.709s" xml:id="p1355" end="39677.417s">- Serang.<br />- Fokus.</p>
+      <p begin="39677.542s" xml:id="p1356" end="39678.626s">Pelan-pelan saja.</p>
+      <p begin="39678.751s" xml:id="p1357" end="39680.999s">- Bagus.<br />- Lima orang.</p>
+      <p begin="39681.751s" xml:id="p1358" end="39683.834s">- Kini seri, lima lawan lima.<br />- Lima dari setiap tim.</p>
+      <p begin="39683.959s" xml:id="p1359" end="39685.584s">(Lima dari Tim Merah, <br />lima dari Tim Biru)</p>
+      <p begin="39685.709s" xml:id="p1360" end="39686.751s">Perhatikan garisnya.</p>
+      <p begin="39686.876s" xml:id="p1361" end="39688.834s">(Kim Geon dari Tim Biru<br />terus memimpin serangan)</p>
+      <p begin="39689.375s" xml:id="p1362" end="39690.459s">(Mulai membidik Yoon Jong-jin)</p>
+      <p begin="39690.584s" xml:id="p1363" end="39691.792s">Bagus.</p>
+      <p begin="39696.125s" xml:id="p1364" end="39698.751s">(Lee Ju-yong menangkap<br />bola Kim Geon)</p>
+      <p begin="39700.167s" xml:id="p1365" end="39702.083s">(Pukul)</p>
+      <p begin="39702.209s" xml:id="p1366" end="39703.459s">(Sekali lagi)</p>
+      <p begin="39703.918s" xml:id="p1367" end="39705.167s">Sekarang.</p>
+      <p begin="39706.042s" xml:id="p1368" end="39707.042s">Tidak apa-apa.</p>
+      <p begin="39707.167s" xml:id="p1369" end="39709.334s">(Yoon Jong-jin<br />dari Tim Merah keluar)</p>
+      <p begin="39709.542s" xml:id="p1370" end="39710.834s">(Memutar ulang)</p>
+      <p begin="39710.959s" xml:id="p1371" end="39712.375s">Bagus. Sekarang.</p>
+      <p begin="39715.792s" xml:id="p1372" end="39717.5s">(Taktik luar biasa di dalam<br />dan luar lapangan)</p>
+      <p begin="39717.626s" xml:id="p1373" end="39718.834s">Bagus.</p>
+      <p begin="39718.959s" xml:id="p1374" end="39720.459s">Kembali.</p>
+      <p begin="39720.584s" xml:id="p1375" end="39721.876s">(Serangan Tim Biru)</p>
+      <p begin="39721.999s" xml:id="p1376" end="39723.125s">Angkat bolanya.</p>
+      <p begin="39724.209s" xml:id="p1377" end="39726.209s">Lempar.</p>
+      <p begin="39726.334s" xml:id="p1378" end="39729.167s">- Lempar.<br />- Perhatikan garisnya.</p>
+      <p begin="39729.667s" xml:id="p1379" end="39730.876s">(Tim Biru terus melempar bola<br />dengan tenang)</p>
+      <p begin="39730.999s" xml:id="p1380" end="39732.292s">Mundur sedikit lagi.</p>
+      <p begin="39733.834s" xml:id="p1381" end="39736.542s">- Fokus.<br />- Merapat.</p>
+      <p begin="39736.667s" xml:id="p1382" end="39738.125s">Perlahan.</p>
+      <p begin="39738.25s" xml:id="p1383" end="39739.751s">(Serangan Gu Seong-hwi)</p>
+      <p begin="39740.876s" xml:id="p1384" end="39743.542s">(Kim Jeong-woo<br />dari Tim Merah keluar)</p>
+      <p begin="39743.667s" xml:id="p1385" end="39746.292s">- Bagus.<br />- Tiga orang tersisa.</p>
+      <p begin="39746.417s" xml:id="p1386" end="39747.751s">Ayo.</p>
+      <p begin="39749.834s" xml:id="p1387" end="39750.834s">Ada banyak orang di luar lapangan.</p>
+      <p begin="39750.959s" xml:id="p1388" end="39752.334s">(Park Do-hyeon langsung<br />menyerang dari dalam)</p>
+      <p begin="39752.876s" xml:id="p1389" end="39755.918s">Do-hyeon! Serang dari luar!</p>
+      <p begin="39756.0s" xml:id="p1390" end="39758.0s">Pemain yang ada di depan<br />harus fokus.</p>
+      <p begin="39758.375s" xml:id="p1391" end="39760.459s">Jangan lempar dari dalam.<br />Gunakan pemain luar.</p>
+      <p begin="39760.584s" xml:id="p1392" end="39761.918s">Maafkan aku.</p>
+      <p begin="39762.626s" xml:id="p1393" end="39766.999s">(Lemparan Tim Merah<br />meleset berulang kali)</p>
+      <p begin="39769.834s" xml:id="p1394" end="39774.918s">(Apa serangannya akan berubah?)</p>
+      <p begin="39778.834s" xml:id="p1395" end="39780.334s">Bagus.</p>
+      <p begin="39780.459s" xml:id="p1396" end="39781.459s">(Tim Merah 3, Tim Biru 4)</p>
+      <p begin="39781.584s" xml:id="p1397" end="39782.667s">Bagus.</p>
+      <p begin="39782.792s" xml:id="p1398" end="39784.876s">- Tahan.<br />- Tahan.</p>
+      <p begin="39784.999s" xml:id="p1399" end="39788.125s">Seong-hyeon, begitulah cara<br />melempar bola dengan agresif.</p>
+      <p begin="39788.334s" xml:id="p1400" end="39791.334s">(Choi Seong-hyeon menunjukkan<br />sebuah serangan bagus)</p>
+      <p begin="39792.334s" xml:id="p1401" end="39793.417s">Teruskan.</p>
+      <p begin="39793.542s" xml:id="p1402" end="39794.542s">(Pertandingan yang tidak<br />bisa diprediksi)</p>
+      <p begin="39794.959s" xml:id="p1403" end="39796.167s">Tahan.</p>
+      <p begin="39797.834s" xml:id="p1404" end="39798.834s">Langsung serang.</p>
+      <p begin="39798.959s" xml:id="p1405" end="39799.959s">(Tim Biru langsung<br />melakukan serangan balik)</p>
+      <p begin="39800.042s" xml:id="p1406" end="39802.167s">Langsung serang.</p>
+      <p begin="39802.5s" xml:id="p1407" end="39803.5s">Bagus.</p>
+      <p begin="39803.626s" xml:id="p1408" end="39804.999s">Langsung serang.</p>
+      <p begin="39806.125s" xml:id="p1409" end="39807.5s">Bagus.</p>
+      <p begin="39807.626s" xml:id="p1410" end="39809.167s">Kim Sang-wook kena.</p>
+      <p begin="39812.709s" xml:id="p1411" end="39814.417s">Dua pemain tersisa.</p>
+      <p begin="39814.667s" xml:id="p1412" end="39815.959s">Dua pemain.</p>
+      <p begin="39816.042s" xml:id="p1413" end="39817.209s">(Dua lawan empat<br />Tim Merah tinggal dua orang)</p>
+      <p begin="39817.334s" xml:id="p1414" end="39818.584s">- Lempar!<br />- Semangat!</p>
+      <p begin="39819.125s" xml:id="p1415" end="39820.125s">Bola kita.</p>
+      <p begin="39820.25s" xml:id="p1416" end="39821.792s">(Bisakah mereka menanganinya<br />dengan kekurangan jumlah pemain?)</p>
+      <p begin="39822.334s" xml:id="p1417" end="39824.167s">- Serang!<br />- Do-hyeon!</p>
+      <p begin="39829.5s" xml:id="p1418" end="39830.751s">Do-hyeon!</p>
+      <p begin="39834.292s" xml:id="p1419" end="39835.542s">Serang!</p>
+      <p begin="39836.792s" xml:id="p1420" end="39838.167s">(Ke Choi Seong-hyeon lagi)</p>
+      <p begin="39838.292s" xml:id="p1421" end="39839.334s">Serang!</p>
+      <p begin="39840.042s" xml:id="p1422" end="39841.5s">- Serang!<br />- Bagus!</p>
+      <p begin="39841.626s" xml:id="p1423" end="39843.0s">Bola kita.</p>
+      <p begin="39843.375s" xml:id="p1424" end="39844.375s">Fokus.</p>
+      <p begin="39844.5s" xml:id="p1425" end="39845.5s">(Choi Seong-hyeon<br />mengejutkan para pelatih)</p>
+      <p begin="39845.626s" xml:id="p1426" end="39848.375s">Begitulah cara melakukannya.<br />Seperti dia.</p>
+      <p begin="39848.5s" xml:id="p1427" end="39851.876s">(Jagoan lempar bola<br />sesuai dengan julukannya)</p>
+      <p begin="39851.999s" xml:id="p1428" end="39854.918s">(Tim Merah 2, Tim Biru 3)</p>
+      <p begin="39855.042s" xml:id="p1429" end="39858.167s">Fokus. Lihat bolanya.</p>
+      <p begin="39858.292s" xml:id="p1430" end="39859.334s">Baiklah.</p>
+      <p begin="39860.375s" xml:id="p1431" end="39862.999s">Fokus menghindari bola.<br />Kita pasti bisa.</p>
+      <p begin="39863.083s" xml:id="p1432" end="39864.542s">Mari lakukan hingga akhir.</p>
+      <p begin="39864.876s" xml:id="p1433" end="39869.292s">(Dua lawan tiga<br />Hanya tersisa beberapa pemain)</p>
+      <p begin="39869.459s" xml:id="p1434" end="39871.125s">Tapi kita belum tahu.</p>
+      <p begin="39871.334s" xml:id="p1435" end="39873.042s">Lanjutkan.</p>
+      <p begin="39873.167s" xml:id="p1436" end="39874.751s">Hanya perlu mengenai<br />satu pemain lagi.</p>
+      <p begin="39874.876s" xml:id="p1437" end="39876.167s">Mari lakukan.</p>
+      <p begin="39876.375s" xml:id="p1438" end="39878.042s">Ayolah, perhatikan bolanya.</p>
+      <p begin="39878.167s" xml:id="p1439" end="39880.542s">(Tim Biru menyerang)</p>
+      <p begin="39880.709s" xml:id="p1440" end="39882.0s">Tenang, Semuanya.</p>
+      <p begin="39882.125s" xml:id="p1441" end="39883.542s">Ayo mulai.</p>
+      <p begin="39885.167s" xml:id="p1442" end="39886.25s">Perhatikan garisnya!</p>
+      <p begin="39888.083s" xml:id="p1443" end="39889.125s">Perhatikan garisnya!</p>
+      <p begin="39889.25s" xml:id="p1444" end="39890.626s">Terus oper bolanya.</p>
+      <p begin="39890.751s" xml:id="p1445" end="39891.792s">Serang!</p>
+      <p begin="39894.5s" xml:id="p1446" end="39896.209s">(Bagaimana hasilnya?)</p>
+      <p begin="39896.334s" xml:id="p1447" end="39897.417s">Baiklah!</p>
+      <p begin="39899.751s" xml:id="p1448" end="39903.292s">(Park Do-hyeon<br />dari Tim Merah keluar)</p>
+      <p begin="39903.417s" xml:id="p1449" end="39905.042s">Bagus!</p>
+      <p begin="39907.417s" xml:id="p1450" end="39909.292s">(Saat itu..)</p>
+      <p begin="39909.751s" xml:id="p1451" end="39912.459s">(...Kang Cheong-myung lengah)</p>
+      <p begin="39912.584s" xml:id="p1452" end="39914.417s">(Membidik Kang Cheong-myung<br />yang lengah)</p>
+      <p begin="39914.584s" xml:id="p1453" end="39916.334s">- Cepat! Sekarang!<br />- Sekarang!</p>
+      <p begin="39916.459s" xml:id="p1454" end="39920.25s">Tahan!</p>
+      <p begin="39920.375s" xml:id="p1455" end="39921.375s">Sekarang!</p>
+      <p begin="39921.5s" xml:id="p1456" end="39922.959s">Tahan!</p>
+      <p begin="39923.5s" xml:id="p1457" end="39926.25s">(Serangan berhasil)</p>
+      <p begin="39926.542s" xml:id="p1458" end="39928.751s">(Kang Cheong-myung<br />dari Tim Merah keluar)</p>
+      <p begin="39928.918s" xml:id="p1459" end="39931.083s">Kenapa kau tidak fokus<br />di situasi ini?</p>
+      <p begin="39931.918s" xml:id="p1460" end="39934.417s">(Ten-person Elimination,<br />Babak Satu)</p>
+      <p begin="39934.542s" xml:id="p1461" end="39936.042s">(Tim Biru menang)</p>
+      <p begin="39937.209s" xml:id="p1462" end="39941.667s">(Kang Cheong-myung keluar sia-sia)</p>
+      <p begin="39942.584s" xml:id="p1463" end="39947.999s">(Berteriak gembira)</p>
+      <p begin="39950.918s" xml:id="p1464" end="39958.417s">(Tim Merah hancur<br />karena kekalahan yang sia-sia)</p>
+      <p begin="39959.667s" xml:id="p1465" end="39962.375s">(Perasaan campur aduk)</p>
+      <p begin="39962.667s" xml:id="p1466" end="39964.0s">(Ten-person Elimination,<br />Babak Satu)</p>
+      <p begin="39964.125s" xml:id="p1467" end="39967.459s">(Tim Biru menang)</p>
+      <p begin="39967.792s" xml:id="p1468" end="39971.375s">(Hujan deras)</p>
+      <p begin="39971.5s" xml:id="p1469" end="39975.542s">(Malam di dekat laut)</p>
+      <p begin="39976.417s" xml:id="p1470" end="39981.5s">(Para pemain yang menyelesaikan<br />babak satu yang sengit)</p>
+      <p begin="39982.209s" xml:id="p1471" end="39986.584s">(Pemain yang tereliminasi<br />akan segera diumumkan)</p>
+      <p begin="39987.25s" xml:id="p1472" end="39989.626s">Melalui Ten-person Elimination<br />hari ini...</p>
+      <p begin="39989.876s" xml:id="p1473" end="39991.792s">...total sepuluh orang<br />akan dieliminasi.</p>
+      <p begin="39991.918s" xml:id="p1474" end="39997.125s">Tiga orang akan dieliminasi<br />di babak pertama.</p>
+      <p begin="39997.25s" xml:id="p1475" end="40000.167s">(Tiga orang akan dieliminasi<br />di babak pertama)</p>
+      <p begin="40000.959s" xml:id="p1476" end="40003.375s">Babak pertama<br />Ten-person Elimination.</p>
+      <p begin="40003.999s" xml:id="p1477" end="40008.959s">Tim Biru, dipimpin oleh<br />Kim Seung-min, menang</p>
+      <p begin="40009.459s" xml:id="p1478" end="40013.459s">Karena itu, pemain yang dieliminasi<br />akan dipilih dari Tim Merah.</p>
+      <p begin="40014.209s" xml:id="p1479" end="40021.876s">(Tiga pemain Tim Merah<br />akan dieliminasi)</p>
+      <p begin="40022.209s" xml:id="p1480" end="40026.417s">Manajer Kim Byeong-ji akan<br />memanggil pemain yang dieliminasi.</p>
+      <p begin="40026.999s" xml:id="p1481" end="40028.751s">Pemain pertama yang dieliminasi..</p>
+      <p begin="40030.584s" xml:id="p1482" end="40034.834s">(Siapa pemain pertama<br />yang akan dieliminasi?)</p>
+      <p begin="40039.292s" xml:id="p1483" end="40040.999s">Pemain pertama yang dieliminasi...</p>
+      <p begin="40041.083s" xml:id="p1484" end="40042.792s">(Pemain pertama<br />yang dieliminasi..)</p>
+      <p begin="40042.918s" xml:id="p1485" end="40046.375s">...adalah Jeong Tae-pung.</p>
+      <p begin="40046.5s" xml:id="p1486" end="40050.417s">Pemain pertama yang dieliminasi<br />adalah Jeong Tae-pung.</p>
+      <p begin="40052.25s" xml:id="p1487" end="40056.626s">(Pemain pertama yang dieliminasi<br />dari 26 orang, Jeong Tae-pung)</p>
+      <p begin="40063.5s" xml:id="p1488" end="40065.999s">
+        <span tts:fontStyle="italic">Tak kusangka aku jadi orang<br />pertama yang dieliminasi.</span>
+      </p>
+      <p begin="40066.083s" xml:id="p1489" end="40070.042s">
+        <span tts:fontStyle="italic">Itu melukai harga diri<br />dan membuatku kecewa.</span>
+      </p>
+      <p begin="40073.709s" xml:id="p1490" end="40076.375s">
+        <span tts:fontStyle="italic">Aku berusaha melakukan<br />yang terbaik tapi tidak bisa.</span>
+      </p>
+      <p begin="40076.5s" xml:id="p1491" end="40078.876s">
+        <span tts:fontStyle="italic">Hanya ini yang bisa kulakukan.</span>
+      </p>
+      <p begin="40084.542s" xml:id="p1492" end="40085.959s">Tolong umumkan pemain kedua<br />yang dieliminasi.</p>
+      <p begin="40086.042s" xml:id="p1493" end="40087.459s">(Pemain kedua langsung diumumkan)</p>
+      <p begin="40091.792s" xml:id="p1494" end="40095.25s">Sepertinya aku orangnya.<br />Kurasa aku akan dieliminasi.</p>
+      <p begin="40095.375s" xml:id="p1495" end="40096.959s">Lemparanku tidak terlalu<br />sering kena.</p>
+      <p begin="40100.584s" xml:id="p1496" end="40101.959s">Pemain kedua yang dieliminasi...</p>
+      <p begin="40102.125s" xml:id="p1497" end="40104.459s">(Pemain kedua yang dieliminasi..)</p>
+      <p begin="40104.584s" xml:id="p1498" end="40107.209s">...adalah Jeong Seong-hoon.</p>
+      <p begin="40108.459s" xml:id="p1499" end="40112.459s">Pemain kedua yang dieliminasi<br />adalah Jeong Seong-hoon.</p>
+      <p begin="40113.667s" xml:id="p1500" end="40114.709s">Serang!</p>
+      <p begin="40116.125s" xml:id="p1501" end="40117.459s">
+        <span tts:fontStyle="italic">Aku juga bisa melakukannya.</span>
+      </p>
+      <p begin="40117.584s" xml:id="p1502" end="40121.292s">
+        <span tts:fontStyle="italic">Aku ingin tunjukkan bahwa aku<br />juga bisa melakukannya.</span>
+      </p>
+      <p begin="40121.999s" xml:id="p1503" end="40125.292s">
+        <span tts:fontStyle="italic">Tapi aku dieliminasi<br />sebelum bisa membuktikannya.</span>
+      </p>
+      <p begin="40125.417s" xml:id="p1504" end="40126.834s">
+        <span tts:fontStyle="italic">Aku sangat sedih.</span>
+      </p>
+      <p begin="40128.584s" xml:id="p1505" end="40132.167s">Kini, tinggal satu pemain terakhir<br />yang akan dieliminasi.</p>
+      <p begin="40132.292s" xml:id="p1506" end="40133.459s">(Pemain terakhir yang dieliminasi<br />di babak pertama)</p>
+      <p begin="40133.584s" xml:id="p1507" end="40134.834s">Sebutkan namanya.</p>
+      <p begin="40137.042s" xml:id="p1508" end="40138.709s">Pemain ketiga yang dieliminasi...</p>
+      <p begin="40138.918s" xml:id="p1509" end="40145.918s">(Pemain ketiga yang dieliminasi..)</p>
+      <p begin="40147.417s" xml:id="p1510" end="40148.876s">...adalah Jung Jong-hyun.</p>
+      <p begin="40149.042s" xml:id="p1511" end="40150.417s">Jung Jong-hyun.</p>
+      <p begin="40150.542s" xml:id="p1512" end="40153.584s">(Pemain ketiga yang dieliminasi<br />adalah Jung Jong-hyun)</p>
+      <p begin="40153.709s" xml:id="p1513" end="40157.125s">Jujur, aku sudah siap<br />secara mental.</p>
+      <p begin="40157.959s" xml:id="p1514" end="40162.042s">Kepalaku penuh dengan pikiran<br />bahwa aku akan dieliminasi.</p>
+      <p begin="40163.083s" xml:id="p1515" end="40165.459s">Aku seharusnya lebih percaya diri.</p>
+      <p begin="40165.876s" xml:id="p1516" end="40167.626s">Tapi aku terlalu pesimis.</p>
+      <p begin="40168.083s" xml:id="p1517" end="40169.167s">(Ten-person Elimination,<br />Babak Satu)</p>
+      <p begin="40169.292s" xml:id="p1518" end="40170.459s">(Jeong Tae-pung, Jeong Seong-hoon,<br />Jung Jong-hyun)</p>
+      <p begin="40175.834s" xml:id="p1519" end="40177.042s">Apa kita lanjut?</p>
+      <p begin="40177.167s" xml:id="p1520" end="40178.167s">Kau ingin lanjut?</p>
+      <p begin="40178.292s" xml:id="p1521" end="40180.667s">Tidak, kita tidak bisa<br />lanjut sekarang.</p>
+      <p begin="40180.792s" xml:id="p1522" end="40182.209s">(Ten-person Elimination<br />berlanjut di cuaca buruk)</p>
+      <p begin="40182.334s" xml:id="p1523" end="40183.584s">
+        <span tts:fontStyle="italic">Hujannya sangat deras.</span>
+      </p>
+      <p begin="40183.709s" xml:id="p1524" end="40186.042s">
+        <span tts:fontStyle="italic">Tanahnya licin<br />dan banyak variabel.</span>
+      </p>
+      <p begin="40186.167s" xml:id="p1525" end="40187.292s">(Babak final dimulai<br />di tengah hujan)</p>
+      <p begin="40187.417s" xml:id="p1526" end="40188.417s">Tahan!</p>
+      <p begin="40188.542s" xml:id="p1527" end="40189.626s">(Pertandingan sengit<br />bagi tim nasional)</p>
+      <p begin="40189.751s" xml:id="p1528" end="40190.876s">Baiklah.</p>
+      <p begin="40190.999s" xml:id="p1529" end="40192.584s">
+        <span tts:fontStyle="italic">Aku harus tetap fokus<br />dan melakukan yang terbaik.</span>
+      </p>
+      <p begin="40192.709s" xml:id="p1530" end="40194.626s">
+        <span tts:fontStyle="italic">Aku bertekad untuk menang.</span>
+      </p>
+      <p begin="40197.999s" xml:id="p1531" end="40201.999s">Tolong umumkan penyintas terakhir.</p>
+      <p begin="40203.792s" xml:id="p1532" end="40205.292s">Penyintasnya..</p>
+      <p begin="40205.999s" xml:id="p1533" end="40207.876s">(Bagaimana hasil dari<br />Ten-person Elimination?)</p>
+      <p begin="40207.999s" xml:id="p1534" end="40209.999s">Benefit dipertaruhkan<br />dalam prapertandingan ini.</p>
+      <p begin="40210.083s" xml:id="p1535" end="40211.459s">Throwing Match.</p>
+      <p begin="40211.584s" xml:id="p1536" end="40214.375s">Benefitnya adalah hak<br />untuk memilih..</p>
+      <p begin="40214.5s" xml:id="p1537" end="40215.876s">Ini berlebihan.</p>
+      <p begin="40216.709s" xml:id="p1538" end="40219.167s">(Pertandingan dengan mempertaruhkan<br />benefit besar)</p>
+      <p begin="40219.375s" xml:id="p1539" end="40221.0s">(Satu kesalahan<br />akan menyebabkan kegagalan)</p>
+      <p begin="40227.5s" xml:id="p1540" end="40231.125s">Kita akan mulai<br />pertandingan seleksi final.</p>
+      <p begin="40231.999s" xml:id="p1541" end="40234.292s">(Siapa yang akan terpilih bergabung<br />dengan timnas dodgeball?)</p>
+      <p begin="40234.417s" xml:id="p1542" end="40235.999s">Alih Bahasa: MNC Vision</p>
+    </div>
+  </body>
+</tt>

@@ -1,6 +1,6 @@
 // Basic Events
 
-const manifestUri = "https://akm.cdn.intigral-ott.net/VOD/M0004404_T2/M0004404_T2.ism/manifest.mpd";
+const manifestUri = "https://storage.googleapis.com/wvmedia/clear/hevc/tears/tears.mpd";
 
 function initApp() {
   // Install built-in polyfills to patch browser incompatibilities.
@@ -20,12 +20,12 @@ function initApp() {
  const video = document.getElementById('video');
  const player = new shaka.Player(video);
  // Attach player to the window to make it easy to access in the JS console.
- window.player = player;
- window.video =  video;
- player.load(manifestUri);
-
- player.addEventListener('error', (e) => { console.log("err", e) } );
- player.addEventListener('buffering', (e) => { console.log("buffering", e) } );
+//  window.player = player;
+//  window.video =  video;
+ player.load(manifestUri) ;
+ player.addEventListener('error', (e) => { console.log("### err", e) } );
+ player.addEventListener('buffering', (e) => { console.log("### buffering", e) } );
+ 
 }
 
 

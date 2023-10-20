@@ -1,6 +1,8 @@
 // Adavnced
 
-const manifestUri = "https://akm.cdn.intigral-ott.net/Titles/S000854602003/S000854602003.ism/manifest.mpd";
+const manifestUri = "https://storage.googleapis.com/wvmedia/clear/hevc/tears/tears.mpd";
+// const manifestUri = "https://cdn.bitmovin.com/content/assets/sintel/sintel.mpd";
+
 
 function initApp() {
   // Install built-in polyfills to patch browser incompatibilities.
@@ -23,21 +25,6 @@ function initApp() {
  window.player = player;
  window.video =  video;
 
- var servers = {
-  'com.widevine.alpha':"",
-}
-
- const config = {
-  drm: {
-    servers,
-  },
-  streaming: {
-    rebufferingGoal:10,
-  },
-};
-
-player.configure(config);
-
  player.load(manifestUri);
 
  
@@ -49,8 +36,11 @@ player.configure(config);
   // player.setVideoQuality('180_250000')
   // player.getAvailableVideoQualities()
   // player.seek(10)
+  // player.getStats()
 
-  console.log("text tracks", player.getTextTracks() );
+  // player.addTextTrackAsync("https://thepaciellogroup.github.io/AT-browser-tests/video/subtitles-en.ttml", "en", "SUBTITLE", "application/ttml+xml")
+  player.addTextTrackAsync("https://test.create.diagnal.com/subtitles/layout-test.ttml", "en", "SUBTITLE", "application/ttml+xml")
+  console.log("###", player.getTextTracks())
   player.setTextTrackVisibility(true)
   // player.selectTextTrack('en') 
 

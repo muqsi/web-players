@@ -36,7 +36,7 @@ function initApp() {
   },
 };
 
-player.configure(config);
+ player.configure(config);
 
  player.load(manifestUri);
 
@@ -45,6 +45,5 @@ player.configure(config);
 }
 
 
-
-
 document.addEventListener('DOMContentLoaded', initApp);
+
